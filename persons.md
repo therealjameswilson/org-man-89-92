@@ -3979,7 +3979,7 @@ title: Persons
 - St. Clair, Michael, Administrative Counselor, U.S. Embassy in Maseru [1991, 1992]
 - Stebbing, David, Chief, Food Policy Division, Office of Food Policy and Programs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1989]; Economic Counselor, U.S. Embassy in Lima [1990, 1991]
 - Steele, E. James, Consul and Commercial Counselor, U.S. Embassy in Vientiane [1989, 1990]
-- Steers, Howard J.T., Northern and Central Europe Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1991? 1992]; Charge d’Affaires ad interim, U.S. Embassy in Chisinau from March 13, 1992
+- Steers, Howard J.T., Northern and Central Europe Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1991, 1992]; Charge d’Affaires ad interim, U.S. Embassy in Chisinau from March 13, 1992
 - Steinberg, Donald K., Economic Counselor, U.S. Embassy in Pretoria [1991, 1992]
 - Steiner, Steven E., U.S. Representative for the Special Verification Commission from 1988; U.S. Representative to the START Joint Compliance and Inspection Commission from 1991
 - Steinitz, Mark, Director, Office of Terrorism and Narcotics Analysis, Bureau of Intelligence and Research, Department of State [1990, 1991]
@@ -4513,7 +4513,7 @@ title: Persons
 - Wojtasiewicz, James P., Economic and Commercial Counselor, U.S. Embassy in Bandar Seri Begawan [1989-1991]
 - Wolcott, Jackie, Special Assistant to the Secretary of Veterans Affairs (1989, 1990); Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1990-1992]
 - Wolf, John S., Executive Assistant to the Under Secretary of State for Political Affairs until 1989; Principal Deputy Assistant Secretary of State for International Organization Affairs from 1989 until 1991; U.S. Ambassador to Malaysia from October 7, 1992
-- Wolfe, Edward E., Deputy Assistant Secretary for Oceans and Fisheries Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989, 1990] 1992?
+- Wolfe, Edward E., Deputy Assistant Secretary for Oceans and Fisheries Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989, 1990]
 - Wolffe, Alejandro D., Special Assistant, Office of the Under Secretary of State for Political Affairs [1990, 1991]; Political Counselor, U.S. Embassy in Santiago [1991, 1992]
 - Wolfowitz, Paul D., U.S. Ambassador to Indonesia until May 12, 1989; Under Secretary of Defense for Policy from May 15, 1989, until January 19, 1993
 - Wollan, David S., Chief, Defense and Space Division, Bureau of Strategic Programs, Arms Control and Disarmament Agency [1990]; Chief, Defense and Space Division, Bureau of Strategic and Nuclear Affairs, Arms Control and Disarmament Agency [1991, 1992]
