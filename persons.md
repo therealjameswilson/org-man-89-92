@@ -1,0 +1,4604 @@
+---
+layout: default
+title: Persons
+---
+
+# Persons
+
+- Abbott, Lucy K., Consul and Economic and Commercial Counselor, U.S. Consulate at Lubumbashi [1991, 1992]
+- Abdulmalik, April Bint, Personal Assistant, Office of the Counselor, Department of State [1990, 1991]; Staff Assistant, Office of the Counselor, Department of State [1992]
+- Abell, David W., Consul, U.S. Embassy in Harare [1992]
+- Abercrombie-Winstanley, Gina K., Labor Attache and Agricultural Counselor, U.S. Embassy in Cairo [1989-1991]; Special Assistant, Office of the Deputy Secretary of State, from 1992
+- Abington, Edward G., Political Counselor, U.S. Embassy in Islamabad [1989, 1990]; Director, Office of Pakistan, Afghanistan, and Bangladesh Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Islamabad [1992]
+- Abram, Morris B., Chair, National Conference on Soviet Jewry; Chief of Mission, U.S. Mission to the European Office of the United Nations from May 12, 1989, until March 13, 1993
+- Abramowitz, Morton Isaac, Assistant Secretary of State for Intelligence and Research until May 19, 1989; U.S. Ambassador to Turkey from August 1, 1989, until July 25, 1991; Career Ambassador from November 21, 1989
+- Abshire, David M., Director, Center for Strategic and International Studies, Georgetown University
+- Acker, Duane, Assistant to the Administrator for Food and Agriculture, Agency for International Development [1989, 1990]; Administrator, Foreign Agricultural Service, United States Department of Agriculture (1991, 1992)
+- Acosta, Luis E., Economic and Commercial Counselor, U.S. Embassy in Asuncion [1992]
+- Acosta, Manuel F., Administrative Counselor, U.S. Consulate at Rio de Janeiro [1989-1991]; Chief, Career Development (Administrative), Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Adair, Marshall P., Political and Economic Counselor, U.S. Embassy in Rangoon [1989, 1990]; Consul General, U.S. Consulate at Chengdu [1990-1992]; thereafter, The Senior Seminar, Foreign Service Institute, Department of State
+- Adams, Alvin P., Jr., Associate Coordinator for Counter-Terrorism, Department of State, until October 1989; U.S. Ambassador to Haiti from December 8, 1989, until August 1, 1992
+- Adams, Frank R., Economic and Commercial Counselor, U.S. Embassy in Muscat [1991, 1992]
+- Adams, John H., Consul, U.S. Consulate at Hong Kong [1989, 1990]; Deputy Assistant Secretary for Visa Services, Bureau of Consular Affairs, Department of State [1990-1992]
+- Adams, Michael J., Administrative Counselor, U.S. Embassy in Monrovia [1989, 1990]
+- Adams, Richard H., Administrative Counselor, U.S. Consulate at Maracaibo [1991, 1992]; Consul, U.S. Consulate at Chengdu [1992]
+- Adams, Richard J., Consul, U.S. Embassy in Addis Ababa [1989-1992]
+- Adamson, David M., Deputy Director for Arms Control and Strategic Affairs, Office of European and Canadian Affairs, Department of State [1989-1991]; Political Counselor, U.S. Embassy in Lisbon [1991, 1992]
+- Addington, David S., Deputy Assistant to the President for Legislative Affairs until 1989; Special Assistant to the Secretary of Defense and Deputy Secretary of Defense from March 1989 until August 1992; General Counsel of the Department of Defense from August 12, 1992
+- Adelman, Carol C., Assistant Administrator, Bureau for Asia and Near East, Agency for International Development [1989-1991]; Assistant Administrator, Bureau for Europe, Agency for International Development [1992]
+- Ades, Richard R., Commercial Counselor, U.S. Embassy in Santiago [1989]; Commercial Counselor, U.S. Consulate at Sao Paulo [1992]
+- Adler, Martin E., Branch Public Affairs Officer, U.S. Consulate at Recife [1989-1992]
+- Agnew, Elizabeth J., Administrative Counselor, U.S. Delegation for the Negotiation on Conventional Armed Forces in Europe [1990-1992]; Post Management Officer, Office of the Executive Director, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Agnew, Pendleton, Public Affairs Officer, U.S. Consulate at Chiang Mai [1989, 1990]
+- Aguilar, Karen, Public Affairs Officer, U.S. Embassy in Mogadishu [1990, 1991]; Country Affairs Officer, Office of European Affairs, United States Information Agency [1992]
+- Ahern, Donald E., Deputy Chief of Mission and Political and Economic Counselor, U.S. Embassy in Kolonia [1992]
+- Aherne, Richard W., Director, Office of Human Rights, Bureau of Human Rights and Humanitarian Affairs, Department of State [1989]; Chief, Career Development—Political, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1990, 1991]; Management Policy, Bureau of Finance and Management Policy, Department of State [1992]
+- Ahlgren, Charles S., Principal Officer, U.S. Consulate at Chiang Mai [1989]
+- Aiston, Kevin C., Consul, U.S. Embassy in Victoria [1990-1992]
+- Alcantara, Ruben, Administrative Counselor, U.S. Consulate at Kaduna [1989]
+- Alderman, Craig Jr., Deputy Under Secretary of Defense for Policy until October 1989; Deputy Under Secretary of Defense for Security Policy from October 1989 until August 12, 1992
+- Alderman, James Mikel, Administrative Counselor, U.S. Embassy in Abu Dhabi [1990-1992]
+- Alexander, Arthur Albert, Commercial Counselor, U.S. Consulate at Sao Paulo [1989-1992]
+- Alexander, Leslie M., Deputy Director, Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State [1990-1991]; Deputy Chief of Mission, U.S. Embassy in Port-au-Prince [1991, 1992]
+- Alexander, Sarah, Office of Eastern European and Yugoslavian Affairs, Bureau of European and Canadian Affairs, Department of State [1990]; Public Affairs Adviser, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Special Assistant, Office of the Under Secretary of State for Economic and Agricultural Affairs [1992]
+- Alexander, Susan E., Consul, U.S. Consulate at Lahore [1989, 1990]; Consul, U.S. Consulate at Halifax [1990-1992]
+- Alfonsin, Raul, President of Argentina until July 8, 1989
+- Alford, Edward M., Administrative Counselor, U.S. Embassy in Addis Ababa [1991, 1992]
+- Allan, Burton O., Administrative Counselor, U.S. Consulate at Karachi [1989]
+- Allan, L. Stuart, Director, Office of Energy Consumer-Affairs, (International Energy and Resources Policy), Bureau of Economic and Business Affairs, Department of State [1989, 1990]; Economic Counselor, U.S. Embassy in Canberra [1992]
+- Allard, Clarke W., Administrative Counselor, U.S. Embassy in Nassau [1989]
+- Allegrone, Charles, Administrative Counselor, U.S. Embassy in Damascus [1989-1991]
+- Allegrone, Kathleen H. (Kathy), Political Counselor, U.S. Embassy in Damascus [1990, 1991]
+- Allen, Bernadette Mary, CA/VO/C [1989]; Consul, U.S. Consulate at Guangzhou [1991, 1992]
+- Allen, David, Special Assistant, Office of the Under Secretary of State for Security Assistance, Science, and Technology [1989]
+- Allen, Robert, Political/Military Adviser, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Allison, Lynn A., Political Counselor, U.S. Consulate at Lahore [1989-1991]
+- Allyn, Lisa G., Consul, U.S. Embassy in Manama [1992]
+- Almasov, Alexander, Public Affairs Adviser and Director, Office of Public Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]
+- Alois, Peter B., Commercial Counselor, U.S. Embassy in Quito [1989, 1990]; Commercial Counselor, U.S. Consulate at Milan [1990-1992]
+- Aloisi, Jonathan M., Political Counselor, U.S. Consulate at Shanghai [1989-1991]; Office of Indonesia, Malaysia, Brunei, and Singapore Affairs, Bureau of Near Eastern Affairs, Department of State [1992]
+- Alsace, Juan, Staff Assistant, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Amaral, Mary H., Political Counselor, U.S. Consulate at Cebu [1989-1991]; Principal Officer, U.S. Consulate at Cebu [1992]; Diplomatic Reception Rooms, Office of the Under Secretary of State for Management [1992]
+- Amend, Deborah A., Special Assistant to the President for Communications from March 13, 1990
+- Amend, Kurt, Consul, U.S. Embassy in Dushanbe [1992]
+- Amerman, S. Phillips, Political Counselor, U.S. Consulate at Casablanca [1989, 1990]
+- Ames, Marjorie Ann, Consul, U.S. Embassy in Paramaribo [1992]
+- Amrhein, Hans J., Commercial Counselor, U.S. Consulate at Hamburg [1991, 1992]
+- Amselem, W. Lewis, Political Counselor, U.S. Embassy in La Paz [1992]
+- Andersen, Paul J., Consul, U.S. Embassy in Freetown [1992]; Office of Field Support Liaison, Visa Services, Bureau of Consular Affairs, Department of State [1992]
+- Anderson, Betty (Betsy), Office of the Executive Director, Bureau of Consular Affairs, Department of State [1991]; Consul, U.S. Consulate at Geneva [1992]
+- Anderson, Donald M., Consul General, U.S. Consulate at Hong Kong until 1990
+- Anderson, Edward E., Administrative Counselor, U.S. Embassy in Georgetown [1989, 1990]; Administrative and Management Information Services Division, Office of Resource Management, Office of the Deputy Assistant Secretary for Resource Management, Bureau of Diplomatic Security [1992]
+- Anderson, Gary E., Political and Economic Counselor, U.S. Embassy in Victoria [1989-1991]
+- Anderson, G. Norman, U.S. Ambassador to Sudan until October 24, 1989
+- Anderson, L. Desaix (Terry), Deputy Chief of Mission, U.S. Embassy in Tokyo [1989]; Charge d’Affaires ad interim, U.S. Embassy in Tokyo [1989]; Principal Deputy Assistant Secretary of State for East Asian and Pacific Affairs [1990-1992]
+- Anderson, Michael H., Branch Public Affairs Officer, U.S. Consulate at Karachi [1990-1992]
+- Anderson, Ollie P., Jr., Labor Attache, U.S. Embassy in Lagos [1989]; Office of Regional Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Deputy Director, Office of Anglophone and Lusophone West African Affairs, Bureau of African Affairs, Department of State [1992]
+- Andre, John H., II, Office of Philippines Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989, 1990]; Deputy Director, Office of Economic Policy, Bureau of East Asian and Pacific Affairs, Department of State [1990-1992]
+- Andre, Larry E., Administrative Counselor, U.S. Consulate at Kaduna [1990-1992]
+- Andreasen, Steven P., Special Assistant, Bureau of Politico-Military Affairs, Department of State [1990, 1991]; PM [1992]
+- Andreotti, Giulio, Italian Foreign Minister until July 22, 1989; thereafter Prime Minister of Italy
+- Andres, Gary J., Special Assistant to the President for Legislative Affairs from 1989 until 1991; Deputy Assistant to the President for Legislative Affairs from June 11, 1991
+- Andres, Janet S., Political Counselor, U.S. Delegation for the Negotiation on Conventional Armed Forces in Europe [1990-1992]; Charge d’Affaires, U.S. Embassy in Reykjavik [1992]
+- Andrews, Alexander G., Jr., Economic Counselor, U.S. Embassy in Brazzaville [1989-1991]; Political Counselor, U.S. Embassy in Libreville [1991, 1992]
+- Andrews, Duane P., staff member, House Permanent Select Committee on Intelligence; Assistant Secretary of Defense for Command, Control, Communications, and Intelligence from November 20, 1989, until January 20, 1993
+- Andrews, Maria J., Commercial Counselor, U.S. Embassy in Helsinki [1991, 1992]
+- Andrews, Peter J., Economic and Commercial Counselor, U.S. Embassy in Port Louis [1990, 1991]
+- Andrews, Theodore H., Political Counselor, U.S. Embassy in Paramaribo [1989-1991]
+- Andrews, Timothy D., Political Counselor, U.S. Embassy in Yaounde [1990-1992]; Office of Anglophone and Lusophone West African Affairs, Bureau of African Affairs, Department of State [1992]
+- Andricos, G. Michael, Director for Legislative Affairs, National Security Council staff (1991, 1992)
+- Andrus, Donald B., Office of the Coordinator for Population Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990]; Deputy Coordinator for Population Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1991, 1992]
+- Ang, Melvin T., Consul, U.S. Consulate at Shenyang [1989]; acting Economic Counselor, U.S. Embassy in Baghdad [1990]
+- Angevine, Charles, Special Negotiator, Office of Transportation Affairs, Bureau of Economic and Business Affairs, Department of State [1989]; Deputy Assistant Secretary for Transportation Affairs, Bureau of Economic and Business Affairs [1990, 1991]
+- Angulo, Charles B., Administrative Counselor, U.S. Consulate at Jeddah [1989-1992]
+- Antall, Jozef, Prime Minister of Hungary
+- Antippas, Andrew F., Consul General, U.S. Consulate at Montreal [1989-1991]
+- Antokol, Phillip Norman (P. Norman), Center for the Study of Foreign Affairs, Foreign Service Institute, Department of State [1989-1990]; Political Counselor, U.S. Embassy in Port-of-Spain [1991, 1992]
+- Anyaso, Claudia, Cultural Affairs Officer, U.S. Embassy in Port-au-Prince [1989, 1990]; Public Affairs Officer, U.S. Embassy in Niamey [1991, 1992]
+- Aoki, Steven, Special Adviser for Nuclear Affairs, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989]; Special Assistant, Office of the Under Secretary of State for International Security Affairs [1990, 1991]; Director, Office of Proliferation of Nuclear Weapons, Bureau of Politico-Military Affairs, Department of State [1992]
+- Appleton, David A., Office of Strategic and Theater Policy, Bureau of Politico-Military Affairs, Department of State [1990, 1991]; Political and Economic Counselor and Labor Attache, U.S. Embassy in Accra [1991, 1992]
+- Aquino, Corazon C., President of the Philippines until June 30, 1992
+- Arafat, Yasir, Chairman of the Palestine Liberation Organization
+- Aragon, Philix, Public Affairs Officer, U.S. Embassy in Port Louis [1990]; Public Affairs Officer, U.S. Embassy in Harare [1992]; Public Affairs Officer, U.S. Consulate at Durban [1992]
+- Arcement, Ned W., Administrative Counselor, U.S. Embassy in Dakar [1989-1992]
+- Archard, Douglas, Political Counselor, U.S. Embassy in Khartoum [1989]; Consul General, U.S. Consulate at Belfast [1989-1992]
+- Archer, Edward E., Labor Attache, U.S. Embassy in Stockholm [1989]; Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Arcos, Cresencios, Jr., Principal Deputy Assistant Secretary for Central America, Bureau of Inter-American Affairs, Department of State [1989]; U.S. Ambassador to Honduras from January 29, 1990
+- Arens, Moshe, Israeli Foreign Minister until June 1990; Minister of Defense from June 1990 until 1992
+- Arias, Tony, Regional Officer, Eastern Europe and South America, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990, 1991]
+- Arias Sanchez, Oscar, President of Costa Rica until May 8, 1990
+- Arietti, Michael R., Political Counselor, U.S. Embassy in Stockholm [1989]; Director, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990, 1991]
+- Aristide, Jean-Bertrand, President of Haiti from February 7 until September 30, 1991
+- Armacost, Michael H., Under Secretary of State for Political Affairs until March 2, 1989; Secretary of State ad interim from January 20 until January 25, 1989; U.S. Ambassador to Japan from May 15, 1989
+- Armbruster, William B., Public Affairs Officer, U.S. Embassy in Kuwait [1990, 1991]
+- Armitage, Richard L., Assistant Secretary of Defense for International Security Affairs until June 5, 1989; Special Negotiator for the Philippine Military Bases Agreement [1991]; Deputy to the Coordinator for U.S. Assistance to the Newly Independent States, Office of the Deputy Secretary of State, Department of State from 1992
+- Armstrong, Anne, Chair of the President’s Foreign Intelligence Advisory Board (PFIAB)
+- Armstrong, Robert E., Administrative Counselor, U.S. Consulate at Maracaibo [1989]
+- Arness, Craig, Commercial Counselor, U.S. Embassy in Kathmandu [1992]
+- Arness, Rekha, Consul, U.S. Embassy in Kathmandu [1992]
+- Arnett, David L., Public Affairs Officer, U.S. Embassy in Oslo [1989-1991]
+- Arnold, Daryl, U.S. Ambassador to Singapore until July 8, 1989
+- Arnold, Philip, Public Affairs Officer, U.S. Mission to the United Nations [1990-1992]
+- Arnts, Timothy A., Political and Economic Counselor, U.S. Embassy in Zagreb [1991, 1992]
+- Aroian, Lois A., Deputy Principal Officer and Labor Attache, U.S. Consul General at Casablanca [1989, 1990]; Consul, U.S. Embassy in Damascus [1991, 1992]
+- Aronson, Bernard W., Assistant Secretary of State for Inter-American Affairs from June 16, 1989
+- Arthur, Larry, Human Rights Officer, Economic and Security Assistance, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990, 1991]
+- Arvandi, Aspen Aman, Political Counselor, U.S. Consulate at Dubai [1992]
+- Arvis, Constance C., Economic and Commercial Counselor, U.S. Embassy in Lilongwe [1992]
+- Ash, Barbara M., Office of Southern African Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Political, Economic, and Commercial Counselor, U.S. Embassy in Majuro [1991, 1992]
+- Ash, Charles E., Junior Officer Division, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1990]; Administrative Counselor, U.S. Embassy in Majuro [1991, 1992]
+- Ashby, Paul S., Foreign Service Institute, Department of State [1990]; Assignment Division, FCA/EUR, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1991]; Administrative Counselor, U.S. Embassy in Bern [1992]
+- Aspe, Pedro, Secretary of Finance and Public Credit of Mexico
+- Aspin, Leslie, Member, U.S. House of Representatives (D-Wisconsin) and Chair, House Armed Services Committee until January 20, 1993
+- Assad, Lt. Gen. Hafiz al-, President of Syria
+- Atchley, John K., Economic and Commercial Counselor, U.S. Embassy in San Salvador [1989]
+- Atkins, Craig, Commercial Counselor, U.S. Embassy in Bucharest [1992]
+- Atkins, Edmund E., Administrative Counselor, U.S. Consulate at Sao Paulo [1989-1991]
+- Atkins, Marshall F., Chief, Training and Liaison Staff, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1989, 1990]; Deputy Executive Director, Bureau of East Asian and Pacific Affairs, Department of State [1991]; Administrative Counselor, U.S. Embassy in Singapore [1992]
+- Atkins, Trip, Administrative Counselor, U.S. Consulate at Vladivostok [1992]
+- Atwood, Donald J., Jr., Deputy Secretary of Defense from April 24, 1989, until January 20, 1993
+- Aubert, Jack G., Deputy Director, Office of West African Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Deputy Director, Office of Francophone West African Affairs, Bureau of African Affairs, Department of State [1991]; Economic Counselor, U.S. Embassy in Rabat [1991, 1992]
+- Audroue, Kenneth R., Political, Economic, and Commercial Counselor, U.S. Consulate at Naples [1989, 1990]
+- Aung San Suu Kyi, Secretary General of the Burmese National League for Democracy
+- Austin, Kathleen T., Administrative Counselor, U.S. Embassy in N’Djamena [1989]; Administrative Counselor, U.S. Embassy in Tallinn [1992]
+- Austin, Robert D., Administrative Counselor, U.S. Embassy in Moscow [1990, 1991]
+- Austin, Robert J., Commercial and Economic Counselor, U.S. Embassy in Paramaribo [1989]; Administrative Counselor, U.S. Embassy in Brasilia [1992]
+- Austrian, Michael I., Political Counselor, U.S. Embassy in Ankara [1989-1991]; Chief, Southern Europe Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1992]
+- Avard, John W., Commercial Counselor, U.S. Embassy in Dublin [1989-1991]
+- Avenius, Sheldon H., Public Affairs Officer, U.S. Embassy in Santo Domingo [1989-1992]
+- Avizienis, Algis, Political and Economic Counselor, U.S. Consulate at Krakow [1990, 1991]; Political Counselor, U.S. Embassy in Vilnius [1992]
+- Avril, Lt. Gen. Prosper, President of Haiti until March 10, 1990
+- Axelgard, Frederick, Director, Office of Weapons Proliferation Policy, Bureau of Politico-Military Affairs, Department of State [1990-1992]
+- Aycock, Barbara, Administrative Counselor, U.S. Embassy in Belgrade [1992]
+- Ayling, Robert S., Deputy Chief of Mission, U.S. Embassy in N’Djamena [1989, 1990]; Charge d’Affaires, U.S. Embassy in N’Djamena [1990, 1991]; Consul, U.S. Consulate at Frankfurt [1991, 1992]
+- Aylwin, Patrico, President of Chile from March 11, 1990
+- Azcona Hoyo, Jose Simon, President of Honduras until January 27, 1990
+- Aziz, Tariq, Deputy Prime Minister and Foreign Minister of Iraq
+- Baas, Marc A., Charge d’Affaires; Deputy Chief of Mission, U.S. Embassy in Kinshasa until 1991; Charge d’Affaires ad interim, U.S. Embassy in Addis Ababa, from June 1, 1991, until June 1, 1992; U.S. Ambassador to Ethiopia from June 24, 1992
+- Baca, John R., Administrative Counselor, U.S. Embassy in Montevideo [1991, 1992]
+- Bacchus, William I., Senior Legislative Assistant, Office of the Under Secretary of State for Management [1990]
+- Bachmann, F. Brenne, Economic Counselor, U.S. Embassy in Stockholm [1989, 1990]; Economic Counselor, U.S. Embassy in Oslo [1991, 1992]
+- Bacus, Max, Senator (D-Montana)
+- Baden, Barbara J., Consul, U.S. Consulate at Halifax [1989, 1990]; Office of Strategic and Theater Policy, Bureau of Politico-Military Affairs, Department of State [1990, 1991]
+- Bader, Jeffrey A., Deputy Director, Office of Chinese and Mongolian Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989, 1990]; Director, Office of Chinese and Mongolian Affairs, Bureau of East Asian and Pacific Affairs, Department of State; Deputy Chief of Mission, U.S. Embassy in Lusaka [1991, 1992]; Deputy Principal Officer, U.S. Consulate at Hong Kong [1992]
+- Baena Soares, Joao Clemente, Director General, Organization of American States
+- Baer, Lawrence R., Post Management Officer, Office of the Executive Director, Bureau of Near Eastern Affairs, Department of State [1989]; Office of the Executive Director, Bureau of Near Eastern and South Asian Affairs, Department of State [1990]; Administrative Counselor, U.S. Embassy in Kuala Lumpur [1991, 1992]
+- Baez, Eduardo J., Labor Attache, U.S. Embassy in Bogota [1989, 1990]
+- Bagley, Gary G., Administrative Counselor, U.S. Embassy in Port-of-Spain [1990]
+- Bailes, Kenneth N., Deputy or Assistant Advisor, Office of Public Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989-1992]
+- Bailey, Kathleen, Assistant Director, Bureau of Nuclear and Weapons Control, Arms Control and Disarmament Agency
+- Baird, Whitney Young, Secretariat Staff, Executive Secretariat, Department of State [1991]; Consul and Economic and Commercial Counselor, U.S. Embassy in Togo [1992]
+- Bajek, Michael L., Consul and Political Counselor, U.S. Embassy in N’Djamena [1991, 1992]
+- Baker, James Addison, III, Secretary of State from January 25, 1989, until August 23, 1992; White House Chief of Staff from August 24, 1992, until January 20, 1993
+- Baker, Jerry L., Administrative Counselor, U.S. Embassy in Lilongwe [1989]; Administrative Counselor, U.S. Embassy in Dar Es Salaam [1990-1992]
+- Baker, Joni E., Consul, U.S. Embassy in Dar Es Salaam [1990-1992]
+- Bakota, Carlos, Public Affairs Officer, U.S. Embassy in Paramaribo [1989-1991]; Country Officer, Office of American Republics Affairs, United States Information Agency [1992]
+- Balabanis, G. Paul, Economic Counselor, U.S. Embassy in Cairo [1989-1992]; Director, Office of Monetary Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1992]
+- Baldyga, Leonard J., Public Affairs Officer, U.S. Embassy in New Delhi [1989-1991]; Director, Office of European Affairs, United States Information Agency (1992)
+- Ball, David W., Administrative Counselor, U.S. Embassy in Djibouti [1991, 1992]; Administrative Counselor, U.S. Embassy in Ljubljana [1992]
+- Ball, William L., III, Secretary of the Navy until May 15, 1989
+- Ballard, David, Branch Public Affairs Officer, U.S. Consulate at Casablanca [1989]; Public Affairs Officer, U.S. Embassy in Kigali [1989-1991]
+- Baltimore, Richard L. III, Director, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Budapest [1991, 1992]
+- Bandler, Donald K., Political Counselor, U.S. Embassy in Bonn [1992]
+- Banerje, Tapan, Commercial Counselor, U.S. Embassy in Helsinki [1989, 1990]
+- Banks, Nick, Consul, U.S. Embassy in Antananarivo [1990-1992]
+- Banta, S. Ann, Special Assistant to the Secretary of State [1989]
+- Baquet, Charles R., III, Consul General, U.S. Consulate at Cape Town until 1991; U.S. Ambassador to Djibouti from October 10, 1991
+- Barclay, Charles V., Public Affairs Officer, U.S. Embassy in Lilongwe [1991, 1992]
+- Barco Vargas, Virgilio, President of Colombia until August 7, 1990
+- Bargeron, John H., Jr., Deputy Director, Office of Egyptian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]
+- Barillas, Martin, Staff Assistant, Bureau of Politico-Military Affairs, Department of State [1992]
+- Barkell, William H., Consul, U.S. Embassy in Santiago [1989]; Office of International Development Assistance, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1990]; Chief for International Affairs, Office of Freely Associated State Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Barker, Robert B., Assistant to the Secretary of Defense for Atomic Energy until May 29, 1992
+- Barkley, Richard C., U.S. Ambassador to the German Democratic Republic until October 2, 1990; visiting fellow, National Defense University from 1990 until 1991; U.S. Ambassador to Turkey from November 8, 1991
+- Barlerin, Peter H., Economic and Commercial Counselor, U.S. Consulate at Lubumbashi [1989-1991]
+- Barmon, Kathleen W., Labor Attache, U.S. Embassy in Tegucigalpa [1989-1992]; Labor Attache, U.S. Embassy in Bogota [1992]
+- Barmon, Ward D., Economic Counselor, U.S. Embassy in Tegucigalpa [1989-1992]
+- Barnes, Dennis, Commercial Counselor, U.S. Consulate at Guangzhou [1992]
+- Barnes, Douglas M., Branch Public Affairs Officer, U.S. Consulate at Palermo [1989-1991]; Country Affairs Officer, Office of European Affairs, United States Information Agency [1992]
+- Barnes, James Joseph, Office of Bhutan, India, Maldives, Nepal, Sri Lankan Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989, 1990]; Secretariat Staff, Executive Secretariat, Department of State [1990, 1991]; Member, Policy Planning Staff, Department of State [1992]
+- Barnes, Marsha, Chief, Assignment Division FCA/EUR, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1991]
+- Barnes, Shirley E., Management Policy, Bureau of Finance and Management Policy, Department of State [1989, 1990]; Consul General, U.S. Consulate at Strasbourg [1992]
+- Barnes, William J.A., Public Affairs Officer, U.S. Embassy in Wellington [1989-1992]
+- Barnett, Elizabeth, Consul, U.S. Embassy in Budapest [1989]; Visa Services, Bureau of Consular Affairs, Department of State [1990, 1991]; International Affairs Officer, Office of Multilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Barnett, Margaret, Administrative Counselor, U.S. Consulate at Florence [1989, 1990]
+- Baron, Jeffery J., Economic and Commercial Counselor, U.S. Embassy in Saana [1989, 1990]; Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990-1992]
+- Baroody, Judith, Branch Public Affairs Officer, U.S. Consulate at Casablanca [1992]
+- Barr, Alan W., Deputy Principal Officer and Economic Counselor, U.S. Consulate at Milan [1989, 1990]; Deputy Director, Office of Indonesia, Malaysia, Brunei, and Singapore Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Barr, Alfred R., Nicaraguan Coordination Office, Bureau of Inter-American Affairs, Department of State [1989, 1990]; Political Counselor, U.S. Embassy in Tegucigalpa [1991]
+- Barr, William P., Assistant Attorney General, Office of Legal Counsel, Department of Justice from 1989 until 1991; acting Attorney General from June 4, 1991; Attorney General from November 1991
+- Barr, William R., Public Affairs Officer, U.S. Embassy in Panama City [1990, 1991]
+- Barrera, Manuel, Deputy Director, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989, 1990]; Division Chief, Office of Energy-Consumer Affairs, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Division Chief, Office of Energy-Producer Country Affairs, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1992]; Deputy Chief of Mission, U.S. Embassy in Georgetown [1992]
+- Barrett, Dennis P., AID Mission Director, U.S. Embassy in Pretoria, until 1992; U.S. Ambassador to Madagascar from December 3, 1992
+- Barrett, Robert S., IV, U.S. Ambassador to Djibouti until April 18, 1991
+- Barrett, William D., Political Counselor, U.S. Embassy in Libreville [1989-1991]; Political Counselor, U.S. Embassy in Lilongwe [1992]
+- Barrett-Spencer, Barbara J., Office of the Under Secretary of State for Political Affairs [1990-1992]
+- Barrosse, Columbia A., Consul, U.S. Consulate at Edinburgh [1991]
+- Barry, Catherine M., Consul, U.S. Consulate at Jerusalem [1989-1991]; Deputy Director, Office of Mexican Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Barry, Michael T., Consul General, U.S. Consulate at Krakow [1989-1991]
+- Barry, Robert L., Deputy Director, Voice of America until 1989; Special Adviser for East European Assistance, Office of the Deputy Secretary of State from 1989 until 1992; U.S. Ambassador to Indonesia from August 11, 1992
+- Barth, Richard C., Director for International Economic Affairs, National Security Council staff, from May 1990 until October 1992
+- Barthelemy, Beatrice M., Staff Assistant, Bureau of European and Canadian Affairs, Department of State [1990]
+- Bartholomew, Reginald, U.S. Ambassador to Spain until March 12, 1989; Under Secretary of State for Security Assistance, Science and Technology from February 1989 until April 30, 1990; Under Secretary of State for International Security Affairs from April 30, 1990, until June 1992; U.S. Permanent Representative to the North Atlantic Treaty Organization from June 15, 1992
+- Bartlett, William, Consul, U.S. Consulate at Stuttgart [1991, 1992]
+- Bash, John E., Political and Military Counselor, U.S. Liaison Office in Luanda [1992]
+- Bash, Richard M., Economic Counselor, U.S. Embassy in Lagos [1989]; Economic and Commercial Counselor, U.S. Embassy in San Salvador [1989-1991]; Economic Counselor, U.S. Embassy in Jakarta [1991, 1992]
+- Baskey, Nicholas S., Jr., Administrative Counselor, U.S. Embassy in Brussels [1989, 1990]; Administrative Counselor, U.S. Embassy in London [1991, 1992]
+- Basora, Adrian A., Deputy Chief of Mission, Charge d’Affaires, U.S. Embassy in Madrid until 1989; Director for European and Soviet Affairs, National Security Council Staff, from 1989 until 1990; Senior Research Associate, Center for the Study of Foreign Affairs, Foreign Service Institute, Department of State, from 1991 until 1992; U.S. Ambassador to Czechoslovakia (Czech Republic from December 31, 1992) from June 15, 1992
+- Bass, John R., II, Consul, U.S. Consulate at Antwerp [1991, 1992]
+- Bass, Peter E., International Claims and Investment Disputes, Office of the Legal Adviser, Department of State [1990]; Special Assistant, Office of the Under Secretary of State for Political Affairs [1991, 1992]
+- Bassett, Leslie Ann, Labor Attache, U.S. Embassy in San Salvador [1990]; Labor Attache, U.S. Embassy in Tel Aviv [1991, 1992]
+- Bates, David Q., Jr., Assistant to the President and Secretary to the Cabinet from January 21, 1989, until June 1, 1990
+- Battle, Vincent M. Consul, U.S. Embassy in Cairo [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Beirut [1991, 1992]
+- Bauerlein, Robert D., Advisor to the Deputy Secretary of State for Policy and Resources [1989-1992]; Deputy Under Secretary for International Affairs, Department of the Air Force (1992)
+- Baum, Harold, Intergovernmental Affairs, Bureau of Public Affairs, Department of State [1990]; Labor Attache, U.S. Embassy in Panama City [1991, 1992]
+- Bauman, John K., Consul General, U.S. Consulate at Salzburg [1990-1992]
+- Bauso, Philip, Political Counselor, U.S. Consulate at Lubumbashi [1989-1991]; Political Counselor, U.S. Embassy in Niamey [1991, 1992]
+- Bay, Franklin R., Deputy Legal Adviser, Office of the Legal Adviser, Department of State [1992]
+- Bay, Janice F., Director, Office of Aviation Negotiations, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1989]; Economic Counselor, U.S. Embassy in Paris [1991, 1992]
+- Baysden, Alton R., Chief, Current Intelligence Staff, Office of Intelligence Support, Bureau of Intelligence and Research, Department of State [1990, 1991]
+- Bazala, Razvigor, Public Affairs Officer, U.S. Embassy in Kingston [1989-1992]
+- Bazala, Sylvia, Deputy Director, Crisis Management Support Office, Operations Center, Executive Secretariat, Department of State [1989]
+- Beaird, Richard C., Senior Deputy Coordinator and Director for Standards and International Organizations, International Communications and Information Policy, Department of State [1990-1992]
+- Beall, David R., Director, Office of Brazilian Affairs, Bureau of Inter-American Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Panama City [1990-1992]
+- Beardsley, Bruce A., Consul, U.S. Embassy in Manila [1989]; Refugee Coordinator, U.S. Embassy in Bangkok [1990]; Consul, U.S. Embassy in Manila [1991, 1992]
+- Beardsley, Donna Marie, Public Affairs Officer, U.S. Embassy in Bangkok [1990]
+- Beasley, George F., Public Affairs Officer, U.S. Embassy in Stockholm [1989-1992]
+- Becelia, Joseph F., Political Counselor, U.S. Embassy in San Jose [1989]; Director, Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State [1990-1992]
+- Becker, David C., Political, Economic, and Commercial Counselor, U.S. Embassy in Ouagadougou [1989, 1990]; Office of Andean Affairs, Bureau of Inter-American Affairs, Department of State [1990-1992]
+- Becker, Frederick A., Office of Eastern European and Yugoslavian Affairs, Bureau of European and Canadian Affairs, Department of State [1989-1990]; Deputy Director, Office of Central American Affairs, Bureau of Inter-American Affairs [1992]
+- Becker, Jane E., Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs [1990, 1991]; Representative, U.S. Mission to International Organizations in Vienna [1992]
+- Becker, John P., Political Counselor, U.S. Embassy in Tel Aviv [1989, 1990]; Director, Office of Freely Associated State Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]
+- Becker, Robert W., Political Counselor, U.S. Consulate at Munich [1989]; Political Training Coordinator, School of Professional Studies, Foreign Service Institute, Department of State [1990]; Consul General, U.S. Consulate at Leipzig [1991, 1992]
+- Beckham, Robert W., Political and Economic Counselor, U.S. Embassy in Bridgetown [1989, 1990]; Adviser to the Deputy Secretary for Policy and Resources, Office of the Deputy Secretary of State [1992]
+- Beckwith, David C., Assistant to the Vice President and Press Secretary from 1989 until 1992
+- Becskehazy, Peter, Public Affairs Officer, U.S. Embassy in Bern [1991, 1992]
+- Bedichek, Louise, Public Affairs Officer, U.S. Embassy in Conakry [1989-1991]
+- Beecroft, Robert M., Deputy Chief of Mission, U.S. Embassy in Ouagadougou [1989-1991]; Political Adviser, U.S. Mission to the North Atlantic Treaty Organization [1992]
+- Beer, Richard C., Southeast Asia Division, Office of Refugee Processing and Admission, Bureau of Refugee Programs, Department of State [1990, 1991]; Nuclear Risk Reduction Center, Bureau of Politico-Military Affairs, Department of State [1992]
+- Beerman, Sharon F., Commercial Counselor, U.S. Consulate at Shenyang [1992]
+- Beers, Robert Rand, Director, International Programs, National Security Council staff, from March 1989 until May 1990; Deputy Assistant Secretary for Regional Affairs, Bureau of Politico-Military Affairs, Department of State, from 1992
+- Beffel, Edwin L., Consul, U.S. Embassy in Brasilia [1989-1991]; Consul, U.S. Consulate at Tijuana [1992]
+- Behnke, Paul E., Economic Counselor, U.S. Embassy in Nairobi [1989-1991]; Office of Canadian Affairs, Bureau of European and Canadian Affairs, Department of State [1991, 1992]
+- Behrend, Richard W., Economic Counselor, U.S. Embassy in Santiago [1991, 1992]
+- Beik, Janet, Consul and Political, Economic, and Commercial Counselor, U.S. Embassy in Banjul [1990, 1991]; Office of Central African Affairs, Bureau of African Affairs, Department of State [1992]
+- Bell, Charles L., Public Affairs Officer, U.S. Embassy in Lusaka [1989, 1990]; Chief, East Asian and Pacific Branch, Press and Publications Service, Bureau of Policy and Programs, United States Information Agency [1992]
+- Bell, James Patterson, Jr., Deputy Principal Officer, U.S. Consulate at Dhahran [1989]; Political and Economic Counselor, U.S. Consulate at Dhahran [1990]; Deputy Principal Officer, U.S. Consulate at Dhahran [1991]; Charge d’Affaires and Political and Economic Counselor, U.S. Embassy in Bandar Seri Begawan [1992]
+- Bell, Randolph A., Political Counselor, U.S. Embassy in Brussels [1990-1992]
+- Bellamy, William M., Political Counselor, U.S. Embassy in Pretoria [1991, 1992]
+- Bellard, Scott D., Political Counselor, U.S. Consulate at Chengdu [1989]
+- Bellocchi, Natale H., Chairman, American Institute in Taiwan in Washington from 1990
+- Bellows, Michael D., Consul General, U.S. Consulate at Auckland [1990-1992]
+- Belon, Valerie, Consul, U.S. Embassy in Brazzaville [1991, 1992]
+- Bemis, Jonathan, Political and Economic Counselor, U.S. Embassy in Riga [1992]
+- Bemis, Robert, Public Affairs Adviser, U.S. Mission to the North Atlantic Treaty Organization [1991, 1992]
+- Ben Ali, Zine El Abidine, President of Tunisia
+- Bendjedid, Col. Chadli, President of Algeria until January 11, 1992
+- Bendsen, Christian D., Consul, U.S. Consulate at Belfast [1992]
+- Benedict, Lawrence N., Economic Counselor, U.S. Embassy in Islamabad [1989-1992]
+- Benefiel, Michael J., Commercial Counselor, U.S. Consulate at Osaka-Kobe [1989, 1990]
+- Benesch, Anthony, Political and Economic Counselor, U.S. Embassy in Muscat [1989-1991]; Labor Attache, U.S. Embassy in Tunis [1992]
+- Bennett, David C., Deputy Chief of Mission, U.S. Embassy in Nouakchott [1990-1992]
+- Bennett, John D., Political Counselor, U.S. Consulate at Lubumbashi [1989]
+- Bennett, John E., Consul General, U.S. Consulate at Monterrey until 1991; U.S. Ambassador to Equatorial Guinea from September 5, 1991
+- Bennett, William J., Director, Office of National Drug Control Policy from March 13, 1989, until November 1990
+- Bensky, Jonathan M., Commercial Counselor, U.S. Embassy in Kuala Lumpur [1989, 1990]; Commercial Counselor, U.S. Embassy in Manila [1991, 1992]; Commercial Counselor, U.S. Embassy in New Delhi [1992]
+- Benson, James H., Southern Europe Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1990]; Labor Attache, U.S. Embassy in Quito [1992]
+- Benson, Richard, Commercial Counselor, U.S. Embassy in Nairobi [1989-1992]
+- Benson, Ross E., Principal Officer, U.S. Consulate at Barranquilla [1989-1991]
+- Bentley, Robert N., Economic and Commercial Counselor, U.S. Consulate at Lubumbashi [1989]; Political and Economic Counselor, U.S. Embassy in Dar Es Salaam [1990-1992]
+- Bentley-Anderson, Beryl, International Economist, Economic Policy Staff, Bureau of African Affairs, Department of State [1992]
+- Benton, Jonathan S., Labor Attache, U.S. Embassy in Oslo [1989-1991]
+- Bentsen, Lloyd, Senator (D-Texas); Democratic vice presidential nominee in 1988
+- Benzinger, Robert A., Political Counselor, U.S. Embassy in Suva [1989, 1990]; Labor Attache, U.S. Embassy in Helsinki [1992]
+- Berck, Kathryn S.R., Consul, U.S. Consulate at Calcutta [1990-1992]
+- Bereuter, Doug, member, U.S. House of Representatives (R-Nebraska)
+- Berg, James A., Director, Office of Freely Associated States Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]; Executive Vice President, Overseas Private Investment Corporation
+- Berg, Marshall, Public Affairs Adviser, U.S. Embassy in Jakarta [1989]
+- Berger, Arthur S., Public Affairs Adviser, Bureau of Near Eastern and South Asian Affairs, Department of State [1989]; Public Affairs Officer, U.S. Embassy in The Hague [1991, 1992]
+- Bergquist, Kenneth, Associate Coordinator, Office of the Coordinator for Counter-Terrorism, Department of State [1990, 1991]; Office of Management Systems and Programs, Management Policy, Bureau of Finance and Management Policy, Department of State [1992]
+- Berisha, Sali, President of Albania
+- Bernhardt, John Peter A. (J. Peter), Deputy Director, Office of Ocean Law and Policy, (Oceans and Fisheries Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989-1992]
+- Bernier, C. Edward, (Charles E.), Public Affairs Officer, U.S. Embassy in Algiers [1989, 1990]; Deputy Director, Office of North African, Near Eastern, and South Asian Affairs, United States Information Agency (1991); Public Affairs Officer, U.S. Embassy in Riyadh [1992]
+- Bernier-Toth, Michelle, Consul, U.S. Embassy in Doha [1989-1991]; Office of Northern Gulf Affairs (Iran-Iraq Affairs), Bureau of Near Eastern Affairs, Department of State [1992]
+- Bernthal, Frederick M., Assistant Secretary of State for Oceans and International Environmental and Science Affairs until March 16, 1990; Deputy Director of the National Science Foundation from March 1990
+- Berntsen, John R., Political and Economic Counselor, U.S. Embassy in Accra [1989]; Labor Attache and Political and Economic Counselor, U.S. Embassy in Accra [1990, 1991]
+- Berry, Ann R., Economic Counselor, U.S. Embassy in London [1990-1992]
+- Berry, Douglas M., Staff Assistant, Bureau of Consular Affairs, Department of State [1992]
+- Berry, Gregory L., Labor Attache, U.S. Embassy in La Paz [1989, 1990]
+- Berry, John F., Public Affairs Officer, U.S. Embassy in Doha [1991, 1992]
+- Berry, Sheila, Consul, U.S. Consulate at Poznan [1990]; Office of United Nations Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Berry, Steven K., Principal Deputy Assistant Secretary of State for Legislative Affairs [1990, 1991]; acting Assistant Secretary of State for Legislative Affairs [1992]
+- Berryman, Clyde P., Political and Military Counselor, U.S. Embassy in Reykjavik [1989]
+- Berube, Elizabeth J., Consul, U.S. Embassy in Oslo [1989-1992]
+- Berumen, Mark Joseph, Special Assistant, Bureau of Intelligence and Research, Department of State [1992]
+- Besom, Donald G., Public Affairs Officer, U.S. Embassy in Stockholm [1992]
+- Bessmertnykh, Alexander, Soviet Ambassador to the United States from May 1990 until January 15, 1991; Soviet Foreign Minister from January 15, 1991, until August 23, 1991
+- Betcher, Michael, Branch Public Affairs Officer, U.S. Consulate at Vancouver [1991, 1992]
+- Betti, John A., Under Secretary of Defense (Acquisitions) from August 11, 1989, until December 31, 1990
+- Bezner, Mark J., Consul, U.S. Consulate at Sapporo [1989, 1990]
+- Bhutto, Benazir, Prime Minister of Pakistan and leader of Pakistan People’s Party
+- Biddick, Thomas, Chief, Asian/African Division, Office of Program Management, Bureau of International Narcotics Matters, Department of State [1992]
+- Biden, Joseph R., Jr., Senator (D-Delaware); Chair, Senate Judiciary Committee
+- Biedlingmaier, Mark J., Special Assistant and Delegation Liaison, Delegation to the Negotiations on Nuclear and Space Arms [1990, 1991]
+- Bielecki, Jan Krzysztof, Prime Minister of Poland
+- Bierman, Everett E., U.S. Ambassador to Papua New Guinea until October 30, 1989
+- Bigelow, Stanton R., Administrative Counselor, U.S. Embassy in Lusaka [1989]
+- Bigler, Gene E., Public Affairs Officer, U.S. Interests Section in Havana [1992]
+- Bigus, James R., Staff Assistant to the Secretary of State [1990, 1991]
+- Bildt, Carl, Prime Minister of Sweden from October 4, 1991
+- Billo, Charles G., Economic Counselor, U.S. Embassy in Vienna [1989, 1990]
+- Bindenagel, James D. (JD), Deputy Chief of Mission, U.S. Embassy in Berlin [1989, 1990]; Deputy Director, Office of Canadian Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Chief, Developing Countries and Trade Organization Division, Office of Bilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1991]; Director, Office of Central European Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Binns, James H., Jr., Principal Deputy Assistant Secretary of Defense for International Security Policy [1989]
+- Birdsall, Paul D., Consul, U.S. Embassy in Lusaka [1989, 1990]; Office of African Refugee Assistance, Refugee Programs, Department of State [1992]
+- Birsner, Edward P., Consul, U.S. Consulate at Ponta Delgada [1991, 1992]
+- Bishop, Allen R., Administrative Counselor, U.S. Embassy in Port Moresby [1992]
+- Bishop, Clyde, Consul, U.S. Consulate at Rio de Janeiro [1989-1991]; Fraud Protection Programs, Bureau of Consular Affairs, Department of State [1992]
+- Bishop, James K., U.S. Ambassador to Liberia until March 31, 1990; U.S. Ambassador to Somalia from September 19, 1990, until January 5, 1991; Deputy Assistant Secretary of State for Human Rights and Humanitarian Affairs [1991]; Principal Deputy Assistant Secretary of State for Human Rights and Humanitarian Affairs [1992]
+- Bishop, Robyn M., Consul, U.S. Embassy in Lagos [1991, 1992]
+- Bissell, Richard E., Assistant Administrator, Bureau for Program and Policy Coordination, Agency for International Development until 1990; Assistant Administrator, Bureau for Science and Technology, Agency for International Development [1990, 1991]; Assistant Administrator, Bureau for Research and Development, Agency for International Development [1992]
+- Biya, Paul, President of Cameroon
+- Black, Dorothy J., Economic Counselor, U.S. Embassy in Kingston [1989, 1990]
+- Black, H. Clay, Economic Counselor, U.S. Embassy in Athens [1989]
+- Black, Shirley Temple, U.S. Ambassador to Czechoslovakia from August 23, 1989, until July 12, 1992
+- Blackburn, Lawrence S., Administrative Counselor, U.S. Embassy in Kuwait [1989]
+- Blacken, John Dale, U.S. Ambassador to Guinea-Bissau until September 29, 1989
+- Blackford, Peggy, Executive Director, Bureau of Politico-Military Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Bamako [1992]
+- Blackton, John, Deputy Assistant Administrator, Bureau for Asia, Near East, and Europe, Agency for International Development [1990, 1991]; Deputy Director, Directorate for Policy, Agency for International Development [1992]
+- Blackwill, Robert D., professor, John F. Kennedy School of Government, Harvard University, until 1989; Special Assistant to the President for National Security Affairs and Senior Director for European and Soviet Affairs, National Security Council Staff, from March 13, 1989, until May 1990
+- Blair, Donna M., Regional Political and Multilateral Affairs Officer, Office of Regional Affairs, Bureau of African Affairs, Department of State [1990-1991]; Consul, U.S. Embassy in Accra [1991, 1992]
+- Blais, Maurice S., Deputy Team Leader, Office of Inspections, Office of the Inspector General, Department of State [1990, 1991, 1992]
+- Blake, Isabella D., Consul, U.S. Consulate at Hermosillo [1991]
+- Blake, Robert O., Jr., Operations Staff, Executive Secretariat, Department of State [1990]; Office of Algeria, Libya, Morocco, Tunisian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Special Assistant, Office of the Under Secretary of State for Political Affairs [1992]
+- Blake, Steven L., Political and Economic Counselor, U.S. Consulate at Krakow [1989]
+- Blakeburn, Paul H., Economic Counselor, U.S. Embassy in Kuala Lumpur [1989, 1990]; Director, Office of Bilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1990-1992]; Director, Office of Ecology, Health, and Conservation, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Blakeman, Earle C., III, Special Assistant to the Special Envoy for Central America, Department of State [1989]; Special Assistant, Office of the Under Secretary of State for Political Affairs [1990, 1991]
+- Blakemore, David L., Deputy Chief of Mission, U.S. Embassy in Lagos [1989, 1990]; Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1990]; Deputy Team Leader, Office of Inspections, Office of the Inspector General, Department of State [1990-1992]; Chief, Examinations Division and Staff Director, Board of Examiners of the Foreign Service, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1992]
+- Blakeslee, Katherine, Associate Assistant Administrator, Office of Policy Development and Program Review, Bureau for Program and Policy Coordination, Agency for International Development [1990]; Senior Policy Advisor, Bureau for Science and Technology, Agency for International Development [1991]
+- Blanco Mendoza, Herminio Alonzo, Mexican Vice-Minister for International Trade, Ministry of Trade and Industry until 1990; Mexican Chief Negotiator of the North American Free Trade Agreement from 1990
+- Blandford, James E., Special Assistant to the Assistant Secretary for Consular Affairs [1990-1992]; Consul General, U.S. Consulate at Thessaloniki [1992]
+- Blaney, John W., Economic Counselor, U.S. Embassy in Moscow [1990, 1991]; Adjunct Chairperson, Central Eurasian Studies, School of Area Studies, Foreign Service Institute, Department of State [1992]
+- Blanton, J. Taylor, Consul, U.S. Embassy in Managua [1991, 1992]
+- Blaschke, Brent E., Principal Officer, U.S. Consulate at Porto Alegre [1992]
+- Bleakley, Kenneth W., Deputy Assistant Secretary for International Assistance and Relief, Refugee Programs, Department of State [1989]; Senior Deputy for Trade and Development, International Communications and Information Policy, Department of State [1990]; Senior Deputy Coordinator, International Communications and Information Policy, Department of State [1991]
+- Blee, Richard E., Political Counselor, U.S. Embassy in Niamey [1989-1991]
+- Bligh, John W., Jr., Commercial Counselor, U.S. Embassy in Bonn [1989-1992]
+- Bloch, David, Grievance Staff, Bureau of Personnel, Department of State [1990, 1991]; Director, Office of Public and Diplomatic Liaison, Office of the Deputy Assistant Secretary for Visa Services, Bureau of Consular Affairs, Department of State [1992]
+- Bloch, Felix S., Director, Office of Regional Political-Economic Affairs, Bureau of European and Canadian Affairs, Department of State [1989]
+- Bloch, Julia Chang, Assistant Administrator, Asia and Near East Bureau, Agency for International Development; U.S. Ambassador to Nepal from September 22, 1989
+- Blocker, Merrie D., Branch Public Affairs Officer, U.S. Consulate at Porto Alegre [1989-1991]
+- Blodgett, John S., Director, Office of International Economic Policy, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1990, 1991]
+- Blohm, Robert, Management Policy, Bureau of Finance and Management Policy, Department of State [1990]; Coordinator, Orientation Division, School of Professional Studies, Foreign Service Institute, Department of State [1990]; Coordinator, A-100 Class, School of Professional Studies, Foreign Service Institute, Department of State [1991]; Deputy Director, Office of Ecology, Health, and Conservation, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Bloomfield, Lincoln C., Jr., Principal Deputy Assistant Secretary of Defense for International Security Affairs [1989]; Bureau of East Asian and Pacific Affairs, Department of State [1991]; Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs [1992]
+- Blow, James L., Commercial Counselor, U.S. Embassy in Ottawa [1989]; Commercial Counselor, U.S. Embassy in London [1990, 1991]; Commercial Counselor, U.S. Mission to the European Communities [1992]
+- Bluhm, Nathan M., Consul and Administrative Counselor, U.S. Embassy in Malabo [1991, 1992]; Current Intelligence Staff, Office of Intelligence Support, Bureau of Intelligence and Research, Department of State [1992]
+- Blumenthal, Gary R., Chief of Staff to the Secretary of Agriculture from January 1990 until June 1991; also Executive Assistant to the Secretary of Agriculture from May until December 1990; Deputy Assistant to the President for Cabinet Liaison and Special Assistant to the President for Agricultural Trade and Food Assistance from June 7, 1991
+- Boam, Thomas L., Commercial Counselor, U.S. Consulate at Frankfurt [1989, 1990]; Commercial Counselor, U.S. Mission at Berlin [1991]; Commercial Counselor, U.S. Consulate at Hong Kong [1991, 1992]
+- Boardman, John S., Political Counselor, U.S. Embassy in Managua [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Bamako [1991, 1992]
+- Bock, J. Richard, Consul General, U.S. Consulate at Melbourne [1989-1992]
+- Bocskor, David P., Consul, U.S. Consulate at Vancouver [1989, 1990]
+- Bodde, Peter W., Administrative Counselor, U.S. Embassy in Sofia [1989, 1990]; Bureau of Diplomatic Security, Department of State [1990]; Administrative Counselor, U.S. Embassy in Copenhagen [1991, 1992]
+- Bodde, William, Jr., Deputy Assistant Secretary of State for European and Canadian Affairs until 1989; Dean, Senior Seminar, Foreign Service Institute, Department of State, from 1989 until 1990; U.S. Ambassador to the Marshall Islands from August 6, 1990, until June 28, 1992; Senior Adviser for Policy Planning, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]; Executive Director, Asia Pacific Economic Cooperation Forum
+- Bodden, Robert C., Commercial Counselor, U.S. Embassy in Bangkok [1989]
+- Bodeen, Virgil, Public Affairs Officer, U.S. Embassy in Conakry [1991, 1992]
+- Bodine, Ann, Office of Lebanon, Jordan, Syria Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Bodine, Barbara K., Deputy Chief of Mission, U.S. Embassy in Kuwait [1989-1991]; Associate Coordinator for Counter-Terrorism, Department of State [1992]
+- Boecker, Antoinette R., Consul, U.S. Consulate at Pusan [1992]
+- Boehm, Richard W., U.S. Ambassador to Oman until October 31, 1992
+- Boehme, Robert W., Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1989-1990]; Economic Counselor, U.S. Embassy in Helsinki [1991, 1992]
+- Boerigter, David L., Consul, U.S. Consulate at Montreal [1989, 1990]
+- Boerner, Alfred, Public Affairs Officer, U.S. Embassy in Kinshasa [1989]
+- Boggs, Robert, Jr., Office of Pakistan, Afghanistan, and Bangladesh Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989-1990]; Political Counselor, U.S. Embassy in Colombo [1991, 1992]
+- Bogosian, Richard Wayne, Director, Office of Monetary Affairs, International Finance and Development, Bureau of Economic and Business Affairs, Department of State; U.S. Ambassador to Chad from August 4, 1990
+- Bohlen, Avis T., Director, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1989]; Deputy Assistant Secretary of State for European and Canadian Affairs [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Paris from 1991
+- Bohlen, E.U. Curtis (Buff), Senior Vice President, World Wildlife Fund; Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs from June 27, 1990, until October 31, 1992
+- Boland, Denise, South America Division, Office of Analysis for Inter-American Republics, Bureau of Intelligence and Research, Department of State [1991, 1992]; Consul, U.S. Embassy in Asuncion [1992]
+- Bolger, James, Prime Minister of New Zealand from November 2, 1990
+- Bolling, Alexander P., Economic and Commercial Counselor, U.S. Embassy in N’Djamena [1991, 1992]
+- Bollinger, Walter G., Deputy Assistant Administrator, Bureau for Africa, Agency for International Development [1989, 1990] also acting Assistant Administrator, Bureau for Africa, Agency for International Development [1990]
+- Bollman, Elizabeth B., Consul General, U.S. Consulate at Hamburg [1991, 1992]
+- Bolten, Joshua B., General Counsel, Office of the U.S. Trade Representative; Deputy Assistant to the President and Director, Office of Legislative Affairs from March 18, 1992
+- Bolton, Deborah A., Office of the Coordinator for Counter-Terrorism, Department of State [1989-1990]; Consul, U.S. Interests Section in Havana [1991, 1992]
+- Bolton, John Robert, Assistant Attorney General, Civil Division, Department of Justice, until 1989; Assistant Secretary of State for International Organization Affairs from May 22, 1989
+- Boluda, Gladys, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1989-1991]; Chief, Visa Unit, Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Bond, Clifford G., Political Counselor, U.S. Embassy in Prague [1989, 1990]; Special Assistant to the Special Adviser for Eastern European Assistance, Office of the Deputy Secretary of State [1990, 1991]
+- Bond, James B., Southern Europe Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1989-1990]; Office of Southern African Affairs, Bureau of African Affairs, Department of State [1990-1992]; Political Counselor, U.S. Consulate at Istanbul [1992]
+- Bond, Laurance W., Deputy Assistant Administrator, Bureau for Program and Policy Coordination, Agency for International Development [1991]
+- Bond, Michele T., Consul, U.S. Embassy in Prague [1989]; Office of Analysis for Commonwealth of Independent States and Eastern Europe, Bureau of Intelligence and Research, Department of State [1992]
+- Boneparth, Ellen, Labor Attache, U.S. Embassy in Athens [1989]; Northern and Central Europe and Canada Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1992]
+- Boneski, Raymond A., Post Management Officer, Office of the Executive Director, Bureau of African Affairs, Department of State [1989]; Administrative Counselor, U.S. Embassy in Lisbon [1992]
+- Bonior, David E., Member, U.S. House of Representatives (D-Michigan)
+- Boone, Rudolph F., Office of Press Relations, Bureau of Public Affairs, Department of State [1988]; Consul, U.S. Embassy in Belize City [1989-1992]
+- Boorstein, Michael A., Administrative Counselor, U.S. Embassy in Caracas [1989, 1990]
+- Booth, Anita S., Administrative Counselor, U.S. Embassy in Bucharest [1989, 1990]; Office of Resources Management and Organization Analysis, Bureau of Personnel, Department of State [1992]
+- Booth, Donald E., Economic Counselor, U.S. Embassy in Bucharest [1989-1991]; Developed Country Trade Division, Office of Bilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Booth, Richard T., Labor Attache, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1989-1992]
+- Boren, David L., Senator (D-Oklahoma)
+- Borg, Anna, Economic Adviser, Office of the Under Secretary of State for Economic Affairs [1989]; Deputy Director, Office of Pakistan, Afghanistan, and Bangladesh Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Special Assistant, Office of the Deputy Secretary of State [1992]
+- Borg, Parker W., Deputy and Acting Coordinator, Bureau of International Communications and Information Policy, Department of State until 1989; Principal Deputy Assistant Secretary of State for International Narcotics Matters from 1989 until 1991
+- Borich, Joseph J., Deputy Chief of Mission, U.S. Embassy in Mogadishu [1989-1991]; Taiwan Coordination Adviser, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Boright, John P., acting Deputy Assistant Secretary for Science and Technology Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990, 1991]; thereafter Deputy Assistant Secretary
+- Borja Cevallos, Rodrigo, President of Ecuador until August 10, 1992
+- Boschwitz, Rudolph E. (Rudy), Senator (IR-Minnesota) until January 3, 1991
+- Bosen, Rebecca, Personal Assistant to the Inspector General, Department of State [1990]
+- Boshoven, Nancy, Deputy Director, Office of Thailand and Burma Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989-1991]
+- Bosken, Jerome J., Science Attache, U.S. Embassy in Seoul [1989]; Deputy Director, Office of Nuclear Technology and Safeguards, (Nuclear Energy and Energy Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990, 1991]; Director, Office of Advanced Technology, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Boskin, Michael J., Chair, Council of Economic Advisers, from March 1989 until October 1992
+- Bostock, Francis H., Jr., Consul and Economic and Commercial Counselor, U.S. Embassy in Port Louis [1989, 1990]
+- Boswell, Eric J., Administrative Counselor, U.S. Embassy in Ottawa [1989]
+- Botha, Pieter Willem, President of South Africa until August 1989
+- Botha, Roelof F., South African Foreign Minister
+- Botti, Anita L., Director, Office of Reception and Placement, Refugee Programs, Department of State [1990-1992]
+- Boucher, Richard A., Deputy Director for Political Affairs, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1989]; Deputy Spokesperson, Bureau of Public Affairs, Department of State, from March 27, 1989; acting Assistant Secretary of State for Public Affairs and Spokesperson during 1992
+- Boulware, Mark M., Administrative Counselor, U.S. Embassy in Banjul [1989]; Administrative Counselor, U.S. Embassy in Gaborone [1991, 1992]
+- Boutin, George T., Economic Counselor, U.S. Embassy in The Hague [1990-1992]; Economic Counselor, U.S. Embassy in Oslo [1992]
+- Boutros-Ghali, Boutros, United Nations Secretary General
+- Bova, Michele M., Legislative Management Officer, Bureau of Legislative Affairs, Department of State [1989]
+- Bovaird, Thomas M., Administrative Counselor, U.S. Embassy in N’Djamena [1991, 1992]
+- Bovetti, Keith R., Commercial Counselor, U.S. Embassy in Tokyo [1989-1991]; Commercial Counselor, U.S. Embassy in Rome [1992]
+- Bowers, Charles R., Executive Assistant to the Under Secretary of State for Management [1990, 1991]; U.S. Ambassador to Bolivia from August 23, 1991
+- Bowman, Francine L., Administrative Counselor, U.S. Embassy in Asuncion [1989, 1990]
+- Bowman, John K., Consul General, U.S. Consulate at Salzburg [1989]
+- Boyatt, Thomas D., President, Association for Diplomatic Studies, Foreign Service Institute, Department of State [1989-1991]
+- Boyce, Ralph L., Jr., Political Counselor, U.S. Embassy in Bangkok [1989-1992]; Deputy Chief of Mission, U.S. Embassy in Singapore [1992]
+- Boyd, Theodore A., Examinations Division, Office of Recruitment, Examination and Employment, Bureau of Personnel, Department of State [1991]; Public Affairs Officer, U.S. Embassy in Lome [1992]
+- Boyer, Neil A., Officer-in-Charge of Health and Transportation Programs, Office of Technical Specialized Agencies, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1989-1992]
+- Boyle, John A., Consul General, U.S. Consulate at Milan [1989, 1990]; Director, Office of Development Finance, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990-1992]
+- Boyls, R. Wayne, Political, Economic, and Commercial Counselor, U.S. Embassy in Vientiane [1990-1992]
+- Boyse, Matthew, Labor Attache, U.S. Embassy in Moscow [1991, 1992]
+- Bozek, E. Scott, Commercial Counselor, U.S. Consulate at Istanbul [1989-1991]; Commercial Counselor, U.S. Embassy in Oslo [1991, 1992]
+- Bradford, Brad L., Political and Military Counselor, U.S. Consulate at Dhahran [1992]
+- Bradford, Gregory H., Deputy Director, Office of Regional Affairs, Bureau of African Affairs, Department of State [1989-1991]
+- Bradford, Jean D., Consul, U.S. Embassy in Beirut [1989-1991]; Consul, U.S. Embassy in Amman [1991, 1992]
+- Bradford, John Cook, Deputy Director, Office of Regional Affairs, Bureau of African Affairs, Department of State [1991]
+- Bradley, Bill, Senator (D-New Jersey)
+- Bradtke, Robert A., Legislative Management Officer, Bureau of Legislative Affairs, Department of State [1990, 1991]; Deputy Assistant Secretary of State for Legislative Affairs [1992]
+- Brady, John L., Science Attache, U.S. Embassy in Ankara [1992]
+- Brady, Nicholas Frederick, Secretary of the Treasury until January 17, 1993
+- Brady, Nyle C., Senior Assistant Administrator, Bureau for Science and Technology, Agency for International Development [1989]
+- Brady, Phillip D., Deputy Counsel to the President until 1989; Deputy Assistant to the President and Director, Office of Cabinet Affairs from January 31, 1989; General Counsel, Department of Transportation from 1989 until 1991; Assistant to the President and Staff Secretary from January 14, 1991
+- Brady, Roberto, Administrative Counselor, U.S. Consulate at Guangzhou [1989, 1990]
+- Braibanti, Ralph L., Office of Advanced Technology, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989-1991]; Deputy Director, Office of Advanced Technology, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Brajevich, Nikki, Commercial Counselor, U.S. Embassy in Brazzaville [1989]; Consul, U.S. Consulate at Durban [1990]
+- Brakel, Willem H., Consul and Economic and Commercial Counselor, U.S. Embassy in Bangui [1989]; Economic and Commercial Studies Division, School of Professional Studies and Academic Affairs, Foreign Service Institute, Department of State [1992]
+- Bramante, A. Donald, Consul General, U.S. Consulate at Thessaloniki [1989]; Management Policy, Bureau of Finance and Management Policy, Department of State [1990]; Charge d’Affaires ad interim, U.S. Embassy in Banjul from January 1 until December 1, 1990; Consul General, U.S. Consulate at Rio de Janeiro [1992]
+- Brandt, Mary Rose, Consul, U.S. Embassy in Berlin [1989, 1990]; Visa Services, Bureau of Consular Affairs, Department of State [1991]
+- Brattain, Steven M., Energy/Technology Adviser, Office of Regional Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989]; Economic and Commercial Counselor, U.S. Embassy in Manama [1990-1992]
+- Braum, Donald E., Political Counselor, U.S. Embassy in Nicosia [1991, 1992]
+- Braun, Bertram D., Consul, U.S. Consulate at Oporto [1989-1991]; Economic and Commercial Counselor, U.S. Embassy in Belize City [1992]
+- Braxton, Michael L., Public Affairs Officer, U.S. Embassy in Dar es Salaam [1989]
+- Brayshaw, Charles H., Deputy Chief of Mission, U.S. Embassy in Algiers [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Beirut [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Lima [1991, 1992]; Charge d’Affaires ad interim in Lima from September 1, 1992
+- Brazeal, Aurelia Erskine (Rea), Economic Counselor, U.S. Embassy in Tokyo [1989, 1990]; U.S. Ambassador to the Federated States of Micronesia from September 18, 1990
+- Brazier, George W., III, Consul, U.S. Consulate at Dubai [1989]; Consul, U.S. Embassy in Rabat [1989-1991]
+- Breckton, M. Lyall, U.S. Mission at Geneva [1991]; Deputy Representative, U.S. Delegation to the Conference on Disarmament [1992]
+- Breeden, Richard C., Assistant to the President for Issues Analysis from January 21, 1989
+- Breeland, Jocelyn, Operations Center, Secretariat Staff, Executive Secretariat, Department of State [1990]; Office of the Coordinator for Counter-Terrorism, Department of State [1991, 1992]; Administrative Counselor, U.S. Consulate at Casablanca [1992]
+- Breer, William T., Director, Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Tokyo [1990-1992]
+- Breese, Terry A., Office of Regional Political-Economic Affairs, Bureau of European and Canadian Affairs, Department of State [1991]
+- Bremer, L. Paul, III, Ambassador at Large for Counter-Terrorism until May 25, 1989
+- Bremmer, William, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1989-1991]
+- Bremner, Sue, Special Assistant, Bureau of Intelligence and Research, Department of State [1990]
+- Brencick, William J., Consul, U.S. Interests Section in Havana [1989, 1990]; Consul General, U.S. Consulate at Lubumbashi [1991, 1992]; Deputy Director, Office of Regional Affairs, Bureau of African Affairs, Department of State [1992]
+- Brennan, J. Michael, Public Affairs, Bureau of Consular Affairs, Department of State [1991, 1992]
+- Brennan, John B., Political and Economic Counselor, U.S. Consulate at Chengdu [1991, 1992]
+- Brennan, Kevin C., Commercial Counselor, U.S. Embassy in Brasilia [1989-1992]; Commercial Counselor, U.S. Embassy in Riyadh [1992]
+- Brennan, Martin G., Labor Attache, U.S. Embassy in Lisbon [1989, 1990]
+- Brennig, Joseph J., Public Affairs Officer, U.S. Embassy in Dar es Salaam [1990, 1991]
+- Brent, William F., Branch Public Affairs Officer, U.S. Consulate at Melbourne [1991, 1992]
+- Bresler, Ralph E., Economic and Commercial Counselor, U.S. Embassy in Kinshasa [1989-1991]; acting Director, Economic Policy Staff, Bureau of African Affairs, Department of State [1992]; Deputy Director, Economic Policy Staff, Bureau of African Affairs, Department of State [1992]
+- Brew, William R., Director, Office of Food Policy and Programs, (Trade and Commercial Affairs, later Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1989, 1990]; Director, Office of Israel and Arab-Israeli Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Consul General, U.S. Consulate at Dhahran [1992]
+- Brian, Melinda, Consul, U.S. Consulate at Cape Town [1991, 1992]
+- Briggs, Everett E., U.S. Ambassador to Honduras until June 15, 1989; Special Assistant to the President for National Security Affairs and Senior Director for Latin American and the Caribbean, National Security Council staff, from June 5 until November 8, 1989; U.S. Ambassador to Portugal from May 25, 1990
+- Briggs, Jacquelyn O., Administrative Counselor, U.S. Embassy in Belize City [1989]; Administrative Counselor, U.S. Embassy in Nassau [1989-1992]
+- Bright, Ruth E., Consul, U.S. Embassy in Dhaka [1989-1991]
+- Brill, Kenneth C., Consul General, U.S. Consulate at Calcutta [1989]; Executive Assistant to the Under Secretary of State for Political Affairs [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in New Delhi [1991, 1992]
+- Brimhall, Kelly W., Economic and Commercial Counselor, U.S. Consulate at Cebu [1991, 1992]
+- Brims, John S., Political Counselor, U.S. Embassy in Rome [1989-1992]
+- Brock, Samuel V., Administrative Counselor, U.S. Embassy in Praia [1989]; Political Adviser, U.S. Mission to the Organization of American States, Bureau of Inter-American Affairs, Department of State [1989]; Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1991]; Administrative Counselor, U.S. Embassy in Algiers [1992]
+- Brod, Vittorio A., Deputy Director, Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State [1989-1992]; Consul General, U.S. Consulate at Martinique [1992]
+- Bromley, D. Allan, Professor of Physics, Yale University; Assistant to the President for Science and Technology and Director of the Office of Science and Technology Policy from August 4, 1989
+- Brookbank, David Albert, Consul, U.S. Consulate at Matamoros [1992]
+- Brooks, Johney, Administrative Counselor, U.S. Embassy in Freetown [1990]; Administrative Counselor, U.S. Embassy in Ashgabat [1992]
+- Brooks, Linton F., Director for Defense Policy and Arms Control, National Security Council, until June 1989; Deputy Head of Delegations to the Nuclear and Space Talks from June 1989 until March 1991; Head of the U.S. Delegation on Nuclear and Chief Strategic Arms Reductions Negotiator from March 1991; Assistant Director, Bureau of Strategic and Nuclear Affairs, Arms Control and Disarmament Agency [1992]
+- Brooks, Thomas S., Charge d’Affaires, Deputy Chief of Mission, U.S. Embassy in Seoul [1989, 1990]; Director, American Institute in Washington in Taipei from 1990 until 1993
+- Broomfield, William S., member, U.S. House of Representatives (R-Michigan)
+- Brown, Benjamin N., Commercial Counselor, U.S. Consulate at Johannesburg [1989]; Commercial Counselor, U.S. Embassy in Vienna [1990-1992]
+- Brown, David E., Director, Office of Global Energy, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1990-1992]
+- Brown, David G., Taiwan Coordination Adviser, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]; Deputy Principal Officer, U.S. Consulate at Hong Kong [1989-1992]; Director, Office of Indonesia, Malaysia, Brunei, and Singapore Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Brown, Diana F., Economic and Commercial Counselor, U.S. Embassy in Nassau [1992]
+- Brown, Edwin P., Jr., Economic and Commercial Counselor, U.S. Embassy in Bujumbura [1990, 1991]
+- Brown, Gayleatha B., Economic and Commercial Counselor, U.S. Embassy in Dar es Saalam [1989, 1990]; Office of Development Finance, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990, 1991]
+- Brown, Gordon S., Deputy Chief of Mission, U.S. Embassy in Tunis until 1989; Political Adviser, U.S. Central Command, from 1989 until 1991; U.S. Ambassador to Mauritania from September 5, 1991
+- Brown, Herbert R., Administrative Counselor, U.S. Embassy in Bujumbura [1989, 1990]; Administrative Counselor, U.S. Embassy in Oslo [1991, 1992]
+- Brown, John H., Branch Public Affairs Officer, U.S. Consulate at Krakow [1989-1991]; Country Affairs Officer, Office of European Affairs, United States Information Agency [1992]
+- Brown, Keith C., U.S. Ambassador to Denmark until January 16, 1992
+- Brown, Kenneth L., Deputy Assistant Secretary of State for African Affairs from 1987 until October 1989; U.S. Ambassador to Cote d’Ivoire from November 22, 1989, until July 3, 1992; U.S. Ambassador to Ghana from September 24, 1992
+- Brown, Kent N., Director, Office of Strategic Nuclear Policy, Bureau of Politico-Military Affairs, Department of State [1989, 1990]; Political Adviser, SHAPE [1991, 1992]; U.S. Ambassador to Georgia from September 9, 1992
+- Brown, Linda M., Consul, U.S. Consulate at Auckland [1989]; Office of Field Support Liaison, Visa Services, Bureau of Personnel, Department of State [1990-1991]; Consul, U.S. Embassy in Suva [1991, 1992]
+- Brown, Marvin S., Consul, U.S. Embassy in Khartoum [1989]
+- Brown, Philip C., Public Affairs Officer, U.S. Embassy in Moscow [1989, 1990]; Edward R. Murrow Fellow, Fletcher School of Law and Diplomacy, Tufts University; Director, Foreign Press Centers, United States Information Agency [1991]
+- Brown, Raymond, Economic Counselor, U.S. Embassy in Bridgetown [1992]
+- Brown, R. Douglas, Consul, U.S. Embassy in Canberra [1992]
+- Brown, Reginald J., senior fellow, Center for Strategic and International Studies, Georgetown University, until 1989; Assistant Administrator, Bureau for Program and Policy Coordination, Agency for International Development [1989-1991]; Assistant Administrator, Bureau for Near East, Agency for International Development [1992]
+- Brown, Richard C., Deputy Assistant Secretary of Defense for Inter-American Affairs from 1989 until 1990; Special Adviser for International Security Affairs, Department of Defense during 1990; U.S. Ambassador to Uruguay from November 19, 1990
+- Brown, Robert, Branch Public Affairs Officer, U.S. Consulate at Monterrey [1989, 1990]
+- Brown, Stephanie L., Consul, U.S. Embassy in Libreville [1990, 1991]
+- Brown, Stuart V., Office of Lebanon, Jordan, Syria Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Political Counselor, U.S. Embassy in Amman [1991, 1992]
+- Brown, Timothy P., Consul, U.S. Consulate at Durban [1991]
+- Brown, Warrington E., Office of Inspections, Office of the Inspector General, Department of State [1990]; Post Management Officer, Office of the Executive Director, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Administrative Counselor, U.S. Embassy in The Hague [1992]
+- Brown, William A., U.S. Ambassador to Israel until January 7, 1992
+- Brownfield, William, ARA
+- Browning, Steven A., Administrative Counselor, U.S. Embassy in Colombo [1989, 1990]; Post Management Officer, Office of the Executive Director, Bureau of African Affairs, Department of State [1991]; Special Assistant, Office of the Under Secretary of State for Management [1992]
+- Brownlee, Ian G., Consul, U.S. Consulate at Matamoros [1990-1992]
+- Brumbaugh, Paula J., Consul, U.S. Consulate at Chengdu [1990-1992]
+- Brundage, Stephen G., Deputy Chief of Mission, U.S. Embassy in Libreville [1991, 1992]
+- Bruno, James L., Special Assistant, Bureau of European and Canadian Affairs, Department of State [1990, 1991]
+- Bruns, Judson L., Economic Counselor, U.S. Embassy in Port of Spain [1989-1991]
+- Bruntland, Gro Harlem, Prime Minister of Norway until October 16, 1989, and from November 3, 1990
+- Brynes, Jill, Consul, U.S. Embassy in Kiev [1992]
+- Brynn, Edward P., Deputy Chief of Mission, U.S. Embassy in Yaounde until 1989; member, Senior Seminar, Foreign Service Institute; U.S. Ambassador to Burkina Faso from January 14, 1991
+- Bryson, Robert C., Administrative Counselor, U.S. Embassy in St. George’s [1992]
+- Bsaies, Omar A., Consul and Administrative Counselor, U.S. Embassy in Bandar Seri Begawan [1991, 1992]
+- Buchanan, James E., Chief, South American Division, Office of Analysis for Inter-American Republics, Bureau of Intelligence and Research, Department of State [1989-1992]
+- Buche, John A., Director, Office of Technical Specialized Agencies, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Mission to International Organizations in Vienna [1989-1992]
+- Buchmiller, Jane B., Economic and Commercial Counselor, U.S. Embassy in Bamako [1989, 1990]; Consul, U.S. Consulate at Porto Alegre [1992]
+- Buck, Ralph M., Economic Counselor, U.S. Consulate at Sao Paulo [1989-1991]; Office of Development Finance, (International Finance and Development, Bureau of Economic and Business Affairs, Department of State [1992]
+- Buck, Stephen W., Political Counselor, U.S. Embassy in Ottawa [1989-1992]; Director, Office of Algeria, Libya, Morocco, Tunisia Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Buckler, Steven R., Administrative Counselor, U.S. Embassy in Oslo [1989]; Deputy Chief of Mission, U.S. Embassy in N’Djamena [1992]
+- Buckley, Thomas, Office of the Deputy Assistant Secretary for Regional Affairs and Security Assistance, Bureau of Politico-Military Affairs, Department of State [1991, 1992]; Special Assistant, Office of the Under Secretary of State for International Security Affairs [1992]
+- Buelow, Judy M., South America Division, Office of Analysis for Inter-American Affairs, Bureau of Intelligence and Research, Department of State [1989-1990]; Political Counselor, U.S. Embassy in Maputo [1990, 1991]; Labor Attache, U.S. Embassy in Montevideo [1991, 1992]
+- Buggeln, Linda A., Public Affairs Officer, U.S. Embassy in Bamako [1989-1991]; Public Affairs Officer, U.S. Embassy in Kigali [1992]
+- Bujac, Gregorie W., Director, Office of Security Technology, Bureau of Diplomatic Security, Department of State [1989]; Deputy Assistant Secretary for Countermeasures and Counterintelligence, Bureau of Diplomatic Security, Department of State [1990, 1991]; Consul General, U.S. Consulate at Sydney [1992]
+- Bulawka, Bohdan, Private Sector Liaison, International Communications and Information Policy, Department of State [1991]; Executive Director for Advisory Committee Affairs and the New Independent States, International Communications and Information Policy, Department of State [1992]
+- Bullen, Pierce, Economic Counselor, U.S. Embassy in Madrid [1989-1991]
+- Bullen, Roland W., Administrative Counselor, U.S. Embassy in Santo Domingo [1990-1992]
+- Bullock, James L., Public Affairs Officer, U.S. Embassy in Tunis [1992]
+- Bumbrey, Sallybeth, Consul, U.S. Embassy in Damascus [1992]
+- Burgess, David, Director of Public Policy, Bureau of Human Rights and Humanitarian Affairs, Department of State [1989]; Director, Office of Legislation, Policy, and Public Diplomacy, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990, 1991]
+- Burgess, Harold Tony A., Administrative Counselor, U.S. Embassy in Beirut [1989, 1990]; Administrative Counselor, U.S. Consulate at Munich [1992]
+- Burgess, John F., Public Affairs Officer, U.S. Embassy in Manama [1989, 1990]
+- Burgess, Roger E., Jr., Administrative Counselor, U.S. Embassy in San Jose [1989]; Administrative Counselor, U.S. Embassy in Managua [1991, 1992]
+- Burghardt, Raymond F., Political Counselor, U.S. Embassy in Beijing until 1989; Deputy Chief of Mission, U.S. Embassy in Seoul [1991, 1992]
+- Burkart, Helen Bridget, Consul, U.S. Embassy in Dakar [1991, 1992]
+- Burkart, Stephen D., Consul and Economic Counselor, U.S. Embassy in Lome [1991]
+- Burke, Janice E., Office of the Executive Director, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Policy Planning and Implementation Staff, Bureau of Personnel, Department of State [1992]
+- Burke, J. Grant, Commercial, Legislative, and Public Affairs, Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Deputy Director, Commercial, Legislative, and Public Affairs, Bureau of Economic and Business Affairs, Department of State [1992]
+- Burke, William J., Jr., Administrative Counselor, U.S. Embassy in Helsinki [1989-1992]; Administrative Counselor, U.S. Embassy in Ankara [1992]
+- Burleigh, A. Peter, Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs until July 29, 1989; Principal Deputy Assistant Secretary of State for Intelligence and Research from July 30, 1989; Coordinator for Counter-Terrorism from July 24, 1991, until November 23, 1992; Deputy Assistant Secretary of State for Personnel
+- Burnett, David R., Economic Counselor, U.S. Embassy in Algiers [1989, 1990]
+- Burns, James D., Public Affairs Officer, U.S. Embassy in Georgetown [1989-1991]
+- Burns, John T., Public Affairs Officer, U.S. Embassy in Addis Ababa [1989]; Public Affairs Officer, U.S. Embassy in Pretoria [1992]
+- Burns, Matthew, Administrative Counselor, U.S. Consulate at Leningrad (later St. Petersburg) [1989]; Special Assistant, Bureau of Administration, Department of State [1990-1992]
+- Burns, R. Nicholas, Special Assistant to the Counselor of the Department of State [1989]; Director for European and Soviet Affairs, National Security Council staff (1990) Director for European and Eurasian Affairs, National Security Council staff (1992)
+- Burns, William F., Gen., USA (Ret.), Director of the Arms Control and Disarmament Agency until March 15, 1989
+- Burns, William Joseph, Principal Deputy Director, Policy Planning Staff, Department of State [1989-1991] acting Director, Policy Planning Staff, Department of State [1992]
+- Burroughs, John A., Jr., U.S. Ambassador to Uganda until August 28, 1991
+- Burson, Weldon, Economic Counselor, U.S. Embassy in Oslo [1989, 1990]
+- Burt, Richard R., U.S. Ambassador to the Federal Republic of Germany until February 17, 1989; Head of the U.S. Delegation to the Nuclear and Space Talks from June 15, 1989, until March 31, 1991
+- Burton, Bruce, Political Counselor, U.S. Embassy in London [1989-1992]
+- Burton, Guy, Branch Public Affairs Officer, U.S. Consulate at Barcelona [1989-1992]; Public Affairs Officer, U.S. Embassy in Quito [1992]
+- Busby, Morris D., Special Envoy for Central America until April 1989; Coordinator for Counter-Terrorism, Department of State, from May 1, 1989, until July 24, 1991; U.S. Ambassador to Colombia from September 18, 1991
+- Bush, Barbara P., First Lady of the United States from January 20, 1989, until January 20, 1993
+- Bush, George Herbert Walker, President of the United States from January 20, 1989, until January 20, 1993
+- Bush, Wayne J., Administrative Counselor, U.S. Embassy in Victoria [1989, 1990]
+- Bushnell, John A., Management Policy, Bureau of Financial Management, Department of State [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Panama City [1990]
+- Bushnell, Prudence, Coordinator, Executive Development, School of Professional Studies, Foreign Service Institute, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Dakar [1989-1991]
+- Busick, Eleanor R., Deputy Director, Office of Non-Proliferation and Export Policy, (Nuclear Energy and Energy Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989-1992]
+- Businger, Donald, Commercial Counselor, U.S. Consulate at Frankfurt [1991, 1992]
+- Butcher, Duane C., Economic Counselor, U.S. Embassy in New Delhi [1989, 1990]; Foreign Service Institute, Department of State [1990, 1991]
+- Butcher, Larry, Deputy Director, Office of Development Finance, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1989-1991]
+- Butcher, Suzanne S., Deputy Director, Office of Environmental Protection, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989]; Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1990, 1991]; Deputy Director, Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1991]; Economic Counselor, U.S. Consulate at Vancouver [1991, 1992]
+- Butcher, W. Scott, Director, Office of Bhutan, India, Maldives, Nepal, Sri Lanka Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Kuala Lumpur [1991, 1992]
+- Butler, John A., Political Counselor, U.S. Embassy in St. George’s [1989]
+- Butler, Lawrence E., Economic Counselor, U.S. Embassy in Helsinki [1989-1991]
+- Butterman, Judith, Public Affairs Officer, U.S. Embassy in Maseru [1991, 1992]
+- Byergo, Laura G., Economic Counselor, U.S. Consulate at Dhahran [1991, 1992]
+- Byerly, John R., Assistant Legal Adviser for African Affairs, Office of the Legal Adviser, Department of State and Civil Service Ombudsperson [1991, 1992]
+- Byrd, Robert C., Senator (D-West Virginia)
+- Byrne, Terence E., Deputy Director, Office of Economic Analysis, Bureau of Intelligence and Research, Department of State [1990-1992]
+- Byrnes, Shaun M., Office of Eastern European and Yugoslav Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Deputy Director for Northern Tier Countries, Office of Eastern European and Yugoslav Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Cabelly, Robert, Special Assistant to the Ambassador at Large and Special Advisor to the Secretary of State on Non-Proliferation Policy and Nuclear Energy Affairs [1990, 1991]; Member, Policy Planning Staff, Department of State [1992]
+- Cable, Floyd S., Administrative Counselor, U.S. Consulate at Medan [1990]
+- Cadogan, Thomas A., Economic and Commercial Counselor, U.S. Embassy in Muscat [1989]; Labor Attache, U.S. Embassy in Bangkok [1990-1992]
+- Cady, Nancy H., Administrative Counselor, U.S. Interests Section in Havana [1991, 1992]
+- Cagan, Debra, Theater Military Forces Division, Office of Politico-Military Analysis, Bureau of Intelligence and Research, Department of State [1990]; Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1990-1992]
+- Cairns, Thomas, Consul, U.S. Embassy in Bridgetown [1990-1992]
+- Calderon Fournier, Rafael Angel, President of Costa Rica from May 8, 1990
+- Caldwell, Raymond L., Executive Assistant to the Deputy Secretary of State [1989]; Director, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Deputy Assistant Secretary of State for European and Canadian Affairs [1992]
+- Calhoun, Frankie, Office of West African Affairs, Bureau of African Affairs, Department of State [1990]
+- Calio, Nicholas E., Deputy Assistant to the President for Legislative Affairs from 1989 until 1991; Vice President, Duberstein Group, Inc., from 1991 until 1992; Assistant to the President for Legislative Affairs from January 14, 1992
+- Callaghan, Anne T., Branch Public Affairs Officer, U.S. Consulate at Perth [1991, 1992]
+- Callahan, James A., Public Affairs Officer, U.S. Embassy in Baghdad [1990, 1991]
+- Callahan, Robert J., Public Affairs Officer, U.S. Embassy in La Paz [1990-1992]
+- Callard, Robert A., Consul, U.S. Embassy in Wellington [1989-1992]
+- Callejas, Rafel Leonardo, President of Honduras from January 27, 1990
+- Callow, Thomas W., Consul, U.S. Consulate at Naha [1989, 1990]; Bureau of Politico-Military Affairs, Department of State [1990]; Office of Strategic and Theater Policy, Bureau of Politico-Military Affairs, Department of State [1991]; Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1992]
+- Callwood, Kevin, Deputy Assistant Secretary of State for African Affairs [1990, 1991]
+- Cammett, William G., Operations Center, Executive Secretariat, Department of State [1990, 1991]; Program Assistant, Bureau of Inter-American Affairs, Department of State [1992]
+- Camp, Donald A., Office of Indonesia, Malaysia, Brunei, and Singapore Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990]; Consul General, U.S. Consulate at Chengdu [1992]
+- Camp, William, Associate Director, Office of the Deputy Assistant Secretary for Passport Services, Bureau of Consular Affairs, Department of State [1990]; Director, Passport Offices, Office of the Deputy Assistant Secretary for Passport Services, Bureau of Consular Affairs [1991]
+- Campbell, Arnold H., Consul and Political and Economic Counselor, U.S. Office in Majuro [1989, 1990]; Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State [1990-1992]; Consul, U.S. Embassy in Budapest [1992]
+- Campbell, John, Political Counselor, U.S. Embassy in Lagos [1989, 1990]; Director, Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Campbell, Martha, Administrative Counselor, U.S. Embassy in Majuro [1989]; Office of the Executive Director, Bureau of European and Canadian Affairs, Department of State [1990-1992]
+- Campbell, William N., Administrative Counselor, U.S. Consulate at Toronto [1989]; Office of the Executive Director, Bureau of African Affairs, Department of State [1992]
+- Canary, William J., Special Assistant to the President for Intergovernmental Affairs (1991)
+- Canas, Richard L., Director for International Programs, National Security Council Staff, from 1990 until November 1992
+- Canning, Michael P., Public Affairs Officer, U.S. Embassy in Buenos Aires [1990, 1991]
+- Cannon, Edward, Commercial Counselor, U.S. Consulate at Montreal [1992]
+- Cannon, John F., Branch Public Affairs Officer, U.S. Consulate at Perth [1989, 1990]
+- Cao-Garcia, Jose J., Administrative Counselor, U.S. Embassy in Tokyo [1989, 1990]; Administrative Counselor, U.S. Embassy in Bangkok [1991, 1992]
+- Capen, Richard G., Jr., Vice Chair and Director, Knight-Ridder, Inc., until 1991; consultant, Knight-Ridder, Inc., from 1991 until 1992; U.S. Ambassador to Spain from July 8, 1992
+- Caples, Cynthia B., Public Affairs Officer, U.S. Embassy in Ouagadougou [1989, 1990]; Public Affairs Officer, U.S. Embassy in Tirana [1992]
+- Caravella, Miriam, Branch Public Affairs Officer, U.S. Consulate at Medan [1991, 1992]
+- Card, Andrew H., Jr., Assistant to the President and Deputy to the Chief of Staff from January 21, 1989, until March 3, 1991; Assistant to the President and Deputy Chief of Staff from March 3, 1991, until February 24, 1992; Secretary of Transportation from March 11, 1992
+- Carey, Glenn, Consul, U.S. Consulate at Chengdu [1989, 1990]; Special Assistant, Bureau of Legislative Affairs, Department of State [1990-1992]
+- Carlin, Robert L., Chief, NE Asia Division, Office of Analysis for East Asia and the Pacific, Bureau of Intelligence and Research, Department of State [1990, 1991]
+- Carlisle, M.D.B., Assistant Secretary of Defense for Legislative Affairs until April 28, 1989
+- Carlson, Brian E., Public Affairs Officer, U.S. Embassy in Oslo [1989]; Deputy Director for USSR, Eastern and Southern Europe, Office of European Affairs, United States Information Agency
+- Carlson, Richard W., Director, Voice of America and Associate Director for Broadcasting, United States Information Agency until July 1991; U.S. Ambassador to the Seychelles from October 1, 1991, until July 5, 1992
+- Carlson, William R., Consul and Administrative Counselor, U.S. Embassy in Moroni [1989]; Consul, U.S. Consulate at Marseille [1989-1992]
+- Carlsson, Ingvar, Prime Minister of Sweden until October 4, 1991
+- Carmichael, Thomas, Branch Public Affairs Officer, U.S. Consulate at Poznan [1990-1992]
+- Carney, David M., Special Assistant to the President and Deputy Director, Office of Political Affairs from 1989 until 1990; acting Director, Office of Political Affairs from June 1, 1990, until March 5, 1991; Special Assistant to the President and Director, Office of Political Affairs from March 5, 1991
+- Carney, Timothy M., Political Counselor, U.S. Embassy in Jakarta [1989, 1990]; Director for Asian Affairs, National Security Council staff (1991)
+- Carns, Michael P.C., Lt. Gen., USAF, Director of the Joint Staff from September 27, 1989, until May 16, 1991
+- Carolan, Thomas J., Jr., Consul General, U.S. Consulate at Istanbul [1989-1992]
+- Carotenuto, Venetia, Staff Assistant, Bureau of Politico-Military Affairs, Department of State [1992]
+- Carpendale, Andrew M., Special Assistant, Policy Planning Staff, Department of State, from January 1989 until April 1990; Director of Speechwriting, Policy Planning Staff, Department of State, from May 1990 until May 1992; Deputy Assistant to the President for Policy Planning, Development, and Speechwriting from September 30, 1992
+- Carpenter, Michael, Refugee and Migration Adviser, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1989, 1990]; Consul, U.S. Embassy in Tokyo [1991, 1992]
+- Carr, Robert K., U.S. Mission to the Organization for Economic Cooperation and Development [1989]; Science and Technology Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990]
+- Carragher, James, Director, Operations Center, Executive Secretariat, Department of State [1990, 1991]; Deputy Director, Office of Southern African Affairs, Bureau of African Affairs, Department of State [1992]
+- Carroll, James B., Public Affairs Officer, U.S. Embassy in Guatemala City [1991, 1992]
+- Carroll, Robert J., Labor Attache, U.S. Embassy in Stockholm [1989-1992]
+- Carson, Anne, Staff Assistant, Bureau of European and Canadian Affairs, Department of State [1992]
+- Carson, Johnnie, Deputy Chief of Mission, Charge, U.S. Embassy in Gaborone until 1990; member, Senior Seminar, Foreign Service Institute, Department of State; U.S. Ambassador to Uganda from September 18, 1991
+- Carter, Bruce E., Office of Korean Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Deputy Director, Office of Maritime and Land Transport, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Carter, Dennis, Special Assistant, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989, 1990]; Office of Cooperative Science and Technology Programs, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Carter, James E., Jr., President of the United States from January 20, 1977, until January 20, 1981
+- Carter, Landon C., Administrative Counselor, U.S. Embassy in Wellington [1989-1992]
+- Carter, Nancy Ostrander, Coordinator for Population Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989-1992]
+- Carter, Phillip, Economic and Commercial Counselor, U.S. Embassy in Lilongwe [1990-1992]; Economic and Commercial Counselor, U.S. Embassy in Dhaka [1992]
+- Carty, Liza, Office of Asian Refugee Assistance, Refugee Programs, Department of State [1990]; Special Assistant, Office of the Deputy Secretary of State [1990, 1991]; Office of Pakistan, Afghanistan, and Bangladesh Affairs, Bureau of South Asian Affairs, Department of State [1992]
+- Casebeer, Cheryl, Senior Special Assistant, Bureau of Intelligence and Research, Department of State [1990]
+- Casey, Edward A., Jr., Director, Office of Western European Affairs, Bureau of European and Canadian Affairs, Department of State [1989]; Charge d’Affaires, U.S. Embassy in Madrid [1989]; Deputy Chief of Mission, U.S. Embassy in Madrid [1990-1992]
+- Casey, Mary Ann, Director, Office of Algeria, Libya, Morocco, Tunisia Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, until 1989; Deputy Assistant Secretary for Regional Analysis, Bureau of Intelligence and Research, from 1989 until 1991; U.S. Ambassador to Algeria from September 8, 1991
+- Cason, James C., Political Counselor, U.S. Embassy in La Paz [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Tegucigalpa [1991, 1992]
+- Casse, Daniel, Associate Director, Office of Cabinet Affairs; Deputy Director, Office of Cabinet Affairs; Special Assistant to the President for Cabinet Affairs from September 4, 1992
+- Casse, Marshall L., Director, Planning and Economic Analysis Staff, Bureau of Economic and Business Affairs, Department of State [1989]; Chief, Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1990-1992]; Economic Counselor, U.S. Embassy in Ottawa [1992]
+- Cassidy, Joseph, acting Public Affairs Officer, U.S. Embassy in Georgetown [1991]
+- Cassman, Joel F., Economic Counselor, U.S. Embassy in Managua [1989, 1990]; Office of Southern Cone Affairs, Bureau of Inter-American Affairs, Department of State [1990]; Economic Counselor, U.S. Embassy in Bogota [1991, 1992]
+- Castelli, Jeffrey W., Political and Military Counselor, U.S. Embassy in Muscat [1990-1992]
+- Castleman, Karen, Special Assistant to the Secretary of State [1989-1991]
+- Castro, Benjamin, Administrative Counselor, U.S. Consulate at Barcelona [1989, 1990]
+- Castro, Christian, Staff Assistant, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Castro, Emil, Economic Counselor, U.S. Embassy in Buenos Aires [1989-1991], Economic Counselor, U.S. Embassy in Madrid [1991, 1992]
+- Castrodale, Richard C., Director, Afghan Coordinating Unit, Bureau of International Organization Affairs, Department of State [1990, 1991]
+- Castro Ruz, Fidel, Premier of Cuba
+- Caswell, Stephanie, Office of Ecology, Health, and Conservation, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1991, 1992]
+- Caterini, Dino J., Branch Public Affairs Officer, U.S. Consulate at Calcutta [1991, 1992]
+- Catherman, Terrence F., Public Affairs Officer, U.S. Embassy in Bonn [1989-1991]
+- Catto, Henry E., Jr., U.S. Ambassador to the United Kingdom from May 17, 1989, until March 13, 1991; Director, United States Information Agency, from June 7, 1991, until January 19, 1993
+- Caulfield, John P., Fraud Protection Program, Bureau of Consular Affairs, Department of State [1990, 1991]; Deputy Director, Office of Brazilian Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Causey, Paula J., Chief, SE Asia Division, Office of Analysis for East Asia and the Pacific, Bureau of Intelligence and Research, Department of State [1989-1991]; acting Director, Office of Analysis for East Asia and the Pacific [1992]
+- Cavaco Silva, Anibal, Prime Minister of Portugal
+- Cavanaugh, Carey, Charge d’Affaires ad interim, U.S. Embassy in Tbilisi from April 23, 1992, until August 1, 1992
+- Cayer, Kathleen M., Consul, U.S. Consulate at Munich [1991, 1992]
+- Ceausescu, Nicolae, General Secretary of the Romanian Communist Party until December 23, 1989
+- Cecchini, Leo F., Political Counselor, U.S. Consulate at Monterrey [1989, 1990]
+- Cecere, Peter, Branch Public Affairs Officer, U.S. Consulate at Barcelona [1989]
+- Cecil, Charles O., Deputy Director, Office of Ecology, Health, and Conservation, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Abidjan [1992]
+- Cella, Micaela, Consul, U.S. Embassy in Monrovia [1992]
+- Center, William N., Jr., Commercial Counselor, U.S. Consulate at Shenyang [1989]
+- Cerezo Arevalo, Marco Vinicio, President of Guatemala until January 14, 1991
+- Cerrato, Samuel, Commercial Counselor, U.S. Embassy in Stockholm [1989]
+- Chacon, Arnold A., Labor Attache, U.S. Embassy in Santiago [1991]
+- Challinor, John, Branch Public Affairs Officer, U.S. Consulate at Madras [1989, 1990]
+- Chamberlain, James W., Deputy Director, Office of Weapons Proliferation Policy, Bureau of Politico-Military Affairs, Department of State [1990]; Deputy Director, Office of Ecology, Health, and Conservation, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1991]
+- Chamberlain, Wendy, Office of the Under Secretary of State for Political Affairs [1990]; Public Affairs Adviser, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]; also Director for International Programs, National Security Council staff (June 1990)
+- Chammas, Judy, Assignment Division (NEA), Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1990]; Administrative Counselor, U.S. Embassy in Sanaa [1992]
+- Chamorro, Violeta Barrios de, President and Minister of Defense of Nicaragua from April 25, 1990
+- Chang, David C., Consul, U.S. Consulate at Shanghai [1990]; Office of Fisheries Affairs, (Oceans and Fisheries Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Chang, Michael B., Consul, U.S. Consulate at Shanghai [1989, 1990]; Consul and Political Counselor, U.S. Consulate at Shenyang [1991, 1992]
+- Chang, Vivian, Interpreter, Department of State
+- Chao, Elaine L., Chair, Federal Maritime Administration from 1988 until 1989; Deputy Secretary of Transportation from 1989 until 1991; Director, Peace Corps from 1991
+- Chaplin, Stephen M., Public Affairs Officer, U.S. Embassy in Caracas [1990-1992]
+- Chapman, Geoffrey W., Deputy Director for Defense Policy and Military/Security Affairs, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Deputy Director, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Chapman, Gregory D., Consul, U.S. Embassy in Vientiane [1992]
+- Charbonnet, Laurent D., Consul, U.S. Consulate at Cebu [1989]; Consul and Political Counselor, U.S. Consulate at Shenyang [1989-1991]
+- Chard, Kenneth, Deputy Director, Office of Munitions Control, Bureau of Politico-Military Affairs, Department of State [1989]; Office of Weapons Proliferation Policy, Bureau of Politico-Military Affairs, Department of State [1990]; Program Planning, Management Policy, Bureau of Finance and Management Policy, Department of State [1991]
+- Charles, Sandra, Director for Near East and South Asian Affairs, National Security Council staff (1989, 1990)
+- Charlton, John F., Administrative Counselor, U.S. Embassy in Lome [1991, 1992]
+- Chastain, Bryan, Administrative Counselor, U.S. Consulate at Chengdu [1990-1992]
+- Chaveas, Peter R., Consul General, U.S. Consulate at Johannesburg [1989, 1990]; Consul General, U.S. Consulate at Cape Town [1990]; Director, Office of Southern African Affairs, Bureau of African Affairs, Department of State [1992]
+- Cheatam, Linda, Branch Public Affairs Officer, U.S. Consulate at Genoa [1991]
+- Cheek, James R., Diplomat-in-residence at Howard University from 1988 until 1989; U.S. Ambassador to Sudan from November 16, 1989, until August 8, 1992
+- Chellis, Craig B., Director for Defense Policy and Arms Control, National Security Council staff, from April until November 1992
+- Cheney, Elizabeth C., Special Assistant to the Administrator for Asia, Near East, and Europe, Agency for International Development [1990]; Special Assistant to the Assistant Administrator for Europe and Near East, Agency for International Development [1991]; Special Adviser for Defense Conversion, Office of Commonwealth of Independent States Assistance, Office of the Deputy Secretary of State [1992]
+- Cheney, Richard Bruce, member, U.S. House of Representatives (R-Wyoming); Secretary of Defense from March 21, 1989
+- Cheshes, Martin L., Deputy Chief of Mission, U.S. Embassy in Nassau [1989, 1990]; Director, Office of East African Affairs, Bureau of African Affairs, Department of State [1992]
+- Chester, George A., Jr., Director, Office of Pacific Island Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Political Counselor, U.S. Embassy in Guatemala City [1991, 1992]
+- Chester, Geraldeen G., Deputy Director, Office of Philippine Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989, 1990]; Economic Counselor, U.S. Embassy in Guatemala City [1991, 1992]
+- Chevez, Robert J., Consul, U.S. Consulate at Sydney [1989, 1990]; Office of Inspections, Office of the Inspector General, Department of State [1990-1992]
+- Chiang Ching-kuo (Jiang Jingua), President of the Republic of China from May 20, 1978, until January 13, 1988
+- Chiang Kai-shek (Jiang Jieshi), President of the Republic of China from March 1, 1950, until April 5, 1975
+- Chiarantona, Richard, Economic Counselor, U.S. Consulate at Dubai [1989]
+- Chiarello, Vincent, Public Affairs Officer, U.S. Embassy in Vatican City [1991]
+- Chicola, Phillip T., Political Counselor, U.S. Embassy in San Salvador [1990-1992]
+- Chikes, Csaba, Deputy Director (USSR, Eastern and Southern Europe), Office of European Affairs, United States Information Agency (1989, 1990, 1991); Munich Marketing Office, VOA Europe, U.S. Consulate at Munich [1992]
+- Chiluba, Frederick, President of Zambia from November 1991
+- Chiocco, Ralph D., Administrative Counselor, U.S. Consulate at Guadalajara [1989]; Administrative Counselor, U.S. Embassy in Beirut [1991]
+- Chipman, William, Special Assistant, Bureau of Intelligence and Research, Department of State [1990]
+- Chisholm, Kathleen, Administrative Counselor, U.S. Embassy in Kuwait [1991, 1992]
+- Chissano, Joaquim Alberto, President of Mozambique
+- Chittick, Thomas L., Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State [1990]; Office of Citizens Consular Services, Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1991]; Consul, U.S. Consulate at Guadalajara [1991, 1992]
+- Chollett, Derek M., member, Policy Planning Staff, Department of State [1992]
+- Christensen, Casey H., Labor Attache, U.S. Embassy in La Paz [1992]
+- Christensen, Katherine, Economic and Commercial Counselor, U.S. Embassy in Belize City [1989-1991]; Developed Country Trade Division, Office of Bilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1991, 1992]
+- Christenson, Carl E., Director, Moscow Embassy Buildings Control Office, Office of the Under Secretary of State for Management [1991, 1992]
+- Christenson, Philip L., senior professional staff member, Senate Foreign Relations Committee until December 1988; Assistant Administrator, Bureau for Food for Peace and Voluntary Assistance, Agency for International Development [1989-1991]
+- Christenson, Richard A., Consul General, U.S. Consulate at Naha [1991, 1992]
+- Christiansen, Daniel F., Consul, U.S. Consulate at Antwerp [1989]
+- Christy, Gene, Deputy Director, Office of Indonesia, Malaysia, Brunei, and Singapore Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]; Office of Inspections, Office of the Inspector General, Department of State [1990]; Political Counselor, U.S. Embassy in Kuala Lumpur [1991, 1992]; Political and Economic Counselor, U.S. Embassy in Ashgabat [1992]
+- Chritton, Andrew, Economic and Commercial Counselor, U.S. Embassy in Lilongwe [1989]; Economic Counselor, U.S. Embassy in Belgrade [1992]
+- Chu, David S. C., Assistant Secretary of Defense for Program Analysis and Evaluation
+- Chudzick, Joseph M. Administrative Counselor, U.S. Embassy in Ulaanbaatar [1992]
+- Chunhawan, Chatichai, Prime Minister of Thailand
+- Cicconi, James W., Assistant to the President and Deputy to the Chief of Staff from January 21, 1989, until December 28, 1990
+- Claffey, Daniel P., Consul, U.S. Consulate at Cape Town [1990, 1991]; Administrative Counselor, U.S. Embassy in Suva [1991, 1992]
+- Clapp, Priscilla A., Member, Policy Planning Staff, Department of State [1989]; Senior Deputy Assistant Secretary and Deputy Assistant for Refugee Admissions, Refugee Programs [1990-1992]
+- Clare, Daniel H., Senior Adviser for Diplomatic and Public Initiatives, International Communications and Information Policy, Department of State [1990, 1991]
+- Clare, Gwendolyn C., Director, Orientation Division, School of Professional Studies, Foreign Service Institute, Department of State [1989, 1990]; Consul General, U.S. Consulate at Guayaquil [1991, 1992]; Charge d’Affaires ad interim, U.S. Embassy in San Salvador from July 1, 1992
+- Clark, A. Thomas, Administrative Counselor, U.S. Embassy in Kinshasa [1989]
+- Clark, Bruce W., Administrative Counselor, U.S. Embassy in Paris [1989, 1990]; Deputy Director, Office of Algeria, Libya, Morocco, Tunisia Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Executive Director, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Clark, Charles Joseph, Canadian Secretary of State for External Affairs until April 20, 1991; Canadian President of the Privy Council from April 21, 1991
+- Clark, Joan Margaret, Assistant Secretary of State for Consular Affairs until October 18, 1989
+- Clark, John E., Charge d’Affaires ad interim, U.S. Embassy in Bridgetown until July 1990; Executive Director, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Bridgetown [1991]; Executive Director, Bureau of Inter-American Affairs, Department of State [1992]
+- Clark, Warren, Jr., U.S. Ambassador to Gabon until August 24, 1989; Senior Adviser, International Communications and Information Policy, Department of State [1990, 1991]
+- Clark, William, Jr., Principal Deputy Assistant Secretary of State for East Asian and Pacific Affairs until August 1989; U.S. Ambassador to India from December 22, 1989, until July 2, 1989; Assistant Secretary of State for East Asian and Pacific Affairs from July 10, 1992
+- Clarke, Henry L. Deputy Chief of Mission, U.S. Embassy in Bucharest until 1989; Economic Counselor, U.S. Embassy in Tel Aviv from 1989 until 1992; U.S. Ambassador to Uzbekistan from September 9, 1992
+- Clarke, Richard A., Deputy Assistant Secretary for Regional Analysis, Bureau of Intelligence and Research until August 1989; Assistant Secretary of State for Politico-Military Affairs from August 8, 1989, until July 10, 1992; thereafter Senior Director for International Programs, National Security Council staff
+- Clarke, Robert, Deputy Director, Office of Northern Gulf Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989]; Office of the Legal Adviser, Department of State [1990]; Science Attache, U.S. Embassy in Moscow [1991, 1992]
+- Clarke, Walter, Political Counselor, U.S. Embassy in Madrid [1990-1992]
+- Clarke, William D., Deputy Assistant Secretary for Countermeasures and Counterintelligence, Bureau of Diplomatic Security, Department of State, from 1992
+- Clary, T. Porter, Commercial Counselor, U.S. Embassy in Tegucigalpa [1989-1991]
+- Clear, Taylor Jesse (T. Jesse), Labor Attache, U.S. Embassy in The Hague [1989, 1990]; Director, Alternate Career Division, Office of Retirement and Career Transition, Bureau of Personnel, Department of State [1992]
+- Cleary, Colin, Political Counselor, U.S. Embassy in Kampala [1989-1991]
+- Cleland, Scott, Senior Policy Adviser for Budget and Appropriations, Bureau of Legislative Affairs, Department of State [1990]; Senior Policy Adviser, Bureau of Legislative Affairs, Department of State [1991]; Senior Policy Adviser and Director, Office of Budget and Appropriations, Bureau of Legislative Affairs, Department of State [1992]
+- Clemens, Janice, Chief, Recruitment Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1990, 1991]
+- Clerici, Laura A., Office of Eastern European and Yugoslav Affairs, Bureau of European and Canadian Affairs, Department of State [1991]; Deputy Director for Southern Tier Countries, Office of Eastern European and Yugoslav Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Cleveland, Donald R., Science Attache, U.S. Embassy in Canberra [1989-1992]; Economic Counselor, U.S. Embassy in Port-of-Spain [1992]
+- Cleveland, Paul M., U.S. Ambassador to New Zealand until April 28, 1989; U.S. Ambassador to Malaysia from November 8, 1989, until July 23, 1992; acting Coordinator for Export Control Ambassador, Office of the Under Secretary of State for International Security Affairs [1992]
+- Cleverley, J. Michael, Economic Counselor, U.S. Embassy in Athens [1989-1992]
+- Clinard, David M., Principal Deputy Assistant Director, Bureau of Multilateral Affairs, Arms Control and Disarmament Agency [1990-1992]
+- Clinton, William J., Democratic Nominee for President in 1992
+- Clore, Raymond E., Office of Ecology, Health, and Conservation, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1991]
+- Clunan, James L., Deputy Director, Office of Southern European Affairs, Bureau of European and Canadian Affairs, Department of State [1989]; Political Adviser, USNAVEUR, U.S. Embassy in London [1991, 1992]
+- Clune, Daniel, Economic and Commercial Counselor, U.S. Embassy in Nassau [1989]
+- Clyatt, Oscar W., Jr., Political and Economic Counselor, U.S. Embassy in Sofia [1989]; Political Counselor, U.S. Embassy in Port Moresby [1989-1991]; Office of Southern European Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Clyde, Susan A., Public Affairs Officer, U.S. Embassy in Port-au-Prince [1989, 1990]; Branch Public Affairs Officer, U.S. Consulate at Sao Paulo [1992]
+- Clyne, Norman G., Deputy Assistant Director, Bureau of Multilateral Affairs, Arms Control and Disarmament Agency [1989]; ACDA [1992]
+- Coats, Dan, member, U.S. House of Representatives (R-Indiana) from January 3, 1989
+- Cobb, Charles E., Jr., Under Secretary of Commerce for Travel and Tourism from 1987 until 1989; U.S. Ambassador to Iceland from November 8, 1989, until January 10, 1992
+- Cobb, Richard A., Deputy Assistant Administrator, Bureau for Africa, Agency for International Development [1992]
+- Coburn, Harry L., Deputy Assistant Secretary for Passport Services, Bureau of Consular Affairs, Department of State [1989, 1990]; Office of Performance Evaluation, Bureau of Personnel, Department of State [1991]; Political Counselor, U.S. Embassy in Rome [1992]
+- Cochran, Herbert A., Commercial Counselor, U.S. Embassy in Bangkok [1989-1992]
+- Cockburn, Carl S., Staff Assistant, Bureau of International Organization Affairs, Department of State [1989]; Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State [1990-1991]; Consul, U.S. Embassy in Rangoon [1991, 1992]
+- Coelho, Tony, member, U.S. House of Representatives (D-California); Democratic Whip
+- Coffey, Frederick A., Public Affairs Officer, U.S. Embassy in Buenos Aires [1989]
+- Coffey, Steven J., Special Assistant, Office of the Under Secretary of State for Political Affairs [1989]; Deputy Chief of Mission, U.S. Embassy in Algiers [1990-1992]
+- Coffman, Steven P., Principal Officer, U.S. Consulate at Mazatlan [1989, 1990]; Political Counselor, U.S. Embassy in Banjul [1991, 1992]; Consul, U.S. Embassy in Kuwait [1992]
+- Cohen, Edward M., Deputy Chief of Mission, U.S. Embassy in Athens [1989, 1990]; Board of Examiners, Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1992]
+- Cohen, Efraim A., Administrative Counselor, U.S. Consulate at Cape Town [1989]; Staff Assistant, Office of the Deputy Assistant Secretary for Operations, Bureau of Administration, Department of State [1990]
+- Cohen, Herman Jay, (Hank), Assistant Secretary of State for African Affairs from May 12, 1989; Career Ambassador from March 11, 1992
+- Cohen, Jonathan R., Economic and Commercial Counselor, U.S. Consulate at Jerusalem [1990, 1991]; Secretariat Staff, Executive Secretariat, Department of State [1992]
+- Cohen, Kenneth D., Executive Assistant, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989]; Administrative Counselor, U.S. Consulate at Chengdu [1989]; Science Attache, U.S. Embassy in Seoul [1990-1992]
+- Cohen, Lawrence E., Political and Economic Counselor, U.S. Consulate at Madras [1989-1991]; Science Attache, U.S. Embassy in Budapest [1991, 1992]
+- Cohen, William S., Senator (R-Maine)
+- Cohn, Irene P., Economist, Economic Policy Staff, Bureau of African Affairs, Department of State [1992]
+- Colbert, Joan, Coordinator, Intergovernmental Affairs, Bureau of Public Affairs, Department of State [1990, 1991]
+- Colbert, Larry, Consul General, U.S. Consulate at Tijuana [1989-1991]; Consul, U.S. Embassy in Madrid [1991, 1992]
+- Coldren, Lee O., Principal Officer, U.S. Consulate at Surabaya [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Dhaka [1991, 1992]
+- Cole, Harry E., Jr., Principal Officer, U.S. Consulate at Adana [1989-1991]; Board of Examiners, Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1992]
+- Cole, Janey, Public Affairs Officer, U.S. Embassy in Kathmandu [1991, 1992]
+- Cole, Marcia E., Deputy Principal Officer, U.S. Consulate at Curacao [1991, 1992]
+- Coleman, Donald B., Principal Officer, U.S. Consulate at Songkhla [1989-1991]
+- Colitre, Leigh, Public Affairs Officer, U.S. Embassy in Muscat [1989, 1990, 1991]
+- Collins, Frank, Political and Economic Counselor, U.S. Consulate at Thessaloniki [1992]
+- Collins, James F., Deputy Executive Secretary of the Department of State [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Moscow [1991, 1992]
+- Collins, Jeanina M., Staff Assistant, Office of the Under Secretary of State for International Security Affairs [1990-1992]
+- Collins, Paul J., Jr., Special Assistant to the President for Political Affairs (1991, 1992)
+- Collins, Peter, Deputy Special Negotiator, Office of the Special Negotiator, Bureau of European and Canadian Affairs, Department of State [1990]
+- Collins, Timothy J., Political Counselor, U.S. Consulate at Istanbul [1989, 1990]; Southern Europe Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1990, 1991]; Office of Canadian Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Collor de Mello, Fernando, President of Brazil from March 15, 1990
+- Colloton, Carol, Office of International Development Assistance, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1990]; Office of Southern Cone Affairs, Bureau of Inter-American Affairs, Department of State [1991]; Special Assistant, Bureau of Intelligence and Research, Department of State [1992]
+- Colson, David A., Assistant Legal Adviser for Inter-American Affairs, Office of the Legal Adviser, Department of State [1990]; Deputy Assistant Secretary for Oceans and Fisheries Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1991, 1992]
+- Colwell, William A., Consul, U.S. Embassy in Kuwait [1990]
+- Comras, Victor D., Consul General, U.S. Consulate at Strasbourg [1989]; Science Attache, U.S. Embassy in Ottawa [1990]; Chair, Open Forum, Policy Planning Staff, Department of State [1990, 1991]; Director, Office of East-West Trade and Foreign Policy Controls, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1992]
+- Conable, Barber B., President of the World Bank Group until September 1991
+- Condayan, John, Director, Office of Foreign Missions, Department of State until 1989; Administrative Counselor, U.S. Embassy in London from 1989 until 1991; Associate Director, Bureau of Management, United States Information Agency from 1991
+- Connan, Robert S., Commercial Counselor, U.S. Embassy in Copenhagen [1989]; Commercial Counselor, U.S. Embassy in Stockholm [1990, 1991]; Commercial Counselor, U.S. Embassy in Kuwait [1991, 1992]; Commercial Counselor, U.S. Embassy in Seoul [1992]
+- Connell, James K., Deputy Chief of Mission, U.S. Embassy in Reykjavik [1989]; Political and Military Counselor, U.S. Embassy in Ankara [1991, 1992]
+- Connell, Lawrence F., Administrative Counselor, U.S. Consulate at Hamilton [1990, 1991]; Economic and Commercial Counselor, U.S. Embassy in Bangui [1991, 1992]
+- Connell, Mary Ellen, Public Affairs Officer, U.S. Embassy in Copenhagen [1989-1991]; Executive Secretary, United States Information Agency [1992]
+- Connelly, Maura, Staff Assistant, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]
+- Connerley, John Alan, Vice Counselor, U.S. Consulate at Oporto [1989, 1990]; Consular Systems Division, Office of the Executive Director, Bureau of Consular Affairs, Department of State [1992]
+- Connors, Michael V., Deputy Chief of Mission, U.S. Embassy in Jakarta [1989, 1990]
+- Constable, Elinor Greer, U.S. Ambassador to Kenya until September 29, 1989; Office of Inspections, Office of the Inspector General, Department of State [1992]
+- Conyers, John, Jr., member, U.S. House of Representatives (D-Michigan)
+- Cook, Frances D., Director, Office of West African Affairs, Bureau of African Affairs, Department of State [1989]; U.S. Ambassador to Cameroon from December 21, 1989
+- Cook, Frederick B., Administrative Counselor, U.S. Embassy in Gaborone [1989, 1990]; Deputy Director, Office of Information Resources Management, Executive Secretariat, Department of State [1990]; Records Management Division, Office of Information Resources Management, Executive Secretariat, Department of State [1992]
+- Cook, John G., Officer-in-Charge, Agricultural Development Division, Office of International Development Assistance, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1989]
+- Cook, John Owen, Office of Regional Affairs, Bureau of African Affairs, Department of State [1990-1992]; Political Counselor, U.S. Embassy in Bucharest [1992]
+- Cook, Marjorie A., Congressional Affairs Liaison, Policy, Program, and Evaluation Staff, Bureau of International Narcotics Matters, Department of State [1990, 1991]
+- Cook, Ross, Administrative Counselor, U.S. Embassy in Bridgetown [1989, 1990]; Administrative Counselor, U.S. Embassy in Khartoum [1991, 1992]
+- Cooke, David O., Director of Administration and Management, Department of Defense from May 24, 1988
+- Coonly, Thomas M., Deputy Chief of Mission, U.S. Embassy in Belize City [1989]; Bureau of International Narcotics Matters, Department of State [1991]; Office of Transnational Issues, Bureau of International Narcotics Matters, Department of State [1992]
+- Cooper, B. Jay, Special Assistant to the President and Deputy Press Secretary until January 23, 1989; thereafter Deputy Assistant to the President and Deputy Press Secretary
+- Cooper, Henry F., Chief Defense and Space Negotiator, U.S. Delegation to the Negotiations on Nuclear and Space Arms until July 10, 1990; thereafter, Director of the Strategic Defense Initiative Office, Department of Defense
+- Cooper, J. Ford (James F.), Charge d’Affaires ad interim, U.S. Embassy in St. George’s until July 1990; Special Coordinator, Partnership for Democracy and Development in Central America, Office of the Deputy Secretary of State (position later moved into the Bureau of Inter-American Affairs) [1991, 1992]
+- Cooper, Nancy J., Consul, U.S. Embassy in Muscat [1990-1992]
+- Cooper-Bahar, Dawn, Commercial Counselor, U.S. Consulate at Monterrey [1990-1992]
+- Cope, Nancy J., Administrative Counselor, U.S. Embassy in Sanaa [1991, 1992]; Administrative Counselor, U.S. Consulate at Guadalajara [1992]
+- Copenhaver, Barry S., Consul and Administrative Counselor, U.S. Embassy in Malabo [1992]
+- Corbett, Joan, Economic Counselor, U.S. Embassy in Bern [1989, 1990]; Director, Office of Aviation Programs and Policy, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Corbett, Larry, U.S. Delegation to the Conference on Security and Cooperation in Europe [1992]
+- Corbin, Michael H., Staff Assistant, Bureau of Near Eastern and South Asian Affairs, Department of State [1990]; Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1990, 1991]
+- Corden, Pierce S., Executive Secretary to the Representative for CD, Office of the Director, Arms Control and Disarmament Agency [1989]; Chief, European Security Negotiations Division, Bureau of Multilateral Affairs, Arms Control and Disarmament Division [1990-1992]
+- Cordovez, Diego, Ecuadorian Foreign Minister and Personal Representative of the Secretary General of the United Nations for Afghan Negotiations
+- Corey-Archer, Pamela, Country Affairs Officer, Office of American Republics Affairs, United States Information Agency [1990]; Public Affairs Officer, U.S. Embassy in San Salvador [1990-1992]
+- Cosgrove, Ellen, Political, Economic, and Commercial Counselor, U.S. Consulate at Palermo [1989]; Office of the Coordinator for Counter-Terrorism, Department of State [1992]
+- Cossiga, Francesco, President of Italy
+- Costello, Robert B., Under Secretary of Defense (Acquisitions) until May 12, 1989
+- Cotter, Michael W., Principal Deputy Director, Office of Defense Relations and Security Assistance, Bureau of Politico-Military Affairs, Department of State [1990]; thereafter Director, Office of Defense Relations and Security Assistance, Bureau of Politico-Military Affairs, Department of State [1990, 1991]
+- Coulson, E. Bret, Director for Legislative Affairs, National Security Council staff (1989, 1990)
+- Coulter, Frank J., Administrative Counselor, U.S. Embassy in Victoria [1989]; Administrative Counselor, U.S. Embassy in Prague [1990-1992]
+- Courtney, Caryl M., Refugee Coordinator, U.S. Embassy in Singapore [1990, 1991]; Consul and Refugee Coordinator, U.S. Embassy in Singapore [1991, 1992]
+- Courtney, Charles E., Public Affairs Officer, U.S. Embassy in Paris [1989]; Public Affairs Officer, U.S. Embassy in London [1989-1992]
+- Courtney, Robert B., Administrative Counselor, U.S. Embassy in Singapore [1989-1992]
+- Courtney, William H., Deputy Defense and Space Negotiator, U.S. Delegation to the Negotiations on Nuclear and Space Arms until 1991; U.S. Commissioner for the Bilateral Consultative Commission and Joint Consultative Commission; Consul General, U.S. Consulate at Alma-Ata [1992]; U.S. Ambassador to Kazakhstan from September 15, 1992
+- Coverdell, Paul D., President and CEO, Coverdell & Company; Director, Peace Corps, from April 19, 1989
+- Covey, James P. (Jock) Deputy Chief of Mission, U.S. Embassy in Cairo until 1989; Principal Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs from 1989 until 1991
+- Covington, Pamela J., Deputy Assistant Secretary for Passport Services, Bureau of Consular Affairs, Department of State [1990, 1991]
+- Covington, Philip, Public Affairs, Bureau of Consular Affairs, Department of State [1989]
+- Cowal, Sally M.S. Grooms, Public Affairs Officer, U.S. Embassy in Mexico City until 1989; Public Affairs Officer, U.S. Embassy in Madrid [1989]; Deputy Assistant Secretary for the Caribbean and Mexican Affairs, Bureau of Inter-American Affairs, Department of State from 1990 until 1991; U.S. Ambassador to Trinidad and Tobago from August 27, 1991
+- Cowell, William A., Consul, U.S. Embassy in Kuwait [1989]
+- Cowhig, David F., Jr., Consul and Administrative Counselor, U.S. Consulate at Naha [1992]
+- Coyne, Jonathan J., Consul, U.S. Embassy in Sofia [1989, 1990]
+- Craft, Andrew D., acting Public Affairs Officer, U.S. Embassy in Georgetown [1992]
+- Craft, William, Chief, Special Trade Activities Division, Office of International Trade, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1990]; Chief, Special Trade Activities Division, Office of Multilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1991, 1992]
+- Craig, John B., Deputy Chief of Mission, U.S. Embassy in Damascus [1989-1992]; Deputy Chief of Mission, U.S. Embassy in Bogota [1992]
+- Crane, Louise K., Public Affairs Officer, U.S. Embassy in San Jose [1989-1992]
+- Craner, Lorne W., Deputy Assistant Secretary (Senate), Bureau of Legislative Affairs, Department of State [1990-1992]; Director for Asian Affairs, National Security Council staff (1992)
+- Cranston, Alan, Senator (D-California); Democratic Whip from 1989
+- Crawford, John P., Deputy Director for International Affairs, Office of Freely Associated States Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989-1991]
+- Crawford, Juliette, Personal Assistant to the Assistant Secretary of State for Administration [1990]
+- Creagan, David J., Special Assistant to the Secretary of State [1989]; Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1990]
+- Creagan, James F., Deputy Chief of Mission, U.S. Embassy in Vatican City [1989-1991]; Consul General, U.S. Consulate at Sao Paulo [1991, 1992]
+- Creager, Donald, Public Affairs Officer, U.S. Embassy in Lilongwe [1989, 1990, 1991]
+- Creekmore, Marion V., Deputy Afghan Coordinator, Department of State; U.S. Ambassador to Sri Lanka and Maldives from November 29, 1989, until August 27, 1992
+- Crigler, Trusten Frank, U.S. Ambassador to Somalia until April 1, 1990
+- Crist, Janet L., Political Counselor, U.S. Embassy in Montevideo [1989, 1990]; Political Counselor, U.S. Embassy in Bogota [1991, 1992]
+- Cristiani Buckard, Alfredo, President of El Salvador from June 1, 1989
+- Crittenberger, Katharine, Chief, International Security Affairs Division, Bureau of Multilateral Affairs, Arms Control and Disarmament Agency, from 1989
+- Crocker, Alfred M. (A. Mark), Branch Public Affairs Officer, U.S. Consulate at Chengdu [1989, 1990]
+- Crocker, Chester Arthur, Assistant Secretary of State for African Affairs until April 21, 1989; Chairman of the Board of the United States Institute of Peace from 1992
+- Crocker, Gary B., Chief, Theater Military Forces Division, Office of Politico-Military Analysis, Bureau of Intelligence and Research, Department of State [1989-1991]
+- Crocker, Ryan C., Political Counselor, U.S. Embassy in Cairo [1989, 1990]; U.S. Ambassador to Lebanon from November 29, 1990
+- Croddy, Arnold J., Jr., (Jack), Economic Counselor, U.S. Embassy in Brussels [1989-1992]; Deputy Director, Office of Investment Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1992]
+- Cromwell, Stephen, Administrative Counselor, U.S. Consulate at Alexandria [1989]; Administrative Counselor, U.S. Embassy in Valletta [1991, 1992]
+- Crook, John R., Office of Treaty Affairs, Office of the Legal Adviser, Department of State [1990]; Legal Adviser, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1991, 1992]
+- Croom, Kathleen J., Public Affairs Officer, U.S. Embassy in Lima [1991, 1992]; Labor Attache, U.S. Embassy in Tegucigalpa [1992]
+- Crosbie, John Carnell, Canadian Minister of International Trade until April 20, 1991; Canadian Minister of Fisheries and Oceans from April 21, 1991
+- Cross, Thomas, Administrative Counselor, U.S. Embassy in Accra [1989, 1990]
+- Cross-Najafi, Rowena, Office of Supply and Transportation, Office of the Deputy Assistant Secretary for Operations, Bureau of Administration, Department of State [1991]; Consul and Administrative Counselor, U.S. Embassy in Moroni [1992]
+- Croteau, Charles E., Administrative Counselor, U.S. Embassy in Windhoek [1991, 1992]
+- Crouch, C. Miller, Press and Cultural Attache, U.S. Embassy in Bucharest [1989, 1990]
+- Crouch, J.D., II, Principal Deputy Assistant Secretary of Defense for International Security Policy (1990, 1991, 1992)
+- Crowder, Richard T., Under Secretary of Agriculture for International Affairs and Commodity Programs and President, Commodity Credit Corporation from 1989 until 1992
+- Crowe, William J., Jr., Adm., Chairman of the Joint Chiefs of Staff until September 30, 1989
+- Crowell, William G., Public Affairs Officer, U.S. Embassy in Reykjavik [1989, 1990]; Public Affairs Officer, U.S. Embassy in Bamako [1992]
+- Cuadrado, Joseph III, Administrative Counselor, U.S. Embassy in Kigali [1989, 1990]
+- Cubbison, Edwin P., Deputy Principal Officer, U.S. Consulate at Jerusalem [1989]; Consul, U.S. Embassy in Bogota [1990, 1991]; Consul General, U.S. Consulate at Tijuana [1992]
+- Cubstead, Lane T., Public Affairs Officer, U.S. Embassy in Nicosia [1989, 1990, 1991]
+- Culpepper, Frances R., Political Counselor, U.S. Embassy in Bamako [1989-1991]
+- Cummings, Barbara, Consul, U.S. Embassy in Tirana [1992]
+- Cundiff, Carl C., U.S. Ambassador to Niger until July 10, 1991; Special Negotiator, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Cunningham, Francis X., Science Attache, U.S. Embassy in Cairo [1989]; Deputy Director, Office of Environmental Protection, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990]; Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1990-1992]
+- Cunningham, Jeffery R., Chief, Industrial and Strategic Material Division, Office of International Commodities, (International Energy and Resources Policy), Bureau of Economic and Business Affairs, Department of State [1989]; Office of International Commodities, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1990]; Economic Counselor, U.S. Embassy in Copenhagen [1991, 1992]
+- Curley, Walter J.P., Jr., U.S. Ambassador to Ireland from September 18, 1975, until May 2, 1977; U.S. Ambassador to France from July 6, 1989
+- Curran, Brian D. (B. Dean), Deputy Chief of Mission, U.S. Embassy in Dublin [1989-1991]; Office of Legislative Management, Bureau of Legislative Affairs, Department of State [1992]
+- Curry, Dennis L., Consul, U.S. Consulate at Recife [1989]
+- Curtin, Jeremy F., Special Assistant to the Special Adviser for Eastern European Assistance, Office of the Deputy Secretary of State [1990, 1991]; Public Affairs Officer, U.S. Embassy in Helsinki [1991, 1992]
+- Curtin, Mary T., Office of Egyptian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990]; Political Counselor, U.S. Embassy in Bamako [1991, 1992]
+- Cushing, John, Staff Assistant, Bureau of Inter-American Affairs, Department of State [1992]
+- Cutler, Walter L., U.S. Ambassador to Saudi Arabia until April 30, 1989
+- Dabbs, Jere M., Commercial Counselor, U.S. Embassy in Quito [1990-1992]; Commercial Counselor, U.S. Consulate at Vancouver [1992]
+- Dachi, Stephen F., Public Affairs Officer, U.S. Embassy in New Delhi [1991, 1992]
+- Dagata, Martin V., U.S. Representative, DAC, U.S. Mission to the Organization for Economic Cooperation and Development [1991, 1992]
+- Daley, Kimberly, Consul, U.S. Consulate at Lubumbashi [1989, 1990, 1991]
+- Daley, Matthew P., Special Assistant, Bureau of East Asian and Pacific Affairs, Department of State [1989, 1990]; Director, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Bangkok [1992]
+- Daley, Paul, Economic Counselor, U.S. Embassy in Kuwait [1991, 1992]
+- Daley, Roger J., Consul, U.S. Embassy in La Paz [1989-1991]; Consul, U.S. Consulate at Istanbul [1991, 1992]
+- Dalgliesh, Albert W., Public Affairs Officer, U.S. Embassy in Abidjan [1989]; Public Affairs Officer, U.S. Embassy in Kuwait [1990-1992]; also Public Affairs Adviser to USCENTCOM
+- Dallara, Charles H., Assistant Secretary of the Treasury for International Affairs (1989, 1990)
+- D’Aloisio, Carmine, Commercial Counselor, U.S. Consulate at Dhahran [1989-1991]
+- Dalsimer, Anthony S., Director, Office of Central African Affairs, Bureau of African Affairs, Department of State [1989-1991]; Labor Attache, U.S. Embassy in Paris [1991, 1992]
+- Daly, Katherine, Deputy Director, Crisis Management Support Office, Operations Center, Executive Secretariat, Department of State [1990]
+- Dameron, Diana M., Deputy Director, Office of Regional Political-Economic Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Dameron, William H., III, Deputy Director, Office of Regional Political-Economic Affairs, Bureau of European and Canadian Affairs, Department of State [1989]; Economic Policy Staff, Bureau of African Affairs, Department of State [1991]; Economic Policy Staff Director, Bureau of African Affairs, Department of State [1992]; also acting Deputy Assistant Secretary of State for African Affairs during 1992
+- D’Andrea, Michael A., Political Counselor, U.S. Embassy in Lome [1991, 1992]
+- Dandridge, James T.L., II, Public Affairs Officer, U.S. Embassy in La Paz [1989]; Public Affairs Officer, U.S. Embassy in Santiago [1989-1992]
+- Dane, Michael I., Consul, U.S. Embassy in Cotonou [1989-1991]
+- Danforth, John C., Senator (R-Missouri)
+- Danga, Karl I., Charge d’Affaires, U.S. Embassy in Moroni [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Moroni [1991]; Consul, U.S. Consulate at Johannesburg [1991, 1992]
+- Daniel, Mary M., Principal Officer, U.S. Consulate at Nuevo Laredo [1992]
+- Daniels, John C., Administrative Counselor, U.S. Embassy in Islamabad [1989]
+- Danilowicz, Jon, Labor Attache, U.S. Embassy in Harare [1992]
+- Dankert, Roger L., Consul General, U.S. Consulate at Sapporo [1990-1992]; Director, Office of Asylum Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Danylyk, John T., Chief, Communist Economic Relations Division, Office of Economic Analysis, Bureau of Intelligence and Research, Department of State [1989-1992]
+- Danzansky, Stephen, Deputy Assistant to the President and Director, Office of Cabinet Affairs from June 26, 1989, until April 20, 1991; Chief of Staff/Counselor to the Secretary of Education (1991, 1992)
+- Darby, Michael R., Under Secretary of Commerce for Economic Affairs (1989, 1990, 1991)
+- Daris, Charles L., Deputy Director, Office of West African Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Director, Office of Francophone West African Affairs, Bureau of African Affairs, Department of State [1991]
+- Darman, Richard G., Director, Office of Management and Budget, from January 27, 1989
+- Darrach, Daniel D., Consul, U.S. Embassy in St. Johns [1989]; Administrative Counselor, U.S. Consulate at Ciudad Juarez [1991]; Office of Intelligence Liaison, Bureau of Intelligence and Research, Department of State [1992]
+- Daru, Terrence J., Consul and Administrative Counselor, U.S. Consulate at Surabaya [1989, 1990]
+- Davenport, Walter, Consul, U.S. Consulate at Amsterdam [1989, 1990]
+- Davia, Renato L., Commercial Counselor, U.S. Consulate at Jeddah [1992]
+- David, Gerald, Bureau of International Narcotics Matters, Department of State [1990]; Chief, Aviation Liaison Division, Office of Transnational Issues, Bureau of International Narcotics Matters, Department of State [1991, 1992]
+- Davidow, Jeffery S., U.S. Ambassador to Zambia until March 31, 1990; Principal Deputy Assistant Secretary of African Affairs from April 1990
+- Davidson, Julie A., Consul, U.S. Embassy in Pretoria [1991, 1992]
+- Davidson, Lynne, Member, Policy Planning Staff, Department of State [1989-1992]
+- Davidson, William C., Bureau of Politico-Military Affairs, Department of State [1990, 1991]; Political Counselor, U.S. Embassy in Helsinki [1992]
+- Davies, Glynn T., Director, Operations Center, Executive Secretariat, Department of State [1992]
+- Davis, Arthur H., Jr., U.S. Ambassador to Panama until January 3, 1990
+- Davis, Charles D., Deputy Director, Office of West African Affairs, Bureau of African Affairs, Department of State [1989]
+- Davis, Christopher, Office of Terrorism and Narcotics Analysis, Bureau of Intelligence and Research, Department of State [1990-1992]; Political Counselor, U.S. Embassy in Antananarivo [1992]
+- Davis, J. Michael, Political Counselor, U.S. Embassy in Dakar [1989-1991]
+- Davis, John R., Jr., U.S. Ambassador to Poland until July 20, 1990; U.S. Ambassador to Romania from March 2, 1992
+- Davis, Kenneth B., Economic and Commercial Counselor, U.S. Embassy in Luxembourg City [1989, 1990]; Political, Economic, and Commercial Counselor, U.S. Embassy in Luxembourg City [1991]
+- Davis, Richard A., Deputy Director, Office of Strategic Nuclear Policy, Bureau of Politico-Military Affairs, Department of State [1989]; Director for Defense Policy and Arms Control, National Security Council staff from 1989 until 1992
+- Davis, Richard V., Administrative Counselor, U.S. Embassy in Valletta [1990]
+- Davis, Ruth A., Consul General, U.S. Consulate at Barcelona until 1991; The Senior Seminar, Foreign Service Institute, Department of State from 1991 until 1992; U.S. Ambassador to Benin from December 24, 1992
+- Davis, William, Public Affairs Officer, U.S. Embassy in Oslo [1991, 1992]
+- Davison, John D., Director, Office of East African Affairs, Bureau of African Affairs, Department of State [1989-1991]
+- Davison, John W., Economic Counselor, U.S. Embassy in Antananarivo [1990, 1991]
+- Davison, Mark, Consul, U.S. Consulate at Barcelona [1989-1991]; Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Dawkins, Stephen P., Deputy Team Leader, Office of Inspections, Office of the Inspector General, Department of State [1990, 1991]
+- Dawson, Christine, Member, Policy Planning Staff, Department of State [1990-1992]
+- Dawson, John R., Economic Counselor, U.S. Embassy in San Jose [1989, 1990]; Economic Counselor, U.S. Embassy in Panama City [1990, 1991]; Director, Office of Panamanian Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Dawson, Theodore A., Administrative Counselor, U.S. Embassy in Bern [1989-1992]
+- Dawson, William C., Public Affairs Officer, U.S. Embassy in Kathmandu [1989, 1990]; Area Personnel Staff, Office of Personnel, Bureau of Management, United States Information Agency [1992]
+- Day, Robert E., Jr., Science Attache, U.S. Embassy in Belgrade [1989, 1990]
+- Day, Terrence M., Administrative Counselor, U.S. Embassy in Nairobi [1989, 1990, 1991]
+- Deal, Timothy E., Deputy U.S. Representative to the Organization of Economic Cooperation and Development; Director, Office of Eastern European and Yugoslav Affairs, Bureau of European and Canadian Affairs, Department of State [1989]; Acting Special Assistant to the President for National Security Affairs and Senior Director for International Economic Affairs, National Security Council staff from March 1989 until December 1989; Director for International Economic Affairs from November 1989 until May 1990; Special Assistant to the President for National Security Affairs and Senior Director for International Economic Affairs from May 1990 until April 1992; Deputy Chief of Mission, U.S. Embassy in London [1992]
+- Dean, David, Director, American Institute in Taiwan in Taipei until 1989
+- Dean, Margaret M., Chief, Assignment Division, (NEA), Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1990, 1991]; Chief, Current Intelligence Staff, Office of Intelligence Support, Bureau of Intelligence and Research, Department of State; also acting Director, Office of Intelligence Support, Bureau of Intelligence and Research, Department of State [1992]
+- Dean, Nicholas J., Political and Economic Counselor, U.S. Consulate at Leipzig [1991, 1992]
+- Deaner, Stephanie, Executive Resources and Performance Staff, Office of Civil Service Personnel Management, Bureau of Personnel, Department of State [1989-1990]; Chief, Program Operations and Analysis Division, Office of the Controller/Executive Director, Bureau of International Narcotics Matters, Department of State [1990-1992]
+- Dearborn, Douglas, acting Public Affairs Officer, U.S. Embassy in Monrovia [1991]
+- Deason, Robert G., Administrative Counselor, U.S. Embassy in Seoul [1989, 1990]; Executive Director, Bureau of Intelligence and Research [1992]
+- Deasy, John P., Jr., Staff Assistant, Bureau of Inter-American Affairs, Department of State [1989]; Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1991]
+- Debell, Georgia J., Deputy Chief of Mission, U.S. Embassy in Sanaa [1989, 1990]; Deputy Executive Director, Bureau of Near Eastern and South Asian Affairs, Department of State [1990-1992]
+- DeBrosse, Ronald P., Branch Public Affairs Officer, U.S. Consulate at Rio de Janeiro [1992]
+- Deby, Idriss, President of Chad
+- DeCain, Vincent, Deputy Assistant Secretary of State for Politico-Military Affairs [1989]; Deputy Assistant Director, Bureau of Nuclear Weapons and Weapons Control, Arms Control and Disarmament Agency [1990]; Deputy Assistant Director, Bureau of Nonproliferation Policy, Arms Control and Disarmament Agency [1991, 1992]
+- DeConcini, Dennis, Senator (D-Arizona)
+- Dehmlow, Jay L., Economic and Commercial Counselor, U.S. Embassy in Reykjavik [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Djibouti [1991, 1992]
+- DeJarnette, Edmund T., Assistant Inspector General, Office of Inspections, Office of the Inspector General, Department of State [1989-1990]; U.S. Ambassador to Tanzania from February 26, 1990, until September 12, 1992; Director, U.S. Embassy in Luanda from October 1, 1992
+- De Klerk, Frederik Willem, State President of South Africa
+- De la Garza, E. (Kika), member, U.S. House of Representatives (D-Texas); Chair, House Agriculture Committee
+- Deland, Michael R., Chair, Council on Environmental Quality
+- De la Pena, Miguel, Economic Counselor, U.S. Embassy in Managua [1991, 1992]
+- De la Pena, Miguel, Economic Counselor, U.S. Embassy in Managua [1991, 1992]
+- Dell, Christopher W., Executive Secretary, Office of the Special Negotiator, Bureau of European and Canadian Affairs, Department of State [1989]; Special Assistant, Office of the Under Secretary of State for International Security Affairs [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Maputo [1992]
+- Dellums, Ronald V., member, U.S. House of Representatives (D-California)
+- Delors, Jacques, President of the European Communities Commission
+- Del Prado, Guido, Administrative Counselor, U.S. Embassy in San Salvador [1989, 1990]
+- Demarest, David F., Jr., Assistant to the President for Communications from January 21, 1989, until August 23, 1992; thereafter Assistant to the President for Public Liaison and Intergovernmental Affairs
+- Dembro, Mark D., Political Counselor, U.S. Embassy in Djibouti [1989]; Office of Food Policy and Programs, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1992]
+- Dembski, Sandra A., Economic Counselor, U.S. Embassy in Budapest [1989, 1990]; Refugee Coordinator, U.S. Embassy in Islamabad [1990-1992]; Director, Office of International Economic Policy, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agencies, Bureau of International Organization Affairs, Department of State [1992]
+- Deming, Rust M., Political Counselor, U.S. Embassy in Tokyo [1989-1991]; Director, Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Demiray, Janet C., Branch Public Affairs Officer, U.S. Consulate at Montreal [1991, 1992]
+- Demirel, Suleiman, Prime Minister of Turkey
+- Demongeot, Patrick D., Officer-in Charge, Evaluation and Planning Division, Office of International Development Assistance, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1989]; Officer-in-Charge, Economic Development Division, Office of International Development Assistance, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1990, 1991]
+- Dempsey, George T., Political Counselor, U.S. Embassy in Dublin [1989-1992]; Labor Attache, U.S. Embassy in Caracas [1992]
+- Deney, Ann Michelle, Administrative Counselor, U.S. Consulate at Guayaquil [1991, 1992]
+- Deng Xiaoping, Chinese Paramount leader and Chairman of the Chinese Central Military Commission until November 1989
+- Denktash, Rauf, leader of the Turkish Cypriot community
+- Dennis, Patricia Diaz, Assistant Secretary of State for Human Rights and Humanitarian Affairs from August 24, 1992, until January 20, 1993
+- Denny, David A., Political and Economic Counselor, U.S. Consulate at Hamilton [1989-1992]
+- Dent, Lynwood M., Jr., Office of Information Resources Management, Executive Secretariat, Department of State [1990]; Deputy Executive Secretary, Executive Secretariat, Department of State [1990-1992]
+- DePierre-Hollowell, Daria, Consul, U.S. Consulate at Bordeaux [1991, 1992]
+- De Pree, Willard A., U.S. Ambassador to Bangladesh until August 17, 1990
+- DeRaat, Jacob, Consul, U.S. Embassy in Paramaribo [1989, 1990]; Commercial Counselor, U.S. Embassy in Paramaribo [1991]
+- Derderian, Jill, Political Counselor, U.S. Consulate at Bombay [1991, 1992]
+- Derham, James M., Economic Counselor, U.S. Embassy in Buenos Aires [1992]; Office of Bilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Derrick, James A., Administrative Counselor, U.S. Mission at Phnom Penh [1992]
+- Derrick, Steven M., Administrative Counselor, U.S. Consulate at Nuevo Laredo [1992]
+- Derwinski, Edward J., Under Secretary of State for Security Assistance, Science, and Technology until January 21, 1989; Secretary of Veterans Affairs from March 15, 1989, until September 26, 1992; thereafter, Deputy Co-chairperson for Ethnic Coalitions, Bush-Quayle campaign
+- Desantillana, Gerald, Political Counselor, U.S. Embassy in Madrid [1989]; Examination Division, Office of Recruitment, Examination and Employment, Bureau of Personnel, Department of State [1990, 1991]; Director, Office of Analysis for Inter-American Affairs, Bureau of Intelligence and Research, Department of State [1992]
+- DeShazo, Peter, Public Affairs Officer, U.S. Embassy in Panama City [1991, 1992]
+- DeSutter, Paula Ardarno, Chief, Division of Compliance and Implementation, Bureau of Verification and Implementation, Arms Control and Disarmament Agency [1991, 1992]
+- DeThomas, Joseph M., Deputy Director, Office of Nuclear Technology and Safeguards, (Nuclear Energy and Energy Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Addas Ababa [1991, 1992]
+- Deutch, Ronald J., Administrative Counselor, U.S. Consulate at Shanghai [1991, 1992]
+- Deutsch, Steve, Office of West African Affairs, Bureau of African Affairs, Department of State [1991]; AF [1992]
+- Dever, Matthew B., Consul, U.S. Embassy in Bangui [1991, 1992]
+- Devight, Gary D., Economic Counselor, U.S. Embassy in Khartoum [1989]; Senior Economist, Economic Policy Staff, Bureau of African Affairs, Department of State [1990, 1991]; Director for Bilateral Relations, International Communications and Information Policy, Department of State [1992]
+- Devine, James B., Science Attache, U.S. Embassy in London [1989, 1990, 1991]
+- De Vos, Peter J., Deputy Assistant Secretary for Science and Technology Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State from 1989 until 1990; Principal Deputy Assistant Secretary and acting Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs during 1990; U.S. Ambassador to Liberia from June 22, 1990, until July 27, 1992; U.S. Ambassador to Tanzania from January 8, 1993
+- Dewald, William, Deputy Director, Planning and Economic Analysis Staff, Bureau of Economic and Business Affairs, Department of State [1989-1991]
+- De Wilde, Jan, Consul General, U.S. Consulate at Chengdu [1989, 1990]; Chief, China Division, Office of Analysis for East Asia and the Pacific, Bureau of Intelligence and Research, Department of State [1990]; Director, Office of Asian Refugee Assistance, Refugee Programs, Department of State [1992]
+- Dewitt, Robert C., Economic and Commercial Counselor, U.S. Embassy in Addis Ababa [1991, 1992]
+- Dheer, Rajendra K., Commercial Counselor, U.S. Consulate at Madras [1989-1992]
+- Dhir, Suresh Kuman, Commercial Counselor, U.S. Embassy in Abu Dhabi [1991, 1992]
+- Dibble, Elizabeth L., Commercial Counselor, U.S. Embassy in Tunis [1990-1992]
+- Dibble, Philo L., Labor Attache, U.S. Embassy in Tunis [1990-1992]
+- Dickens, C. Edward, Staff Assistant, Policy Planning Staff, Department of State [1990]; Executive Secretary, Board of the Foreign Service, Bureau of Personnel, Department of State [1991]; Policy Coordination Staff, Bureau of Personnel, Department of State [1992]; Political Counselor, U.S. Embassy in Reykjavik [1992]
+- Dickerman, Charles R., Public Affairs Officer, U.S. Embassy in Copenhagen [1991, 1992]
+- Dickey, Angela R., Political Counselor, U.S. Embassy in Nouakchott [1991, 1992]
+- Dickey, Verne R., Economic Counselor, U.S. Embassy in Wellington [1989, 1990]; Contemporary Documents Review, Office of Freedom of Information, Privacy, and Classification Review, Office of the Deputy Assistant Secretary for Information Services, Bureau of Diplomatic Security, Department of State [1991, 1992]
+- Dickson, John S., Branch Public Affairs Officer, U.S. Consulate at Durban [1989-1992]
+- Diebold, David A., Commercial Counselor, U.S. Embassy in London [1989]
+- Dieterich, William J., Deputy Chief of Mission, U.S. Embassy in San Salvador [1989-1991]; Charge d’Affaires, U.S. Embassy in San Salvador [1992]; Public Affairs Officer, U.S. Embassy in Mexico City [1992]
+- Dietrich, Gary D., Chief, North Africa and Arabian Peninsula Division, Office of Analysis for Near East and South Asia, Bureau of Intelligence and Research, Department of State [1989]; Director, Office of Strategic and Proliferation Affairs, Bureau of Intelligence and Research, Department of State [1992]
+- DiGiovanna, David C., Economic Counselor, U.S. Consulate at Medan [1991, 1992]
+- Dillard, Diane, Consul General, U.S. Embassy at Florence [1989]; Consul, U.S. Embassy in Paris [1991, 1992]
+- Dillen, Mark, Director, Office of Press Relations, Bureau of Public Affairs, Department of State [1990-1991]; Public Affairs Officer, U.S. Embassy in Sofia [1991, 1992]
+- Dillery, C. Edward, Director, Office of Management Policy, Office of the Under Secretary of State for Management [1989]; Associate Comptroller, Management Policy, Bureau of Finance and Management Policy, Department of State [1990, 1991]
+- Dillon, James E., Consul, U.S. Embassy in Bamako [1989, 1990]
+- Dillon, Raymond W., Jr., Special Assistant, Bureau of African Affairs, Department of State [1992]
+- Dinger, John R., Consul General, U.S. Consulate at Sapporo [1989]; Labor Attache, U.S. Embassy in Johannesburg [1989-1992]
+- Dinger, Larry M., Office of Indonesia, Malaysia, Brunei, and Singapore Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990-1992]
+- Dion, Jerrold Mark, Deputy Assistant Secretary of State for International Narcotics Matters [1989]; Deputy Chief of Mission, U.S. Embassy in Lima [1990, 1991]; Consul General, U.S. Consulate at Istanbul [1992]
+- Diouf, Abdou, President of Senegal
+- DiPalma, Lucille, Branch Public Affairs Officer, U.S. Consulate at Florence [1991, 1992]
+- DiTella, Guido, Argentine Foreign Minister
+- Dittmer, Lyle A., Administrative Counselor, U.S. Embassy in Manama [1990-1992]
+- Dixon, Michael T., Deputy Director, Office of International Security Policy, Bureau of Politico-Military Affairs, Department of State [1989]; Deputy Director, Office of Defense Trade Controls, Bureau of Politico-Military Affairs, Department of State [1990-1992]
+- Dizikes, Dean, Director, Office of Field Support Liaison, Office of the Deputy Assistant Secretary for Visa Services, Bureau of Consular Affairs, Department of State [1990, 1991]; Consul, U.S. Consulate at Toronto [1992]
+- Djerejian, Edward Peter, U.S. Ambassador to Syria until July 25, 1991; Assistant Secretary of State for Near Eastern Affairs from September 30, 1991; also acting Assistant Secretary of State for South Asian Affairs from August 24, 1992
+- Dlouhy, David B., Deputy Chief of Mission, U.S. Embassy in San Salvador [1989]; Deputy Chief of Mission, U.S. Embassy in Luxembourg City [1989-1992]; Deputy Chief of Mission, U.S. Embassy in La Paz [1992]
+- Dmytrewycz, Bohdan, Administrative Counselor, U.S. Embassy in Panama City [1990]
+- Dobbins, James F., Jr., Deputy Chief of Mission, U.S. Embassy in Bonn, until 1989; Principal Deputy Assistant Secretary of State for European and Canadian Affairs from 1989 until 1991; acting Assistant Secretary of State for European and Canadian Affairs during 1991; U.S. Representative to the European Communities from October 9, 1991
+- Dobriansky, Paula J., Deputy Assistant Secretary of State for Bilateral/Multilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, until 1990; Associate Director, Bureau of Policy and Programs, United States Information Agency
+- Dobson, Douglas S., Administrative Counselor, U.S. Consulate at Zagreb [1991, 1992]
+- Dodd, Christopher J., Senator (D-Connecticut)
+- Dodd, James P., Labor Attache, U.S. Embassy in Manila [1989-1992]; Labor Attache, U.S. Embassy in Tokyo [1992]
+- Dodman, Michael J., Staff Assistant, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Office of Eastern European and Yugoslav Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Doe, Gen. Samuel K., President of Liberia until September 9, 1990
+- Doherty, Paul M., Legislative Management Officer, Bureau of Legislative Affairs, Department of State [1989, 1990]; Consul, U.S. Embassy in Montevideo [1991, 1992]
+- Dolan, Daniel L., Director, Commercial Legislative and Public Affairs, Bureau of Economic and Business Affairs, Department of State [1989]; Science Attache, U.S. Mission to the Organization for Economic Cooperation and Development [1989-1992]; Public Affairs Officer, U.S. Mission to the Organization for Economic Cooperation and Development [1992]
+- Dole, Elizabeth Hanford, Secretary of Labor from January 25, 1989
+- Dole, Robert J., Senator (R-Kansas); Senate Minority Leader; Republican candidate for President in 1988
+- Domenici, Pete V., Senator (R-New Mexico)
+- Donahue, Dennis D., Public Affairs Officer, U.S. Embassy in Singapore [1991, 1992]
+- Donahue, Gilbert J., Political and Economic Counselor, U.S. Consulate at Hong Kong [1989-1992]
+- Donley, Michael, Senior Director of the White House Situation Support Staff
+- Donnelly, Shaun E., Deputy Chief of Mission, U.S. Embassy in Tunis [1989-1992]; Director, Office of Regional Political-Economic Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Dorminey, A. Blair, Director and Counselor, Office of Counselor/Planning, National Security Council staff from March 1989 until May 1990; thereafter, Director of Planning and Legal Adviser, National Security Council staff
+- Dorn, Nancy P., Special Assistant to the President for Legislative Affairs from January 31, 1989; Deputy Assistant Secretary of Defense for Inter-American Affairs from 1990
+- Dorris, C. Eugene (Carl E.), Consul General, U.S. Consulate at Shenyang [1989, 1990]; Deputy Director, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Deputy Principal Officer, U.S. Consulate at Jerusalem [1992]
+- Dorschner, Jon Peter, Labor Attache, U.S. Embassy in Lagos [1992]
+- Dorsey, Liane, Economic and Commercial Counselor, U.S. Consulate at Jerusalem [1989]; Political Officer, Office of Regional and Multilateral Force and Observers, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Office of Lebanon, Jordan, Syrian Affairs, Department of State [1992]
+- dos Santos, Jose Eduardo, President of Angola
+- Dotson, Richard M., Deputy Director, Office of Panamanian Affairs, Bureau of Inter-American Affairs, Department of State [1990-1992]; Political Counselor, U.S. Consulate at Munich [1992]
+- Doubleday, Thomas P., Jr., Labor Attache, U.S. Embassy in Lagos [1989-1991]; Political Counselor, U.S. Embassy in Monrovia [1991, 1992]
+- Dougherty, Michael E., Political and Military Counselor, U.S. Embassy in Ouagadougou [1989]
+- Dougherty, Thomas J., Economic Counselor, U.S. Consulate at Johannesburg [1991, 1992]
+- Douglas, Walter, Branch Public Affairs Officer, U.S. Consulate at Pusan [1992]
+- Dowdy, F. Andrew, Consul, U.S. Consulate at Mazatlan [1991, 1992]
+- Dowdy, Nancy M., Assistant Vice President for Research, University of Chicago, until 1989; Representative to the Strategic Arms Reduction Talks in Geneva from 1989 until 1991; Representative to the Joint Compliance and Inspection Commission in Geneva from 1991 until 1992; Chief Science Advisor, Arms Control and Disarmament Agency, from 1992
+- Dowling, Thomas E., Bureau of Politico-Military Affairs, Department of State [1990]; Deputy Chief of Mission and Political and Economic Counselor, U.S. Embassy in Ulaanbaatar [1991]; Political Counselor, U.S. Embassy in Ulaanbaatar [1992]
+- Downey, Robert E., Legislative Management Officer, Bureau of Legislative Affairs, Department of State [1989]; Political Counselor, U.S. Embassy in Khartoum [1989-1991]; Chief, Assignment Division (AF), Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Doyle, James R., Operations Officer, Tax Programs, Office of Foreign Missions, Department of State [1990]; Administrative Counselor, U.S. Embassy in Port Moresby [1990-1992]
+- Dragnich, George S., Principal Officer, U.S. Consulate at Oran [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Lilongwe [1990-1992]; Labor Attache, U.S. Embassy in Canberra [1992]
+- Dreher, David Ross, Deputy Principal Officer, U.S. Consulate at Curacao [1989, 1990]; Office of Field Support Liaison, Visa Services, Bureau of Consular Affairs, Department of State [1990, 1991]; Foreign Service Institute, Department of State [1992]
+- Drescher, Conrad, Consul, U.S. Embassy in Cairo [1989]
+- Dress, Alice A., Economic Counselor, U.S. Embassy in Dakar [1989-1991]; Office of Regional Political-Economic Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Drew, Sarah F., General Services Officer, U.S. Embassy in Bangui [1989]; Consul and Administrative Counselor, U.S. Consulate at Izmir [1990-1992]; Administrative Counselor, U.S. Embassy in Valletta [1992]
+- Driscol, John, Jr., Economic Counselor, U.S. Consulate at Johannesburg [1989-1991]
+- Droney, Dennis A., Consul and Administrative Counselor, U.S. Embassy in Bandar Seri Begawan [1989-1991]; Administrative Counselor, U.S. Consulate at Chiang Mai [1991, 1992]
+- Drouin, Philip R., Office of Canadian Affairs, Bureau of European and Canadian Affairs, Department of State [1991]; Developing Countries and Trade Organization Division, Office of Bilateral Trade Affairs, Bureau of Economic and Business Affairs, Department of State [1992]
+- Drucker, Catherine, Consul, U.S. Embassy in Manama [1989]
+- Drucker, Milton K., Office of Andean Affairs, Bureau of Inter-American Affairs, Department of State [1990]; Office of International Commodities, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1991]; Deputy Director, Office of International Commodities, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1992]
+- Duarte, Jose Napoleon, President of El Salvador until June 1, 1989
+- Dubose, Robert W., Jr., Charge, U.S. Embassy in St. Johns [1989]; Deputy Director, Office of Theater Nuclear Policy, Bureau of Politico-Military Affairs, Department of State [1989]; Deputy Director, Office of Weapons Proliferation Policy, Bureau of Politico-Military Affairs, Department of State [1990]; Department of State Representative, U.S. Delegation to the Conference on Disarmament [1992]
+- Dubrow, Stephen M., Press and Cultural Attache, U.S. Embassy in Warsaw [1990, 1991]; Public Affairs Officer, U.S. Mission to the European Communities [1992]
+- Duddy, Patrick D., Cultural Affairs Officer, U.S. Embassy in San Jose [1989, 1990]; Public Affairs Officer, U.S. Embassy in Asuncion [1991, 1992]
+- Dudik-Gayoso, Joan, Director, Office of International Development Assistance, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1989-1991]
+- Dudley, James L., Economic and Commercial Counselor, U.S. Embassy in Georgetown [1989-1991]; Southern Europe Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1991, 1992]
+- Duelfer, Charles A., Deputy Assistant Secretary of State for Politico-Military Affairs and Director, Center for Defense Trade [1990-1992]
+- Duesterberg, Thomas J., Assistant Secretary of Commerce for International Economic Policy from 1989 until 1992
+- Dugan, J. Gordon, Economic and Commercial Counselor, U.S. Embassy in Port-au-Prince [1989, 1990]; Officer-in-charge of Industrial and Communications Programs, Office of Technical Specialized Agencies, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1990, 1991]; Asia, Africa, and Latin America Division, Office of Economic Analysis, Bureau of Intelligence and Research, Department of State [1992]
+- Dugan, Michael J., Gen., USAF, Chief of Staff of the Air Force from July 1, 1990, until September 17, 1990
+- Duggan, Joseph, Special Assistant to the President and Secretary of State for Arms Control Matters [1990]
+- Dukakis, Michael, Democratic Governor of Massachusetts; Democratic Nominee for President, 1988
+- Dumas, Roland, French Foreign Minister
+- Dunbar, Charles F., U.S. Ambassador to Yemen until June 13, 1991; Senior Adviser, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Duncan, Kenneth A., Consul, U.S. Consulate at Karachi [1991, 1992]
+- Duncan, Robert B., Economic Counselor, U.S. Embassy in Bangkok [1989, 1990]; Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1990, 1991]; Director, Office of Economic Analysis, Bureau of Intelligence and Research, Department of State [1992]
+- Duncan, Robert C., Director of Defense Research and Engineering until November 20, 1989; Director of Operational Test and Evaluation, Department of Defense, from November 22, 1989, until January 20, 1993
+- Duncombe, Bruce F., Economic Counselor, U.S. Embassy in Jakarta [1989-1991]; Economic Counselor, U.S. Embassy in Lagos [1991, 1992]
+- Dunford, David J., Charge d’Affaires and Deputy Chief of Mission, U.S. Embassy in Riyadh [1989-1992]; U.S. Ambassador to Oman from November 1, 1992
+- Dunkerley, Craig G., Political Adviser, U.S. Mission to the North Atlantic Treaty Organization [1989-1991]
+- Dunlop, Thomas P.H., Director, Office of Korean Affairs, Bureau of East Asian and Pacific Affairs, Department of State, until 1989
+- Dunn, David B., Deputy Chief of Mission, U.S. Embassy in Bujumbura [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Port Louis [1991, 1992]
+- Dunn, Greg, Special Assistant, Office of the Under Secretary of State for International Security Affairs [1991, 1992]
+- Dunn, James, Economic and Commercial Counselor, U.S. Embassy in Freetown [1989]
+- Dunn, Timothy J., Political Counselor, U.S. Embassy in Buenos Aires [1992]
+- Dunne, Charles W., Office of Northern Gulf Affairs (Iran and Iraq), Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Economic and Commercial Counselor, U.S. Consulate at Jerusalem [1992]
+- Dunne, Michele D., Political Counselor, U.S. Consulate at Jerusalem [1992]
+- Duran Ballen, Sixto, President of Ecuador from August 10, 1992
+- Durkee, Michael L., Deputy Chief of Mission, U.S. Embassy in Helsinki [1989, 1990]; Consul General, U.S. Consulate at Toronto [1990-1992]
+- Dworken, Morton R., Political/Military Counselor, U.S. Embassy in Ankara [1989]; Director, Office of Security Assistance and Sales, Bureau of Politico-Military Affairs, Department of State [1989]; Executive Assistant to the Under Secretary of State for International Security Affairs [1990, 1991]; Political Counselor, U.S. Embassy in Canberra [1991, 1992]
+- Dworkin, David M., Special Assistant for Policy, Bureau of Inter-American Affairs, Department of State [1990, 1991]; acting Deputy Assistant Secretary of State for Legislative Affairs (House) and Legislative Management Officer, Office of Legislative Management, Bureau of Legislative Affairs, Department of State [1991, 1992]
+- Dwyer, Stuart A., Consul, U.S. Consulate at Quebec [1990-1992]
+- Dyke, Nancy Bearg, Director for International Programs, National Security Council staff
+- Dyles, Jake M., Jr., Consul General, U.S. Consulate at Amsterdam [1989-1991]; Consul General, U.S. Consulate at Monterrey [1991, 1992]
+- Eagleburger, Lawrence Sidney, Secretary of State from December 8, 1992, until January 20, 1993; Acting Secretary of State from August 23, 1992, until December 8, 1992; Deputy Secretary of State from March 20, 1989, until December 8, 1992
+- Ealum, James M., Special Adviser for Afghanistan, Bureau of Near Eastern and South Asian Affairs, Department of State [1989]
+- Earle, Robert L., Public Affairs Officer, U.S. Embassy in Mexico City [1989-1992]
+- Early, Evelyn, Public Affairs Officer, U.S. Embassy in Khartoum [1989]
+- Early, Suzanne, Assistant U.S. Trade Representative for Agriculture, Office of the United States Trade Representative, from 1989 until 1992
+- East, James, Col., USAF, Director, Office of International Security Affairs, Bureau of Politico-Military Affairs, Department of State [1990]
+- Eastham, Alan W., Jr., Special Assistant, Office of the Under Secretary of State for Political Affairs [1989]; Political Counselor, U.S. Embassy in Nairobi [1990-1992]
+- Eaton, Lynwood L., Deputy Director, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1990, 1991]
+- Eaton, Mark C., Economic and Political Counselor, U.S. Embassy in Addis Ababa [1989-1992]
+- Eaton, William A., Administrative Counselor, U.S. Consulate at Istanbul [1989]; Deputy, Office of the Senior Coordinator, Bureau of Politico-Military Affairs, Department of State [1992]
+- Eberle, Kyra V., Branch Public Affairs Officer, U.S. Consulate at Lahore [1989-1991]; Branch Public Affairs Officer, U.S. Consulate at Cape Town [1991]
+- Ebner, Douglas, Public Affairs Officer, U.S. Embassy in Maseru [1990, 1991]
+- Ebner, Eugene, Director for Defense Policy/Arms Control, National Security Council staff, from March until November 1989
+- Eccel, A. Chris, Branch Public Affairs Officer, U.S. Consulate at Jeddah [1989-1992]; Public Affairs Officer, U.S. Embassy in Manama [1992]
+- Ecsodi, Joao M., Branch Public Affairs Officer, U.S. Consulate at Porto Alegre [1991, 1992]
+- Ecton, Stephen M., Director, Office of Development Finance, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1989, 1990]; Deputy Chief of Mission, U.S. Mission to the Organization for Economic Cooperation and Development [1990-1992]
+- Eddy, John J., Consul General, U.S. Consulate at Bombay [1989, 1990]; Team Leader, Office of Inspections, Office of the Inspector General, Department of State [1992]
+- Edelman, Eric S., Assistant Deputy Under Secretary of Defense for Soviet and East European Affairs (later Russian, Eurasian, and Eastern Europe Affairs) from 1989 until 1992
+- Edelman, Mark L., U.S. Ambassador to Cameroon until March 19, 1989; Assistant Administrator for Africa, Agency for International Development, from March until May 1989; Deputy Administrator, Agency for International Development, from June 1989; acting Administrator, Agency for International Development from June 1989 until 1990
+- Edensword, Jon G., Consul General, U.S. Embassy in Mexico City [1989-1991]
+- Edgar, William H., Economic Counselor, U.S. Embassy in Paris [1989, 1990]
+- Edson, Gary, Chief of Staff and Counselor, Office of the United States Trade Representative (1989-1992)
+- Edwards, Joan, Commercial Counselor, U.S. Embassy in Warsaw [1992]
+- Egan, Wesley W., Jr., Deputy Chief of Mission, U.S. Embassy in Lisbon [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Cairo [1990-1992]
+- Egger, Philip H., Political Counselor, U.S. Embassy in Lusaka [1989, 1990]; Consul, U.S. Embassy in Sofia [1991, 1992]
+- Ehrman, James J., Labor Attache, U.S. Consulate at Sao Paulo [1989, 1990]; Labor Attache, U.S. Embassy in New Delhi [1990-1992]
+- Eicher, Peter D., Deputy Director, Office of Egypt Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989, 1990]; Specialist in Agricultural Affairs, U.S. Mission to the European Office of the United Nations and Other International Organizations [1991]; Political Counselor, U.S. Mission to the European Office of the United Nations and Other International Organizations [1992]
+- Eighmie, James W., Jr., Energy Adviser, U.S. Mission to the Organization for Economic Cooperation and Development [1989]; Deputy Director, Office of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990-1991]; Branch Public Affairs Officer, U.S. Consulate at Dhahran [1991, 1992]
+- Eimer, Manfred, Assistant Director, Bureau of Verification and Intelligence (later Verification and Implementation), Arms Control and Disarmament Agency, until 1992
+- Einaudi, Luigi R., Director, Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State [1989]; U.S. Permanent Representative to the Organization of American States from November 6, 1989; also Director, Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State [1991]
+- Einhorn, Robert J., Member and Senior Adviser, Policy Planning Staff, Department of State until 1992; thereafter Deputy Assistant Secretary of State for Politico-Military Affairs
+- Einik, M. Michael, Consul General, U.S. Consulate at Zagreb [1989-1992]; Chief, Assignments Division (EUR), Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Eisenberg, Laurence, Commercial Counselor, U.S. Embassy in Santo Domingo [1989-1992]
+- Eisenbraun, Stephen, Principal Officer, U.S. Consulate at Mombasa [1989, 1990]; Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1990]; Principal Officer, U.S. Consulate at Mombasa [1990, 1991]
+- Eisner, Adolph H., (Hal), Deputy Chief of Mission, Charge, U.S. Embassy in Quito [1989-1991]; Director, Office of Intelligence Liaison, Bureau for Intelligence and Research, Department of State [1992]
+- Eissler, Victor C., Political Counselor, U.S. Embassy in Lome [1989, 1990]
+- Elam, Harriet L., Branch Public Affairs Officer, U.S. Consulate at Istanbul [1991, 1992]
+- Elizondo, Cecilia B., Administrative Counselor, U.S. Consulate at Melbourne [1989, 1990]; Special Assistant, Bureau of Administration, Department of State [1992]
+- Elkins, Catherine J., Consul and Economic and Commercial Counselor, U.S. Embassy in Nouakchott [1989]
+- Ellam, Katherine T., Political Counselor, U.S. Embassy in Paramaribo [1992]
+- Ellickson-Brown, James, Branch Public Affairs Officer, U.S. Consulate at Thessaloniki [1992]
+- Elliott, Deborah, Consul, U.S. Embassy in Saana [1989-1991]
+- Ellis, Clarke N., Director, Office of Economic Policy, Bureau of East Asian and Pacific Affairs, Department of State [1989]
+- Ellis, Helen, Personal Assistant, Policy Planning Staff, Department of State, from 1989
+- Ellis, John G., Economic Counselor, U.S. Consulate at Shenyang [1992]
+- Ellis, Nancy, Assistant to the Administrator for International Trade and Investment Promotion, Office of the Administrator, Agency for International Development [1990]
+- Ellsbury, Allan V., Administrative Counselor, U.S. Embassy in Dhaka [1991, 1992]
+- Eltz, Regina M., Political and Military Counselor, U.S. Embassy in Ankara [1989-1991]
+- Ely, Michael E.C., Deputy Chief of Mission, U.S. Mission to the European Communities [1989-1991]
+- Ely-Raphel, Nancy H., Assistant Legal Adviser for Nuclear Affairs, Department of State [1989]; Deputy Assistant Secretary for Policy and Programs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990]; Deputy Assistant Secretary for Bilateral/Multilateral Affairs, Bureau of Human Rights and Humanitarian Affairs [1991, 1992]
+- Embrey, Edgar L., Political and Economic Counselor, U.S. Embassy in Malabo [1990-1992]; Political Counselor, U.S. Embassy in Georgetown [1992]
+- Endara, Guillermo, President of Panama
+- Engel, Alma F., Consul, U.S. Consulate at Auckland [1989-1992]
+- Engel, Bernard, Director, International Athletic Programs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1990, 1991]
+- Engelhardt, Hilbert C., Commercial Counselor, U.S. Consulate at Amsterdam [1990-1992]
+- Engelken, Stephen C., Office of Western European Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]
+- Engels, Ellen C., Administrative Counselor, U.S. Embassy in Muscat [1991, 1992]
+- Engle, Bernard, Economic Officer, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1989]; Bureau of International Organization Affairs, Department of State [1990, 1991]
+- Engle, Gregory W., Administrative Counselor, U.S. Embassy in Addis Ababa [1989, 1990]; Administrative Counselor, U.S. Embassy in Nicosia [1991, 1992]; Deputy Chief of Mission, U.S. Embassy in Lilongwe [1992]
+- Englehardt, Hilbert C., Commercial Counselor, U.S. Consulate at Amsterdam [1990-1992]
+- English, Charles L., Advisor to the Deputy Secretary of State for Policy and Resources [1989]; Special Assistant, Office of the Under Secretary of State for International Security Affairs [1990, 1991]; Economic Counselor, U.S. Embassy in Budapest [1992]
+- English, Franklin D., Administrative Counselor, U.S. Consulate at Sydney [1989]; Administrative Counselor, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1989-1992]
+- English, Richard D., Senior Adviser, Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Deputy Assistant Secretary of State for East Asian and Pacific Affairs from 1992
+- Ensenat, Donald B., U.S. Ambassador to Brunei from September 26, 1992
+- Ensher, Henry S., Economic and Commercial Counselor, U.S. Embassy in Muscat [1989-1991]; Office of Lebanon, Jordan, Syria Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Erdman, Richard W., Deputy Director, Office of Northern European Affairs, Bureau of European and Canadian Affairs, Department of State [1990-1992]
+- Ericksen, Emil P., Consul General, U.S. Consulate at Naples [1990-1992]
+- Errazuriz, Hernan Felipe, Chilean Foreign Minister
+- Escadero, Stanley T., Political Counselor, U.S. Embassy in Cairo [1990, 1991]; Charge d’Affaires, U.S. Embassy in Dushanbe [1992]; U.S. Ambassador to Tajikistan from October 19, 1992
+- Essington, Robert A., Sr., Administrative Counselor, U.S. Embassy in Abu Dhabi [1989]
+- Etheredge, Regina, Special Assistant, Bureau of Economic and Business Affairs, Department of State [1990-1992]
+- Etienne, Elaine Papazian, Labor Attache, U.S. Embassy in Oslo [1991, 1992]
+- Eubank, Margaret, Branch Public Affairs Officer, U.S. Consulate at Sydney [1989-1992]
+- Evans, Ann M., Administrative Counselor, U.S. Consulate at Calgary [1989, 1990]; Nuclear Risk Reduction Center [1992]
+- Evans, Charles W., Labor Attache, U.S. Embassy in Montevideo [1989-1991]; Office of Arms Control Policy for Compliance and Implementation, Bureau of Politico-Military Affairs, Department of State [1992]
+- Evans, Cooper, Special Assistant to the President for Agricultural Trade and Food Assistance from January 31, 1989
+- Evans, David L., Public Affairs Officer, U.S. Interests Section in Havana [1989-1992]
+- Evans, John M., Deputy Director, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Prague [1991, 1992]
+- Evans, Trevor, Staff Assistant, Bureau of Economic and Business Affairs, Department of State [1989]; Economic and Commercial Counselor, U.S. Embassy in Nicosia [1991, 1992]
+- Ewing, Elizabeth A., Consul, U.S. Embassy in Paramaribo [1989]; Commercial and Economic Counselor, U.S. Embassy in Paramaribo [1990]; Commercial Counselor and Labor Attache, U.S. Embassy in Colombo [1991, 1992]
+- Ewing, Raymond C., Director, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State from 1987 until 1989; U.S. Ambassador to Ghana from November 9, 1989, until August 14, 1992
+- Exon, J. James, Senator (D-Nebraska)
+- Eyadema, Gnassingbe, President of Togo
+- Ezelle, Robert E., Consul, U.S. Embassy in Port-au-Prince [1989, 1990]
+- Fairfax, Kenneth J., Consul, U.S. Consulate at Pusan [1991]
+- Falino, Louis P., Public Affairs Officer, U.S. Embassy in Managua [1989, 1990]; Public Affairs Officer, U.S. Embassy in Bogota [1990-1992]
+- Falkner, William R., Economic and Commercial Counselor, U.S. Embassy in Dhaka [1989, 1990]; Economic Counselor, U.S. Embassy in Santo Domingo [1991, 1992]
+- Fang Lizhi, Chinese astrophysicist and dissident
+- Fantozzi, Daniel T., Deputy Director, Office of Australia and New Zealand Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989, 1990]; Deputy Director, Office of Investment Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990-1992]; Economic Counselor, U.S. Embassy in The Hague [1992]
+- Farley, Vincent J., Deputy Chief of Mission, U.S. Embassy in Abidjan [1989]; Director, Office of Analysis for Africa, Bureau of Intelligence and Research, Department of State [1990-1992]
+- Farmer, Guy W., Public Affairs Officer, U.S. Embassy in Caracas [1989, 1990]; Policy Officer, Press and Publications Service, Bureau of Policy and Programs, United States Information Agency [1992]; Public Affairs Officer, U.S. Embassy in Canberra [1992]
+- Farrand, Robert W., Senior Deputy Assistant Secretary of State for Human Rights and Humanitarian Affairs until August 1989; U.S. Ambassador to the Solomon Islands, Vanuatu, and Papua New Guinea from 1990
+- Farrar, Jonathan D., Economic and Commercial Counselor, U.S. Embassy in Asuncion [1989-1992]
+- Farrar, Lawrence F., Consul General, U.S. Consulate at Naha [1990, 1991]; Political Counselor, U.S. Embassy in Tokyo [1991, 1992]
+- Farrar, Stephen P., Special Assistant to the President and Senior Director for International Economic Affairs, National Security Council staff, until March 1989; Associate Director for International Economic Policy, Office of Policy Development, from March 1989; also Special Assistant to the President for Policy Development, Office of Policy Development from March 22, 1990, until 1992; Chief of Staff to the U.S. Trade Representative
+- Farren, J. Michael, Under Secretary of Commerce for International Trade (1989-1991)
+- Farris, Virginia, Public Affairs Officer, U.S. Embassy in Kingston [1992]
+- Farsakh, Andrea M., Office of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990-1992]; Political Counselor, U.S. Embassy in Tunis [1992]
+- Fascell, Dante B., Member, U.S. House of Representatives (D-Florida)
+- Faucher, Robert, Special Assistant, Bureau of Intelligence and Research, Department of State [1990, 1991]
+- Faucher, Ronald L., Political and Military Counselor, U.S. Embassy in Manama [1989]
+- Faulk, Richard C., Consul General, U.S. Consulate at Karachi [1991, 1992]
+- Fauver, Robert C., Deputy Assistant Secretary of State for East Asian and Pacific Affairs [1990]; Principal Deputy Assistant Secretary of State for East Asian and Pacific Affairs [1990, 1991]; acting Under Secretary of State for Economic and Agricultural Affairs [1992]
+- Fazio, Vic, member, U.S. House of Representatives (D-California)
+- Featherstone, Alexander, Political Counselor, U.S. Embassy in Belize City [1989-1991]; Nuclear Risk Reduction Center, Bureau of Politico-Military Affairs, Department of State [1992]
+- Featherstone, Robert J., Labor Attache, U.S. Embassy in La Paz [1990-1992]; Office of Technical Specialized Agencies, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Feeney, John J., Labor Officer, U.S. Embassy in Vienna [1989]
+- Feierstein, Gerald M., Principal Officer, U.S. Consulate at Peshawar [1989-1992]; Deputy Director, Office of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Feifer, Theodore, Deputy Director, Office of Egyptian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Felder, Robert C., Political Counselor, U.S. Embassy in Buenos Aires [1989]; Deputy Chief of Mission, U.S. Embassy in Caracas [1991, 1992]
+- Felt, John P., Office of Canadian Affairs, Bureau of European and Canadian Affairs, Department of State [1990-1992]; Economic Counselor, U.S. Consulate at Toronto [1992]
+- Felthousen, Betty Ann, Public Affairs Officer, U.S. Embassy in Gaborone [1989, 1990]
+- Feltman, Jeffery, Special Assistant to the Special Adviser for Eurasian Assistance, Office of the Deputy Secretary of State [1992]
+- Feret, Tara E., Administrative Counselor, U.S. Consulate at Lubumbashi [1991, 1992]
+- Ferguson, Earl, Post Management Officer, Office of the Executive Director, Bureau of Inter-American Affairs, Department of State [1990, 1991]
+- Ferguson, Jack, Administrative Counselor, U.S. Embassy in Baku [1992]
+- Ferguson, Thomas C., U.S. Ambassador to Brunei until April 9, 1989
+- Ferguson-Augustus, Rhonda L., Consul, U.S. Consulate at Ponta Delgada [1989]
+- Fermoselle, Rafael, Commercial Counselor, U.S. Embassy in Buenos Aires [1989-1992]
+- Fernandez, Alberto M., Public Affairs Officer, U.S. Embassy in Kuwait [1989, 1990]; Country Affairs Officer, Office of North African, Near Eastern, and South Asian Affairs, United States Information Agency [1992]
+- Fernandez, John D., Political Counselor, U.S. Consulate at Rio de Janeiro [1992]
+- Fernandez, John P., Labor Attache, U.S. Embassy in Helsinki [1989-1991]
+- Fernandez Ordonez, Francisco, Spanish Foreign Minister
+- Ferraro, Jack, Labor Attache, U.S. Embassy in Valletta [1991]; Political Counselor and Labor Attache, U.S. Embassy in Valletta [1991, 1992]
+- Ferrer, James, Jr., Deputy Chief of Mission, U.S. Embassy in Brasilia [1989, 1990]
+- Ferriter, John P., Deputy Assistant Secretary for International Energy and Resources Policy, Bureau of Economic and Business Affairs, Department of State [1989]
+- Fetter, David, Economic Counselor, U.S. Embassy in Mogadishu [1989, 1990]; Operations Center, Executive Secretariat, Department of State [1990, 1991]; Office of Southern African Affairs, Bureau of African Affairs, Department of State [1992]
+- Fichte, Royce J., Director, Office of Field Support Liaison, Visa Services, Bureau of Consular Affairs, Department of State [1989]; Consul, U.S. Embassy in Lima [1992]
+- Fields, David C., U.S. Ambassador to the Central African Republic until October 3, 1989; Director, Office of Foreign Missions, U.S. Department of State, from March 12, 1990, until July 22, 1992; Ambassador to the Marshall Islands from August 19, 1992
+- Figura, John A., Consul and Administrative Counselor, U.S. Consulate at Adana [1992]
+- Filostrat, Christian, Public Affairs Officer, U.S. Embassy in Port-au-Prince [1991, 1992]
+- Findlay, D. Cameron, Special Assistant to the Secretary of the Treasury; Counselor to the Secretary of the Treasury; Deputy Assistant to the President and Counselor to the Chief of Staff from January 15, 1992
+- Findlay, Edward J., Executive Secretary of the Foreign Service Grievance Board, Department of State [1990]
+- Fingar, Thomas, Director, Office of Analysis for East Asia and the Pacific, Bureau of Intelligence and Research, Department of State [1990, 1991]
+- Finn, Robert, Office of Southern African Affairs, Bureau of African Affairs, Department of State [1990]; Political and Economic Counselor, U.S. Embassy in Baku [1992]
+- Finneran, Robert, Economic and Commercial Counselor, U.S. Embassy in Kampala [1989, 1990]
+- Finnerty, Dennis, Deputy Director, Office of Energy-Consumer Affairs, (International Energy and Resources Policy), Bureau of Economic and Business Affairs, Department of State [1989]; Office of Economic Policy, Bureau of Inter-American Affairs, Department of State [1990-1992]
+- Finney, John D., Jr., Political Counselor, U.S. Embassy in Manila [1989-1992]; Director, Office of Thailand and Burma Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Finver, Frank J., Administrative Counselor, U.S. Consulate at Zagreb [1989, 1990]
+- Firehock, Raymond, Chief, Division of Intelligence, Bureau of Verification and Intelligence (later Verification and Implementation), Arms Control and Disarmament Agency [1989-1992]
+- Fischer, David J., Consul General, U.S. Consulate at Munich [1989, 1990]
+- Fischer, E.J. (Ernest J.), Consul, U.S. Embassy in Monrovia [1991, 1992]; Consul, U.S. Embassy in Brussels [1992]
+- Fischer, R. Lucas, Deputy Assistant Director, Bureau of Strategic Programs, Arms Control and Disarmament Agency [1989, 1990]; Deputy Assistant Director, Bureau of Strategic and Nuclear Affairs, Arms Control and Disarmament Agency [1991, 1992]
+- Fish, Hamilton, Jr., member, U.S. House of Representatives (R-New York)
+- Fish, James R., U.S. Consulate at Manaus [1991, 1992]
+- Fishbein, Jonathan L., Office of European, Near Eastern, and Latin American Refugee Assistance, Refugee Programs, Department of State [1990, 1991]; Consul and Political Counselor, U.S. Consulate at Alexandria [1991, 1992]
+- Fisher, Luis A., Consul, U.S. Consulate at Medan [1989]
+- Fisk, Daniel W., Special Adviser, Bureau of Inter-American Affairs, Department of State [1990]
+- Fitch, Michael T.N., Senior Advisor, International Communications and Information Policy, Department of State [1990]; Deputy Coordinator and Director for Satellite, Cable, and National Security Affairs, International Communications and Information Policy, Department of State [1992]
+- Fite, William H., Assistant Director, Bureau of Strategic Programs, Arms Control and Disarmament Agency [1989, 1990]
+- Fitts, Robert W., Consul General, U.S. Consulate at Medan [1991, 1992]; Special Assistant, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Fitzgerald, Christopher, Public Affairs Officer, U.S. Embassy in N’Djamena [1989-1991]
+- Fitzgerald, David F., Branch Public Affairs Officer, U.S. Consulate at Vancouver [1989-1991]
+- Fitzgerald, Paul, Senior Special Assistant, Bureau of Intelligence and Research, Department of State [1989]
+- FitzGerald, William H.G., U.S. Ambassador to Ireland from June 26, 1992
+- Fitzpatrick, Thomas J., Administrative Counselor, U.S. Embassy in Brasilia [1989]; Administrative Counselor, U.S. Embassy in Mexico City [1990, 1992]
+- Fitzwater, M. Marlin, Assistant to the President for Press Relations until January 23, 1989; thereafter Assistant to the President and Press Secretary
+- Flack, Ronald D., Deputy Chief of Mission, U.S. Embassy in Copenhagen [1989-1991]; U.S. Mission to the Organization for Economic Cooperation and Development [1991, 1992]
+- Flaherty, Michael Bart, Administrative Counselor, U.S. Embassy in Beijing [1990-1992]
+- Flanagan, Stephen, Member, Policy Planning Staff, Department of State [1989-1992]
+- Flanigan, Alan H., Special Negotiator, Bureau of European and Canadian Affairs, Department of State [1989, 1990]; Principal Officer, U.S. Interests Section in Havana from September 1, 1990
+- Flannery, Terrence, Commercial Counselor, U.S. Embassy in Algiers [1989-1991]
+- Flantz, Joseph, Political-Military Adviser, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990-1992]
+- Flaten, Robert A., Director, Office of Pakistan, Afghanistan, and Bangladesh Affairs, Bureau of Near East and South Asian Affairs, Department of State [1989, 1990]; U.S. Ambassador to Rwanda from December 17, 1990
+- Fleming, William T., Jr., Economic Counselor, U.S. Embassy in Abu Dhabi [1989-1992]; Economic Counselor, U.S. Embassy in Algiers [1992]
+- Flora, Brian M., Political Counselor, U.S. Embassy in Bucharest [1989-1992]; Consul, U.S. Embassy in Bern [1992]
+- Flory, Peter, Associate Coordinator for Counter-Terrorism, Department of State [1992]
+- Flowers, George A., Security Trade Controls Division, Office of COCOM Affairs, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1991]; Economic Counselor, U.S. Embassy in Bucharest [1991, 1992]
+- Flynn, Peter S., Administrative Counselor, U.S. Embassy in Athens [1989-1992]
+- Fogarasi, John, Commercial Counselor, U.S. Embassy in Sofia [1992]
+- Fogarty, John F., Economic Counselor, U.S. Consulate at Milan [1989, 1990]; Nuclear Risk Reduction Center, Bureau of Politico-Military Affairs, Department of State [1992]
+- Foley, James B., Special Assistant, Office of the Deputy Secretary of State [1990-1992]
+- Foley, Thomas S., Member, U.S. House of Representatives (D-Washington); House Majority Leader until June 1989; thereafter Speaker of the House of Representatives
+- Folker, Karen E., Staff Assistant to the Special Adviser for Eastern European Assistance, Office of the Deputy Secretary of State [1990]
+- Folmsbee, Paul A., Administrative Counselor, U.S. Embassy in Libreville [1992]
+- Foran, Patricia, Economic Counselor, U.S. Consulate at Calgary [1990-1992]; Office of Field Support Liaison, Visa Services, Bureau of Consular Affairs, Department of State [1992]
+- Forbord, Thomas A., Deputy Chief of Mission, U.S. Embassy in Buenos Aires [1989-1991]
+- Ford, Carl W., Jr., Principal Deputy Secretary of Defense for International Security Affairs from 1989 until 1992
+- Ford, Charles A., Commercial Counselor, U.S. Embassy in Guatemala City [1989-1991]
+- Ford, John S., Chief, Assignment Division (NEA), Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Ford, Robert A., Special Assistant for Public Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990-1992]
+- Fore, Henrietta H. Holsman, Assistant Administrator, Bureau for Private Enterprise, Agency for International Development [1990]; Assistant Administrator, Bureau for Asia and Private Enterprise, Agency for International Development [1991]; Assistant Administrator, Bureau for Asia, Agency for International Development [1992]
+- Forsyth, Rosemary, Political Counselor, U.S. Embassy in Yerevan [1992]
+- Fort, Arthur, W., Assistant Secretary of State for Administration from August 9, 1989, until January 8, 1993
+- Fort, Randall M., Deputy Assistant Secretary for Functional Analysis and Research, Bureau of Intelligence and Research, Department of State [1990-1992]
+- Fosnacht, Thomas C., Political Counselor, U.S. Embassy in Luxembourg City [1989, 1990]
+- Foster, Dennis A., Political Counselor, U.S. Embassy in Abu Dhabi [1989-1991]
+- Foster, Gary L., Director of Public Affairs, Department of Commerce from October 1990 until April 1991; Special Assistant to the President and Deputy Press Secretary from April 19, 1991
+- Foster, Harold D., Commercial Counselor, U.S. Embassy in Dakar [1989-1991]
+- Foster, Jeanne, Economic and Commercial Counselor, U.S. Embassy in Port Louis [1991, 1992]
+- Foster, Kenwood S., Political Counselor, U.S. Embassy in Addis Ababa [1989, 1990]; Staff Assistant, Bureau of Consular Affairs, Department of State [1990]
+- Foster, Timberlake, Deputy Director, Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]; Consul General, U.S. Consulate at Casablanca [1989-1992]; Director, Office of Philippine Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Foulger, Frank, Office of Western European Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]
+- Foulon, Mark M., Political Counselor, U.S. Consulate at Jerusalem [1989, 1990]; Special Assistant, Office of the Counselor, Department of State [1990, 1991]; Executive Assistant, Office of the Under Secretary of State for Political Affairs [1992]
+- Fowler, Wyche, Jr., Senator (D-Georgia)
+- Fox, J. Edward, Assistant Secretary of State for Legislative Affairs until February 21, 1989
+- Fox, John Duffell, Managing Director, UN System Administration, Bureau of International Organization Affairs, Department of State [1991, 1992]
+- Fox, John G., Political and Economic Counselor, U.S. Embassy in Mogadishu [1990, 1991]
+- Fox, John, Member, Policy Planning Staff, Department of State [1990-1992]
+- Fox, Stephen R., Economic Counselor, U.S. Consulate at Shenyang [1989, 1990]; Office of Business Practices, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990, 1991]
+- Francisco, William P., III, Charge d’Affaires, U.S. Consulate at Apia [1989, 1990]; Deputy Chief of Mission, U.S. Consulate at Apia [1991]; Administrative Counselor, U.S. Embassy in Panama City [1991, 1992]
+- Frank, Milton, U.S. Ambassador to Nepal until September 16, 1989
+- Frank, W. Douglas, Administrative Counselor, U.S. Embassy in Warsaw [1992]
+- Fraser, Robert C., Commercial Counselor, U.S. Embassy in Oslo [1989-1991]; Commercial Counselor, U.S. Embassy in Guatemala City [1991]
+- Frasure, Robert C., Deputy Chief of Mission, U.S. Embassy in Addis Ababa until 1990; Special Assistant to the President and Senior Director for African Affairs, National Security Council staff from 1990 until 1991; Charge d’Affaires ad interim, U.S. Embassy in Tallinn from October 2, 1991; U.S. Ambassador to Estonia from April 9, 1992
+- Frazier, Pamela L., Deputy Director, Office of Strategic Technology and Nuclear Affairs, Bureau of Politico-Military Affairs, Department of State [1989]; Deputy Director, Center for Defense Trade Policy, Bureau of Politico-Military Affairs, Department of State [1990, 1991]; Director, Office of Defense Trade Policy, Bureau of Politico-Military Affairs, Department of State [1992]
+- Frazier, Roger A., Political and Military Counselor, U.S. Embassy in Ouagadougou [1991, 1992]
+- Frechette, Myles R., Consul General, U.S. Consulate at Sao Paulo [1989, 1990]; Assistant U.S. Trade Representative for Latin America, Caribbean, and Africa, Office of the United States Trade Representative (1992)
+- Fredenburg, John A., Public Affairs Officer, U.S. Embassy in Rangoon [1989]; Public Affairs Officer, U.S. Embassy in Seoul [1991, 1992]
+- Frederick, George M., Political Counselor, U.S. Embassy in Mogadishu [1989, 1990]; Political and Economic Counselor, U.S. Consulate at Doula [1991, 1992]
+- Frederick, Peter, Commercial Counselor, U.S. Embassy in Seoul [1990-1992]; Commercial Counselor, U.S. Embassy in Paris [1992]
+- Freeman, Anthony G., Special Assistant to the Secretary of State and Coordinator for International Labor Affairs, Department of State [1989-1992]
+- Freeman, Charles W., Jr., Deputy Assistant Secretary of State for African Affairs until May 1989; U.S. Ambassador to Saudi Arabia from January 14, 1990, until August 13, 1992
+- Freeman, Constance J., Senior Economist, Economic Policy Staff, Bureau of African Affairs, Department of State [1989]; Economic Counselor, U.S. Embassy in Lagos [1989]; Office of Food Policy and Programs, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1990]; Deputy Director, Office of Food Policy and Programs, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1991]; Economic Counselor, U.S. Embassy in Nairobi [1991, 1992]
+- Freeman, Roger, Commercial Counselor and Labor Attache, U.S. Embassy in Colombo [1992]
+- Freres, Jay P., Consul General, U.S Consulate at Jeddah [1989]; Deputy Chief of Mission, U.S. Embassy at Manama [1990, 1991]
+- Fretz, Robert L., Consul, U.S. Embassy in Copenhagen [1989-1992]; Office of Cuban Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Freund, James, Office of Investment Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990]; Economic Policy Staff, Bureau of African Affairs, Department of State [1992]; Economic Counselor, U.S. Embassy in Antananarivo [1992]
+- Fried, Daniel, Political Counselor, U.S. Embassy in Warsaw [1991, 1992]
+- Friedman, Abigail S., Vice Consul, U.S. Consulate at Ponta Delgada [1989, 1990]; Staff Assistant, Bureau of Politico-Military Affairs, Department of State [1990, 1991]
+- Friedman, Townsend B., Jr., Director, Office of Southern European Affairs, Bureau of European and Canadian Affairs, Department of State [1989, 1990]; U.S. Ambassador to Mozambique from November 10, 1990
+- Friedmann, Eugene, Public Affairs Officer, U.S. Embassy in Pretoria [1989]
+- Friel, Robert C., Labor Attache, U.S. Mission to the Organization for Economic Cooperation and Development [1989-1992]; Economic Counselor, U.S. Embassy in Dublin [1992]
+- Frisbie, Norman H., Deputy Chief of Mission, U.S. Mission to International Organizations in Vienna [1989]; Deputy Chief of Mission, U.S. Embassy in Antananarivo [1990, 1991]
+- Frisby, Michael R., Commercial Counselor, U.S. Consulate at Jeddah [1989-1992]
+- Fritts, Robert E., Deputy Inspector General, Department of State [1990, 1991]
+- Fritz, Karl H., Economic and Commercial Counselor, U.S. Embassy in Accra [1991, 1992]
+- Fromowitz, Samuel C., Consul General, U.S. Consulate at Vancouver [1989, 1990]; Political Counselor, U.S. Embassy in Athens [1991, 1992]
+- Frost, Gregory T., Deputy Chief of Mission, U.S. Embassy in Conakry [1989-1991]; Charge d’Affaires [1990]; Principal Officer, U.S. Consulate at Hermosillo [1992]
+- Fry, Michael D., Col., USA, Deputy Director, Office of Strategic Nuclear Policy, Bureau of Politico-Military Affairs, Department of State [1989]; Director for Defense Policy and Arms Control, National Security Council staff from May 1990 until October 1992
+- Fugit, Edward F., Charge d’Affaires ad interim, U.S. Embassy in Harare from March 1, 1989, until April 1, 1990; Political Counselor, U.S. Embassy in Islamabad [1990-1992]
+- Fuhrer, John W., Administrative Counselor, U.S. Embassy in Managua [1989, 1990]; Administrative Counselor, U.S. Embassy in Tegucigalpa [1991, 1992]
+- Fujimori, Alberto K., President of Peru from July 28, 1990
+- Fuller, Gerry W., Consul, U.S. Embassy in Yaounde [1990, 1991]; Regional Officer for South, Central, and East Africa, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Fuller, William P., Deputy Assistant Administrator, Bureau for Asia and Near East, Agency for International Development [1989]
+- Fulton, Barry, Public Affairs Adviser, U.S. Mission to the North Atlantic Treaty Organization [1989-1991]; Deputy Associate Director, Bureau of Educational and Cultural Affairs, United States Information Agency [1992]
+- Fulton, Edgar D., Commercial Counselor, U.S. Embassy in Warsaw [1989-1991]; Commercial Counselor, U.S. Embassy in Caracas [1992]
+- Funk, Sherman M., Inspector General of the Department of State
+- Funseth, Robert L., Senior Deputy Assistant Secretary of State for Refugee Programs
+- Furey, Thomas P., Consul, U.S. Consulate at Johannesburg [1989, 1990]; Deputy Executive Director, Management and Administration, Bureau of Consular Affairs, Department of State [1991]; Consul, U.S. Consulate at Bombay [1992]
+- Furman, Julianne M., Consul, U.S. Embassy in Conakry [1991, 1992]
+- Furness, Brian R., Economic Counselor, U.S. Embassy in Brasilia [1989]
+- Gagnon, James, Deputy Director, Office of Vietnam, Laos, and Cambodia Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Gain, Ronald L., Administrative Counselor, U.S. Embassy in Damascus [1991, 1992]
+- Gaines, L. Ebersole, Consul General, U.S. Consulate at Hamilton [1990]
+- Gaines, William R., Jr., Principal Officer, U.S. Consulate at Douala [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Brazzaville [1991, 1992]
+- Gallagher, Gary, Commercial Counselor, U.S. Embassy in Budapest [1991, 1992]
+- Gallagher, Leo, Office of Thailand and Burma Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1991, 1992]
+- Gallini, Linda, Special Assistant to the Ambassador at Large and Special Adviser to the Secretary of State on Non-Proliferation Policy and Nuclear Energy Affairs [1990-1992]
+- Gallogly, Stephen J., Office of Energy-Producer Country Affairs, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Chief, Energy Consumer-Country Affairs Division, Office of Global Energy, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1992]
+- Gallucci, Gerald M., Political Counselor, U.S. Embassy in Harare [1989, 1990]; Office of Southern African Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Deputy Director, Office of Southern Cone Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Gallucci, Robert L., Professor, National War College, until 1991; Deputy Executive Chair, United Nations Special Commission [Iraq] from 1991 until 1992; Senior Coordinator for the Office of the Deputy Secretary of State from February 1992; Assistant Secretary of State for Politico-Military Affairs from July 13, 1992
+- Gallup, Jeffrey C., Political Counselor, U.S. Embassy in Port-au-Prince [1989, 1990]; Deputy Director, Office of Weapons Proliferation Policy, Bureau of Politico-Military Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Lome [1992]
+- Gamble, Roger R., Deputy Chief of Mission, U.S. Embassy in Mexico City [1989]; Associate Comptroller, Management Policy, Bureau of Finance and Management Policy, Department of State [1990-1992]
+- Gandhi, Rajiv, Indian Prime Minister
+- Gandle, David L., Economic and Political Counselor, U.S. Embassy in St. Johns [1990, 1991]
+- Gantt, Florence, Special Assistant to the Assistant to the President from January 1989
+- Ganzer, Ann K., Consul, U.S. Consulate at Hermosillo [1989]; Staff Assistant, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Moscow Embassy Buildings Control Office, Office of the Under Secretary of State for Management [1992]
+- Garcia Perez, Alan, President of Peru until July 28, 1990
+- Gardner, D. Jean, Regional Political and Multilateral Affairs Officer, Office of Regional Affairs, Bureau of African Affairs, Department of State [1989]; Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State [1990-1991]; Labor Attache, U.S. Embassy in Brussels [1991, 1992]
+- Gardner, John S., Special Assistant to the President and Assistant (later Deputy) Staff Secretary from January 31, 1989
+- Gardner, Julie, Administrative Counselor, U.S. Consulate at Lubumbashi [1989]; Multilateral Affairs Officer, Office of Multilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990, 1991]
+- Gargano, Charles A., U.S. Ambassador to Trinidad and Tobago until June 7, 1991
+- Garland, William, Director, Office of Asian Refugee Assistance, Refugee Programs, Department of State [1989, 1990]
+- Garner, Joan E., Consul, U.S. Consulate at Sao Paulo [1989]; Office of Technical Specialized Agencies, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1990, 1991]
+- Garner, John D., Public Affairs Officer, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1989-1992]
+- Garner, John Michael, Economic and Commercial Counselor, U.S. Embassy in Monrovia [1991, 1992]
+- Garon, John, Administrative Counselor, U.S. Embassy in Monrovia [1989]
+- Garrett, H. Lawrence, III, Under Secretary of the Navy until 1989; Secretary of the Navy from May 15, 1989, until June 26, 1992
+- Garriga, Jose E., Staff Assistant, Bureau of Inter-American Affairs, Department of State [1989]
+- Garrison, Mary Lee K., Developing Countries and Trade Organization Division, Office of International Trade, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Economic Counselor, U.S. Consulate at Monterrey [1992]
+- Garufi, Laurence, Public Affairs Officer, U.S. Embassy in Nairobi [1989-1991]; Public Affairs Adviser and Director, Public Affairs Staff, Bureau of African Affairs, Department of State [1991]; AF/P [1992]
+- Garvey, Janet, Branch Public Affairs Officer, U.S. Consulate at Leipzig [1991, 1992]
+- Garza, Oliver P., Deputy Executive Director, Bureau of Near Eastern and South Asian Affairs, Department of State [1990]; Administrative Counselor, U.S. Embassy in Seoul [1991, 1992]
+- Gates, Robert M., Deputy Director of Central Intelligence until March 1989; Deputy Assistant to the President for National Security Affairs from March 1989 until August 3, 1989; Assistant to the President and Deputy for National Security Affairs from August 3, 1989, until August 1991; Director of Central Intelligence from August 1991
+- Gathers, Dwayne, Special Assistant, Bureau of African Affairs, Department of State [1991, 1992]
+- Gaviria Trujillo, Cesar, President of Columbia from August 7, 1990
+- Gawronski, Mary E., Public Affairs Officer, U.S. Embassy in Prague [1989]; Deputy Director for Western Europe and Canada, Office of European Affairs, United States Information Agency (1991, 1992)
+- Gayle, Michael, Consul, U.S. Embassy in Islamabad [1989, 1990]; Office of Business Practices, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990, 1991]
+- Gaynor, Frederic J., Commercial Counselor, U.S. Embassy in Cairo [1989, 1990]; Commercial Counselor, U.S. Embassy in Lagos [1991, 1992]
+- Gearhart, James V., Consul and Political Counselor, U.S. Consulate at Chiang Mai [1991, 1992]
+- Gefter, Saul, Branch Public Affairs Officer, U.S. Consulate at Rio de Janeiro [1989]
+- Gehring, Robert, Deputy Director, Office of Aviation Programs and Policy, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1990-1992]
+- Geis, Robert K., Branch Public Affairs Officer, U.S. Consulate at Florence [1989, 1990]
+- Geis, Stephen, III, Political Counselor, U.S. Embassy in Asuncion [1992]
+- Geisel, Harold W., (Ted), Administrative Counselor, U.S. Embassy in Bonn [1989-1992]; Administrative Counselor, U.S. Embassy in Moscow [1992]
+- Geisler, Ronald, Executive Clerk of the White House
+- Gelb, Bruce S., Director, United States Information Agency, from April 14, 1989, until March 20, 1991; U.S. Ambassador to Belgium from July 9, 1991
+- Gelbard, Robert S., U.S. Ambassador to Bolivia until July 20, 1991; Principal Deputy Assistant Secretary of State for Inter-American Affairs from 1991
+- Gelber, Herbert D., Special Assistant for International Affairs to the Supreme Allied Commander, Europe; U.S. Ambassador to Mali from December 18, 1990
+- Gelner, Michael, Economic and Commercial Counselor, U.S. Embassy in Sofia [1989-1991]
+- Genscher, Hans-Dietrich, German Foreign Minister
+- Genton, Thomas R., Public Affairs Officer, U.S. Embassy in Ouagadougou [1990-1992]
+- George, Lloyd R., Economic Counselor, U.S. Embassy in Belgrade [1989]; Deputy Director, Economic Policy Staff, Bureau of African Affairs, Department of State [1990, 1991]; Office of Legislative Management, Bureau of Legislative Affairs, Department of State [1992]
+- George, Roger, Member, Policy Planning Staff, Department of State [1989-1991]
+- Gephardt, Richard N., Member, U.S. House of Representatives (D-Missouri); Democratic candidate for president in 1988
+- Gerard, Jean Broward Shevlin, U.S. Ambassador to Luxembourg until March 27, 1990
+- Gerson, Leslie A., Operations Center, Executive Secretariat, Department of State [1990]; Consul, U.S. Embassy in San Salvador [1990-1992]
+- Gerth, Thomas H., Deputy Principal Officer, U.S. Interests Section in Havana [1989]; Political Counselor, U.S. Mission in Berlin [1989-1992]
+- Gettinger, Hugo Carl, Political and Military Counselor, U.S. Consulate at Naha [1990-1992]; Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Getzinger, Richard N., Science Attache, U.S. Embassy in Tokyo [1989, 1990]; Special Negotiator, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990, 1991]
+- Gewecke, Thomas H., Political Counselor, U.S. Embassy in Brussels [1989]; Deputy Chief of Mission, U.S. Embassy in The Hague [1989-1992]; Charge d’Affaires ad interim from July 1, 1992
+- Gfoeller, Michael, Economic Counselor, U.S. Embassy in Manama [1989]; Labor Attache, U.S. Embassy in Moscow [1991]; Nuclear Risk Reduction Center, Bureau of Politico-Military Affairs, Department of State
+- Gfoeller-Volkoff, Tatiana, Political Counselor, U.S. Embassy in Manama [1989]
+- Ghee, Cassie L., Regional Officer for East, Central, and South African Affairs, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990]; Conduct, Suitability, and Discipline Staff, Office of Employee Relations, Bureau of Personnel, Department of State [1992]
+- Ghougassian, Joseph, U.S. Ambassador to Qatar until June 30, 1989
+- Gianfranceschi, Robert E., Consul and Political Counselor, U.S. Consulate at Peshawar [1991, 1992]
+- Gibbons, Robert R., Branch Public Affairs Officer, U.S. Consulate at Monterrey [1991, 1992]
+- Gibbons, Thomas, Eastern Europe Division, Office of Analysis for the Soviet Union and Eastern Europe, Bureau of Intelligence and Research, Department of State [1990, 1991]; Staff Assistant, Bureau of European and Canadian Affairs, Department of State [1992]
+- Gibson, Richard M., Political and Military Counselor, U.S. Consulate at Naha [1989]; Principal Officer, U.S. Consulate at Chiang Mai [1989-1992]; Chief, Junior Officer Division, Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Gibson, Stephen R., Deputy Chief of Mission, U.S. Embassy in Kingston [1989, 1990]; Charge d’Affaires, U.S. Embassy in Kingston [1990]; Director, Office of Investment Affairs, (International Trade and Development), Bureau of Economic and Business Affairs, Department of State [1990-1992]
+- Gidley, Barry F., Congressional Affairs, Bureau of International Organization Affairs, Department of State [1989, 1990]
+- Gieseke, John M., Systems Division, Office of Applied Technology, Office of the Deputy Assistant Secretary for Planning and Development, Bureau of Administration, Department of State [1990]; Consul and Administrative Counselor, U.S. Embassy in Port Louis [1990-1992]
+- Gilbert, Alan L., Branch Public Affairs Officer, U.S. Consulate at Bombay [1989]; Public Affairs Officer, U.S. Embassy in Riyadh [1991, 1992]
+- Gildenhorn, Joseph B., President, United Jewish Appeal of Greater Washington until 1989; U.S. Ambassador to Switzerland from August 23, 1989
+- Gilder, Joshua R., Principal Deputy Assistant Secretary of State for Human Rights and Humanitarian Affairs [1990, 1991]
+- Gildred, Theodore E., U.S. Ambassador to Argentina until May 31, 1989
+- Gilland, Franklin J., Commercial Counselor, U.S. Embassy in Kingston [1989]; Consul, U.S. Embassy in Lisbon [1990]
+- Gillespie, Charles A., Jr., U.S. Ambassador to Chile until December 10, 1991; Special Assistant to the President for National Security Affairs and Senior Director for Latin America and the Caribbean, National Security Council staff from August 6, 1992
+- Gillespie, Jacob P., Public Affairs Officer, U.S. Embassy in San Salvador [1989]; Public Affairs Officer, U.S. Embassy in Madrid [1990-1992]
+- Gilman, Benjamin A., member, U.S. House of Representatives (R-New York)
+- Gilmer, Paul G., Consul and Administrative Counselor, U.S. Consulate at Adana [1989, 1990]; Office of the Executive Director, Bureau of European and Canadian Affairs, Department of State [1990, 1991]
+- Gilmore, Harry J., Principal Officer, U.S. Mission in Berlin [1989-1991]
+- Gilmour, David R., Branch Public Affairs Officer, U.S. Consulate at Douala [1989]
+- Gilroy, Mary Ellen, Public Affairs Officer, U.S. Embassy in Port Louis [1991, 1992]
+- Gingrich, Newton Leroy (Newt), member, U.S. House of Representatives (R-Georgia); Republican Whip
+- Giuliano, Arthur S., Public Affairs Officer, U.S. Embassy in Athens [1989-1992]
+- Glade, William P., Professor of Economics, University of Texas; Associate Director for Educational and Cultural Affairs, United States Information Agency
+- Gladson, Charles L., Assistant Administrator, Bureau for Africa, Agency for International Development [1989]
+- Glago, Mark A., Public Affairs Officer, U.S. Embassy in Port-of-Spain [1989]; Regional Affairs Officer, Office of North African, Near Eastern, and South Asian Affairs, United States Information Agency [1992]
+- Glancy, Michael A., Consul, U.S. Consulate at Udorn [1989-1991]
+- Glaspie, April C., U.S. Ambassador to Iraq until July 30, 1990
+- Glass, George, Political Counselor, U.S. Mission at Berlin [1992]
+- Glass, Robert L., Economic Counselor, U.S. Embassy in Tunis [1991, 1992]
+- Glassman, Jeffery, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Administrative Counselor, U.S. Embassy in Minsk [1992]
+- Glassman, Jon D., Charge d’Affaires, U.S. Embassy in Kabul until January 1, 1989; Deputy Assistant for National Security Affairs from 1989 until 1991; also Assistant to the Vice President from 1990 until 1991; U.S. Ambassador to Paraguay from August 8, 1991
+- Glatz, Charles, Regional Officer for Near East and South Asia, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990, 1991]
+- Glenn, James H., Political Counselor, U.S. Embassy in Dublin [1992]
+- Glick, Norman D., Commercial Counselor, U.S. Embassy in Lagos [1989, 1990]; Commercial Counselor, U.S. Embassy in Cairo [1990-1992]
+- Glitman, Maynard W., U.S. Ambassador to Belgium until June 17, 1991
+- Gnehm, Edward W., Jr. (Skip), Deputy Assistant Secretary of Defense for International Security Affairs for Near East and South Asian Affairs until August 1989; Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs until August 1990; U.S. Ambassador to Kuwait from April 2, 1991
+- Gober, Sally M., Consul, U.S. Embassy in Harare [1989-1991]
+- Godard, Ronald D., Political Counselor, U.S. Embassy in Santiago [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Managua [1991]; Charge d’Affaires ad interim, U.S. Embassy in Managua from March 1, 1992
+- Godec, Robert F., Economic and Commercial Counselor, U.S. Embassy in Yaounde [1990-1992]
+- Goelz, Louis P., Consul General, U.S. Consulate at Ciudad Juarez [1989-1991]; CA/CC [1992]
+- Goldner, Frank J., Science, Energy, and Environmental Counselor, U.S. Mission to the Organization for Economic Cooperation and Development [1989, 1990]
+- Golino, Frank R., Labor Attache, U.S. Embassy in Madrid [1989]
+- Gompert, David C., Special Assistant to the President for National Security Affairs and Senior Director for European and Soviet Affairs from October 11, 1990, until March 22, 1991; Senior Director for European and Eurasian Affairs until October 1992
+- Gong, Richard D., Public Affairs Officer, U.S. Embassy in Singapore [1989-1991]
+- Gonzalez, Felipe, Prime Minister of Spain
+- Gonzalez, Raymond J., Labor Attache, U.S. Embassy in Brussels [1989]
+- Gonzalez, Richard, Consul, U.S. Embassy in Accra [1989-1991]; Citizens Emergency Center, Overseas Citizens Affairs, Bureau of Consular Affairs, Department of State [1992]
+- Good, David P., Public Affairs Officer, U.S. Consulate at Jerusalem [1989]; Public Affairs Adviser, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Deputy Director, Office of North African, Near Eastern, and South Asian Affairs, United States Information Agency (1992)
+- Goodspeed, Daniel, Consul and Political Counselor, U.S. Consulate at Alexandria [1989-1991]; Counselor for INMARSAT Policy, International Communications and Information Policy, Department of State [1992]
+- Gorbachev, Mikhail, General Secretary of the Central Committee of the Communist Party of the Soviet Union; Chairman of the Supreme Soviet of the Soviet Union until March 15, 1990; President of the Soviet Union until December 25, 1991
+- Gordon, Bradley, legislative assistant (for foreign policy, defense, and intelligence) for Senator Rudy Boschwitz (IR-Minnesota) until 1990; Assistant Director, Bureau of Nuclear and Weapons Control, Arms Control and Disarmament Agency from March 1990
+- Gordon, John A., Brig. Gen., Director for Defense Policy and Arms Control, National Security Council Staff, from May 1989 until October 1991; thereafter, Special Assistant to the President for National Security Affairs and Senior Director for Defense Policy and Arms Control until November 1992
+- Gore, Albert A., Jr., Senator (D-Tennessee); Democratic Vice Presidential Candidate in 1992
+- Gore, Chadwick, Human Rights Adviser, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990, 1991]
+- Gorham, Mary L., Staff Assistant, Policy Planning Staff, Department of State [1990-1992]
+- Gorjance, Mary A., International Economist, Economic Policy Staff, Bureau of African Affairs, Department of State [1990, 1991]
+- Gorman, Teresa A., Special Assistant to the President for Policy Development and Associate Director for Energy, Environment, and Natural Resources Policy, Office of Policy Development (1991, 1992)
+- Gosende, Robert R., Director, Office of African Affairs, United States Information Agency from 1989 until 1992
+- Gosnell, Jack L., Science Attache, U.S. Embassy in Moscow [1990, 1991]; Consul General, U.S. Consulate at St. Petersburg [1991, 1992]
+- Gottemoeller, Rose, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Gould, Michael J., Public Affairs Officer, U.S. Embassy in Wellington [1989]; Foreign Service Grievance Board, Department of State [1992]
+- Gowen, George, Chief, Security Trade Controls Division, Office of COCOM Affairs, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1990, 1991]
+- Grabenstetter, Donald E., Economic Counselor, U.S. Embassy in Budapest [1991, 1992]; Energy Consumer-Country Affairs Division, Office of Global Energy, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1992]
+- Grace, Judith, Administrative Counselor, U.S. Consulate at Hamilton [1991, 1992]
+- Gradisher, Thomas D., Public Affairs Officer, U.S. Embassy in Cotonou [1989]
+- Graham, Dianne H., Program Analyst, Global Support Division, Office of Transnational Issues, Bureau of International Narcotics Matters, Department of State [1990]
+- Graham, Douglas R., Deputy Assistant Secretary of Defense for Strategic Defense, Space, and Verification Policy from 1989 until 1992
+- Graham, Hilton Lee, Office of Food Policy and Programs, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1991]; Deputy Director, Office of Food Policy and Programs, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1992]
+- Graham, Richard C., Officer-in-Charge, Economic Development Division, Office of International Development Assistance, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1989-1991]
+- Graham, Russell, Economic Counselor, U.S. Embassy in Lima [1989, 1990]
+- Graham, Thomas, Jr., General Counsel, Arms Control and Disarmament Agency
+- Grahame, Jay R., Economic Counselor, U.S. Embassy in Tunis [1989-1991]; Office of United Nations Social and Refugee Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1991]; Officer-in-Charge of Afghan Coordinating Unit, Office of United Nations Social and Refugee Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1991, 1992]
+- Grahl, Larry C., Director, Office of Intelligence Liaison, Bureau of Intelligence and Research, Department of State [1991]
+- Gralnek, Maurice N., Administrative Counselor, U.S. Consulate at Frankfurt [1989-1992]
+- Gramm, William Philip, Senator (R-Texas)
+- Graninger, Robert L., Administrative Counselor, U.S. Embassy in San Jose [1989-1992]
+- Grant, William, Director for Defense Policy and Arms Control, National Security Council Staff
+- Grappo, Gary, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Special Assistant, Office of the Counselor, Department of State [1992]
+- Graves, Howard, Lt. Gen., Assistant to the Chairman of the Joint Chiefs of Staff from September 1989
+- Graves, John E., Public Affairs Officer, U.S. Embassy in Rabat [1989, 1990]
+- Gray, Alfred M., Jr., Gen., USMC, Commandant of the Marine Corps until July 1, 1991
+- Gray, C. Borden, Counsel to the President
+- Gray, David L., Public Affairs Officer, U.S. Embassy in Lilongwe [1989]
+- Gray, Douglas, Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State [1990]; Office of Press and Public Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Deputy Director, Office of Press and Public Affairs, Department of State [1992]
+- Gray, Gordon, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1991]; Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Gray, James B., Consul, U.S. Consulate at Cape Town [1989]; Consul, U.S. Consulate at Perth [1991, 1992]
+- Gray, Victor S., Jr., Director, Office of Northern European Affairs, Bureau of European and Canadian Affairs, Department of State [1989]
+- Graze, Deborah, Political Counselor, U.S. Embassy in Vatican City [1989-1992]
+- Green, Alan, Jr., U.S. Ambassador to Romania from December 7, 1989, until January 11, 1992
+- Green, Candy, Economic and Commercial Counselor, U.S. Embassy in Kathmandu [1989]; Staff Assistant, Bureau of European and Canadian Affairs, Department of State [1990]; Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Green, Colin, Consul, U.S. Embassy in Pretoria [1992]
+- Green, Grant S., Assistant Secretary of Defense for Force Management and Personnel until March 5, 1989
+- Greenberg, Allen S., Economic Counselor, U.S. Consulate at Casablanca [1989-1991]; Political and Economic Counselor, U.S. Interests Section in Havana [1991, 1992]
+- Greene, Douglas C., Political, Economic, and Commercial Counselor, U.S. Consulate at Zagreb [1989-1991]
+- Greene, Earnest T., Deputy to the Special Envoy to the Afghan Resistance, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]
+- Greenfield, Alan E., Administrative Counselor, U.S. Consulate at Bombay [1991, 1992]; Administrative Counselor, U.S. Embassy in Tbilisi [1992]
+- Greenfield, Walter, Administrative Counselor, U.S. Embassy in Algiers [1989, 1990]; Policy Coordination Staff, Bureau of Personnel, Department of State [1990, 1991]; Deputy Executive Director, Bureau of Personnel, Department of State [1992]
+- Greenlee, David N., Deputy Chief of Mission, U.S. Embassy in La Paz [1989]; Deputy Chief of Mission, U.S. Embassy in Santiago [1989-1992]
+- Greentree, Todd R., Political and Economic Counselor, U.S. Embassy in Kathmandu [1990-1992]
+- Greenwald, G. Jonathan, Political Counselor, U.S. Embassy in Berlin [1989, 1990]; Director for Regional Affairs, Office of the Coordinator for Counter-Terrorism, Department of State [1992]
+- Greenwood, Lawrence C., Jr., Economic and Political Counselor, U.S. Embassy in Singapore [1991, 1992]
+- Gregg, Donald P., U.S. Ambassador to Korea from September 27, 1989
+- Gregg, Jennifer A., Consul, U.S. Embassy in Valletta [1989]
+- Gregoire, Joseph P., Office of Central African Affairs, Bureau of African Affairs, Department of State [1992]
+- Greulich, Laura, Administrative Counselor, U.S. Embassy in Vilnius [1992]
+- Grey, Robert T., Political Counselor, U.S. Mission to the North Atlantic Treaty Organization [1989]; Political Counselor, U.S. Mission to the United Nations [1989-1992]
+- Gribbin, David J., III, Assistant Secretary of Defense for Legislative Affairs from May 22, 1989, until January 18, 1993
+- Gribbin, Robert E., Deputy Chief of Mission, U.S. Embassy in Kampala until 1991; The Senior Seminar from 1991 until 1992; U.S. Ambassador to the Central African Republic from January 16, 1993
+- Gribbin, William J., Special Assistant to the Vice President for Legislative Affairs from 1989 until 1992
+- Griffin, Christa U., Administrative Counselor, U.S. Embassy in Doha [1990-1992]
+- Griffin, George G.B., Deputy Chief of Mission, U.S. Embassy in Nairobi [1989-1990]; Director, Office of Bhutan, India, Maldives, Nepal, Sri Lanka Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Director, Office of India, Nepal, and Sri Lanka Affairs, Bureau of South Asian Affairs, Department of State [1992]
+- Griffin, James, Management Policy, Bureau of Finance and Management Policy, Department of State [1990-1992]; Administrative Counselor, U.S. Embassy in Nassau [1992]
+- Griffin, Philip J., Consul General, U.S. Consulate at Stuttgart [1989]; Consul General, U.S. Consulate at Jeddah [1990-1992]; Deputy Chief of Mission, U.S. Embassy in Jeddah [1992]
+- Griffin, Ralph D., Commercial Counselor, U.S. Consulate at Barcelona [1989-1992]
+- Griffith, George O., Jr., Special Assistant to the President for Intergovernmental Affairs (1991)
+- Griffith, Oliver W., Political and Economic Counselor, U.S. Consulate at Hamburg [1989-1991]; Administrative Counselor, U.S. Embassy in Bangui [1991, 1992]; Office of East African Affairs, Bureau of African Affairs, Department of State [1992]
+- Griffith, Wayne, Consul, U.S. Embassy in Managua [1989, 1990]; Consul, U.S. Embassy in Lima [1991]; Bureau of Consular Affairs, Department of State [1992]
+- Griffith, William H., Consul, U.S. Embassy in Dublin [1989-1992]; Consul, U.S. Interests Section in Havana [1992]
+- Griffiths, Barbara, Special Assistant to the Special Adviser for Eastern European Assistance, Office of the Deputy Secretary of State [1990]; Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Deputy Director for Economic and Assistance Affairs, Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Griffiths, Douglas M., Consul, U.S. Consulate at Quebec [1989, 1990]
+- Griffiths, Gene, Director, Office of Aviation Programs and Policies, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1990, 1991]
+- Grimes, John, Senior Director of the White House Situation Support Staff
+- Grimland, David, Public Affairs Officer, U.S. Embassy in Ankara [1992]
+- Grobel, Olaf, Political Counselor, U.S. Embassy in Bonn [1989, 1990]; Office of Central European Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Director, Office of Central European Affairs, Bureau of European and Canadian Affairs, Department of State [1991]; Adjunct Chairperson, Central and Eastern European Studies, School of Area Studies, Foreign Service Institute, Department of State [1992]
+- Groomes, Karen, Special Assistant to the Secretary of State [1991]
+- Gross, Bernard E., II, Administrative Counselor, U.S. Consulate at Guayaquil [1989]; Administrative Counselor, U.S. Consulate at Guadalajara [1990-1992]; Administrative Counselor, U.S. Embassy in Dushanbe [1992]
+- Gross, Jill, Executive Assistant to the Inspector General, Department of State [1990, 1991, 1992]
+- Grossman, Andrew, Commerical Counselor, U.S. Trade Representative in Geneva [1991]; Commercial Counselor, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1992]
+- Grossman, Marc, Deputy Chief of Mission, U.S. Embassy in Ankara [1990-1992]; Principal Deputy Assistant Secretary of State for Politico-Military Affairs [1992]
+- Grove, Brandon H., Jr., Director, Foreign Service Institute, Department of State, until August 14, 1992
+- Grover, Charles H., Administrative Counselor, U.S. Embassy in Belize City [1989, 1990]; Office of the Executive Director, Bureau of European and Canadian Affairs, Department of State [1992]
+- Grummon, Stephen, Member, Policy Planning Staff, Department of State [1990-1992]
+- Grunwald, Henry A., U.S. Ambassador to Austria until January 1, 1990
+- Gudjonsson, Mary T., Vice Counsel, U.S. Consulate at Ponta Delgada [1991, 1992]; Political, Economic, and Commercial Counselor, U.S. Embassy in Mbabane [1992]
+- Guerra, John, Staff Assistant, Bureau of Inter-American Affairs, Department of State [1992]
+- Guerra, Manuel R., Principal Officer, U.S. Consulate at Nuevo Laredo [1989]; Board of Examiners for the Foreign Service, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1992]
+- Guest, Michael, Deputy Director for Political Affairs, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]
+- Guhin, Michael A., U.S. Delegation for the Negotiation on Conventional Armed Forces in Europe [1990, 1991]
+- Guichard, Miriam E., Public Affairs Officer, U.S. Embassy in Brazzaville [1989-1991]; Public Affairs Officer, U.S. Embassy in Lusaka [1991, 1992]; Branch Public Affairs Officer, U.S. Consulate at Madras [1992]
+- Guinot, Luis, Jr., lawyer, Kelley, Drye & Warren; U.S. Ambassador to Costa Rica from August 27, 1991
+- Gulliksen, Gail J., Public Affairs Officer, U.S. Embassy in Lisbon [1990-1992]
+- Gundersen, Jon, Chief, European Security Negotiations Division, Bureau of Multilateral Affairs, Arms Control and Disarmament Agency [1989]; Consul General, U.S. Consulate at Kiev [1991]; Charge d’Affaires ad interim, U.S. Embassy in Kiev from January 23, 1992
+- Gunning, Kathryn M., Branch Public Affairs Officer, U.S. Consulate at Medan [1991]; Country Officer, Office of East Asian and Pacific Affairs, United States Information Agency [1992]
+- Gurney, Charles B., Special Assistant, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990, 1991]; Office of Anglophone and Lusophone West African Affairs, Bureau of African Affairs, Department of State [1992]
+- Gussman, William, Special Assistant, Office of the Senior Representative for Strategic Technology Policy, Office of the Under Secretary of State for Security Assistance, Science, and Technology (later International Security Affairs), Department of State [1989-1991]
+- Gustafson, Marianne, Consul and Economic and Commercial Counselor, U.S. Embassy in Valletta [1990-1992]
+- Gutensohn, Lynn, Consul, U.S. Embassy in Brazzaville [1989-1991]; European and Canadian Division, Citizens Emergency Center, Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1992]
+- Gutensohn, Philip D., Administrative Counselor, U.S. Embassy in Kinshasa [1989-1992]; Deputy Executive Director, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Guthrie-Corn, Jeri S., Consul, U.S. Consulate at Oran [1989]
+- Gutierrez, Lino, Deputy Chief of Mission, U.S. Embassy in Nassau [1990-1992]
+- Gwaltney, Sheila, Operations Center, Executive Secretariat, Department of State [1990]; Staff Assistant, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990, 1991]
+- Gwynn, John B., Labor Attache, U.S. Embassy in Mexico City [1989]; Contemporary Documents Review, Office of Freedom of Information, Privacy, and Classification Review, Office of the Deputy Assistant Secretary for Information Services, Bureau of Diplomatic Security, Department of State [1992]
+- Haas, Dean, Consul and Administrative Counselor, U.S. Consulate at Adana [1991, 1992]; Secretariat Staff, Executive Secretariat, Department of State [1992]
+- Haass, Richard N., Special Assistant to the President for National Security Affairs and Senior Director for Near East and South Asian Affairs, from March 13, 1989, until November 1992
+- Habib, Michael J., Deputy Chief of Mission, U.S. Embassy in Vienna [1989, 1990]; Charge d’Affaires, U.S. Embassy in Vienna [1990]; Deputy Chief of Mission, U.S. Embassy in Vienna [1990, 1991]; Director, Office of Eastern European and Yugoslav Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Hacker, Paul, Office of UN Political Affairs, Bureau of International Organization Affairs, Department of State [1990]; Principal Officer, U.S. Consulate at Bratislava [1991, 1992]; Charge d’Affaires ad interim in Bratislava from January 4, 1993
+- Hackett, Anne M., Administrative Counselor, U.S. Embassy in Amman [1989, 1990]; Administrative Counselor, U.S. Embassy in Rome [1991, 1992]
+- Hadley, Stephen J., lawyer, Shea and Gardner; Assistant Secretary of Defense for International Security Policy from June 23, 1989, until January 20, 1993
+- Hage, Walter, Commercial Counselor, U.S. Consulate at Rio de Janeiro [1990-1992]
+- Hagen, Robert S., Consul, U.S. Consulate at Calgary [1992]
+- Hahn, Michael, Branch Public Affairs Officer, U.S. Consulate at Genoa [1989]; Public Affairs Officer, U.S. Embassy in San Salvador [1992]
+- Hahn, Nick, Consul, U.S. Consulate at Guayaquil [1989-1992]
+- Haigh, Patricia A., Scientific and Technical Affairs, U.S. Mission to the European Communities [1989, 1990]; Board of Examiners for the Foreign Service, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1992]
+- Haines, George H., III, Administrative Counselor, U.S. Embassy in Kingston [1989-1992]
+- Haines, Mary, Special Assistant to the Secretary of State [1989]; Office of the Executive Director, Executive Secretariat, Department of State [1990, 1991]
+- Hajjar, Sami G., Public Affairs Officer, U.S. Embassy in Abu Dhabi [1990-1992]
+- Hale, David M., Staff Assistant, Bureau of Near Eastern and South Asian Affairs, Department of State [1989]; Political Counselor, U.S. Embassy in Beirut [1992]
+- Haley, James M., Public Affairs Officer, U.S. Embassy in Yaounde [1989]; Public Affairs Officer, U.S. Embassy in Addis Ababa [1990-1992]
+- Hall, Anne, Consul and Administrative Counselor, U.S. Consulate at Barranquilla [1989]
+- Hall, Carole J., Special Assistant, Washington Office of the Permanent Representative to the United Nations, Bureau of International Organization Affairs, Department of State [1990, 1991]
+- Hall, James H., Executive Assistant, Office of the Ambassador at Large and Special Advisor to the Secretary of State on Nonproliferation Policy and Nuclear Energy Affairs [1989, 1990]; Associate Coordinator, Office of the Ambassador at Large and Coordinator for Refugee Affairs [1990-1992]
+- Hall, John E., Consul General, U.S. Consulate at Toronto [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Bern [1991, 1992]
+- Hall, Lucy H., Public Affairs Officer, U.S. Embassy in Bujumbura [1989]; Public Affairs Officer, U.S. Embassy in Port-of-Spain [1990]; Country Affairs Officer, Office of North African, Near Eastern, and South Asian Affairs, United States Information Agency [1992]
+- Hall, Patricia L., Consul, U.S. Consulate at Munich [1989, 1990]; Consul, U.S. Embassy in Bucharest [1991, 1992]
+- Hall, Wilma, Confidential Assistant to the President’s Assistant for National Security Affairs from January 1989
+- Hallett, Carol Boyd, U.S. Ambassador to the Bahamas until May 10, 1989
+- Hallford, Scott, Deputy Chief of Mission, U.S. Embassy in Beijing [1991, 1992]; Office of Chief of Mission Authority and Overseas Staffing, Management Policy, Bureau of Finance and Management Policy, Department of State [1992]
+- Halliburton, Suneta Lyn, Administrative Counselor, U.S. Consulate at Naples [1989]; Assignment Division (EUR), Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1991]; Office of the Executive Director, Bureau of European and Canadian Affairs, Department of State [1992]
+- Hallman, Brian S., Deputy Director, Office of Fisheries Affairs, (Oceans and Fisheries Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989-1992]
+- Halmo, James, Director, Office of Public and Diplomatic Liaison, Office of the Deputy Assistant Secretary for Visa Services, Bureau of Consular Affairs, Department of State [1991, 1992]
+- Halpin, Dennis P., Principal Officer, U.S. Consulate at Pusan [1990-1992]
+- Halsted, David C., Deputy Director, Office of West African Affairs, Bureau of African Affairs, Department of State [1989]; Director, Office of Regional Affairs, Bureau of African Affairs, Department of State [1990-1991]; Consul General, U.S. Consulate at Cape Town [1991, 1992]
+- Halsted, Ted W., Consul, U.S. Embassy in Rabat [1989]
+- Hambley, Mark G., Consul General, U.S. Consulate at Alexandria from 1986 until 1989; U.S. Ambassador to Oman from October 30, 1989, until August 15, 1992; Consul General, U.S. Consulate at Jeddah [1992]
+- Hamilton, Donald R. (Don), Public Affairs Officer, U.S. Embassy in Lima [1990-1992]
+- Hamilton, Donna J., Consul, U.S. Embassy in Lima [1989]; Consul, U.S. Embassy in San Jose [1989-1992]; Deputy Executive Director, Bureau of Consular Affairs, Department of State [1992]
+- Hamilton, Hugh G., Jr., Deputy Chief of Mission, U.S. Embassy in Luxembourg [1989]; Deputy Chief of Mission, U.S. Embassy in Abidjan [1989-1992]; Deputy Special Adviser, Office of the Special Adviser for Eurasian Assistance, Office of the Deputy Secretary of State [1992]
+- Hamilton, John R., Political Counselor, U.S. Embassy in Lima [1989]; Political Counselor, U.S. Embassy in San Jose [1989-1992]; Director, Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Hamilton, Lee H., member, U.S. House of Representatives (D-Indiana)
+- Hamilton, Thomas P., Political Counselor, U.S. Embassy in Kuala Lumpur [1989, 1990]; Political Counselor, U.S. Embassy in Jakarta [1991, 1992]
+- Hammer, Stephen R., Jr., Chief U.S. Negotiator for Strategic Offensive Arms in the U.S.-Soviet Negotiations on Nuclear and Space Arms
+- Hammond, Bette Jean, Consul, U.S. Embassy in Antananarivo [1989, 1990]
+- Hammond, Carol A., Administrative Counselor, U.S. Embassy in Maputo [1989]
+- Hammond, Constance, Administrative Counselor, U.S. Embassy in Maseru [1989, 1990]; Administrative Counselor, U.S. Consulate at Istanbul [1991, 1992]
+- Hanagan, Kathleen, acting Special Assistant, Office of the Deputy Assistant Secretary for Passport Services, Bureau of Consular Affairs, Department of State
+- Hancock, Michael L., Consul, U.S. Embassy in Madrid [1989-1991]; Board of Examiners, Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1992]
+- Hancock, Scott R., Economic and Commercial Counselor, U.S. Embassy in Maputo [1992]
+- Hand, Michael J., Commercial Counselor, U.S. Embassy in Lima [1989, 1990]; Commercial Counselor, U.S. Consulate at Sydney [1990-1992]
+- Hanish, Gerald, Administrative Counselor, U.S. Embassy in Conakry [1989]
+- Hankin, Christopher G., Deputy Assistant Secretary for International Trade Controls, Bureau of Economic and Business Affairs, Department of State [1989-1992]
+- Hankins, Dennis B., Consul, U.S. Embassy in Khartoum [1989-1991]; Office of Central African Affairs, Bureau of African Affairs, Department of State [1992]
+- Hanks, Russell J., Consul, U.S. Consulate at Ponta Delgada [1989-1991]; Political Counselor, U.S. Embassy in Georgetown [1991, 1992]
+- Hanmer, Stephen Read, Strategic Offensive Arms (START) Negotiator, U.S. Delegation to the Negotiations on Nuclear and Space Arms until August 1989; Deputy Director of the Arms Control and Disarmament Agency from August 1989
+- Hannah, John, Member, Policy Planning Staff, Department of State [1991, 1992]
+- Hanniffy, Brenurdan A., Economic Counselor, U.S. Embassy in Mexico City [1990]
+- Hanscom, Patricia, Office of Strategic and Theater Policy, Bureau of Politico-Military Affairs, Department of State [1990, 1991]; Deputy Director, Office of Strategic and Theater Policy, Bureau of Politico-Military Affairs, Department of State [1992]
+- Hansen, Lynn M., Assistant Director, Bureau of Multilateral Affairs, Arms Control and Disarmament Agency until 1989; John M. Olin Distinguished Professor of National Defense and Security Studies, United States Air Force Academy from 1989 until 1991; U.S. Representative on the Conventional Armed Forces in Europe Joint Consultative Group and U.S. Representative to the Negotiations on Conventional Armed Forces in Europe from 1991 until 1992
+- Hansen, Robert W., acting Chief, Strategic Forces Division, Office of Strategic Forces Analysis, Bureau of Intelligence and Research, Department of State [1989]; Chief, Regional Analysis Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1990-1992]
+- Hanson, Bradford E., Political Counselor, U.S. Embassy in Saana [1989-1991]
+- Hanson, Thomas R., Political Counselor, U.S. Embassy in Stockholm [1989-1992]
+- Han Xu, Chinese Ambassador to the United States
+- Harbin, William, Labor Attache, U.S. Embassy in Rome [1989-1991]
+- Hardesty, Steven A., Systems Applications Staff, Office of the Executive Director, Bureau of Consular Affairs, Department of State [1990, 1991]; Consul, U.S. Consulate at Dhahran [1992]
+- Harding, Peter X., Consul and Administrative Counselor, U.S. Embassy in Moroni [1990, 1991]
+- Hare, Charles R., Labor Attache, U.S. Embassy in Bridgetown [1989]; Labor Attache, U.S. Embassy in Madrid [1990-1992]; Labor Attache, U.S. Embassy in Rome [1992]
+- Hare, Paul J., Senior Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs until June 1989; Foreign Service Institute, Department of State [1990, 1991]; acting Director, Policy Coordination Staff, Bureau of Personnel, Department of State [1991]
+- Harkin, Tom, Senator (D-Iowa); Democratic candidate for president in 1992
+- Harkness, Edward M., Administrative Counselor, U.S. Embassy in Sanaa [1989]; Administrative Counselor, U.S. Consulate at Sydney [1989-1992]
+- Harley, Timothy, Administrative Counselor, U.S. Embassy in Bishkek [1992]
+- Harms, Norma R., Labor Attache, U.S. Embassy in Panama City [1990]; Political Counselor, U.S. Embassy in Tbilisi [1992]
+- Harms, Ronald, Consul, U.S. Embassy in Yerevan [1992]
+- Harnish, Reno L., III, Economic and Commercial Counselor, U.S. Embassy in Berlin [1989]; Science Attache, U.S. Embassy in Rome [1990-1992]; Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Harper, Ramona, Public Affairs Officer, U.S. Embassy in Kampala [1989, 1990]
+- Harrington, Donald B., Political Counselor, U.S. Consulate at Sao Paulo [1989-1991]; Political Counselor, U.S. Embassy in San Jose [1992]
+- Harrington, John M., Jr., Deputy Director, Office of Economic Policy, Bureau of Inter-American Affairs, Department of State [1989, 1990]; Director, Office of Economic Policy, Bureau of Inter-American Affairs, Department of State [1991, 1992]
+- Harris, Daniel, Commercial Counselor, U.S. Embassy in Prague [1992]
+- Harris, F. Allen (F.A. or Tex), Consul General, U.S. Consulate at Durban [1989, 1990]; Director, Office of Regional Affairs, Bureau of African Affairs, Department of State [1992]
+- Harris, Gene R., Commercial Counselor, U.S. Embassy in Abidjan [1989-1991]; Commercial Counselor, U.S. Embassy in Dublin [1992]
+- Harris, George S., Director, Office of Analysis for Near East and South Asia, Bureau of Intelligence and Research, Department of State [1989-1992]
+- Harris, Martha, Economic and Commercial Counselor, U.S. Embassy in Kathmandu [1992]
+- Harris, Norma F., Branch Public Affairs Officer, U.S. Consulate at Shenyang [1989, 1990]; Branch Public Affairs Officer, U.S. Consulate at Shanghai [1990-1992]
+- Harris, Wayne E., Political Counselor, U.S. Embassy in Freetown [1991, 1992]
+- Harris, William T., Deputy Chief of Mission, U.S. Embassy in Luxembourg City [1992]; Political Adviser, U.S. Delegation to the Negotiations on Confidence and Security Building Measures in Europe [1990-1992]
+- Harrison, L. Scott, Political Counselor, U.S. Embassy in Addis Ababa [1991, 1992]
+- Harrison, Roger G., Deputy Assistant Secretary of State for Defense and Arms Control, Bureau of Politico-Military Affairs, Department of State, until 1989; Diplomat-in-Residence, Colorado College from 1989 until 1990; U.S. Ambassador to Jordan from August 7, 1990
+- Harrod, Delores F., Commercial Adviser, U.S. Mission to the European Communities [1991]
+- Harrod, John P., Public Affairs Officer, U.S. Embassy in Brussels [1989-1992]
+- Harrop, William C., U.S. Ambassador to Congo (Kinshasa) until May 18, 1991; U.S. Ambassador to Israel from January 21, 1992
+- Harsha, Stanley J., Branch Public Affairs Officer, U.S. Consulate at Medan [1989, 1990]
+- Hart, Stephen T., Special Assistant to the President and Deputy Press Secretary from January 31, 1989
+- Harter, Dennis G., Director, Office of Press Relations, Bureau of Public Affairs, Department of State [1989]; Consul General, U.S. Consulate at Guangzhou [1990-1992]
+- Hartman, Jan, Public Affairs Officer, U.S. Embassy in Libreville [1990-1992]
+- Hartwick, Douglas A., Economic Counselor, U.S. Embassy in Kuala Lumpur [1991, 1992]
+- Harty, Maura, Special Assistant, Bureau of Consular Affairs, Department of State [1992]
+- Harvey, Barbara S., Coordinator, Political Training, School of Professional Studies, Foreign Service Institute, Department of State [1989]; Deputy Director, Office of Indonesia, Malaysia, Brunei, and Singapore Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Deputy Assistant Secretary of State for Personnel [1992]
+- Harvey, Richard J., Economic and Commercial Counselor, U.S. Embassy in N’Djamena [1989-1991]
+- Harwood, William, Public Affairs Officer, U.S. Embassy in Mogadishu [1989, 1990]; Country Officer, East Africa, Office of African Affairs, United States Information Agency [1992]
+- Haskell, Todd P., Consul, U.S. Consulate at Poznan [1992]
+- Hassani, Frederic C., Office Automation Division, Office of Development, Office of the Deputy Assistant Secretary for Planning and Development, Bureau of Diplomatic Security, Department of State [1990]; Administrative Counselor, U.S. Embassy in Bucharest [1991, 1992]
+- Hassan II, King of Morocco
+- Hassett, Frederick H., Deputy Chief of Mission, U.S. Embassy in Bern [1989, 1990]
+- Hastie, Barbara A., Operations Center, Executive Secretariat, Department of State [1990]; Staff Assistant, Bureau of Inter-American Affairs, Department of State [1991, 1992]
+- Hatfield, Mark O., Senator (R-Oregon)
+- Hatton, Charla, Public Affairs Officer, U.S. Embassy in Suva [1992]
+- Hauger, Donald W., Branch Public Affairs Officer, U.S. Consulate at Hamburg [1989]
+- Haugh, William, Deputy Director, Secretariat Staff, Executive Secretariat, Department of State [1989]
+- Haughey, Charles J., Prime Minister of Ireland
+- Hauser, Timothy P., Legislative Management Officer, Bureau of Legislative Affairs, Department of State [1989, 1990]; Deputy Director, Office of India, Nepal, and Sri Lanka Affairs, Bureau of South Asian Affairs, Department of State [1992]
+- Hauslohner, Peter, Member, Policy Planning Staff, Department of State [1990, 1991]
+- Havel, Vaclav, President of Czechoslovakia from December 29, 1989
+- Hawes, John H., U.S. Negotiator to the Open Skies Conference
+- Hawke, Robert J.L., Prime Minister of Australia until December 20, 1991
+- Hayden, Michael V., Col., USAF, Director for Defense Policy and Arms Control, National Security Council staff, from May 1990 until June 1991; Chief, Secretary’s Staff Group, Department of the Air Force (1992)
+- Hayes, Joseph E., Deputy Chief of Mission, U.S. Embassy in Belize City [1989-1992]
+- Hayes, Patrick R., Administrative Counselor, U.S. Embassy in Kuala Lumpur [1989, 1990]; Assignment Division (EAP), Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1990]; Director, Operations and Post Support Office, Office of the Deputy Assistant Secretary for Foreign Building Operations, Bureau of Administration, Department of State [1992]
+- Haynes, Richard Dale, Consul, U.S. Consulate at Calcutta [1989, 1990]; Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1990-1992]
+- Hays, Dennis K., Deputy Chief of Mission, U.S. Embassy in Georgetown [1989-1990]; Charge d’Affaires ad interim from July 1, 1990, until January 1, 1992; thereafter Deputy Chief of Mission
+- Hays, Donald S., Administrative Counselor, U.S Mission at Berlin [1989, 1990]; Administrative Counselor, U.S. Embassy in Islamabad [1990-1992]; Administrative Counselor, U.S. Embassy in Bonn [1992]
+- Heaphy, Eileen M., Deputy Director, Office of Northern European Affairs, Bureau of European and Canadian Affairs, Department of State [1989]; Director, Office of Northern European Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Director, Office of Western European Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Hearne, Dennis W., Staff Assistant, Bureau of Politico-Military Affairs, Department of State [1990]; Office of Western European Affairs, Bureau of European and Canadian Affairs, Department of State [1990-1992]
+- Hearne, Francis P.G., Administrative Counselor, U.S. Embassy in Niamey [1990]
+- Heath, Michael G., Economic and Commercial Counselor, U.S. Embassy in Georgetown [1992]
+- Hecht, Jacob (Chic), U.S. Ambassador to the Bahamas from August 23, 1989
+- Heck, Ernestine S., Political Counselor, U.S. Embassy in Colombo [1989, 1990]; Consul General, U.S. Consulate at Madras [1990-1992]
+- Heckler, Margaret M., former Secretary of Health and Human Services; U.S. Ambassador to Ireland until August 20, 1989
+- Hecklinger, Carol, acting Director, Policy, Planning, and Evaluation Staff, Bureau of International Narcotics Matters, Department of State [1990-1992]
+- Hecklinger, Richard E., Deputy Chief of Mission, U.S. Mission to the Organization of Economic Cooperation and Development [1989, 1990]; Principal Deputy Assistant Secretary of State for Economic and Business Affairs [1990-1992]
+- Heckman, Scott R., Administrative Counselor, U.S. Embassy in Doha [1992]
+- Hedgbeth, Llewellyn W., Office of Foreign Building Operations, Bureau of Administration, Department of State [1990, 1991]; Administrative Counselor, U.S. Consulate at Hamburg [1992]
+- Heditsian, Corinne, Branch Public Affairs Officer, U.S. Consulate at Genoa [1989, 1990]
+- Heflin, Donald, Consul, U.S. Consulate at Hermosillo [1992]
+- Heg, James T., Investment Adviser, U.S. Mission to the Organization for Economic Cooperation and Development [1989-1992]
+- Hegedus, Michael J., Commercial Counselor, U.S. Embassy in The Hague [1990-1992]
+- Heidt, William A., Administrative Counselor, U.S. Consulate at Poznan [1989, 1990]
+- Heileman, Carolee, Consul General, U.S. Consulate at Barcelona [1991, 1992]
+- Heimann, Judith M., Consul General, U.S. Consulate at Bordeaux [1989-1991]
+- Heitkotter, Karen R., Personal Assistant to the Head of Delegation to the Negotiations on Nuclear and Space Arms [1990, 1991]; Staff Assistant, Office of the Counselor, Department of State [1992]
+- Held, E. Bruce, Political and Military Counselor, U.S. Embassy in N’Djamena [1991, 1992]
+- Helgesen, Stephen J., Commercial Counselor, U.S. Embassy in Port-of-Spain [1989]; Commercial Counselor, U.S. Embassy in Copenhagen [1990-1992]
+- Helman, Gerald, Senior Adviser to the Under Secretary of State for Political Affairs [1989-1991]
+- Helmer, Colin S., Commercial Counselor, U.S. Embassy in Colombo [1989, 1990]; Economic and Commercial Counselor, U.S. Embassy in Reykjavik [1991, 1992]
+- Helmer, Francisca Thomas, Administrative Counselor, U.S. Embassy in Reykjavik [1991, 1992]
+- Helms, Jesse, Senator (R-North Carolina)
+- Hemingway, Barbara, Consul, U.S. Embassy in Kinshasa [1989, 1990]; Consul, U.S. Embassy in Buenos Aires [1992]
+- Hempstone, Smith, Jr., syndicated columnist; U.S. Ambassador to Kenya from December 7, 1989
+- Henderson, Judith A., Commercial Counselor, U.S. Embassy in San Jose [1989-1991]; Commercial Counselor, U.S. Embassy in Tel Aviv [1992]
+- Henderson, Mahlon, Principal Officer, U.S. Consulate at Ponta Delgada [1989-1991]; Political and Economic Counselor, U.S. Embassy in Khartoum [1991, 1992]
+- Hendrickson, E. Mason, Jr., Political Counselor, U.S. Embassy in Seoul [1991, 1992]
+- Hendrickson, Mahlon, Political and Economic Counselor, U.S. Embassy in Khartoum [1992]
+- Hengel, Douglas C., Office of Southern Cone Affairs, Bureau of Inter-American Affairs, Department of State [1990-1991]; Economic Counselor, U.S. Embassy in Lima [1991, 1992]
+- Hennessey-Niland, John, Staff Assistant, Bureau of International Organization Affairs, Department of State [1991]; Office of Technical Specialized Agencies, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Henning, Herman W., Public Affairs Officer, U.S. Embassy in Cotonou [1989-1991]
+- Henshaw, Diana E., Consul, U.S. Mission in Berlin [1989, 1990]; Chief, Northern and Central Europe and Canada Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1990, 1991]
+- Henshaw, Simon, Senior Special Assistant, Bureau of Intelligence and Research, Department of State [1990, 1991]
+- Henze, Christopher M., Public Affairs Officer, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1989]
+- Henzel, Christopher P., Consul, U.S. Consulate at Merida [1989, 1990]; Consul, U.S. Consulate at Lahore [1990-1992]; Operations Center, Executive Secretariat, Department of State [1992]
+- Herbert, Kevin F., Office of the Executive Director, Bureau of Consular Affairs, Department of State [1990]; Consul, U.S. Embassy in La Paz [1992]
+- Herbst, John E., Deputy Director for Economic Affairs, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1989-1991]; Political Counselor, U.S. Embassy in Tel Aviv [1991, 1992]
+- Herres, Gen. Robert T., USAF, Vice Chairman of the Joint Chiefs of Staff until February 28, 1990
+- Herzfeld, Charles M., Director of Defense Research and Engineering from March 12, 1990, until May 8, 1991
+- Herzog, Chaim, President of Israel
+- Heslin, Shelia, Member, Policy Planning Staff, Department of State [1992]
+- Hess, David M., Principal Officer, U.S. Consulate at Oran [1990, 1991]; Deputy Director for Ukraine, Belarus, Moldova, and Trans-Caucasus Affairs and acting Deputy Director for Central Asia and Regional Science and Technology Affairs, Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Hesse, Rayburn, Special Assistant for Policy Development and Congressional Relations, Bureau of International Narcotics Matters, Department of State [1989]
+- Hewett, Edward A., Senior Fellow, Foreign Policy Studies Program, Brookings Institution until 1991; Special Assistant to the President for National Security Affairs and Senior Director for Soviet Affairs (later Russian and Eurasian Affairs) from March 22, 1991
+- Hewitt, Warren E., Senior Policy Adviser, Bureau of Human Rights and Humanitarian Affairs, Department of State [1989-1991]
+- Heydemann, Peter L.M., Science Attache, U.S. Embassy in New Delhi [1991, 1992]
+- Hickman, Leslie R., Consul, U.S. Consulate at Dhahran [1989-1992]
+- Hicks, Gregory, Consul and Economic and Social Counselor, U.S. Embassy in Banjul [1991, 1992]
+- Hicks, Irvin (Irv), Deputy Assistant Secretary of State for Personnel until 1989; Deputy Assistant Secretary of State for African Affairs from 1989 until 1992
+- Hicks, John F., Deputy Assistant Administrator, Bureau for Africa, Agency for International Development [1992]
+- Higgins, Margaret, Consul, U.S. Embassy in Budapest [1990-1992]; Visa Services, Bureau of Consular Affairs, Department of State [1992]
+- Higgins, Peter T., Consul General, U.S. Consulate at Melbourne [1989]
+- Higgins, Richard J., Consul General, U.S. Consulate at Genoa [1989]
+- Hilburn, Paul W., Jr., Labor Adviser, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1989]; Labor Attache, U.S. Embassy in Brussels [1989-1991]; Labor Adviser, U.S. Mission to the European Communities [1991, 1992]
+- Hill, Christopher R., Office of Eastern European and Yugoslavian Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Charge d’Affaires ad interim, U.S. Embassy in Tirana, from October 1 until December 21, 1991; Deputy Chief of Mission, U.S. Embassy in Tirana [1992]
+- Hill, Hugh Kenneth, Chief, Senior Officer Division, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1989, 1990]; U.S. Ambassador to Bulgaria from September 18, 1990
+- Hill, J. French, Special Assistant to the President and Executive Secretary, Policy Coordinating Group (1992)
+- Hill, Kenneth J., Deputy Executive Secretary, National Security Council staff (1990, 1992)
+- Hill, Leonard A., Economic Counselor, U.S. Consulate at Toronto [1989-1991]; Office of Weapons Proliferation Policy, Bureau of Politico-Military Affairs, Department of State [1992]
+- Hill, Nicholas M., Staff Assistant, Bureau of East Asian and Pacific Affairs, Department of State [1989]; Consul, U.S. Consulate at Sapporo [1992]
+- Hilliard, Joseph Jr., Administrative Counselor, U.S. Consulate at Milan [1991, 1992]
+- Hills, Carla Anderson, United States Trade Representative from February 6, 1989, until January 20, 1993
+- Hilts, Joseph A., Administrative Counselor, U.S. Embassy in Ouagadougou [1992]
+- Hinckley, Damien D., Administrative Counselor, U.S. Consulate at Melbourne [1991, 1992]
+- Hinckley, Ronald H., Director, Office of Research, United States Information Agency [1992]
+- Hines, Richard, Senior Political Adviser, U.S. Mission to the Organization of American States [1989, 1990]
+- Hinson, Sherman N., Political Counselor, U.S. Embassy in Bern [1989]
+- Hinson-Jones, Robyn, Special Assistant, Office of the Deputy Secretary of State [1989]; Political Counselor, U.S. Embassy in Lusaka [1990-1992]
+- Hinton, Deane R., U.S. Ambassador to Costa Rica until January 4, 1990; U.S. Ambassador to Panama from January 9, 1990
+- Hinton, Michael J., Administrative Counselor, U.S. Consulate at Hong Kong [1992]
+- Hirohito, Emperor of Japan until January 6, 1989
+- Hirsch, Daniel M., Consul, U.S. Embassy in Praia [1989-1991]
+- Hirsch, John L., Director, Office of Israel and Arab-Israeli Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989, 1990]; Consul General, U.S. Consulate at Johannesburg [1991, 1992]
+- Hitchcock, David I., Director, Office of East Asian and Pacific Affairs, United States Information Agency from 1989 until August 1992
+- Hitchcock, John B., Administrative Officer, U.S. Consulate at Shanghai [1989, 1990]
+- Hittle, L. Bradley, Deputy Principal Officer, U.S. Interests Section in Havana [1989-1991]; Deputy Director, Office of Andean Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Hoagland, Richard E., Branch Public Affairs Officer, U.S. Consulate at Peshawar [1989]
+- Hobbs, David L., Consul, U.S. Embassy in Bogota [1989]; Political Counselor, U.S. Embassy in Bogota [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Bogota [1991, 1992]; Deputy Assistant Secretary for Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1992]
+- Hodai, Kathleen V., Post Management Officer, Office of the Executive Director, Bureau of East Asian and Pacific Affairs, Department of State [1989, 1990]; Administrative Counselor, U.S. Embassy in Port-of-Spain [1991, 1992]
+- Hodai, Patrick, Public Affairs Officer, U.S. Embassy in Port-of-Spain [1991, 1992]
+- Hodges, Heather M., Principal Officer, U.S. Consulate at Bilboa [1989, 1990]; Consul General, U.S. Consulate at Bilboa [1990, 1991]; Deputy Director, Office of Cuban Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Hodges, Thomas, Branch Public Affairs Officer, U.S. Consulate at Lubumbashi [1991, 1992]
+- Hodsoll, Francis S.M., Chair, National Endowment of the Arts; Executive Associate Director and Chief Financial Officer, Office of Management and Budget, from 1989
+- Hoff, Fredric C., Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Executive Assistant Deputy to the Coordinator for U.S. Assistance to the New Independent States, Office of the Deputy Secretary of State [1992]
+- Hoffman, Deane E., National Intelligence Officer for Economics, National Intelligence Council; Special Assistant to the President for National Security Affairs and Senior Director for International Economic Affairs, National Security Council staff, from June 5, 1989
+- Hoffman, Myron, Public Affairs Officer, U.S. Embassy in Vienna [1991]; Public Affairs Officer, U.S. Embassy in Belgrade [1992]
+- Hoffman, William, Administrative Counselor, U.S. Embassy in Mogadishu [1989]
+- Hoffmann, Phillip, Branch Public Affairs Officer, U.S. Consulate at Surabaya [1990]
+- Hofmann, Karl W., Bureau of African Affairs, Department of State [1990, 1991]; Special Assistant, Office of the Under Secretary of State for Political Affairs [1991]; Deputy Chief of Mission, U.S. Embassy in Maseru [1992]
+- Hogan, James J., Public Affairs Officer, U.S. Embassy in Kinshasa [1989-1991]
+- Hogan, Michael J., Consul, U.S. Consulate at Ciudad Juarez [1989, 1990]; Director, Office of Asian Refugee Assistance, Refugee Programs, Department of State [1990, 1991]; CA/CC [1992]
+- Hoganson, Jerome L., Executive Director, Association for Diplomatic Studies, Foreign Service Institute, Department of State [1989]; Deputy Director, Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State [1990]; Office of the Executive Director, Bureau of Inter-American Affairs, Department of State [1992]
+- Hogard, Stephen B., Administrative Counselor, U.S. Consulate at Calcutta [1989]; Post Management Officer, Office of the Executive Director, Bureau of African Affairs, Department of State [1990, 1991]; Administrative Counselor, U.S. Embassy in Mbabane [1991, 1992]
+- Hogeman, George H., Consul, U.S. Embassy in Lagos and Consul, U.S. Consulate at Kaduna [1990]
+- Hoggard, V. Kim, Senior Deputy Assistant Secretary of State for Public Affairs [1989-1991]
+- Hoinkes, Mary Elizabeth (Mary Lib), Deputy General Counsel, Office of the General Counsel, Arms Control and Disarmament Agency [1989-1992]
+- Holbrook, Morton J., III, Consul General, U.S. Consulate at Shenyang [1990-1992]
+- Holden, Glen A., U.S. Ambassador to Jamaica from November 21, 1989
+- Holiday, Edith E., Assistant Secretary of the Treasury for Public Affairs and Public Liaison and Counselor to the Secretary until 1989; General Counsel, Department of the Treasury from 1989 until 1990; Assistant to the President and Secretary of the Cabinet from June 4, 1990
+- Holl, Jane E., Director for European and Soviet Affairs, National Security Council staff (1991); Director for European and Eurasian Affairs (1992)
+- Holladay, Thomas L., Consul, U.S. Embassy in Buenos Aires [1989-1991]; Consul, U.S. Embassy in Caracas [1991, 1992]
+- Holley, Robert M., Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State [1990]; Political Counselor, U.S. Embassy in Port-au-Prince [1991, 1992]
+- Hollick, Ann L., Senior Advisor, Washington Office of the Permanent U.S. Representative to the United Nations [1990, 1991]; Senior Adviser on Trade and Environment, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Hollings, Ernest F., Senator (D-South Carolina)
+- Holm, Donald K., Consul General, U.S. Consulate at Medan [1989, 1990]; Consul General, U.S. Consulate at Edinburgh [1990-1992]; Political Counselor, U.S. Embassy in The Hague [1992]
+- Holmes, Bradley P., Chief, Policy and Rules Division, Mass Media Bureau, Federal Communications Commission, until 1989; U.S. Coordination for International Communications and Information Policy and Director, Bureau of International Communications and Information Policy, Department of State, from November 22, 1989
+- Holmes, Brooke, Consul General, U.S. Consulate at Kaduna [1989-1991]; Associate Director, Office of the Deputy Assistant Secretary for Visa Services, Bureau of Consular Affairs, Department of State [1992]
+- Holmes, Genta Hawkins, Charge d’Affaires and Deputy Chief of Mission, U.S. Embassy in Pretoria [1989, 1990]; U.S. Ambassador to Namibia from August 30, 1990, until September 6, 1992; Director-General of the Foreign Service and Director of Personnel from September 7, 1992
+- Holmes, Henry Allen (H. Allen), Assistant Secretary of State for Political-Military Affairs until August 8, 1989; Ambassador at Large for Burden-Sharing from October 11, 1989
+- Holmes, James H., Deputy Director, Policy Planning Staff, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Ankara [1992]
+- Holmes, J. Anthony, Economic and Commercial Counselor, U.S. Embassy in Harare [1992]
+- Holmes, John W., Deputy Chief of Mission, U.S. Embassy in Rome [1989, 1990]
+- Holmes, Linda, Office of Investment Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1991]
+- Holt, Rush, Chief, Nuclear and Scientific Division, Office of Strategic Forces Analysis, Bureau of Intelligence and Research, Department of State [1989]
+- Holtz, Greta C., Consul, U.S. Embassy in Tunis [1990-1992]
+- Holwill, Richard, Counselor, Arms Control and Disarmament Agency [1989, 1990]
+- Holwill, Richard N., U.S. Ambassador to Ecuador until November 25, 1989
+- Holzman, John C., Deputy Director, Office of Israel and Arab-Israeli Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Accra [1989-1992]; Director, Office of Pakistan, Afghanistan, and Bangladesh, Bureau of South Asian Affairs, Department of State [1992]
+- Homme, Robert O., acting Deputy Assistant Secretary of State for European and Canadian Affairs [1989]; Charge d’Affaires, U.S. Embassy in San Jose [1991]; Deputy Chief of Mission, U.S. Embassy in San Jose [1991, 1992]
+- Honnold, Michael J., Economic and Commercial Counselor, U.S. Mission at Phnom Penh [1992]
+- Hoober, James, Deputy Assistant Secretary of State for International Narcotics Matters [1990]
+- Hoog, John, Chief, Textiles Division, Office of International Trade, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1990]; Chief, Textiles Division, Office of Multilateral Trade, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1991]
+- Hooks, J. Aubrey, Economic Counselor, U.S. Embassy in Warsaw [1992]
+- Hooper, James R., Deputy Chief of Mission, U.S. Embassy in Kuwait [1989]; Deputy Director for Southern Tier Countries, Office of Eastern European and Yugoslav Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Director, Office of Canadian Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Hoover, John F., Consul and Political and Economic Counselor, U.S. Embassy in Mbabane [1990-1992]
+- Hoover, John M., Trade Adviser, U.S. Mission to the Organization of Cooperation and Development [1990-1992]
+- Hoover, Richard W., Political Adviser, U.S. Mission to International Organizations in Vienna [1989-1992]
+- Hope, John E., Economic and Commercial Counselor, U.S. Embassy in Montevideo [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Paramaribo [1991, 1992]
+- Hopkins, Lance, Political and Military Counselor, U.S. Embassy in Paramaribo [1989-1991]
+- Hopper, David T., Consul, U.S. Embassy in Stockholm [1989]; Director, Office of Asylum Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990-1992]; Consul, U.S. Embassy in Warsaw [1992]
+- Hopper, Robert F., Deputy Director, Office of Southern Cone Affairs, Bureau of Inter-American Affairs, Department of State [1989]; Legislative Assistant, Office of the Under Secretary of State for Management [1990-1992]
+- Horan, Hume A., Special Assistant to the Director General of the Foreign Service and Director of Personnel, Department of State; from 1989 until 1991, President, American Foreign Service Association, from 1991 until 1992; U.S. Ambassador to Cote d’Ivoire from September 10, 1992
+- Hornblow, Michael M., Deputy Director for Northern Tier Countries, Office of Eastern European and Yugoslav Affairs, Bureau of European and Canadian Affairs, Department of State [1989, 1990]; Senior Adviser to the Special Adviser for Eastern European Assistance, Office of the Deputy Secretary of State [1990]; Deputy Chief of Mission, U.S. Embassy in Warsaw [1990-1992]
+- Horowitz, Herbert E., U.S. Ambassador to the Gambia until November 4, 1989; Contemporary Documents Review, Office of Freedom of Information, Privacy, and Classification Review, Office of the Deputy Assistant Secretary for Information Services, Bureau of Diplomatic Security, Department of State [1991, 1992]
+- Horsey-Barr, Sarah R., Political Counselor, U.S. Embassy in Tegucigalpa [1991]; Deputy U.S. Representative, U.S. Mission to the Organization of American States [1992]
+- Hoskinson, Samuel M., Executive Assistant to the Under Secretary of State for Economic and Agricultural Affairs [1990, 1991]
+- Hostler, Charles W., U.S. Ambassador to Bahrain from October 28, 1989
+- Hotze, Patrick, Regional Officer for East Asia and the Pacific, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Houdek, Robert G., Charge d’Affaires ad interim, U.S. Embassy in Addis Ababa until June 1991; Deputy Assistant Secretary of State for African Affairs from 1991
+- Houghton, Catherine, Commercial Counselor, U.S. Consulate at Stuttgart [1989, 1990]; Commercial Counselor, U.S. Embassy in Abidjan [1991, 1992]
+- Houphouet-Boigny, Felix, President of Cote d’Ivoire
+- Houston, Robert B., III, Administrative Counselor, U.S. Consulate at Stuttgart [1989]; Contemporary Documents Review, Office of Freedom of Information, Privacy, and Classification Review, Office of the Deputy Assistant Secretary for Information Services, Bureau of Diplomatic Security, Department of State [1992]
+- Hovanec, Susan, East Asia and Europe Division, Office of Arts America, Bureau of Educational and Cultural Affairs, United States Information Agency [1992]; Branch Public Affairs Officer, U.S. Embassy in Zagreb [1992]
+- Howard, Carl, Deputy Director, Office of American Republics Affairs, United States Information Agency (1989, 1990); Public Affairs Officer, U.S. Embassy in Brasilia [1992]
+- Howard, Clyde I., Jr., Political Counselor, U.S. Embassy in Paramaribo [1989]; Visa Services, Bureau of Consular Affairs, Department of State [1990]; Consul, U.S. Consulate at Barcelona [1991, 1992]
+- Howard, J. Daniel, Assistant Secretary of Defense for Public Affairs until March 21, 1989; Under Secretary of the Navy from August 7, 1989; acting Secretary of the Navy in 1992
+- Howard, Paul Jerome, Administrative Counselor, U.S. Embassy in St. Johns [1991, 1992]
+- Howard, Richard B., Director, Office of Southern Cone Affairs, Bureau of Inter-American Affairs, Department of State [1989]; Director, Office of Mexican Affairs, Bureau of Inter-American Affairs, Department of State [1990-1992]
+- Howard, Stedman D., Public Affairs Officer, U.S. Embassy in Managua [1991, 1992]
+- Howe, Jonathan T., Adm., Assistant to the Chairman of the Joint Chiefs of Staff until 1989; USN, NATO Commander of Allied Forces, southern Europe, from May 1989; Deputy Assistant to the President for National Security Affairs from November 19, 1991, until November 1992
+- Howell, W. Nathaniel, U.S. Ambassador to Kuwait until December 13, 1990
+- Howland, Michael H., Economic and Commercial Counselor, U.S. Consulate at Lahore [1989, 1990]
+- Howland, Richard C., U.S. Ambassador to Suriname until May 16, 1990; Office of Inspections, Office of the Inspector General, Department of State [1990-1992]
+- Hoyer, Steny H., member, U.S. House of Representatives (D-Maryland)
+- Hoyle, Brian J., Director, Office of Ocean Law and Policy, (Oceans and Fisheries Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989, 1990]
+- Hoyte, H. Desmond, President of Guyana
+- Hoza, Michael S., Administrative Counselor, U.S. Embassy in Maputo [1990, 1991]
+- Hraoui, Elias, President of Lebanon
+- Hrinak, Donna J., Political Counselor, U.S. Embassy in Caracas [1989]; Deputy Chief of Mission, U.S. Embassy in Tegucigalpa [1990, 1991]; Deputy Assistant Secretary of State for Caribbean and Mexican Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Hubbard, Allan B., Deputy Chief of Staff, Office of the Vice President
+- Hubbard, Claire, Office of Cooperative Science and Technology Programs, (Science and Technology Affairs), Office of Oceans and International Environmental and Scientific Affairs, Department of State [1991]
+- Hubbard, John R., U.S. Ambassador to India until November 15, 1989
+- Hubbard, Lyman, Political and Military Counselor, U.S. Embassy in Kuwait [1992]
+- Hubbard, Thomas C., Deputy Chief of Mission, U.S. Embassy in Kuala Lumpur [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Manila [1991, 1992]
+- Huddle, Franklin P., Jr., Consul General, U.S. Consulate at Cebu [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Rangoon [1990]; Charge d’Affaires ad interim from September 1, 1990
+- Huddleston, Vicki J., Deputy Director, Office of Cuban Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Director, Office of Cuban Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Hudson, Clarence A., Jr., Consul, U.S. Embassy in Asuncion [1989-1992]
+- Hudson, William J., Administrative Counselor, U.S. Embassy in Belgrade [1989]; Administrative Counselor, U.S. Embassy in Pretoria [1991, 1992]
+- Hueber, Lauren M., Consul and Commercial Counselor, U.S. Consulate at Izmir [1989, 1990]; Current Intelligence Staff, Office of Intelligence Support, Bureau of Intelligence and Research, Department of State [1990]
+- Huff, James, Labor Attache, U.S. Embassy in Quito [1989]; Deputy Director, Office of Mexican Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Director, Political Training, School of Professional Studies, Foreign Service Institute, Department of State [1992]
+- Huff, Rodney L., Office of Cooperative Science and Technology Programs, Science and Technology Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990, 1991]; Science Attache, U.S. Embassy in Prague [1991, 1992]
+- Huffington, Roy M., U.S. Ambassador to Austria from September 11, 1990
+- Huffman, Franklin, Branch Public Affairs Officer, United States Information Service in Marrakech [1989, 1990]
+- Huffman, Larry D., Consul, U.S. Consulate at Guayaquil [1992]
+- Huggins, Carolyn, Office of Southern European Affairs, Bureau of European and Canadian Affairs, Department of State [1990]; Deputy Chief of Mission, U.S. Embassy in Nicosia [1991, 1992]
+- Huggins, Joseph, Administrative Counselor, U.S. Embassy in Lome [1989]
+- Hughes, Arthur H., Deputy Chief of Mission, U.S. Embassy in Tel Aviv until 1989; Deputy Assistant Secretary of Defense for Near East and South Asian Affairs from 1989 until 1991; U.S. Ambassador to Yemen from October 19, 1991
+- Hughes, Barbara F., Administrative Counselor, U.S. Mission to the Organization for Economic Cooperation and Development [1991, 1992]
+- Hughes, Charles Jr., Deputy Executive Director, Office of the Executive Director, Executive Secretariat, Department of State [1989-1992]
+- Hughes, David A., Commercial Counselor, U.S. Consulate at Bombay [1989]; Commercial Counselor, U.S. Embassy in Budapest [1990, 1991]
+- Hughes, G. Philip, Deputy Assistant for National Security Affairs to Vice President Bush from February 1981 until September 1985; Assistant Secretary of Commerce for Export Enforcement until February 1989; Executive Secretary, Executive Secretariat, National Security Council staff from February 21, 1989, until March 1990; U.S. Ambassador to Barbados from November 14, 1990
+- Hughes, Jeffrey, Member, Policy Planning Staff, Department of State [1989-1992]
+- Hughes, Judith, Administrative Counselor, U.S. Embassy in Vientiane [1989]
+- Hughes, Patricia D., Political and Economic Counselor, U.S. Consulate at Cape Town [1991, 1992]
+- Hughey, Walter M., Political Counselor, U.S. Embassy in Brazzaville [1991, 1992]
+- Huhtala, Marie T., Chief, Assignments Division (EAP), Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1989]; Deputy Director, Office of Vietnam, Laos, and Cambodia Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990-1992]
+- Hulbert, Marilyn E., Deputy Chief of Mission and Public Affairs Officer, U.S. Embassy in Antananarivo [1989, 1990]
+- Hull, Edmund J., Political Counselor, U.S. Embassy in Tunis [1989, 1990]; Director, Northern Gulf Affairs (Iran and Iraq), Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Director for Near East and South Asian Affairs, National Security Council staff, from June 1991 until November 1992
+- Hull, Thomas N., Public Affairs Officer, U.S. Embassy in Prague [1989-1992]
+- Hullings, Joseph F., III, Special Coordinator for the Soviet Union and Eastern Europe, Office of the Under Secretary of State for Management until 1990; Management Counselor, U.S. Embassy in Moscow from 1990; U.S. Ambassador to Turkmenistan from September 25, 1992
+- Hume, Cameron R., Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990]; Deputy Chief of Mission, U.S. Embassy in Vatican City [1991, 1992]
+- Hummel, Arthur W., Jr., U.S. Ambassador to China from July 30, 1981, until September 24, 1985
+- Humphrey, Sandra N., Special Assistant to the Assistant Secretary of State for Consular Affairs [1989, 1990]; Consul, U.S. Embassy in Moscow [1990-1992]
+- Humphreys, Liam, Political Counselor, U.S. Embassy in Antananarivo [1989, 1990]; Political Counselor, U.S. Embassy in Suva [1991, 1992]
+- Hun Sen, Prime Minister of Cambodia from 1985
+- Hunter, Douglas R., Director, Office of Policy and Program Coordination (later Policy and Budget Coordination), Refugee Programs, Department of State [1989-1992]
+- Hunter, Kenneth, Deputy Assistant Secretary of State for Personnel [1989-1992]
+- Huntsman, Jon M., U.S. Ambassador to Singapore from September 22, 1992
+- Hurd, Douglas, British Foreign Minister from October 1989
+- Hurley, Michael J., Branch Public Affairs Officer, U.S. Consulate at Surabaya [1991, 1992]
+- Hurley, Paul, Chief, Security Trade Controls Division, Office of COCOM Affairs, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1992]
+- Hurley, Sharon, Regional Officer, Western Europe, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990]
+- Hurst, Cathy L., Consul, U.S. Consulate at Belfast [1991]; Consul, U.S. Consulate at Casablanca [1992]
+- Hurwitz, Edward, Consul General, U.S. Consulate at Leningrad until 1989; Director, Office of Analysis for the Soviet Union and Eastern Europe, Bureau of Intelligence and Research, Department of State from 1989 until 1991; Deputy Examiner, Board of Examiners, Bureau of Personnel, Department of State from 1991 until 1992; Charge d’Affaires, U.S. Embassy in Bishkek [1992]; U.S. Ambassador to Kyrgyzstan from September 17, 1992
+- Hussein, Saddam, President of Iraq
+- Hussein I, King of Jordan
+- Husted, Martha A., Consul, U.S. Embassy in Reykjavik [1992]
+- Hutchenson, James, Branch Public Affairs Officer, U.S. Consulate at Leningrad (later St. Petersburg) [1989-1991]; Germany Country Affairs Officer, Office of European Affairs, United States Information Agency [1992]
+- Hutchings, Alan J., Consul, U.S. Embassy in Maseru [1991]
+- Hutchings, Robert L., Director for European and Soviet Affairs, National Security Council Staff (1989, 1990); Special Adviser for Eurasian Assistance, Office of the Deputy Secretary of State, Department of State [1992]
+- Hutson, Thomas R., Scientific Attache, U.S. Embassy in Belgrade [1991, 1992]; Political and Economic Counselor, U.S. Embassy in Bishkek [1992]
+- Hu Yaobang, General Secretary of the Chinese Communist Party until 1987
+- Hyams, Robert S., Political and Economic Counselor, U.S. Consulate at Osaka-Kobe [1990]
+- Hydemann, Peter, Science Attache, U.S. Embassy in New Delhi [1989, 1990]
+- Iacovou, George, Cyprus Foreign Minister
+- Iberle, Kyra, Branch Public Affairs Officer, U.S. Consulate at Cape Town [1992]
+- Ifft, Edward M., Deputy START Negotiator, U.S. Delegation to the Negotiations on Nuclear and Space Arms [1989-1991]
+- Ifshin, Stanley R., Deputy Director, Office of Pacific Island Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]; Career Development—Political, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1990, 1991]; Deputy Director, Office of Nuclear Technology and Safeguards, (Nuclear Energy and Energy Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Ikels, Larry, Public Affairs Officer, U.S. Embassy in Athens [1992]
+- Iliescu, Ion, interim President of Romania from December 26, 1989
+- Imbrie, William, Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1990, 1991]; Deputy Director, Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1991]
+- Imler, Norman B., Economic Counselor, U.S. Consulate at Cape Town [1989, 1990]
+- Imus, Richard H., Economic Counselor, U.S. Embassy in Bonn [1989, 1990]
+- Indyke, George W., Jr., Consul and Administrative Counselor, U.S. Embassy in Malabo [1989]
+- Inglee, William B., Deputy Assistant Secretary of Defense for Conventional Forces and Arms Control Policy (1991, 1992)
+- Innamorato, Thomas J., Economic and Commercial Counselor, U.S. Embassy in Djibouti [1989]
+- Inouye, Daniel K., Senator (D-Hawaii)
+- Iodice, Emilio, Commercial Counselor, U.S. Embassy in Rome [1989-1992]; Commercial Counselor, U.S. Embassy in Madrid [1992]
+- Irons, Alden H., International Labor Adviser, Office of the Senior Adviser to the Special Assistant to the Secretary and Coordinator of International Labor Affairs, Department of State [1989-1992]
+- Irvine, Ann Lang, Consul, U.S. Consulate at Kaduna [1991, 1992]
+- Irving, Earl M., Office of Southern African Affairs, Bureau of African Affairs, Department of State [1991]
+- Irwin, Jeffery C., Office of Lebanon, Jordan, Syrian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990]; Office of the Executive Director, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Administrative Counselor, U.S. Consulate at Guayaquil [1992]
+- Isaacs, Arnold, Director, Office of Analysis for Inter-American Republics, Bureau of Intelligence and Research, Department of State [1989, 1990]; Board of Examiners for the Foreign Service, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1992]
+- Isom, Harriet Winsar, Charge d’Affaires ad interim, U.S. Embassy in Vientiane until August 1989; U.S. Ambassador to Benin from January 26, 1990, until November 14, 1992; U.S. Ambassador to Cameroon from January 19, 1993
+- Itoh, William H., Consul General, U.S. Consulate at Perth [1989, 1990]; Deputy Executive Secretary of the Department of State [1992]
+- Ivie, John K., Administrative Counselor, U.S. Embassy in Panama City [1989]
+- Ivory, Hugh J., Public Affairs Officer, U.S. Embassy in Reykjavik [1989]; Public Affairs Officer, U.S. Consulate at Sydney [1992]
+- Jackson, Caron S., Executive Assistant to the Secretary of State [1989-1991]
+- Jackson, Karl D., Deputy Assistant Secretary of Defense for East Asia and Pacific Affairs from 1986 until March 1989; Special Assistant to the President for National Security Affairs and Senior Director for Asian Affairs, National Security Council Staff, from March 13, 1989, until April 4, 1991; National Security Adviser to the Vice President
+- Jackson, L. Richard, Commercial Counselor, U.S. Consulate at Johannesburg [1990-1992]
+- Jackson, Margaret L., Office of Canadian Affairs, Bureau of European and Canadian Affairs, Department of State [1991, 1992]
+- Jackson, Marilyn, Consul, U.S. Consulate at Milan [1989, 1990]; Office of Cash Management and Liaison, Office of Financial Operations, Bureau of Finance and Management Policy, Department of State [1990, 1991]; Deputy Director, Office of Francophone West African Affairs, Bureau of African Affairs [1992]
+- Jackson, Marjorie W., Personal Assistant to the Coordinator for Counter-Terrorism, Department of State [1990-1992]
+- Jackson, Michael P., Associate Director, White House Office of Cabinet Affairs, from January until December 1989; Executive Secretary for Cabinet Liaison from January until July 1990; Special Assistant to the President and Executive Secretary for Cabinet Liaison from July 26, 1990
+- Jackson, Richard L., Consul General, U.S. Consulate at Casablanca [1989]; Deputy Chief of Mission, U.S. Embassy in Rabat [1989-1991]; Dean, School of Area Studies, Foreign Service Institute, Department of State [1992]
+- Jackson, Robert P., Political Counselor, U.S. Embassy in Harare [1990-1992]
+- Jacobini, Charles, Chief, Food Programs Division, Office of Food Policy and Programs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1989]; Deputy Director, Office of Food Policy and Programs, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1990]; Economic Counselor, U.S. Embassy in Ankara [1991, 1992]
+- Jacobs, Barry B., Public Affairs Officer, U.S. Embassy in San Salvador [1989, 1990]
+- Jacobs, Janice L., Office of Legislation, Regulations, and Advisory Assistance, Visa Services, Bureau of Consular Affairs, Department of State [1990]; Operations Center, Executive Secretariat, Department of State [1990, 1991]; Principal Officer, U.S. Consulate at Matamoros [1991, 1992]
+- Jacobs, Mark L., Administrative Counselor, U.S. Consulate at Jerusalem [1989, 1990]
+- Jacobs, Mark T., Branch Public Affairs Officer, U.S. Consulate at Izmir [1992]
+- Jacobs, Morris E., Press and Public Affairs Adviser, Office of Press and Public Affairs, Bureau of Inter-American Affairs, Department of State [1989]
+- Jacobs, Susan, Director, Office of United Nations Social and Refugee Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1991]
+- Jacobsen, William L., Director of African Affairs, National Security Council staff from 1988 until 1989; U.S. Ambassador to Guinea-Bissau from November 13, 1989, until August 25, 1992
+- Jacobson, Michael, Deputy Director (Mexico, Central America, Caribbean), Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990, 1991]; Regional Officer for Latin America, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1991]
+- Jacobson, Richard C., Political Counselor, U.S. Embassy in Port Louis [1990, 1991]
+- Jacobson, Roberta, Bureau of Inter-American Affairs, Department of State [1990]; Special Assistant, Bureau of Inter-American Affairs, Department of State [1991]; Deputy Director, Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State [1992]
+- Jakub, Michael, Office of the Coordinator for Counter-Terrorism, Department of State [1991]; Director for Special Projects, Office of the Coordinator for Counter-Terrorism, Department of State [1992]
+- Jakubowski, Stanley P., Administrative Counselor, U.S. Embassy in Bamako [1989]; Administrative Counselor, U.S. Embassy in Rangoon [1990-1992]
+- Jalane-Pribyl, Dar, Commercial Counselor, U.S. Embassy in Brasilia [1991, 1992]
+- Jameson, Donald L., Political Counselor, U.S. Embassy in Wellington [1989, 1990]; Political and Economic Counselor, U.S. Embassy in Rangoon [1990-1992]
+- Janin, Hunt, Political and Economic Counselor, U.S. Embassy in Kathmandu [1989, 1990]
+- Jarrett, Kenneth H., Political Counselor, U.S. Consulate at Chengdu [1989-1991]
+- Jaruzelski, Gen. Wojciech, Chairman of the Polish Council of State until July 1989; thereafter President of Poland
+- Jarvis, Richard, Office of Intelligence Liaison, Bureau of Intelligence and Research, Department of State [1990, 1991]; Political Officer, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Jawara, Dawda Kairaba, President of The Gambia
+- Jeffers, Emily E., Consul, U.S. Embassy in Bujumbura [1990, 1991]
+- Jeffers, Mary V., Public Affairs Officer, U.S. Embassy in Khartoum [1990, 1991]
+- Jefferson, Charles J., Chief, Regional Military Forces Division, Office of Politico-Military Analysis, Bureau of Intelligence and Research, Department of State [1989, 1990]; thereafter, acting Director and Director, Office of Politico-Military Analysis, Bureau of Intelligence and Research, Department of State [1990-1992]
+- Jeffrey, James F., Political Counselor, U.S. Consulate at Munich [1989-1992]; also acting Principal Officer in 1991
+- Jehn, Christopher, Assistant Secretary of Defense for Force Management and Personnel from November 20, 1989, until January 20, 1993
+- Jenista, Frank L., Public Affairs Officer, U.S. Embassy in Montevideo [1990- 1992]
+- Jenks, Darrell A., Principal Officer, U.S. Consulate at Maracaibo [1991, 1992]
+- Jensen, David, Developing Countries and Trade Organization Division, Office of Bilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1991]
+- Jensen, Laron L., Commercial Counselor, U.S. Embassy in Cairo [1992]
+- Jensen, Mark R., Consul, U.S. Embassy in Libreville [1989, 1990]
+- Jeremiah, Adm. David E., USN, Commander-in-Chief, U.S. Pacific Fleet; Vice Chairman of the Joint Chiefs of Staff from March 1, 1990
+- Jeter, Howard F., Deputy Chief of Mission, U.S. Embassy in Maseru [1989]; Charge d’Affaires ad interim in Maseru from July 1989 until January 1991; Deputy Chief of Mission, U.S. Embassy in Windhoek [1991, 1992]; Charge d’Affaires, U.S. Embassy in Windhoek [1992]
+- Jett, Dennis C., Deputy Chief of Mission and Charge d’Affaires, U.S. Embassy in Lilongwe [1989]; Deputy Chief of Mission, U.S. Mission in Monrovia [1990, 1991]; Executive Assistant to the Under Secretary of State for Political Affairs [1992]
+- Jiang Zemin, General Secretary of the Chinese Communist Party from June 24, 1989
+- Jodoin, Peter P., Science, Environment, and Industrial Adviser, U.S. Mission to the Organization for Economic Cooperation and Development [1991]
+- Johnson, Barbara M., Consul, U.S. Embassy in Freetown [1989]; Consul, U.S. Embassy in Dar es Salaam [1990]; M/DGP [1990, 1991]; Consul, U.S. Consulate at Hamilton [1991, 1992]
+- Johnson, Bradford H., Consul, U.S. Consulate at Bilbao [1989]; Consul, U.S. Consulate at St. Petersburg [1991, 1992]
+- Johnson, Cynthia F., Retirement Division, Office of Employee Relations, Bureau of Personnel, Department of State [1991, 1992]; Public Affairs Officer, U.S. Embassy in Montevideo [1992]
+- Johnson, Daniel A., Administrative Counselor, U.S. Embassy in Santiago [1989, 1990]; Administrative Counselor, U.S. Embassy in La Paz [1991, 1992]
+- Johnson, Darryl N., Deputy Chief of Mission, U.S. Embassy in Warsaw until 1991; Charge d’ Affaires ad interim, U.S. Embassy in Vilnius from September 2, 1991, until 1992; U.S. Ambassador to Lithuania from April 14, 1992
+- Johnson, David T., Consul General, U.S. Consulate at Vancouver [1990-1992]
+- Johnson, Donald C., Political Counselor, U.S. Embassy in Tegucigalpa [1989, 1990]; Director for Latin American Affairs, National Security Council staff (1990)
+- Johnson, George H., Labor Attache and Political Counselor, U.S. Embassy in Valletta [1989]; Economic and Commercial Counselor, U.S. Consulate at Cebu [1990, 1991]; Telecommunications Operation Branch, Communications Center, Domestic Operations, Office of the Principal Deputy Assistant Secretary for Information Management and Systems Operations, Bureau of Diplomatic Security, Department of State [1991]
+- Johnson, Gregory L., Consul General, U.S. Consulate at Osaka-Kobe [1990-1992]
+- Johnson, Hansford T., Lt. Gen., USAF, Director of the Joint Staff until September 20, 1989
+- Johnson, Joe B., Public Affairs Officer, U.S. Embassy in Dublin [1989, 1990]; Policy Officer, Office of American Republics Affairs, United States Information Agency [1992]
+- Johnson, Judith R., Political Counselor, U.S. Embassy in Nairobi [1989, 1990]; Chief, Assignments Division (AF, A, and INR), Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1990, 1991]; Director, Office of Intelligence Coordination, Bureau of Intelligence and Research, Department of State [1992]
+- Johnson, Kathy A., Administrative Counselor, U.S. Delegation to the Negotiations on Confidence and Security Building Measures [1990-1992]
+- Johnson, Kevin M., Labor Attache, U.S. Embassy in San Salvador [1991, 1992]
+- Johnson, Mark, Deputy Chief of Mission, U.S. Embassy in Cairo [1989, 1990]; Office of the Under Secretary of State for Management [1992]
+- Johnson, Mary H., Public Affairs Officer, U.S. Embassy in Brazzaville [1991, 1992]; Public Affairs Officer, U.S. Embassy in Vientiane [1992]
+- Johnson, Matthew E., Consul and Administrative Counselor, U.S. Consulate at Surabaya [1991, 1992]
+- Johnson, Nancy E., Political Counselor, U.S. Embassy in Baghdad [1990]; Office of Arabian Peninsula Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1991, 1992]
+- Johnson, Patricia, Refugee Coordinator, U.S. Embassy in Khartoum [1991, 1992]
+- Johnson, Ralph R., Deputy Assistant Secretary for Trade and Commercial Affairs, Bureau of Economic and Business Affairs, Department of State [1989]; Deputy Assistant Secretary of State for European and Canadian Affairs [1990, 1991]; Principal Deputy Assistant Secretary of State for European and Canadian Affairs [1991, 1992]
+- Johnson, Robert D., Director, Office of User Services, Office of the Deputy Assistant Secretary for Information Services, Bureau of Administration and Information Management (office later moved into the Bureau of Diplomatic Security and then back into the Bureau of Administration), Department of State [1989-1991]; Deputy Director, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Johnson, Sandor, Administrative Counselor, U.S. Embassy in Buenos Aires [1989, 1990]
+- Johnson, Shelley E., Consul, U.S. Embassy in Rangoon [1989-1991]; Program Director, Travel, Foreign Mission, Department of State [1992]
+- Johnson, Sura R., Administrative Counselor, U.S. Mission to International Organizations in Vienna [1992]
+- Johnson, Susan R., Deputy Chief of Mission, U.S. Embassy in Port Louis [1990, 1991]
+- Johnson, Sylvia D., Consul and Administrative Counselor, U.S. Consulate at Barranquilla [1991, 1992]
+- Johnston, Laurie A., Office of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990]; Consul General, U.S. Consulate at Lahore [1991, 1992]
+- Johnston, Richard, Commercial Counselor, U.S. Embassy in Beijing [1989]
+- Jones, A. Elizabeth, Deputy Chief of Mission, U.S. Embassy in Islamabad [1989-1992]; Deputy Chief of Mission, U.S. Embassy in Bonn [1992]
+- Jones, Charles Jr., Consul, U.S. Embassy in St. George’s [1991, 1992]
+- Jones, David T., Political Counselor, U.S. Embassy in Ottawa [1992]
+- Jones, Deborah K., Systems Application Staff, Office of the Executive Director, Bureau of Consular Affairs, Department of State [1990]; Consul, U.S. Embassy in Damascus [1990, 1991]
+- Jones, Douglas H., Consul General, U.S. Consulate at Edinburgh [1989]; Consul General, U.S. Consulate at Stuttgart [1990]; Political Counselor, U.S. Embassy in Bonn [1991, 1992]
+- Jones, George F., Deputy Chief of Mission, U.S. Embassy in Santiago [1989]; Vice President for State Department Affairs, American Foreign Service Association; U.S. Ambassador to Guyana from January 21, 1992
+- Jones, Gordon, Economic Counselor, U.S. Embassy in Quito [1989]; Economic Counselor, U.S. Embassy in Brasilia [1990, 1991]
+- Jones, Harry E., Consul, U.S. Embassy in Tel Aviv [1989]; Foreign Service Institute, Department of State [1990]; Consul, U.S. Embassy in Santo Domingo [1990-1992]
+- Jones, John M., Consul, U.S. Embassy in Brussels [1989-1992]
+- Jones, Judith Anne, Political and Economic Counselor, U.S. Consulate at Thessaloniki [1989]
+- Jones, Mary Roberta, Public Affairs Officer, U.S. Embassy in Accra [1989]; Public Affairs Officer, U.S. Embassy in Yaounde [1990-1992]
+- Jones, M. Gordon, Economic Counselor, U.S. Embassy in Brasilia [1989-1992]
+- Jones, Philip M., Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1990-1991]; Deputy Chief of Mission, U.S. Embassy in Mbabane [1991, 1992]
+- Jones, Ralph T., Consul General, U.S. Consulate at Quayaquil [1989-1991]; Board of Examiners, Exam Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1992]
+- Jones, Richard H., Political Counselor, U.S. Embassy in Riyadh [1989-1992]
+- Jones, Teresa, Economic Counselor, U.S. Consulate at Montreal [1992]
+- Jordan, Dan J., Administrative Counselor, U.S. Consulate at Lahore [1989]
+- Jordan, Robert F., Public Affairs Officer, U.S. Embassy in Manila [1989, 1990]; Public Affairs Officer, U.S. Embassy in Brasilia [1990-1992]
+- Jorgenson, Raymond C., Economic Counselor, U.S. Consulate at Monterrey [1989]; Office of Economic Policy, Bureau of Inter-American Affairs, Department of State [1992]
+- Joseph, Robert G., Principal Deputy Assistant Secretary of Defense and Deputy Assistant Secretary of Defense for Nuclear Forces and Arms Control until 1990; U.S. Commissioner, U.S.-USSR Standing Consultative Commission, from 1990
+- Joy, James L., Commercial Counselor, U.S. Consulate at Hamburg [1989-1991]; Commercial Counselor, U.S. Mission at Berlin [1991, 1992]
+- Joyce, David C., Administrative Counselor, U.S. Embassy in Vientiane [1989]; Administrative Counselor, U.S. Embassy in Praia [1991, 1992]
+- Joyce, John M., Deputy Chief of Mission, U.S. Embassy in Moscow [1989, 1990]
+- Joyce, Rebecca, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]; Political and Economic Counselor, U.S. Embassy in Chisinau [1992]
+- Joyce, W. Kelly, Jr., Commercial Counselor, U.S. Consulate at Rio de Janeiro [1989]; Commercial Counselor, U.S. Embassy in Kingston [1990, 1991]
+- Junker, Delvin W., Principal Officer, U.S. Consulate at Bilbao [1991, 1992]
+- Jurecky, John P., Deputy Chief of Mission, U.S. Embassy in Montevideo [1989-1991]; Consul General, U.S. Consulate at Guadalajara [1991, 1992]
+- Jury, Allan G., Refugee Adviser, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1991, 1992]
+- Juster, Kenneth I., Senior Adviser to the Deputy Secretary of State [1990-1992]; acting Counselor of the Department of State during 1992
+- Justesen, Benjamin R., II, Administrative Counselor, U.S. Embassy in Paramaribo [1989]; Administrative Counselor, U.S. Embassy in Riga [1992]
+- Kachmar, George A., Commercial Counselor, U.S. Consulate at Karachi [1989-1992]; Commercial Counselor, U.S. Consulate at Johannesburg [1992]
+- Kaczmarek, Michalene F., Administrative Counselor, U.S. Consulate at Poznan [1991, 1992]
+- Kaestner, Peter G., Consul, U.S. Embassy in Kuala Lumpur [1991, 1992]
+- Kaeuper, David, Deputy Director, Office of East African Affairs, Bureau of African Affairs, Department of State [1989-1991]; Political Counselor, U.S. Embassy in Lagos [1991, 1992]
+- Kaiser, Sandy, Public Affairs Officer, U.S. Embassy in Tallinn [1992]
+- Kamman, Curtis W., Deputy Assistant Secretary of State for Intelligence and Research until 1989; Deputy Assistant Secretary of State for European and Canadian Affairs from 1989 until 1991; U.S. Ambassador to Chile from January 14, 1992
+- Kammerer, Kelly C., Director, Office of Legislative Affairs, Agency for International Development [1989]; U.S. Embassy in Kathmandu [1990, 1991]
+- Kampelman, Max, Head of the U.S. Delegation to the Moscow CSCE meeting
+- Kane, N. Steven, Office of Public Communications, Bureau of Public Affairs, Department of State [1991, 1992]
+- Kaneda, Robert, Staff Assistant, Bureau of East Asian and Pacific Affairs, Department of State [1990]
+- Kangas, Jack, Executive Secretary, U.S. Delegation to the Negotiations on Nuclear and Space Arms [1991]
+- Kansteiner, Walter H., Member, Policy Planning Staff, Department of State from 1989 until 1991; Director for African Affairs, National Security Council staff from 1991 until April 1992; Special Assistant to the President and Deputy Press Secretary for Foreign Affairs from April 22, 1992
+- Kanter, Arnold L., senior staff member, RAND corp.; Special Assistant to the President for National Security Affairs and Senior Director for Defense Policy and Arms Control, National Security Council staff, from June 5, 1989, until August 2, 1991; Under Secretary of State for Political Affairs from October 4, 1991, until January 20, 1993
+- Kaplan, Frederick J., Office of West African Affairs, Bureau of African Affairs, Department of State [1990]; Political Counselor, U.S. Embassy in Abidjan [1991, 1992]
+- Kaplan, Matthew B., Consul, U.S. Consulate at Maracaibo [1989]; Office of Andean Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Kaplan, Philip S., Deputy Representative, U.S. Delegation for the Negotiation on Conventional Armed Forces in Europe [1990-1992]; Special Assistant to the Assistant Secretary of State for Intelligence and Research [1992]
+- Kappes, Stephen, Political and Military Counselor, U.S. Embassy in Kuwait [1991, 1992]
+- Karaer, Arma Jane, Charge d’Affaires and Deputy Chief of Mission, U.S. Embassy in Mbabane [1989-1991]; Chief, Control Division, Office of Intelligence Liaison, Bureau of Intelligence and Research, Department of State [1992]
+- Kartman, Charles, Political Counselor, U.S. Embassy in Seoul [1989-1990]; Special Assistant, Office of the Under Secretary of State for Political Affairs [1990, 1991]; Director, Office of Korean Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Kasich, John R., member, U.S. House of Representatives (R-Ohio)
+- Kasten, Robert W., Jr., Senator (R-Wisconsin)
+- Kates, Ronald L., Office of International Economic Policy, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1990, 1991]; Political, Economic, and Commercial Counselor, U.S. Embassy in Luxembourg City [1991, 1992]
+- Kattouf, Theodore H., Deputy Chief of Mission, U.S. Embassy in Sanaa [1989]; Deputy Director, Office of Lebanon, Jordan, Syria Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989, 1990]; thereafter, Director, Office of Lebanon, Jordan, Syria Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1991]; Deputy Chief of Mission, U.S. Embassy in Damascus from 1992
+- Katz, David, Commercial Counselor, U.S. Embassy in Belgrade [1989]; Commercial Counselor, U.S. Embassy in Ankara [1991, 1992]
+- Katz, David J., Office of Pakistan, Afghanistan, and Bangladesh Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1991]; Economic and Commercial Counselor, U.S. Embassy in Sanaa [1991, 1992]
+- Katz, Julius L., Assistant Secretary of State for Economic and Business Affairs from 1976 until 1979; Chair, Government Research Corp., from 1987 until 1989; Deputy U.S. Trade Representative (1989-1992)
+- Katz, Maurice J., U.S. Mission to International Organizations in Vienna [1990, 1991]
+- Katzen, Jack, Assistant Secretary of Defense for Production and Logistics until January 8, 1990
+- Katzka, John E., Public Affairs Officer, U.S. Embassy in Belgrade [1989]; Public Affairs Officer, U.S. Embassy in Moscow [1990-1992]
+- Kauffman, Kenneth M., Director, Office of Economic Analysis, Bureau of Intelligence and Research, Department of State [1989-1991]
+- Kaufman, Ronald C., Northeast Regional Political Director, Bush-Quayle Campaign; Deputy Assistant to the President for Presidential Personnel from February 1989 until March 1991; Deputy Assistant to the President for Political Affairs from March 5, 1991
+- Kaufmann, Judith, Deputy Director, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Kaunda, Kenneth D., President of Zambia until November 1991
+- Kauzlarich, Richard D., Deputy Director, Policy Planning Staff, Department of State until 1989; Director, Office of Regional Political-Economic Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Deputy Assistant Secretary of State for European and Canadian Affairs [1991, 1992]
+- Kavalec, Kathleen, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1991]
+- Kavaler, Howard C., Labor Attache, U.S. Embassy in Nairobi [1991, 1992]
+- Kavaliunas, Mary E., Office of Policy and Budget Coordination, Refugee Programs, Department of State [1990-1992]
+- Kay, Larry J., Administrative Counselor, U.S. Consulate at Matamoros [1991, 1992]
+- Kazacos, Stacey G., Commercial Counselor, U.S. Embassy in Antananarivo [1990-1992]
+- Keane, John F., Political Counselor, U.S. Embassy in Brasilia [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Guatemala City [1992]
+- Keating, Paul, Prime Minister of Australia from December 20, 1991
+- Keegan, David J., Political Counselor, U.S. Consulate at Guangzhou [1989, 1990]; Office of Chinese and Mongolian Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]
+- Keel, Alton G., Jr., U.S. Permanent Representative to the North Atlantic Treaty Organization until June 17, 1989
+- Keely, Robert V., U.S. Ambassador to Greece until July 17, 1989
+- Keene, Douglas R., Charge d’Affaires, U.S. Embassy in Muscat [1989]; Director, Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Amman [1991, 1992]
+- Keene, Lonnie, Member, Policy Planning Staff, Department of State [1990-1992]
+- Keeton, Edward D., Office of Northern European Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Labor Attache, U.S. Embassy in Copenhagen [1992]
+- Keeton, Russell L. Administrative Counselor, U.S. Embassy in Guatemala City [1989-1992]
+- Kehoe, Melissa J., Consul, U.S. Embassy in Libreville [1991, 1992]
+- Keil, Charles F., Director, Office of European, Near Eastern, and Latin American Refugee Assistance, Refugee Programs, Department of State [1990, 1991]; Office of Inspections, Office of the Inspector General, Department of State [1992]
+- Keiswetter, Allen L., Political Counselor, U.S. Embassy in Riyadh [1989]; Director, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990-1992]
+- Keith, Kenton W., Public Affairs Officer, U.S. Embassy in Cairo [1989-1992]; U.S. Ambassador to Qatar from September 2, 1992
+- Keller, Daniel F., Consul, U.S. Consulate at Shanghai [1989]; Office of United Nations Social and Refugee Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Keller, John M., Branch Public Affairs Officer, U.S. Consulate at Melbourne [1989-1991]
+- Keller, Peter, Deputy Director, Office of Maritime Land and Transport, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1989]; Contemporary Documents Review, Office of Freedom of Information, Privacy, and Classification Review, Bureau of Diplomatic Security, Department of State [1991, 1992]
+- Keller, Richelle, Consul, U.S. Embassy in Prague [1989, 1990]; Office of Inspections, Office of the Inspector General, Department of State [1992]
+- Kelleran, Martha Ann (M. Ann), Administrative Counselor, U.S. Consulate at Monterrey [1989-1992]
+- Kelley, James P., Director, Office of International Refugee Organizations, Emergencies, and Solutions, Refugee Programs, Department of State [1989-1991]
+- Kelley, John E., Political Counselor, U.S. Embassy in Canberra [1989-1991]; Chief, Southeast Asia Division, Office of Analysis for East Asia and the Pacific, Bureau of Intelligence and Research, Department of State [1992]
+- Kelley, Martha Novic, Economic and Commercial Counselor, U.S. Embassy in Accra [1989-1991]; INR [1992]
+- Kellman, Jim, Congressional Relations Adviser, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1991, 1992]
+- Kelly, Craig A., Special Assistant, Office of the Under Secretary of State for Political Affairs [1991]
+- Kelly, John Hubert, Deputy Director, Policy Planning Staff, Department of State, until February 1989; Assistant Secretary of State for Near Eastern and South Asian Affairs, from June 16, 1989, until September 30, 1991; U.S. Ambassador to Finland from December 20, 1991
+- Kelly, Robert W., Deputy Assistant Administrator, Bureau for Near East, Agency for International Development [1992]
+- Kelly, William C., Administrative Counselor, U.S. Embassy in Moscow [1989]; Administrative Counselor, U.S. Embassy in Ankara [1990-1992]
+- Kelso, Frank B., II, Adm., Commander-in-Chief, United States Atlantic Command and Supreme Allied Commander, Atlantic, until 1990; Chief of Naval Operations from July 1, 1990
+- Kemp, Jack, Member, U.S. House of Representatives (R-New York); Republican candidate for President in 1988; Secretary of Housing and Urban Development from February 15, 1989
+- Kemp, Katherine L., Administrative Counselor, U.S. Embassy in Ankara [1989]
+- Kennedy, Alfred, Public Affairs Officer, U.S. Mission to the Organization for Economic Cooperation and Development [1989]
+- Kennedy, Charles A., Deputy Director, Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State [1989]; Grievance Staff, Bureau of Personnel, Department of State [1990, 1991]
+- Kennedy, Edward M., Senator (D-Massachusetts)
+- Kennedy, J. Christian, Principal Officer, U.S. Consulate at Hermosillo [1989]; Principal Officer, U.S. Consulate at Poznan [1991, 1992]
+- Kennedy, Mary Virginia (Mary Gin), Executive Assistant to the Deputy Secretary of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Kuwait [1991, 1992]
+- Kennedy, Patrick F., Executive Director, Executive Secretariat, Department of State [1989]
+- Kennedy, Richard T., Ambassador at Large and Special Advisor to the Secretary of State on Non-Proliferation Policy and Nuclear Energy Affairs and U.S. Representative to the International Atomic Energy Agency
+- Kennedy, Stephen W., Principal Officer, U.S. Consulate at Fukuoka [1989]; Developed Country Trade Division, Office of Bilateral Trade Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Office of Cooperative Science and Technology Programs, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Kennelly, Ann T., Political Counselor, U.S. Consulate at Lahore [1989]
+- Kenney, James, Public Affairs Officer, U.S. Embassy in Riga [1992]
+- Kenney, Kristie, Deputy Director, Operations Center, Executive Secretariat, Department of State [1990, 1991]
+- Kent, Jill E., Assistant Secretary for Management, Department of the Treasury, until 1989; Deputy Under Secretary of State for Management from 1989 until 1991; Chief Financial Officer, Bureau of Finance and Management Policy, Department of State [1991, 1992]; also acting Under Secretary of State for Management [1991]
+- Kepchar, Allen J., Consul, U.S. Embassy in Damascus [1989]; Consul, U.S. Embassy in Amman [1990]; Consul, U.S. Consulate at Bombay [1990, 1991]
+- Kepler, Robert W., Administrative Counselor, U.S. Consulate at Dhahran [1991, 1992]
+- Keppler, William E., Administrative Counselor, U.S. Consulate at Rio de Janeiro [1989]; Executive Director, U.S. Delegation to the Negotiations on Nuclear and Space Arms [1992]
+- Kern, Anthony, Labor and Social Affairs Adviser, Office of Regional Affairs, Bureau of African Affairs, Department of State [1989-1991]; Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State [1992]
+- Kerr, Laurence M., Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1990]; Consul, U.S. Embassy in Santiago [1990-1992]
+- Kerr, Richard J., Deputy Director of Intelligence; Deputy Director, Central Intelligence Agency from March 1989 until January 1992
+- Kerrey, J. Robert, Senator (D-Nebraska) from January 3, 1989; Democratic candidate for President in 1992
+- Kerry, John F., Senator (D-Massachusetts)
+- Kessinger, James J., Jr., Management Analysis Officer, Management Policy, Bureau of Finance and Management Policy, Department of State [1990]; Management Analysis Officer, Management Analysis and Policy, Management Policy, Bureau of Finance and Management Policy, Department of State [1991]; Administrative Counselor, U.S. Embassy in Port-au-Prince [1991, 1992]
+- Kessler, Carol Eberhardt., Deputy Director, Office of the Senior Coordinator, Bureau of Politico-Military Affairs, Department of State [1992]
+- Kessler, J. Christian, Office of Nuclear Technology and Safeguards, (Nuclear Energy and Energy Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990-1992]
+- Keur, Cornelius M., Administrative Counselor, U.S. Embassy in Sanaa [1989, 1990]
+- Key, Andrew F., Public Affairs Officer, U.S. Embassy in Reykjavik [1991, 1992]
+- Keyser, Donald W., Political Counselor, U.S. Embassy in Beijing [1989-1992]
+- Khalilzad, Zalmay M., Assistant Deputy Under Secretary of Defense for Policy Planning (1991, 1992)
+- Khoury, Nabeel, Branch Public Affairs Officer, U.S. Consulate at Alexandria [1989, 1990]
+- Kiehl, William P., Public Affairs Officer, U.S. Embassy in Helsinki [1989-1991]
+- Kilday, Lowell, Special European Initiative Director, Bureau of International Narcotics Matters, Department of State [1990]
+- Kile, Robert L., Administrative Counselor, U.S. Embassy in Dar es Salaam [1989]; Administrative Counselor, U.S. Embassy in Lilongwe [1990, 1991]; Administrative Counselor, U.S. Embassy in Maputo [1992]
+- Kilgour, Mary, Deputy Assistant Administrator and Food for Peace Coordinator, Bureau for Food for Peace and Voluntary Assistance, Agency for International Development [1990]
+- Kilner, Scott, Special Assistant, Bureau of European and Canadian Affairs, Department of State [1989]; Office of Central European Affairs, Bureau of European and Canadian Affairs, Department of State [1990-1992]
+- Kim, Carol Murray, Director, U.S. Export Development Office, U.S. Embassy in Mexico City [1989-1992]; Commercial Counselor, U.S. Embassy in Bangkok [1992]
+- Kim, Eva S., Personal Assistant to the Under Secretary of State for Political Affairs [1990]
+- Kimble, Melinda L., Deputy Director, Office of Monetary Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1989]; Director, Office of Egypt Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Kimmitt, Robert M., lawyer, Sidley & Austin; Under Secretary of State for Political Affairs from March 2, 1989, until August 23, 1991; U.S. Ambassador to Germany from September 5, 1991
+- King, John H., Executive Secretary, U.S. Delegation to the Conference on Disarmament [1991, 1992]
+- King, Russell R., Administrative Counselor, U.S. Embassy in La Paz [1989, 1990]; Administrative Counselor, U.S. Embassy in San Salvador [1991, 1992]
+- King, Stephen H., Administrative Counselor, U.S. Embassy in Niamey [1989]
+- Kingon, Alfred H., U.S. Representative to the European Communities until June 23, 1989
+- Kingsley, Nathan, Public Affairs Adviser, Office of Legislation, Policy, and Public Diplomacy, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990, 1991]
+- Kinn, Charles N., Administrative Counselor, U.S. Embassy in Nouakchott [1991, 1992]
+- Kinnelly, Francis M., Science Attache, U.S. Embassy in Ottawa [1989]; Director, Office of Nuclear Technology and Safeguards, (Nuclear Energy and Energy Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990, 1991]; Science Attache, U.S. Embassy in Bonn [1991, 1992]
+- Kinney, Douglas, Deputy Director, Office of Defense Relations and Security Assistance, Bureau of Politico-Military Affairs, Department of State [1990, 1991]; Director, Office of Multilateral Policy Coordination, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Kirby, Harmon E., Director, Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1989]; Director, Office of Performance Evaluation, Bureau of Personnel, Department of State [1990]; U.S. Ambassador to Togo from December 31, 1990
+- Kirby, Michael D., Consul, U.S. Consulate at Krakow [1989-1991]; Consul, U.S. Embassy in Copenhagen [1992]
+- Kirby, William A., Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs [1989]
+- Kirk, Mark S., Special Assistant, Bureau of Inter-American Affairs, Department of State [1991, 1992]
+- Kirk, Roger, U.S. Ambassador to Romania until July 5, 1989
+- Kirkconnell, Laura J., Security Enforcement and Licensing Division, Office of COCOM Affairs, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1990, 1991]
+- Kirkpatrick, Alexander T., Administrative Counselor, U.S. Embassy in Antananarivo [1989]; Special Assistant, Bureau of Administration, Department of State [1990, 1991]; Administrative Counselor, U.S. Embassy in Bridgetown [1991]
+- Kirkpatrick, Ronald K., Office of Aviation Negotiations, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Deputy Director, Office of Panamanian Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Kish, Stephen, Labor-Social Affairs Adviser, Office of Regional and Multilateral Force and Observers, Bureau of Near Eastern and South Asian Affairs, Department of State [1990]; Political Officer, Office of Regional and Multilateral Force and Observers, Bureau of Near Eastern and South Asian Affairs, Department of State [1991]; Office of Legislative Management, Bureau of Legislative Affairs, Department of State [1992]
+- Kissinger, Henry A., Former Secretary of State and President’s Assistant for National Security Affairs
+- Kitchen, David V., Director, Intelligence Programs, National Security Council staff (1989, 1990)
+- Klecheski, Michael, Nuclear Risk Reduction Center, Bureau of Politico-Military Affairs, Department of State [1990]; Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1990-1992]; Political and Economic Counselor, U.S. Consulate at Krakow [1992]
+- Kleiber, Norma L., Administrative Counselor, U.S. Embassy in Kathmandu [1989, 1990]
+- Klekas, John L., Labor Attache, U.S. Embassy in Athens [1990-1992]
+- Klemp, Karen D., Administrative Counselor, U.S. Consulate at Izmir [1989]
+- Klemp, Stephen H., Political and Economic Counselor, U.S. Consulate at Izmir [1989, 1990]
+- Klepp, Deborah, Consul, U.S. Embassy in Tallinn [1992]
+- Klopfenstein, Neil, Branch Public Affairs Officer, U.S. Consulate at Recife [1992]
+- Klosson, Michael, Director, Secretariat Staff, Executive Secretariat, Department of State [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Stockholm [1991, 1992]; Charge d’Affaires, U.S. Embassy in Stockholm [1992]
+- Kneebone, Terrence H., Public Affairs Officer, U.S. Embassy in Panama City [1989]; Public Affairs Officer, U.S. Embassy in Tegucigalpa [1990-1992]
+- Knight, Donald R., Labor Attache, U.S. Embassy in Buenos Aires [1989-1991]; Labor Attache, U.S. Embassy in Guatemala City [1991, 1992]
+- Knight, George E., Senior Officer Division, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1990-1992]; Administrative Counselor, U.S. Embassy in Canberra [1992]
+- Knopes, Robert E., Public Affairs Officer, U.S. Consulate at Hong Kong [1989]
+- Knotts, Bruce F., Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State [1990-1991]; Administrative Counselor, U.S. Consulate at Calcutta [1991, 1992]
+- Kobler, Arthur L., Deputy Principal Officer, U.S. Consulate at Hong Kong [1989]; Deputy Chief of Mission, U.S. Embassy in Singapore [1990-1992]
+- Kobliska, Allen D., Administrative Counselor, U.S. Consulate at Peshawar [1990-1992]
+- Koch, Bruce R., Public Affairs Officer, U.S. Embassy in Belgrade [1990-1992]; Director, Office of European Affairs, United States Information Agency [1992]
+- Koch, Kathleen Day, General Counsel, Federal Labor Relations Authority, from 1989 until 1991; Special Counsel, Office of the Special Counsel, from November 1991
+- Koch, Kathryn, Office of Cuban Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Northern and Central Europe and Canada Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1992]
+- Koch, Susan J., Principal Director of Nuclear Forces and Arms Control Policy, Office of the Assistant Secretary of Defense for International Security Policy [1989, 1990]; Assistant Director, Bureau of Strategic Programs, Arms Control and Disarmament Agency [1990]; Assistant Director, Bureau of Strategic and Nuclear Affairs, Arms Control and Disarmament Agency [1991]; Director for Defense Policy and Arms Control, National Security Council staff (1992)
+- Koenig, Anne M., Consul, U.S. Consulate at Monterrey [1991]
+- Koenig, John M., Staff Assistant, Bureau of East Asian and Pacific Affairs, Department of State [1989]
+- Kohl, Helmut, Chancellor of the Federal Republic of Germany until 1990; thereafter Chancellor of Germany
+- Kohl, Richard, Planning and Economic Analysis Staff, Bureau of Economic and Business Affairs, Department of State [1991]
+- Kohn, Robert, Commercial Counselor, U.S. Embassy in Madrid [1989-1992]; Commercial Counselor, U.S. Embassy in The Hague [1992]
+- Koivisto, Mauno H., President of Finland
+- Kojelis, Linas J., Deputy Assistant Secretary for Refugee Admissions, Refugee Programs, Department of State [1989]
+- Kolb, Charles E.M., Deputy Assistant to the President for Domestic Policy (1991, 1992)
+- Kolb, Kenneth H., Economic Counselor, U.S. Embassy in Stockholm [1991, 1992]
+- Kolb, William A., Economic and Commercial Counselor, U.S. Embassy in Nassau [1989, 1990]
+- Kolker, Jimmy J., Deputy Chief of Mission, U.S. Embassy in Gaborone [1990-1992]
+- Kollist, Ingrid, Office of Investment Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Economic Counselor, U.S. Embassy in Tallinn [1992]
+- Komplektov, Vitkor, Soviet Ambassador to the United States
+- Kong, Allen S.H., Consul, U.S. Embassy in Kuala Lumpur [1989-1991]; Fraud Protection Programs, Bureau of Consular Affairs, Department of State [1992]
+- Konkel, David R., Chief, Regional Economic Division, Office of Economic Analysis, Bureau of Intelligence and Research, Department of State [1990, 1991]
+- Kontos, Steven L., Consul U.S. Embassy in Islamabad [1991]; Office of Lebanon, Jordan, Syria Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Koob, Kathryn L., Branch Public Affairs Officer, U.S. Consulate at Munich [1989-1992]
+- Kopf, George B., Consul, U.S. Embassy in Algiers [1991, 1992]; Office of Economic Policy, Bureau of Inter-American Affairs, Department of State [1992]
+- Kopp, Eugene P., Deputy Director, United States Information Agency, from 1973 until 1976; acting Director, United States Information Agency from 1976 until 1977; Deputy Director, United States Information Agency from August 1989
+- Koran, Donald W., Economic Counselor, U.S. Embassy in Antananarivo [1989, 1990]; Consul and Economic and Commercial Counselor, U.S. Embassy in Lome [1991, 1992]
+- Kordek, John F., U.S. Ambassador to Botswana until November 1, 1989
+- Korengold, Robert J., Public Affairs Officer, U.S. Embassy in London [1989]; Public Affairs Officer, U.S. Embassy in Paris [1989-1992]
+- Korff, J. Michael, Public Affairs Officer, U.S. Embassy in Bern [1989, 1990]; Country Affairs Officer, Office of North African, Near Eastern, and South Asian Affairs, United States Information Agency [1992]; Public Affairs Officer, U.S. Embassy in Dhaka [1992]
+- Korky, Ann K., Deputy Director, Office of Southern European Affairs, Bureau of European and Canadian Affairs, Department of State [1990-1991]; Consul General, U.S. Consulate at Marseille [1991, 1992]
+- Kornblum, John C., Deputy U.S. Permanent Representative and Deputy Chief of Mission, U.S. Mission to the North Atlantic Treaty Organization [1989-1991]
+- Korth, Penne P., U.S. Ambassador to Mauritius from December 6, 1989, until November 19, 1992
+- Korycki, Leonard J., Branch Public Affairs Officer, U.S. Consulate at Lubumbashi [1989]
+- Kostelancik, David, Political Counselor, U.S. Embassy in Tirana [1992]
+- Kotok, Sharon B., Officer-in-Charge of International Women’s Affairs, Office of Human Rights and Women’s Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State
+- Kott, Robert J., Consul General, U.S. Consulate at Calgary [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Dakar [1992]; Charge d’Affaires, U.S. Embassy in Dakar [1992]
+- Kotula, Kirk-Patrick, Consul, U.S. Embassy in San Jose [1989]
+- Kouttab, Samir M., Public Affairs Officer, U.S. Embassy in Harare [1989-1991]; Policy Officer, Office of African Affairs, United States Information Agency [1992]
+- Kowalchek, Kenneth, Office of Inspections, Office of the Inspector General, Department of State [1990-1991]; Administrative Counselor, U.S. Embassy in Antananarivo [1991, 1992]
+- Kozak, Michael G., Principal Deputy Assistant Secretary of State for Inter-American Affairs [1989-1991]
+- Kramer, Douglas R., Political and Economic Counselor, U.S. Embassy in Gaborone [1989-1991]; Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Kramer, Richard E., Post Management Officer, Office of the Executive Director, Bureau of African Affairs, Department of State [1989]; Administrative Counselor, U.S. Embassy in Yaounde [1990]; Administrative Counselor, U.S. Embassy in Tunis [1991, 1992]
+- Kramer, Ronald J., Principal Officer, U.S. Consulate at Nuevo Laredo [1990, 1991]; Principal Officer, U.S. Consulate at Guadalajara [1991]; Consul, U.S. Consulate at Tijuana [1991]; Consul, U.S. Consulate at Guadalajara [1992]; Principal Officer, U.S. Consulate at Nuevo Laredo [1992]
+- Krantz, Robert L., Jr., Officer-in-Charge of Multinational Force and Observers Affairs, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990-1992]
+- Kravchuk, Leonid, President of Ukraine from December 1991
+- Krebs, Sheldon I., Consul General, U.S. Consulate at Antwerp [1989-1992]; Political Counselor, U.S. Embassy in Kuala Lumpur [1992]
+- Krecke, David, Public Affairs Officer, U.S. Embassy in Monrovia [1989-1991]; Deputy Director, Office of International Visitors, Bureau of Educational and Cultural Affairs, United States Information Agency [1992]
+- Kreczko, Alan J., Deputy Legal Adviser, Office of the Legal Adviser, Department of State [1990-1992]
+- Kreuser, Edward, Consul General, U.S. Embassy in Rome [1990-1992]
+- Krieg, J. Norbert, Consul, U.S. Embassy in Manila [1989]; Consul, U.S. Embassy in London [1989-1992]
+- Krischik, Mark B., Public Affairs Officer, U.S. Embassy in N’Djamena [1991, 1992]
+- Kristoff, Sandra J., Assistant U.S. Trade Representative for Asia and the Pacific, Office of the United States Trade Representative (1989-1991); Deputy Assistant Secretary of State for East Asian and Pacific Affairs from 1992
+- Kristol, William, Chief of Staff to the Vice President from 1989 until 1992
+- Krol, George A., Political and Economic Counselor, U.S. Consulate at St. Petersburg [1991, 1992]
+- Kronenburg, Stephanie A., Consul, U.S. Embassy in Manama [1990-1992]
+- Krueger, Karen E., Office of Andean Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Deputy Director, Office of Multilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Kruetzer, Bruce J., Branch Public Affairs Officer, U.S. Consulate at Calcutta [1989-1991]
+- Kruger, Mary, Public Affairs Officer, U.S. Embassy in Kiev [1992]
+- Krumm, Donald M., Director, Office of Refugee Admissions and Processing, Refugee Programs, Department of State [1989]; Office of International Refugee Organizations, Emergencies, and Solutions, Refugee Programs, Department of State [1990, 1991]
+- Kruse, Jean C., Commercial Counselor, U.S. Embassy in Bujumbura [1989]
+- Krys, Sheldon Jack, Assistant Secretary of State for Administration and Information Management until August 7, 1989; Assistant Secretary of State for Diplomatic Security from August 9, 1989, until August 7, 1992
+- Kubiske, Lisa, Office of Chinese and Mongolian Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990]; Economic Counselor, U.S. Consulate at Shanghai [1992]
+- Kuchel, Roland K., Deputy Chief of Mission, U.S. Embassy in Stockholm [1989, 1990]; Chief, Senior Officer Division, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1990-1992]
+- Kuhlman, Kay R., Commercial Counselor, U.S. Embassy in Bucharest [1989-1992]; Commercial Counselor, U.S. Embassy in Bern [1992]
+- Kulick, Gilbert D., Deputy Director, Office of Southern African Affairs, Bureau of African Affairs, Department of State [1989]; Contemporary Document Review, Office of Freedom of Information, Privacy, and Classification Review, Office of the Deputy Assistant Secretary for Information Services, Bureau of Diplomatic Security (Office later moved into the Bureau of Administration), Department of State [1991-1992]
+- Kulla, Morgan L., Public Affairs Officer, U.S. Embassy in Lome [1991, 1992]
+- Kunder, James R., Director, Office of U.S. Foreign Disaster Assistance [1992]
+- Kunkel, Marianne M., Principal Officer, U.S. Consulate at Porto Alegre [1989-1991]
+- Kunsman, Eric A., Deputy Chief of Mission, U.S. Embassy in Valletta [1989]; Principal Deputy Director, Office of Strategic and Theater Policy, Bureau of Politico-Military Affairs, Department of State [1990, 1991]; Executive Assistant to the Director, Arms Control and Disarmament Agency [1992]
+- Kunsman, June Heil, Career Development—Consular, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1990, 1991]; Deputy Director, Crisis Management Support Office, Operations Center, Executive Secretariat, Department of State [1992]
+- Kupchan, Charles A., member, Policy Planning Staff, Department of State [1992]
+- Kurapka, Virginia I., Administrative Counselor, U.S. Consulate at Medan [1989]; Administrative Counselor, U.S. Consulate at Hamburg [1989-1992]
+- Kursch, Donald B., Deputy Chief of Mission, U.S. Embassy in Budapest [1989, 1990]; Economic Counselor, U.S. Embassy in Bonn [1991]; Deputy Chief of Mission, U.S. Embassy in Bonn [1992]
+- Kurtzer, Daniel, Member, Policy Planning Staff, Department of State [1989]; Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs [1990-1992]
+- Kurzbauer, Ruth A., Branch Public Affairs Officer, U.S. Consulate at Shenyang [1990, 1991]
+- Kushlis, William J., Political Counselor, U.S. Embassy in Helsinki [1989-1992]
+- Kux, Dennis B., U.S. Ambassador to Cote d’Ivoire until October 8, 1989; Director, Center for Studies of Foreign Affairs, Foreign Service Institute, Department of State [1992]
+- Kyl, Jon, member, U.S. House of Representatives (R-Arizona)
+- Kyzner, David R., Political Counselor, U.S. Embassy in Conakry [1990, 1991]
+- LaBounty, Randall, Commercial Counselor, U.S. Consulate at Calgary [1992]
+- LaBrie, Damon V., Economic and Commercial Counselor, U.S. Embassy in Valletta [1989]; Office of Food Policies and Programs, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Security Trade Controls Division, Office of COCOM Affairs, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1992]
+- Lacalle de Herrera, Luis Alberto, President of Uruguay from March 1, 1990
+- Lacey, Edward J., Deputy Assistant Director, Bureau of Verification and Intelligence (later Verification and Implementation), Arms Control and Disarmament Agency [1990-1992]
+- LaCombe, Patrick G., Labor Attache, U.S. Embassy in Warsaw [1991, 1992]
+- LaFleur, Christopher, Special Assistant, Bureau of East Asian and Pacific Affairs, Department of State [1991]; Director, Office of Vietnam, Laos, and Cambodia Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Lafontant-Mankarious, Jewel, senior partner, Vedder, Price, Kaufman & Kammholz; Ambassador at Large and U.S. Coordinator for Refugee Affairs from June 23, 1989, until February 5, 1993
+- LaGamma, Robert, Public Affairs Officer, U.S. Embassy in Lagos [1989-1991]; Deputy Director, Office of African Affairs, United States Information Agency (1992)
+- Lagana, Gregory, Public Affairs Officer, U.S. Embassy in Quito [1989-1992]
+- Lahey, Patrick, Consul, U.S. Consulate at Pozan [1990, 1991]
+- Laing, Robert B., Public Affairs Officer, U.S. Embassy in Suva [1989, 1990]; Country Officer, Office of East Asian and Pacific Affairs, United States Information Agency [1992]
+- Lake, Joseph E., Director, Operations Center, Executive Secretariat, Department of State [1989]; U.S. Ambassador to Mongolia from July 18, 1990
+- LaLime, Helen R. Meagher, Consul, U.S. Consulate at Zurich [1991, 1992]
+- LaMagna, Richard C., Director for International Programs, National Security Council staff (1989)
+- Lamantia, Russell A., Jr., Director, Secretariat Staff, Executive Secretariat, Department of State [1990-1992]; Deputy Director, Office of Australia and New Zealand Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- LaMazza, John J., Labor Attache, U.S. Embassy in Tokyo [1989-1992]; Labor Attache, U.S. Embassy in Ottawa [1992]
+- Lamb, Denis, U.S. Representative to the Organization for Economic Cooperation and Development until June 28, 1990
+- Lamb, Robert E., Assistant Secretary of State for Diplomatic Security until August 9, 1989; U.S. Ambassador to Cyprus from November 30, 1990
+- Lambert, David H., Public Affairs Officer, U.S. Embassy in Port Moresby [1989]
+- Lambert, Lynne F., Chief, Developed Country Trade Division, Office of Bilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Director, Office of Freely Associated State Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Lambert, Paul C., lawyer, Breed, Abbot, and Morgan; U.S. Ambassador to Ecuador from July 2, 1990, until February 1, 1992
+- Lambertson, David F., Deputy Assistant Secretary of State for East Asian and Pacific Affairs until June 15, 1990; diplomat-in-residence, Department of Political Science, University of Kansas; U.S. Ambassador to Thailand from September 24, 1991
+- Lamberty, Gerald P., Deputy Chief of Mission, U.S. Embassy in Guatemala City [1989]
+- Lamora, Christopher, Political and Economic Counselor, U.S. Consulate at Douala [1992]
+- Lampert, Harvey D., Economic Counselor, U.S. Embassy in Prague [1989-1991]; Office of Intelligence Liaison, Bureau of Intelligence and Research, Department of State [1992]
+- Lampley, Virginia A. (Ginny), Special Assistant to the President for National Security Affairs and Senior Director for Legislative Affairs, National Security Council staff, from March 13, 1989, until October 1992
+- Lane, Helen, Office of Advanced Technology, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1991]
+- Lane, Howard A., Public Affairs Officer, U.S. Embassy in Bogota [1989, 1990]
+- Lane, Laurence W., Jr., U.S. Ambassador to Australia until April 29, 1989
+- Lane, Robert L., Administrative Officer, U.S. Embassy in Bangui [1989]
+- Lang, Nicholas R., Chief, Eastern Europe Division, Office of Analysis for the Soviet Union and Eastern Europe, Bureau of Intelligence and Research, Department of State [1990, 1991]; Economic Adviser, U.S. Mission to the North Atlantic Treaty Organization [1992]
+- Langan, Douglas, Deputy Chief of Mission, U.S. Embassy in Lima [1989, 1990]; Executive Director, Bureau of European and Canadian Affairs, Department of State [1990-1992]
+- Lange, David, Prime Minister of New Zealand until August 8, 1989
+- Lange, Howard H., Economic Counselor, U.S. Embassy in Warsaw [1989]; Deputy Chief of Mission, U.S. Embassy in Valletta [1990-1992]
+- Lange, John D., Economic and Financial Counselor, U.S. Mission to the Organization for Economic Cooperation and Development [1989-1992]
+- Lange, John E., Special Assistant, Office of the Under Secretary of State for Management [1989]; Administrative Counselor, U.S. Embassy in Lome [1990]
+- Lange, Leonard J., Deputy Chief of Mission, U.S. Embassy in Manama [1989]; Deputy Chief of Mission, U.S. Embassy in Bujumbura [1991, 1992]
+- Langford, Patricia A., Deputy Chief of Mission, U.S. Embassy in Santo Domingo [1989, 1990]; Consul, U.S. Embassy in Mexico City [1991, 1992]
+- Langhaug, David B., Americas Division Chief, Office of Program Management, International Narcotics Affairs, Department of State [1989, 1990]
+- Lanier, Jerry P., Special Assistant, Bureau of African Affairs, Department of State [1990, 1991]; Office of Korean Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1991, 1992]
+- Lankford, Richard O., Public Affairs Officer, U.S. Embassy in Maseru [1989, 1990]
+- Lannon, George C., Consul General, U.S. Consulate at Halifax [1990-1992]; Office of Field Support Liaison, Office of the Deputy Assistant Secretary for Visa Services, Bureau of Consular Affairs, Department of State [1992]
+- Lannon, James, Assistant Deputy Director for Security, Arms Control and Disarmament Agency [1989]
+- Lanpher, Edward Gibson, Director, Office of Southern African Affairs, Bureau of African Affairs, Department of State until 1989; Charge d’Affaires, U.S. Embassy in Canberra [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Canberra [1990, 1991]; U.S. Ambassador to Zimbabwe from November 20, 1991
+- Lantos, Tom, member, U.S. House of Representatives (D-California)
+- Lanza, Sheri, Commercial Counselor, U.S. Embassy in San Jose [1992]
+- LaPittus, Jerome R., Associate Assistant Administrator, Office of Economic Affairs, Bureau for Program and Policy Coordination, Agency for International Development [1990, 1991]
+- Laporta, Alphonse F., Deputy Chief of Mission, U.S. Embassy in Wellington [1989-1991]; Executive Assistant, Office of the President’s Special Representative for the Multilateral Assistance Initiative for the Philippines, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Lara, Ishmael, Scientific Attache, U.S. Embassy in Madrid [1989-1991]; Textile Division, Office of Multilateral Trade Affairs, (Trade and Commerical Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Lark, Mary Lou, Personal Assistant to the Deputy Secretary of State [1992]
+- Larocco, James A., Economic Counselor, U.S. Embassy in Beijing [1989, 1990]
+- Laroche, Richard R., Consul, U.S. Embassy in Tegucigalpa [1989, 1990]
+- Larsen, Dan J., Consul and Political Counselor, U.S. Consulate at Peshawar [1989, 1990]; Political Counselor, U.S. Consulate at Cebu [1991, 1992]
+- Larsen, Paul B., Political and Economic Counselor, U.S. Embassy in Harare [1989-1991]
+- Larson, Alan P., Deputy Assistant Secretary of State for Economic and Business Affairs [1989, 1990]; Representative, U.S. Mission to the Organization for Economic Cooperation and Development from June 28, 1990, until June 23, 1993
+- Larson, Paul, Economic and Commercial Counselor, U.S. Embassy in Montevideo [1991, 1992]; Chief, Special Trade Activities Division, Office of Multilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- La Salle, C. William, Public Affairs Officer, U.S. Embassy in The Hague [1989-1991]; Public Affairs Officer, U.S. Embassy in Kinshasa [1991, 1992]
+- La Sor, Frederick E.V., Public Affairs Officer, U.S. Embassy in Nairobi [1990, 1991, 1992]
+- Lassiter, James H., Consul, U.S. Embassy in Nassau [1989, 1990]
+- Latimer, Alan B.C., Consul, U.S. Embassy in Freetown [1990]; Deputy Chief of Mission, U.S. Embassy in Freetown [1991]; Deputy Chief of Mission, U.S. Embassy in Conakry [1991, 1992]
+- Latour, Jose, Consul and Administrative Counselor, U.S. Embassy in Malabo [1989, 1990]
+- Lattanzi, Frank, Public Affairs Officer, U.S. Embassy in Vatican City [1989, 1990, 1991]
+- Laudato, George A., Deputy Assistant Administrator, Bureau for Program and Policy Coordination, Agency for International Development [1989, 1990]; Deputy Assistant Administrator, Bureau for Asia and Private Enterprise, Agency for International Development [1991]; Deputy Assistant Administrator, Bureau for Asia, Agency for International Development [1991, 1992]
+- Lauderdale, Clint A., Assistant Inspector General, Office of Inspections, Office of the Inspector General, Department of State [1990, 1991]
+- Lauderdale, Eli N., Office of Legislation, Regulations, and Advisory Assistance, Visa Services, Bureau of Consular Affairs, Department of State [1990, 1991]; Consul, U.S. Embassy in Oslo [1992]
+- Laurendeau, Jennifer, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1991, 1992]
+- Lautenberg, Frank R., Senator (D-New Jersey)
+- Lauterbach, Steven M., Administrative Counselor, U.S. Embassy in Conakry [1990, 1991]; Public Affairs Officer, U.S. Embassy in Cotonou [1992]; Public Affairs Officer, U.S. Embassy in Belize City [1992]
+- Laux, David N., Chairman, American Institute in Taiwan in Washington until 1990
+- Lavorel, Sharon A., Consul and Administrative Counselor, U.S. Embassy in Djibouti [1989, 1990]; Administrative Counselor, U.S. Embassy in Ouagadougou [1990-1992]
+- Lavorel, Warren, Assistant U.S. Trade Representative for Multilateral Trade Negotiations, Office of the United States Trade Representative, from 1989 until 1992
+- Law, Charles W., Economic Counselor, U.S. Consulate at Calcutta [1991, 1992]
+- Lawrence, William U., Branch Public Affairs Officer, U.S. Consulate at Madras [1991, 1992]
+- Lawson, Charles A., Scientific Attache, U.S. Embassy in Tel Aviv [1989-1992]
+- Laycock, J. Christopher, Administrative Counselor, U.S. Consulate at Lubumbashi [1989, 1900]
+- Layton, Robin R., Industrial and Commercial Counselor, U.S. Mission to the Organization for Economic Cooperation and Development [1991, 1992]
+- Lazar, Charna L., Political Counselor, U.S. Embassy in Luxembourg City [1991, 1992]
+- Leach, James, member, U.S. House of Representatives (R-Iowa)
+- Leach, Steven G., Strategic Planning Division, Office of Plans, Office of the Deputy Assistant Secretary for Planning and Development, Bureau of Diplomatic Security, Department of State [1990]; Office of the Executive Director, Bureau of East Asian and Pacific Affairs, Department of State [1991]; Administrative Counselor, U.S. Embassy in Wellington [1992]
+- Leader, Damian, Staff Assistant, Bureau of European and Canadian Affairs, Department of State [1989]; Office of Western European Affairs, Bureau of European and Canadian Affairs, Department of State [1990-1992]; Political Counselor, U.S. Embassy in Vatican City [1992]
+- Leader, Joyce F., Deputy Chief of Mission, U.S. Embassy in Kigali [1991, 1992]
+- Leahy, Patrick J. (Pat), Senator (D-Vermont)
+- Leahy, Wade P., Administrative Counselor, U.S. Consulate at Shenyang [1989]
+- LeBaron, Joseph, Consul General, U.S. Consulate at Dubai [1991, 1992]
+- LeBourgeois, Julien, member, Policy Planning Staff, Department of State [1992]
+- Lecocq, Randall, Office of Southern African Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Consul General, U.S. Consulate at Vladivostok [1992]
+- Lecroy, Jessica, Security Trade Controls Division, Office of COCOM Affairs, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1991]
+- Ledesma, James V., Deputy Director, Office of East African Affairs, Bureau of African Affairs, Department of State [1991]; Deputy Chief of Mission, U.S. Embassy in Accra [1992]
+- Ledogar, Stephen J., U.S. Representative to the European conventional arms negotiations and U.S. Representative to the Mutual and Balanced Force Reduction negotiations; U.S. Representative to the Conference on Disarmament from 1989
+- Ledsky, Nelson C., Special Assistant to the President for National Security Affairs and Senior Director for European and Soviet Affairs until March 13, 1989; Special Coordinator for Cyprus, Department of State, from June 1989; Special Assistant, Bureau of European and Canadian Affairs, Department of State [1991, 1992]
+- Lee, Christine D., Consul, U.S. Embassy in Ouagadougou [1992]
+- Lee, Katherine, Public Affairs Officer, U.S. Embassy in Bridgetown [1989-1991]; Branch Public Affairs Officer, U.S. Consulate at Rio de Janeiro [1992]
+- Lee, Long N., Consul, U.S. Embassy in Reykjavik [1990]
+- Lee, Owen B., U.S. Mission to the Organization of American States [1990-1992]
+- Leeb, Howard, Public Affairs Officer, U.S. Embassy in Maputo [1989, 1990]
+- Leech, Theresa M., Staff Assistant, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Office of the Executive Director, Bureau of European and Canadian Affairs, Department of State [1992]
+- Lee Teng-hui, President of the Republic of China from January 13, 1988, until May 20, 2000
+- Lefkow, Leonard L., Public Affairs Officer, U.S. Embassy in Tel Aviv [1989, 1990]
+- Legere, Laurence J., Defense Adviser, U.S. Mission to the North Atlantic Treaty Organization [1989]
+- Leggio, Anthony, Consul, U.S. Consulate at Guangzhou [1989, 1990]; Consul General, U.S. Consulate at Genoa [1991, 1992]
+- Lehman, Ronald F., II, Assistant Secretary of Defense for International Security Policy until May 11, 1989; Director of the Arms Control and Disarmament Agency from May 12, 1989, until January 20, 1993
+- Lehovich, Vladmir, Deputy Assistant Secretary of State for Politico-Military Affairs [1989]; Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1991]; Dean, School of Professional Studies and Academic Affairs, Foreign Service Institute, Department of State [1992]
+- Lehr, Deborah M., Director for Asian Affairs, National Security Council staff (1992)
+- Leide, John A., General (USA), Defense Attache, U.S Embassy in Beijing
+- Leifert, Harvey I., Branch Public Affairs Officer, U.S Consulate at Johannesburg [1989]; Public Affairs Officer, U.S. Embassy in Windhoek [1990, 1991]
+- Leighton, Elizabeth, Consul, U.S. Consulate at Edinburgh [1989]; Office of Marine Science and Polar Affairs, (Oceans and Fisheries Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990, 1991]
+- Leininger, Wayne S., Chief, Career Development—Consular, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1989, 1990]; Director, Policy Coordination Staff, Bureau of Personnel, Department of State [1992]
+- Lekson, J. Michael, Deputy Director, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Director, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Leland, Mickey, member, U.S. House of Representatives (D-Texas) until his death on August 7, 1989
+- Lemaistre, Alice C., Public Affairs Officer, U.S. Embassy in Gaborone [1991, 1992]
+- Lemay, Frank, International Economist, Office of the Under Secretary of State for Economic and Agricultural Affairs [1990, 1991]; Member, Policy Planning Staff, Department of State [1992]
+- Lemieux, Louis N., Administrative Counselor, U.S. Embassy in Muscat [1989, 1990]; Special Assistant to the Deputy Assistant Secretary for Operations, Bureau of Administration, Department of State [1991, 1992]; Administrative Counselor, U.S. Embassy in Beirut [1992]
+- Lemmon, Michael C., Political Counselor, U.S. Embassy in Rabat [1989-1992]; Director, Office of South Asian Regional Affairs, Bureau of South Asian Affairs, Department of State [1992]
+- Lenahan, Richard M., Commercial Counselor, U.S. Embassy in Lima [1990-1992]; Commercial Counselor, U.S. Embassy in Bogota [1992]
+- Lenderking, William, Public Affairs Officer, U.S. Embassy in Islamabad [1989-1992]
+- Leonard, John P., Charge d’Affaires ad Interim, U.S. Embassy in Managua from July 1, 1988, until June 1, 1990; U.S. Ambassador to Suriname from March 11, 1991
+- Leonard, Mary Beth, Consul, U.S. Embassy in Yaounde [1989]; Consul, U.S. Embassy in Windhoek [1991, 1992]
+- Leonnig, Douglas B., Administrative Counselor, U.S. Embassy in Vatican City [1989, 1990]; Office of Supply and Transportation, Office of the Deputy Assistant Secretary for Operations, Bureau of Administration, Department of State [1991]; Special Assistant, Bureau of Administration [1992]
+- Lerner, Leah A., EUR Regional Officer, Office of Human Rights, Bureau of Human Rights and Humanitarian Affairs, Department of State [1989]
+- Leventhal, Todd, Coordinator of Programs to Counter Soviet Active Measures, Bureau of Policy and Programs, United States Information Agency [1992]
+- Levin, Burton, U.S. Ambassador to Burma until September 30, 1990
+- Levin, Daniel B., Deputy Legal Adviser, National Security Council staff (1989)
+- Levin, Herbert, Special Assistant, Office of the Senior Representative for Strategic Technology Policy, Office of the Under Secretary of State for Security Assistance, Science, and Technology (later Under Secretary of State for International Security Affairs), Department of State [1989, 1990]; Executive Assistant to the Ambassador at Large and Special Adviser to the Secretary of State on Non-Proliferation Policy and Nuclear Energy Affairs [1991]
+- Levine, Henry A., Consul, U.S. Embassy in Beijing [1991, 1992]
+- Levine, Jeffrey D., Administrative Counselor, U.S. Consulate at Alexandria [1990-1992]
+- Levitsky, Melvyn, Special Assistant to the Secretary of State and Executive Secretary of the Department of State until March 25, 1989; Assistant Secretary of State for International Narcotics Matters from June 23, 1989
+- Levy, David, Israeli Foreign Minister
+- Levy, Richard A., Office of Weapons Proliferation Policy, Bureau of Politico-Military Affairs, Department of State [1990]; Deputy Director, Office of Defense Trade Controls, Bureau of Politico-Military Affairs, Department of State [1990-1992]
+- Lewinsohn, Jodie, Public Affairs Officer, U.S. Embassy in Rome [1989-1992]
+- Lewis, Clifford, Deputy Assistant Administrator, Bureau for Program and Policy Coordination, Agency for International Development [1989, 1990]; Deputy Assistant Administrator, Bureau for Europe and Near East, Agency for International Development [1991]
+- Lewis, James A., Special Assistant, Bureau of Politico-Military Affairs, Department of State [1990, 1991]; Deputy Director, Office of Defense Trade Policy, Bureau of Politico-Military Affairs, Department of State [1992]
+- Lewis, John F., Director for Intelligence Programs, National Security Council staff (1989)
+- Lewis, John Hargraves, Deputy Chief of Mission, U.S. Embassy in Bamako [1989, 1990]; Office of West African Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Deputy Director, Office of Anglophone and Lusophone West African Affairs, Bureau of African Affairs, Department of State [1991]; Director, Office of Francophone West African Affairs, Bureau of African Affairs, Department of State [1992]
+- Lewis, L. Kirk, Deputy Assistant, Office of the Special Adviser to the President and Secretary of State on Arms Control Matters [1989]
+- Lewison, Eileen F., Consul, U.S. Consulate at Dubai [1990-1992]
+- L’Hommedieu, Noelle, Multilateral Affairs Officer, Office of Multilateral Affairs and Human Rights Programs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1989]
+- Li, Frances C., Deputy Director, Office of Global Change, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990]
+- Libby, I. Lewis (Scooter), Principal Deputy Under Secretary of Defense for Strategy and Resources from June 1989 until August 1992; Deputy Under Secretary of Defense for Policy from August 12, 1992, until January 10, 1993
+- Licht, Louis F., III, Labor Officer, U.S. Embassy in Canberra [1989]; Chief for International Affairs, Office of Freely Associated States Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; ACDA [1992]
+- Liddick, Morgan, Branch Public Affairs Officer, U.S. Consulate at Guadalajara [1990-1992]
+- Lieberman, Alfred, Chief, Division of Operations Analysis, Bureau of Verification and Intelligence, Arms Control and Disarmament Agency [1989, 1990]; Chief, Operations Analysis Group, Office of the Chief Science Adviser, Arms Control and Disarmament Agency [1991, 1992]
+- Lienhart, Theodore M., Administrative Counselor, U.S. Embassy in Banjul [1992]
+- Liepman, Andy, Deputy Politico-Military Advisor, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]
+- Light, Frank, Office of Vietnam, Laos, and Cambodia Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1991]
+- Light, Sally, Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1991, 1992]
+- Lijek, Mark J., Administrative Counselor, U.S. Embassy in Warsaw [1989, 1990, 1991]
+- Likins, Rose M., Political Counselor, U.S. Embassy in Asuncion [1989-1991]; Special Assistant, Office of the Deputy Secretary of State [1992]
+- Lilley, James R., U.S. Ambassador to China from May 8, 1989, until May 10, 1991; Assistant Secretary of Defense for International Security Affairs from December 12, 1991, until January 20, 1993
+- Limberg, Wayne, Chief, Soviet Foreign Political Division, Office of Analysis for the Soviet Union and Eastern Europe, Bureau of Intelligence and Research, Department of State [1989-1992]
+- Limbert, John W., Consul General, U.S. Consulate at Dubai [1989-1991]; Director, Orientation Division, School of Professional Studies and Academic Affairs, Foreign Service Institute, Department of State [1992]
+- Limprecht, Joseph A., Narcotics Assistance Unit, U.S. Embassy in Islamabad [1989-1991]; Deputy Director, Israel and Arab-Israeli Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Lincoln, Philip T., Jr., Consul General, U.S. Consulate at Sydney [1989-1992]; Director, Office of Economic Policy, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Linde, Deborah, Chief, Regional Economic Division, Office of Economic Analysis, Bureau of Intelligence and Research, Department of State [1989]; Office of Indonesia, Malaysia, Brunei, and Singapore Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990-1991]; Economic and Commercial Counselor, U.S. Embassy in Kinshasa [1991, 1992]
+- Linder, Perry W., Administrative Counselor, U.S. Embassy in Madrid [1989-1992]
+- Lindly, Kirk D., Office of Lebanon, Jordan, Syria Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Economic and Commercial Counselor, U.S. Embassy in Port Moresby [1992]
+- Lindover, Sally L., Administrative Counselor, U.S. Consulate at Stuttgart [1992]
+- Lindsey, Lawrence B., Professor of Economics, Harvard University; Associate Director for Domestic Economic Policy, Office of Policy Development, from January 1989 until March 1990; Special Assistant to the President for Policy Development from March 22, 1990
+- Lindsey, William H., Public Affairs Officer, U.S. Embassy in Freetown [1990]; Office of Program Coordination and Development, United States Information Agency
+- Lineberry, L. Elizabeth, Staff Assistant to the Secretary of State [1990, 1991]; Staff Assistant, Office of the Under Secretary of State for Management [1992]
+- Linehan, Patrick J., Branch Public Affairs Officer, U.S. Consulate at Sapporo [1990-1992]
+- Lino, Marisa R., Refugee Coordinator, U.S. Embassy in Islamabad [1989, 1990]; Consul General, U.S. Consulate at Florence [1990-1992]
+- Linskey, Dennis M., Deputy Director, Office of Mexican Affairs, Bureau of Inter-American Affairs, Department of State [1989]; Chief, Global Support Division, Office of Transnational Issues, Bureau of International Narcotics Matters, Department of State [1990-1992]
+- Linton, E. Mark, Economic Adviser, U.S. Mission to the North Atlantic Treaty Organization [1989-1992]
+- Linville, D. Thomas, Administrative Counselor, U.S. Consulate at Hong Kong [1989]; Administrative Counselor, U.S. Embassy in Lima [1990]
+- Li Peng, Premier of China
+- Lissfelt, Mark C., Deputy Chief of Mission, U.S. Embassy in Paris [1989-1991]; Dean, School of Language Studies, Foreign Service Institute, Department of State [1992]
+- Lister, George T., Senior Policy Adviser (Human Rights Expert), Bureau of Human Rights and Humanitarian Affairs, Department of State [1989-1992]
+- Lister, John L., Political Counselor, U.S. Embassy in Sanaa [1991, 1992]
+- Litt, David C., Political Counselor, U.S. Embassy in Damascus [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Niamey [1991, 1992]
+- Littrel, Elizabeth, Office of West African Affairs, Bureau of African Affairs, Department of State [1991, 1992]
+- Littrel, Warren E., Administrative Counselor, U.S. Embassy in Madrid [1989]; Deputy Assistant Secretary for Information Management and Systems Operations, Bureau of Diplomatic Security, Department of State [1990-1992]
+- Litzenberger, Earle Lee, Special Assistant, Office of the Deputy Secretary of State [1990, 1991]
+- Liu, Ted, Branch Public Affairs Officer, U.S. Consulate at Guangzhou [1989]
+- Liu Huaqing, Vice Chairman, PRC Military Commission
+- Liu Huaqiu, Vice Minister, Chinese Ministry of Foreign Affairs
+- Livingston, Richard P., Consul, U.S. Embassy in Jakarta [1989-1991]; Consul, U.S. Embassy in New Delhi [1991, 1992]
+- Llorens, Hugo L., Economic and Commercial Counselor, U.S. Embassy in Asuncion [1989]; Economic Counselor, U.S. Embassy in Tegucigalpa [1992]
+- Lloyd, Thomas H., Consul, U.S. Consulate at Porto Alegre [1989]
+- Locher, James R., III, professional staff member, Senate Armed Services Committee until 1989; Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict from October 19, 1989
+- Locke, Allen W., Chief, Technology Transfer Division, Office of Economic Analysis, Bureau of Intelligence and Research, Department of State [1989]; Chief, Science, Technology, and Proliferation Division, Office of Strategic and Proliferation Affairs, Bureau of Intelligence and Research, Department of State [1991, 1992]
+- Lockwood, Walter B., Jr., Director, Office of Ecology and Natural Resources, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989]; Chief, Career Development-Economic, Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Loftis, Robert G., Labor Attache, U.S. Embassy in Wellington [1989-1991]; Office of Strategic and Theater Policy, Bureau of Politico-Military Affairs, Department of State [1992]; Deputy Director, Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Loftstrom, William L., Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State [1990-1991]; Labor Attache, U.S. Embassy in Buenos Aires [1991, 1992]
+- Loftus, Gerald J., Consul and Administrative Counselor, U.S. Embassy in Port Louis [1989, 1990]; Political Counselor, U.S. Embassy in Algiers [1990, 1991]; Principal Officer, U.S. Consulate at Oran [1992]; Assignment Officer, Assignment Division (EUR), Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Logsdon, Wayne K., Administrative Counselor, U.S. Embassy in Budapest [1989, 1990]; Administrative Counselor, U.S. Embassy in Kuwait [1990]; Administrative Counselor, U.S. Embassy in Tel Aviv [1991, 1992]
+- Loh, John M., Gen., USAF, Acting Chief of Staff of the Air Force from September 18, 1990, until October 27, 1990
+- Lohman, Lee R., Administrative Training Coordinator, School of Professional Studies, Foreign Service Institute, Department of State [1989, 1990]; Administrative Counselor, U.S. Embassy in Amman [1991, 1992]
+- Londono, Peter Vincent, Economic and Commercial Counselor, U.S. Embassy in Damascus [1990-1992]
+- Long, Arnold C., Science Attache, U.S. Embassy in Ankara [1991, 1992]
+- Long, John B., Economic Counselor, U.S. Embassy in Dar Es Salaam [1992]
+- Longmyer, Kenneth (Ken), Chief, Security Enforcement and Licensing Division, Office of COCOM Affairs, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1990, 1991]
+- Look, Karin Lawson, Chief, Theater Affairs Division, Bureau of Strategic Programs, Arms Control and Disarmament Agency [1990-1992]
+- Lopez, Alphonse, Administrative Counselor, U.S. Embassy in Rabat [1989-1992]
+- Lord, Carnes, Assistant to the Vice President for National Security Affairs
+- Lord, Winston, U.S. Ambassador to China until April 23, 1989
+- Lore, Mark, Deputy Director, Office of Brazilian Affairs, Bureau of Inter-American Affairs, Department of State [1989]; Director, Office of Brazilian Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Brasilia [1992]
+- Lorton, Ronald D., Chief, Assignments Division (NEA), Office of Foreign Service Development and Assignments, Bureau of Personnel, Department of State [1989]; Consul General, U.S. Consulate at Calcutta [1989-1992]
+- Loss, Mary Kay, Political Counselor, U.S. Embassy in Maputo [1992]
+- Louis, Jean A., Consul, U.S. Consulate at Karachi [1989-1991]; Chief, Assignments Division (ARA), Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Love, Alexander R., Counselor to the Agency, Office of the Administrator, Agency for International Development [1990]
+- Loveridge, Charles, Public Affairs Officer, U.S. Embassy in Lima [1989, 1990]
+- Low, Stephan, President, Association for Diplomatic Studies, Foreign Service Institute, Department of State [1992]
+- Lowe, Bryan G., Consul and Economic Counselor, U.S. Embassy in Lome [1989, 1990]
+- Lowe, George M., Jr., Administrative Counselor, U.S. Embassy in Lima [1989]; Administrative Counselor, U.S. Embassy in Bogota [1990-1992]
+- Lowell, William J., Deputy Director, Office of Advanced Technology, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989-1991]; Special Assistant, Office of the Under Secretary of State for International Security Affairs [1992]
+- Lowenkopf, Martin, Director, Office of Analysis for Africa, Bureau of Intelligence and Research, Department of State [1989]
+- Lowenkron, Barry F., member, Policy Planning Staff, Department of State [1989]; Director for European and Soviet Affairs, National Security Council staff, from March until November 1989 (1991); Director for European and Eurasian Affairs, National Security Council staff, from April until October 1992 (1992)
+- Lowenthal, Bennett Y., Consul, U.S. Consulate at Porto Alegre [1989-1991]
+- Lowry, Bruce A., Consul and Economic and Political Counselor, U.S. Embassy in Mbabane [1989, 1990]; Staff Assistant, Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Special Assistant, Bureau of Economic and Business Affairs, Department of State [1991]; Office of Regional Political-Economic Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Lubbers, Ruud, Prime Minister of the Netherlands
+- Luchs, Lewis R., Public Affairs Officer, U.S. Embassy in Canberra [1989-1992]
+- Ludan, Robert, Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Chief for Economic Affairs, Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Luftig, Laura, Labor Attache, U.S. Embassy in Colombo [1990]; Commercial Counselor and Labor Attache, U.S. Embassy in Colombo [1991]
+- Lugar, Richard G., Senator (R-Indiana)
+- Luke, Robert S., Economic Counselor, U.S. Consulate at Osaka-Kobe [1990-1992]
+- Lundberg, Eric K., Consul, U.S. Embassy in Paramaribo [1991, 1992]
+- Lundsager, Meg, Director for International Economic Affairs, National Security Council staff from June 1990 (1990, 1991)
+- Lundy, Walter A., Economic Policy Staff Director, Bureau of African Affairs, Department of State [1989]; Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State, [1990, 1991]; Director, Office of Retirement and Career Transition, Bureau of Personnel, Department of State [1992]
+- Lunstead, Jeffrey J., Chief, South Asia Division, Office of Analysis for Near East and South Asia, Bureau of Intelligence and Research, Department of State [1989]; Office of East African Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Political Counselor, U.S. Embassy in Dhaka [1992]
+- Lupo, Samuel E., U.S. Ambassador to Guinea until May 22, 1990
+- Lutter, Dorothy L., Commercial Counselor, U.S. Consulate at Bombay [1989-1992]
+- Lutz, Jeffery, Science Attache, U.S. Embassy in London [1991, 1992]
+- Lydon, Kathleen, Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs [1990]
+- Lyle, John, Chief, Textiles Division, Office of Multilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Lyman, Princeton N., U.S. Ambassador to Nigeria until July 24, 1989; Director of the Bureau for Refugee Programs, Department of State, from September 5, 1989, until June 15, 1992; U.S. Ambassador to South Africa from September 21, 1992
+- Lynch, Gregory, Public Affairs Officer, U.S. Embassy in Dar Es Salaam [1991, 1992]
+- Lynch, Patricia G., U.S. Ambassador to Madagascar and Comoros until August 31, 1989
+- Lynch, Paula Reed, Office of Budget Policy Coordination, Refugee Programs, Department of State [1990]; Office of International Refugee Organizations, Emergencies, and Solutions, Refugee Programs, Department of State [1991]; acting Director, Office of International Refugee Operations, Refugee Programs, Department of State [1992]
+- Lynch, Thomas A., Political Counselor, U.S. Embassy in Budapest [1989, 1990]
+- Lyne, Stephen R., U.S. Ambassador to Ghana until September 9, 1989
+- Lyon, David L., Consul, U.S. Embassy in Bangkok [1989-1991]; Director, Office of Transnational Issues, Bureau of International Narcotics Matters, Department of State [1992]
+- Lyons, Kenneth, Regional Officer for Inter-American Affairs, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- MacCallum, Robert A., Administrative Officer, U.S. Embassy in Manila [1989, 1990]; Administrative Officer, U.S. Embassy in Tokyo [1991, 1992]
+- MacGaffin, N. John, Science Attache, U.S. Embassy in Ankara [1989, 1990]
+- Macias, Arturo S., Consul, U.S. Embassy in Lisbon [1989-1992]; Consul, U.S. Embassy in Beijing [1992]
+- MacInnes, Duncan, Public Affairs Officer, U.S. Embassy in Sanaa [1989-1991]; Country Affairs Officer, Office of North African, Near Eastern, and South Asian Affairs, United States Information Agency [1992]
+- Mack, David L., U.S. Ambassador to the United Arab Emirates until October 24, 1989; Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs from May 23, 1990
+- Mack, James F., Deputy Chief of Mission, U.S. Embassy in Asuncion [1989]; Director, Office of Andean Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Quito [1991]; Charge d’Affaires ad interim, U.S. Embassy in Quito from February 1, 1992
+- Mack, John L., Office of Plans, Office of the Principal Deputy Assistant Secretary for Planning and Development, Bureau of Diplomatic Security, Department of State [1990, 1991]; Administrative Counselor, U.S. Embassy in Algiers [1991, 1992]
+- Macklin, Thomas E., Jr., Deputy Director, Office of Global Change, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Macmanus, Joseph E., Branch Public Affairs Officer, U.S. Consulate at Krakow [1991, 1992]
+- MacMurdy, William, Deputy Director for Defense Affairs, Office of Freely Associated State Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]
+- Madden, James H., Deputy Director, Office of Western European Affairs, Bureau of European and Canadian Affairs, Department of State [1989]; Director, Office of Western European Affairs, Bureau of European and Canadian Affairs, Department of State [1990-1992]
+- Madigan, Edward R., Member, U.S. House of Representatives (R-Illinois) until March 8, 1991; Secretary of Agriculture from March 12, 1991
+- Madigan, Peter T., Principal Deputy Assistant Secretary of State for Legislative Affairs [1989, 1990]
+- Madison, Eric H., Labor Attache, U.S. Embassy in Tunis [1989, 1990]
+- Maertens, Thomas R., Deputy Principal Officer, U.S. Consulate at Leningrad [1989]; Political Counselor, U.S. Embassy in Panama City [1990, 1991]; Political Counselor, U.S. Delegation for the Negotiation on Conventional Armed Forces in Europe [1992]
+- Maffry, August, Jr., Commercial Counselor, U.S. Embassy in Manila [1992]
+- Maggi, Robert W., Deputy Director, Office of Defense Relations and Security Assistance, Bureau of Politico-Military Affairs, Department of State [1990-1992]
+- Magnor, James B., Economic and Commercial Counselor, U.S. Embassy in Beirut [1989, 1990]; Deputy Director, Office of Bhutan, India, Maldives, Nepal, Sri Lanka Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Economic and Commercial Counselor, U.S. Embassy in Beirut [1991]; U.S. Embassy in Islamabad [1992]; Office of Bhutan, India, Maldives, Nepal, and Sri Lanka Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Magnusson, Lori, Special Assistant, Bureau of Intelligence and Research, Department of State [1992]
+- Maher, Peter S., Deputy Principal Officer, U.S. Consulate at Hamilton [1990-1992]
+- Mahley, Donald A., Director for Defense Policy and Arms Control, National Security Council staff, from March until November 1989; Deputy Assistant Director, Bureau of Multilateral Affairs, Arms Control and Disarmament Agency, from 1989
+- Mahoney, Haynes, Public Affairs Officer, U.S. Embassy in Sanaa [1991, 1992]
+- Mailhot, Paul J., Labor Attache, U.S. Embassy in Colombo [1989, 1990]
+- Maisto, John F., Deputy Chief of Mission, U.S. Embassy in Panama City [1989]; Deputy U.S. Permanent Representative to the Organization of American States [1990-1992]; Deputy Assistant Secretary for Central America, Bureau of Inter-American Affairs, Department of State from 1992
+- Maitrejean, C. Sigrid, Branch Public Affairs Officer, U.S. Consulate at Sao Paulo [1989-1991]; Chief, Training and Development Division, Office of Personnel, Bureau of Management, United States Information Agency [1992]
+- Major, John, Prime Minister of the United Kingdom from November 28, 1990
+- Makovsky, Allan O., Chief, Southern Europe Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1990-1992]
+- Malin, Herbert S., Consul General, U.S. Consulate at Salzburg [1989]
+- Malinowski, Michael E., Principal Officer, U.S. Consulate at Peshawar [1989]; Special Assistant, Office of the Under Secretary of State for Political Affairs [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Kathmandu [1991, 1992]
+- Malkemes, Janet R., Economic and Commercial Counselor, U.S. Embassy in Yaounde [1989]; Financial Economist, Economic Policy Staff, Bureau of African Affairs, Department of State [1991]; Developing Countries and Trade Organization Division, Office of Bilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Malkin, Bruce, United Nations Adviser, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989-1992]
+- Malleck, George S., Public Affairs Adviser, Bureau of Near Eastern and South Asian Affairs, Department of State [1990]; Political Counselor, U.S. Embassy in Damascus [1991, 1992]
+- Malloy, Edward M., Science Attache, U.S. Embassy in Bonn [1989, 1990]; Science Attache, U.S. Embassy in Tokyo [1990-1992]
+- Malloy, Eileen A., Office of Northern European Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Special Assistant, Office of the Under Secretary of State for Political Affairs [1992]
+- Malott, F. Stephen (Frank Stephen), Administrative Counselor, U.S. Consulate at Calcutta [1989, 1990]; Administrative Counselor, U.S. Embassy in Victoria [1991, 1992]
+- Malott, John R., Consul General, U.S. Consulate at Osaka-Kobe [1989, 1990]; Director, Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Principal Deputy Assistant Secretary of State for South Asian Affairs [1992]
+- Malpass, Betsy J., Consul, U.S. Embassy in Dhaka [1989]
+- Malpass, David R., Deputy Assistant Secretary for Economic Affairs, Bureau of Inter-American Affairs, Department of State [1990-1992]
+- Malpass, H.R., Administrative Counselor, U.S. Embassy in Dhaka [1989]
+- Manalo, Kathleen H., Consul, U.S. Consulate at Cebu [1989-1991]
+- Mandel, Judyt E., Director for Defense Policy and Arms Control, National Security Council staff, from March 1989 until May 1990
+- Manderscheid, Gerald E., Administrative Counselor, U.S. Embassy in Bangkok [1989, 1990]; Administrative Counselor, U.S. Embassy in Jakarta [1991, 1992]
+- Mandros, James, Branch Public Affairs Officer, USIS Marrakech [1989]
+- Mangifico, Luciano, Consul, U.S. Embassy in Bridgetown [1989]; Consul General, U.S. Consulate at Palermo [1990, 1991]
+- Manley, Michael, Prime Minister of Jamaica
+- Manley, Victor, Administrative Counselor, U.S. Consulate at Melbourne [1992]
+- Mann, Andrew C., Political Counselor, U.S. Consulate at Bombay [1989, 1990]; Operations Center, Executive Secretariat, Department of State [1990]; Office of Arms Control Policy for Compliance and Implementation, Bureau of Politico-Military Affairs, Department of State [1992]
+- Mann, Janean L., Political Counselor, U.S. Embassy in Tunis [1990-1992]; Chief, Central and Western African Division, Office of Analysis for Africa, Bureau of Intelligence and Research, Department of State [1992]
+- Mann, Richard L., U.S. Ambassador to Mongolia
+- Mann, Richard S., Consul General, U.S. Consulate at Palermo [1991, 1992]
+- Mann, Steven R., Charge d’Affaires, U.S. Embassy in Ulaanbaatar [1989]; Operations Center, Executive Secretariat, Department of State [1990]; Charge d’Affaires ad interim, U.S. Embassy in Yerevan during February 1992; Deputy Chief of Mission, U.S. Embassy in Colombo [1992]
+- Manning, Robert, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Adviser, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs [1992]
+- Mantel, Robert B., Senior Adviser for Congressional Affairs (later Congressional Relations/Public Affairs), Bureau of Politico-Military Affairs, Department of State [1989-1992]
+- Manuel, John D., Administrative Counselor, U.S. Consulate at Alexandria [1992]
+- Manzanares, Joseph R. (Bob), Administrative Counselor, U.S. Embassy in Reykjavik [1989, 1990]; Operations Center, Executive Secretariat, Department of State [1991]
+- Marcich, Christopher P., Trade Officer, U.S. Mission to the European Communities [1991]
+- Marciel, Scot A., Office of Vietnam, Laos, and Cambodian Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1991, 1992]
+- Marcott, Edward, Deputy Director, Office of East-West Trade, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Counselor, Career Development-Economic, Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Marcus, Randolph, Office of the Coordinator for Counter-Terrorism, Department of State [1991]; Office of Andean Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Maresca, John J., Deputy Assistant Secretary for European and NATO Policy, Department of Defense; Chair, U.S. Delegation to the Negotiations on Confidence and Security Building Measures
+- Margiou, Helen L., Branch Public Affairs Officer, U.S. Consulate at Peshawar [1989-1991]
+- Margolis, Jonathan, Office of Cooperative Science and Technology Programs, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Marin, Margaret C., Office of Northern European Affairs, Bureau of European and Canadian Affairs, Department of State [1991]; Grievance Staff, Bureau of Personnel, Department of State [1992]
+- Marin, Rafael L., Economic Counselor, U.S. Embassy in Guatemala City [1989-1991]
+- Marine, Michael W., Deputy Director, Office of Vietnam, Laos, and Cambodia, Bureau of East Asian and Pacific Affairs, Department of State [1989, 1990]; Head, Fraud Protection Programs, Bureau of Consular Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Suva [1991, 1992]
+- Maris, Gaye, Regional Labor and Social Affairs Adviser, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern Affairs, Department of State [1992]
+- Mark, Barry L., Consul, U.S. Embassy in St. George’s [1989, 1990]
+- Mark, Jim D., Executive Director, Bureau of African Affairs, Department of State [1989-1991]; Administrative Counselor, U.S. Embassy in Brussels [1991, 1992]
+- Markey, John P., Administrative Counselor, U.S. Embassy in Port-of-Spain [1989]; Administrative Counselor, U.S. Consulate at Tijuana [1991, 1992]
+- Markoff, Michele, Senior Policy Advisor, Arms Control and Disarmament Agency from 1989 until 1992; also Head, Policy Planning Group
+- Markowitz, Dianne E., Chief, Developing Countries and Trade Organization Division, Office of International Trade, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1990]; Consul General, U.S. Consulate at Krakow [1991, 1992]
+- Marks, Edward, Charge d’Affaires and Deputy Chief of Mission, U.S. Embassy in Colombo [1989]
+- Marquardt, R. Niels, Labor Attache, U.S. Embassy in Bangkok [1989, 1990]
+- Marques, Heather May, U.S. Consulate at Salvador de Bahia [1991, 1992]
+- Marquis, Alphonso G., Administrative Counselor, U.S. Embassy in Harare [1990-1992]
+- Marro, Robert, Commercial Counselor, U.S. Embassy in Ottawa [1991, 1992]
+- Marrod, John P., Deputy Director for Western Europe and Canada, Office of European Affairs, United States Information Agency (1992)
+- Marsh, John O., Secretary of the Army until August 13, 1989
+- Marsh, William H., Deputy Chief of Mission, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1989, 1990]; Office of International Development Assistance, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1991]; U.S. Representative to the UN Agencies for Food and Agriculture from July 24, 1992
+- Marshall, Andrew W., Director of the Office of Net Assessment, Department of Defense
+- Marshall, Gene B., Asia Division Chief, Office of Program Management, International Narcotics Matters, Department of State [1989-1991]; Consul, U.S. Consulate at Montreal [1991-1992]
+- Marshall, Joyce, Consul, U.S. Consulate at Leningrad (later St. Petersburg) [1989]
+- Marshall, Mary B., Deputy Chief of Mission, U.S. Embassy in Bangui [1989-1991]
+- Martel, Sinclair S., Deputy Assistant Secretary of State for Politico-Military Affairs [1990-1992]
+- Marten, Thomas, Consul and Economic and Commercial Counselor, U.S. Embassy in Kigali [1989-1991]
+- Martin, Barbara, Administrative Counselor, U.S. Embassy in Tashkent [1992]
+- Martin, Bruce, United Nations Adviser, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990]
+- Martin, Cheryl A., Office of Technical Specialized Agencies, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1991]
+- Martin, Eugene, Asian/African Division Chief, Office of Program Management, Bureau of International Narcotics Matters, Department of State [1991]
+- Martin, James, Audits Staff, Office of the Inspector General, Department of State [1991, 1992]; Special Assistant, Bureau of Economic and Business Affairs, Department of State [1992]
+- Martin, Joanna W., Political Counselor, U.S. Mission to the European Communities [1989-1991]; Contemporary Documents Review, Office of Freedom of Information, Privacy, and Classification Review, Office of the Deputy Assistant Secretary for Information Services, Bureau of Diplomatic Security, Department of State [1992]
+- Martin, Lynne M., Branch Public Affairs Officer, U.S. Consulate at Hamburg [1989-1992]
+- Martin, Thomas G., Consul General, U.S. Consulate at Antwerp [1989]; Director, Office of Technical Specialized Agencies, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1990, 1991]; Director, Office of Aviation Negotiations, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Martin, Thomas H., Economic and Political Counselor, U.S. Embassy in Singapore [1989-1991]
+- Martinez, Carmen Maria, Consul, U.S. Embassy in Quito [1989-1992]; Principal Officer, U.S. Consulate at Barranquilla [1992]
+- Martinez, Elizabeth L., Office of Brazilian Affairs, Bureau of Inter-American Affairs, Department of State [1991]; Office of Australia and New Zealand Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Martinez, Hilaron, Consul, U.S. Consulate at Belfast [1989-1991]
+- Martinez, Judith N., Office of Regional Political-Economic Affairs, Bureau of European and Canadian Affairs, Department of State [1990-1992]
+- Martinez, Maryanne, Consul General, U.S. Consulate at Salzburg [1992]
+- Martinez, Pedro, Political Counselor, U.S. Embassy in Amman [1989-1991]; Director, Office of Lebanon, Jordan, Syria Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Martinez, Valentine, Member, Policy Planning Staff, Department of State [1990-1992]
+- Martschenko, Alex, Political and Economic Counselor, U.S. Consulate at Kaduna [1991, 1992]
+- Marty, Joseph, Bureau of Politico-Military Affairs, Department of State [1990]; Office of Politico-Military Policy Analysis, Bureau of Politico-Military Affairs, Department of State [1990]; Office of Policy Analysis, Bureau of Politico-Military Affairs, Department of State [1991]; Deputy Director, Office of Proliferation of Nuclear Weapons, Bureau of Politico-Military Affairs, Department of State [1992]
+- Mason, Donald E., Office of the Executive Director, Bureau of Personnel [1990, 1991]; Administrative Counselor, U.S. Consulate at Munich [1991, 1992]
+- Mason, Dwight N., Charge d’Affaires, U.S. Embassy in Ottawa [1989]; Deputy Chief of Mission, U.S. Embassy in Ottawa [1989, 1990]; Director, Office of Environmental Protection, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990-1992]
+- Mason, J. Richard, Administrative Counselor, U.S. Embassy in Quito [1989, 1990]; Administrative Counselor, U.S. Embassy in Monrovia [1991, 1992]
+- Mason, Nancy, Labor Attache, U.S. Embassy in Santiago [1989, 1990]; Political Counselor, U.S. Embassy in Santiago [1991]; Political and Economic Counselor, U.S. Consulate at Karachi [1991, 1992]
+- Mast, Charles A., Deputy Chief of Mission, U.S. Embassy in Dhaka [1989, 1990]; Consul General, U.S. Consulate at Bombay [1990-1992]
+- Matera, Cheryl, Staff Assistant, Office of the Counselor, Department of State [1989-1991]
+- Matera, Michael, Office of Lebanon, Jordan, Syria Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Political and Economic Counselor, U.S. Embassy in Tashkent [1992]
+- Matheson, Michael J., Principal Deputy Legal Adviser, Office of the Legal Adviser, Department of State [1991, 1992]
+- Mathews, Linda M., Consul, U.S. Consulate at Osaka-Kobe [1991, 1992]
+- Matlock, Jack F., U.S. Ambassador to the Union of Soviet Socialist Republics until August 11, 1991
+- Matteson, Lois J., Consul, U.S. Embassy in Kingston [1990-1992]
+- Matthews, Carl S., Labor Attache, U.S. Embassy in Ankara [1989, 1990]; Office of Cooperative Science and Technology Programs, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Mattingly, Mack F., U.S. Ambassador to the Seychelles from September 22, 1992
+- Mattson, Gregory L., Political Counselor, U.S. Embassy in Athens [1989, 1990]; Office of Management Systems and Programs, Management Policy, Bureau of Finance and Management Policy, Department of State [1990-1992]
+- Mattson, James A., Senior Advisor, Office of the Special Assistant to the Secretary and Coordinator of International Labor Affairs [1989]; Director, Office of Career Transition, Bureau of Personnel, Department of State [1990-1992]
+- Maurer, William H., Jr., Public Affairs Officer, U.S. Embassy in Colombo [1991, 1992]
+- Mautner, Martha C., Deputy Director, Office of Analysis for Commonwealth of Independent States and Eastern Europe, Bureau of Intelligence and Research, Department of State
+- Maxim, Robert, Consul General, U.S. Consulate at Quebec [1989]; Consul General, U.S. Consulate at Alexandria [1989-1992]; Political Counselor, U.S. Embassy in Cairo [1992]
+- Maxwell, Dayton, Deputy Director, Office of U.S. Foreign Disaster Assistance, Agency for International Development [1990-1992]
+- Maxwell, Paul C., Science Attache, U.S. Embassy in Buenos Aires [1991, 1992]
+- May, D. Stephen, Deputy Chief of Mission, U.S. Embassy in Vientiane [1989]
+- May, James N., Commercial Counselor, U.S. Embassy in Moscow [1989-1991]
+- Maybarduk, Gary H., Deputy Chief of Mission, U.S. Embassy in Freetown [1990, 1991]; Deputy Director, Planning and Analysis Staff, Bureau of Economic and Business Affairs, Department of State [1992]
+- Mayer, Vincent, Jr., Deputy Director, Office of Cuban Affairs, Bureau of Inter-American Affairs, Department of State [1989, 1990]; thereafter Deputy Principal Officer, U.S. Interests Section in Havana
+- Mayhew, Philip R., Director, Office of Australia and New Zealand Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]; Director, Office of Thailand and Burma Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990-1992]
+- Maynard, Cathleen, Staff Assistant, Bureau of East Asian and Pacific Affairs, Department of State [1990]
+- Mayo, Walter L., III, Deputy Politico-Military Adviser, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989, 1990]; Consul and Political Counselor, U.S. Consulate at Peshawar [1990, 1991]; Deputy Principal Officer and Administrative Counselor, U.S. Consulate at Peshawar [1991, 1992]
+- Mazel, Louis, Economic and Commercial Counselor, U.S. Embassy in Lome [1989, 1990]; Office of Asian Refugee Assistance, Refugee Programs, Department of State [1991]
+- Mazowiecki, Tadeusz, Polish Prime Minister from August 1989
+- McAfee, Marilyn, Public Affairs Officer, U.S. Embassy in Santiago until 1989; Deputy Chief of Mission, U.S. Embassy in La Paz from 1989 until 1992
+- McAllister, Eugene J., Assistant Secretary of State for Economic and Business Affairs, until November 4, 1992
+- McAnneny, Robert J., Administrative Counselor, U.S. Embassy in Nicosia [1989, 1990]; Administrative Counselor, U.S. Embassy in Lagos [1991, 1992]
+- McAteer, John E., Deputy Chief of Mission, U.S. Embassy in Djibouti [1989-1991]; Refugee Coordinator, U.S. Embassy in Addis Ababa [1991, 1992]
+- McAteer, Mary M., Consul, U.S. Embassy in Prague [1991]; Consul, U.S. Embassy in Vienna [1992]
+- Mcauley, David, Consul, U.S. Embassy in Chisinau [1992]
+- McBride, Joseph N., Political Counselor, U.S. Embassy in Lima [1990-1992]
+- McBride, Timothy J., Personal Aide to Vice President Bush from 1985 until 1989; Special Assistant to the President from January 31, 1989, until 1990; Assistant Secretary of Commerce for Trade Development from 1990 until 1991; Deputy Assistant to the President and Executive Assistant to the Chief of Staff from October until December 1991; Assistant to the President for Management and Administration from January 14, 1992
+- McBurney, Mark J., Political Counselor, U.S. Consulate at Melbourne [1992]
+- McCahill, William C., Jr., Consul General, U.S. Consulate at Quebec [1990-1992]; Deputy Chief of Mission, U.S. Embassy in Oslo [1992]
+- McCain, John, Senator (R-Arizona)
+- McCall, Louis A., Consul, U.S. Consulate at Perth [1989, 1990]; Office of Inspections, Office of the Inspector General, Department of State [1992]
+- McCallie, Marshall F., Deputy Chief of Mission, U.S. Embassy in Lusaka [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Pretoria [1991, 1992]
+- McCallum, Douglas F., Consul, U.S. Embassy in Muscat [1989, 1990]
+- McCamman, Michael, Consul, U.S. Embassy in Quito [1989]; Office of United Nations Social and Refugee Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1990, 1991]; Consul, U.S. Embassy in Port-of-Spain [1991, 1992]
+- McCan, Cheryl L., Confidential Assistant to the Deputy to the Coordinator for U.S. Assistance to the New Independent States, Office of the Deputy Secretary of State [1992]
+- McCarthy, John Francis, III, Consul, U.S. Embassy in Mogadishu [1989, 1990]
+- McCarthy, John T., U.S. Ambassador to Lebanon from November 19, 1989, until October 30, 1990; U.S. Ambassador to Tunisia from August 2, 1991
+- McCarthy, Robert, Press and Cultural Attache, U.S. Embassy in Budapest [1989-1991]; Political and Military Counselor, U.S. Embassy in Paramaribo [1991, 1992]
+- McCarthy-Alexander, Deborah A., Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State [1990]; Office of International Conference Programs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1990]; Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State [1991]; Economic and Commercial Counselor, U.S. Embassy in Port-au-Prince [1991, 1992]
+- McCaslin, John, Office of the Special Adviser for Eastern European Assistances, Office of the Deputy Secretary of State [1990]
+- McCleary, Brian I., Adviser to the Deputy Secretary for Policy and Resources, Office of the Deputy Secretary of State [1992]
+- McClelland, Robin K., Economic and Commercial Counselor, U.S. Embassy in Port Moresby [1989, 1990]; Staff Assistant, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]
+- McClevey, Richard P., Director, Office of Program Support, Office of the Deputy Assistant Secretary for Passport Services, Bureau of Consular Affairs, Department of State [1989-1992]
+- McClure, Frederick D., Assistant to the President for Legislative Affairs from January 21, 1989
+- McCollum, Carl W., Consul, U.S. Consulate at Frankfurt [1989, 1990]
+- McConnell, Donald J., Deputy Director, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Brussels [1989-1992]
+- McConnell, Mitch, Senator (R-Kentucky)
+- McConville, Donald F., Director, Office of International Trade, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1989, 1990]; Economic Counselor, U.S. Embassy in Mexico City [1991, 1992]
+- McCormack, Keith P., Political Counselor, U.S. Embassy in Wellington [1991, 1992]
+- McCormack, Richard T., U.S. Permanent Representative to the Organization of American States until April 13, 1989; Under Secretary of State for Economic and Agricultural Affairs, from April 14, 1989, until May 3, 1991
+- McCreary, Jack R., Public Affairs Officer, U.S. Embassy in Baghdad [1989, 1990]
+- McCrensky, Richard M., Political and Economic Counselor, U.S. Consulate at Surabaya [1992]
+- McCulla, William W., Consul, U.S. Embassy in Port Moresby [1990-1992]
+- McCulley, Terrence P., Consul, U.S. Consulate at Durban [1989]; Administrative Counselor, U.S. Embassy in N’Djamena [1989-1991]
+- McCulloch, Gerald C., Political Counselor, U.S. Embassy in Bogota [1989]; Deputy Director, Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Asuncion [1992]
+- McDevitt, Peter, Political Counselor, U.S. Consulate at Casablanca [1990-1992]
+- McDonald, Barry, Special Assistant, Office of the Under Secretary of State for Political Affairs [1990, 1991]
+- McDonald, Jackson, Political and Economic Counselor, U.S. Embassy in Alma Ata [1992]
+- McDougall, Barbara Jean, Canadian Minister of Employment and Immigration until April 20, 1991; Canadian Secretary of State for External Affairs from April 20, 1991
+- McEldowney, Frederick E., Economic Counselor, U.S. Consulate at Montreal [1989]; Deputy Director, Office of Economic Policy, Bureau of East Asian and Pacific Affairs, Department of State [1989, 1990]
+- McElhaney, Douglas L., Political and Military Counselor, U.S. Embassy in Rome [1990-1992]
+- McFarland, Stephen G., Political Counselor, U.S. Embassy in San Salvador [1989, 1990]; Political Counselor, U.S. Embassy in La Paz [1990-1992]; Political Counselor, U.S. Embassy in Lima [1992]
+- McGaffey, David C., Deputy Director, Office of International Development Assistance, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1989-1991]
+- McGaffey, Jennifer, Operations Center, Executive Secretariat, Department of State [1991, 1992]
+- McGaffie, Daniel, Public Affairs Officer, U.S. Embassy in Accra [1989-1992]
+- McGarity, Robert, Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State [1990-1992]
+- McGee, James D., Administrative Counselor, U.S. Consulate at Bombay [1989, 1990]; Special Assistant to the Assistant Comptroller for Management Policy, Bureau of Finance and Management Policy, Department of State [1992]
+- McGettigan, Marianne, Associate Director for Legal Policy, Office of Policy Development, from July 1989 until March 1990; Special Assistant to the President for Policy Development from March 22, 1990
+- McGhee, Joseph R., Deputy Director, Office of Northern Gulf Affairs (Iran and Iraq), Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- McGhee, Ken, Consul and Commercial Counselor, U.S. Embassy in Gaborone [1989-1992]
+- McGlynn, William, Assistance Coordinator, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989]
+- McGoldrick, Frederick F., U.S. Mission to the International Organizations in Vienna [1989-1991]; Director, Office of Non-Proliferation and Export Policy, (Nuclear Energy and Energy Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- McGrath, Michael J., Public Affairs Officer, U.S. Embassy in Freetown [1991]; Public Affairs Officer, U.S. Embassy in Monrovia [1992]
+- McGroarty, Daniel B., Speechwriter to the President from 1989 and Deputy Director of Speechwriting from 1991; Special Assistant to the President and Deputy Director of Speechwriting from January 29, 1992
+- McGuinness, John P., Officer-in-Charge of Scientific Programs, Office of Technical Specialized Agencies, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1990-1992]
+- McGuire, Kevin J., Economic Counselor, U.S. Embassy in Seoul [1989-1991]; Economic Counselor, U.S. Embassy in Rome [1991, 1992]
+- McGuire, Roger A., Deputy Examiner, Board of Examiners, Bureau of Personnel, Department of State, until 1989; Director, U.S. Liaison Office in Windhoek [1989-1990]; Charge d’Affaires ad interim, U.S. Embassy in Windhoek from March 21 until August 30, 1990; Principal Officer, U.S. Consulate at Porto Alegre [1992]; U.S. Ambassador to Guinea-Bissau from October 14, 1992
+- McGunigle, Ray, Branch Public Affairs Officer, U.S. Consulate at Shanghai [1992]
+- McGunnigle, James W., Administrative Counselor, U.S. Embassy in Cairo [1989, 1990]; Administrative Counselor, U.S. Embassy in Paris [1991, 1992]
+- McHugh, Patrick, Political Counselor, U.S. Embassy in Conakry [1989, 1990]
+- McHugh, R. James, Charge d’Affaires ad interim, U.S. Embassy in St. Johns, until December 1989; Andean/South American Division, Office of Program Management, Bureau of Intelligence and Research, Department of State [1990]
+- McIlvaine, Stevenson, Political Counselor, U.S. Embassy in Dar es Salaam [1989]; Office of Southern African Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Labor Affairs Adviser, Office of Regional Affairs, Bureau of African Affairs, Department of State [1992]
+- McIntosh, Brian H., Administrative Counselor, U.S. Consulate at Casablanca [1989]
+- McKay, M. Elizabeth, Branch Public Affairs Officer, U.S. Consulate at Chiang Mai [1990-1992]
+- McKee, Alan R., Political Counselor, U.S. Embassy in The Hague [1989]; Deputy Director, Office of Southern African Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Director, Office of Anglophone and Lusophone West African Affairs, Bureau of African Affairs, Department of State [1992]
+- McKee, Richard K., Special Agency Affairs, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1989]; Consul General, U.S. Consulate at Lahore [1989-1991]; Director, Office of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- McKelvey, Margaret J., Director, Office of African Refugee Assistance, Refugee Programs, Department of State [1989-1992]
+- McKenzie, Beatrice, Consul, U.S. Embassy in Kampala [1990, 1991]
+- McKenzie, Bruce, Consul, U.S. Embassy in Port-of-Spain [1989, 1990, 1991]
+- McKeon, Edward, Consul, U.S. Consulate at Osaka-Kobe [1989, 1990, 1991]
+- McKinley, Brunson, U.S. Ambassador to Haiti until November 13, 1989; Deputy for Policy, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Deputy Assistant Secretary for Management, Bureau of Refugee Programs, Department of State [1992]
+- McKinley, P. Michael, Special Assistant, Office of the Under Secretary of State for Political Affairs [1990]
+- McKune, Elizabeth, Director, Office of Pacific Island Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]; Deputy Executive Secretary of the Department of State [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Muscat [1992]
+- McKune, Kenneth R., Deputy Director, Israel and Arab-Israeli Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Political Counselor, U.S. Embassy in Riyadh [1992]
+- McLaughlin, John A., Aviation, Office of Program Management, Bureau of International Narcotics Matters, Department of State [1989]; Chief, Airwing Division, Aviation Liaison Division, Office of Transnational Issues, Bureau of International Narcotics Matters, Department of State [1992]
+- McLaughlin, Joseph D., Deputy Chief of Mission, U.S. Embassy in Santo Domingo [1989]; Director, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1990, 1991]
+- McLaughlin, Michael J., Administrative Counselor, U.S. Embassy in Riyadh [1989-1992]; Administrative Counselor, U.S. Embassy in Athens [1992]
+- McLean, Joseph G., Labor Attache, U.S. Embassy in Guatemala City [1989-1991]; Labor Attache, U.S. Embassy in Santiago [1991, 1992]
+- Mclean, J. Phillip, Deputy Chief of Mission, U.S. Embassy in Bogota [1989-1991]; Deputy Assistant Secretary of State for Inter-American Affairs [1991, 1992]
+- McLean, Martin, Political and Military Counselor, U.S. Embassy in Madrid [1990-1992]
+- McLerran, Gregory L., Administrative Counselor, U.S. Embassy in Nouakchott [1989, 1990]; Real Estate Management Division, Operations and Post Support Office, Office of the Deputy Assistant Secretary for Foreign Building Operations, Bureau of Administration, Department of State [1992]
+- McLoughlin, Gerald A., Public Affairs Officer, U.S. Embassy in Maputo [1990-1992]
+- McManaway, Clayton E., Associate Coordinator for Counter-Terrorism, Department of State [1989]
+- McMillan, Colin, Assistant Secretary of Defense for Production and Logistics, from March 5, 1990, until December 11, 1992
+- McMillion, Margaret K., Principal Officer, U.S. Consulate at Udorn [1989]; Deputy Director, Office of Korean Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Special Assistant, Office of the Under Secretary of State for Political Affairs [1991]; Political Counselor, U.S. Embassy in Bangkok [1992]
+- McMullen, Robert Bruce (R. Bruce), Economic Counselor, U.S. Embassy in Bogota [1989, 1990]; Deputy Director, Office of Andean Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]
+- McMullen, Ronald K., Economic and Commercial Counselor, U.S. Embassy in Libreville [1989-1991]
+- McMurtry, Penny S., Consul, U.S. Embassy in Monrovia [1989-1991]; Consul, U.S. Embassy in Jakarta [1991, 1992]
+- McNamara, Francis T., U.S. Ambassador to Cape Verde from December 23, 1989, until December 31, 1992
+- McNamara, John, Office of Algeria, Libya, Morocco, Tunisia Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]
+- McNamara, Thomas E., U.S. Ambassador to Colombia until August 14, 1991; Special Assistant to the President for National Security Affairs and Senior Director for International Programs and African Affairs, National Security Council staff from September 25, 1991
+- McNary, Gene, Commissioner, Immigration and Naturalization Service, from October 26, 1989
+- McNaull, Michael E., Senior Financial Economist, Economic Policy Staff, Bureau of African Affairs, Department of State [1989-1991]; Economic and Commercial Counselor, U.S. Embassy in Dhaka [1991, 1992]
+- McPeak, Merrill A., Gen., USAF, Commander-in-Chief, Pacific Air Forces, until 1990; Chief of Staff of the Air Force from October 27, 1990
+- McPherson, M. Peter, Deputy Secretary of the Treasury
+- McPherson, William, Office of Cooperative Science and Technology Programs, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1991, 1992]
+- McShane, John F., Director for Latin American Affairs, National Security Council staff (1991, 1992)
+- McWilliams, Edmund F., Jr., Deputy Chief of Mission and Consul, U.S. Embassy in Kabul [1989]; Political Counselor, U.S. Embassy in Managua [1991, 1992]; Political and Economic Counselor, U.S. Embassy in Dushanbe [1992]; Charge d’Affaires ad interim, U.S. Embassy in Dushanbe from March 13, 1992, and Charge d’Affaires ad interim, U.S. Embassy in Bishkek from February 1992
+- Meagher, William J., Senior Adviser, Office of the Special Assistant to the Secretary and Coordinator of International Labor Affairs [1990, 1991]
+- Meara, William R., Consul, U.S. Consulate at Bilboa [1990, 1991]
+- Mears, H. Michael, Commercial Counselor, U.S. Embassy in Moscow [1989]
+- Medas, James M., Consul General, U.S. Consulate at Hamilton [1989]; Deputy START Negotiator, U.S. Delegation to the Negotiations on Nuclear and Space Arms [1990]
+- Medeiros, Carole, Office of U.S. Budgetary Presentation and Payments, Office of the Executive Director, Bureau of International Organization Affairs, Department of State [1991]
+- Medeiros, John, Director, Office of International Commodities, (International Energy and Resources Policy), Bureau of Economic and Business Affairs, Department of State [1989]; Economic Counselor, U.S. Embassy in Bangkok [1990-1992]
+- Meece, Roger A., Deputy Chief of Mission, U.S. Embassy in Brazzaville [1989-1991]
+- Meer, S. Ahmed, Senior Science Adviser, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990]; Science Attache, U.S. Embassy in Mexico City [1991, 1992]
+- Meerovitch, Alex, Consul, U.S. Embassy in Minsk [1992]
+- Megica, Richard A., Administrative Counselor, U.S. Embassy in Harare [1989]
+- Meigs, Michael A., Economic and Commercial Counselor, U.S. Embassy in Nicosia [1989-1991]
+- Melady, Thomas P., Personal Representative of the President to the Vatican from October 3, 1989, until March 1, 1993
+- Melanson, Edward J., Jr., Assistant for National Security, Office of Presidential Personnel, from 1989 until 1991; Deputy Negotiator for Defense and Space, U.S. Delegation to the Nuclear and Space Arms Negotiations in Geneva from 1991 until 1992; Chief Defense and Space Negotiator, U.S. Delegation to the Nuclear and Space Arms Negotiations in Geneva from June 19, 1992
+- Melby, Eric D.K., Director for International Economic Affairs, National Security Council staff (1989, 1990, 1991); Special Assistant to the President for National Security Affairs and Senior Director for International Economic Affairs from May 27, 1992
+- Mele, Nicholas, Public Affairs Officer, U.S. Embassy in Kuala Lumpur [1992]
+- Melrose, Joseph H., Jr., Consul General, U.S. Consulate at Karachi [1989-1991]
+- Melton, Richard H., Deputy Assistant Secretary for the Caribbean, Bureau of Inter-American Affairs, Department of State until October 1989; U.S. Ambassador to Brazil from December 12, 1989
+- Melville, James D., Jr., Consul, U.S. Consulate at Victoria [1989, 1990]; Administrative Counselor, U.S. Consulate at St. Petersburg [1991, 1992]
+- Melvin, S. Jean, Consul, Geneva [1989-1991]; Office of Field Support Liaison, Visa Services, Bureau of Consular Affairs, Department of State [1992]
+- Melvin, William F., Public Affairs Officer, U.S. Embassy in Libreville [1989, 1990]; Country Officer, Southern Africa, Office of African Affairs, United States Information Agency [1992]
+- Memler, William H., Economic Counselor, U.S. Embassy in St. George’s [1990]; Developing Countries and Trade Organization Division, Office of Bilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Menares, Carla H., Office of Southern African Affairs, Bureau of African Affairs, Department of State [1991]; Bureau of European and Canadian Affairs, Department of State [1992]
+- Mendyk, Sandra L., Consul, U.S. Consulate at Karachi [1989]; Consul, U.S. Consulate at Sao Paulo [1990-1992]; Office of Food Policies and Programs, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1992]
+- Menem, Carlos Saul, President of Argentina from July 8, 1989
+- Mengistu, Haile Mariam, Lt. Col., President of Ethiopia
+- Menzel, Joerg, Chief, Nuclear Safeguards and Technology Division, Bureau of Nuclear and Weapons Control, Arms Control and Disarmament Agency [1989]; Principal Deputy of OSIA, Arms Control and Disarmament Agency [1990-1992]
+- Menzies, John K., Press and Cultural Attache, U.S. Embassy in Sofia [1989-1991]; Special Assistant to the Special Adviser for Eurasian Assistance, Office of the Deputy Secretary of State [1992]
+- Merante, Joseph, Office of East-West Trade, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1990, 1991]
+- Mercurio, Michael J., Commercial Counselor, U.S. Embassy in Tel Aviv [1989-1991]
+- Mercurio, Sharon K., Economic and Political Counselor, U.S. Embassy in Addis Ababa [1989]; Deputy Principal Officer and Economic Counselor, U.S. Consulate at Milan [1990-1992]
+- Merkerson, William, Jr., Political Counselor, U.S. Consulate at Lubumbashi [1991, 1992]; Political Counselor, U.S. Embassy in Lome [1992]
+- Mermoud, Frank, Congressional Affairs Officer, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Merrell, David W., Consul, U.S. Consulate at Lyon [1989]
+- Merrigan, Robert, Economic and Commercial Counselor, U.S. Embassy in Bamako [1991, 1992]
+- Merrill, David N., Deputy Assistant Administrator, Bureau for Europe and Near East, Agency for International Development [1991]; Deputy Assistant Administrator, Bureau for Europe, Agency for International Development [1992]
+- Mervyn, Lois, Branch Public Affairs Officer, U.S Consulate at Lahore [1991, 1992]
+- Merz, Dennis W., Consul, U.S. Consulate at Chiang Mai [1989]; Consul, U.S. Consulate at Calgary [1989-1992]; Foreign Service Institute, Department of State [1992]
+- Metelits, Michael D., Director, Office of Multilateral Coordination, Bureau of International Organization Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Maputo [1990, 1991]; Political Counselor, U.S. Consulate at Rio de Janeiro [1992]
+- Metrinko, Michael J., Consul, U.S. Embassy in Tel Aviv [1990-1992]
+- Meyers, Alfreda E., Office of Strategic and Theater Policy, Bureau of Politico-Military Affairs [1990]; Political Counselor, U.S. Embassy in Vienna [1992]
+- Meyers, Marilyn A., Director, Office of Investment Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1989]; Deputy Assistant Secretary of State for East Asian and Pacific Affairs from September 18, 1989, until 1991; Deputy Chief of Mission, U.S. Embassy in Canberra [1991, 1992]
+- Meysenburg, Mary Ann, Consul General, U.S. Consulate at Guadalajara [1990, 1991]
+- Meznar, Marc, Consul, U.S. Consulate at Recife [1992]
+- Michal, Edward J., Consul and Political and Economic Counselor, U.S. Embassy in Kolonia [1989, 1990]; Political Counselor, U.S. Embassy in Port Moresby [1991, 1992]
+- Michaud, Michael A.G., Director, Office of Advanced Technology, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989]; Science Attache, U.S. Embassy in Paris [1991, 1992]
+- Michel, James Henry, U.S. Ambassador to Guatemala until September 1, 1989; Assistant Administrator, Bureau for Latin America and the Caribbean, Agency for International Development [1990-1992]
+- Michel, Robert H., Member, U.S. House of Representatives (R-Illinois); House Minority Leader
+- Micsan, James R., Economic Counselor, U.S. Consulate at Lahore [1991, 1992]
+- Miegs, Michael A., Economic Counselor, U.S. Embassy in Dakar [1991, 1992]
+- Miele, Wayne, Legislative Management Officer, Bureau of Legislative Affairs, Department of State [1989-1992]
+- Mignano, Gary S., Consul, U.S. Consulate at Cebu [1991, 1992]
+- Mikulski, Barbara A., Senator (D-Maryland)
+- Milam, William B., Deputy Assistant Secretary for International Finance and Development, Bureau of Economic and Business Affairs, Department of State [1989, 1990]; U.S. Ambassador to Bangladesh from September 1, 1990
+- Milano, Carol Lancaster, Special Assistant to the Secretary of State [1989]; Coordinator, Intergovernmental Affairs Division, Office of Public Liaison, Bureau of Public Affairs, Department of State [1990]; Director, Office of Public Liaison, Bureau of Public Affairs, Department of State [1991]
+- Milas, Kevin C., Post Management Officer, Office of the Executive Director, Bureau of Inter-American Affairs, Department of State [1990]; Administrative Counselor, U.S. Embassy in Dublin [1992]
+- Milburn, Edward E., Consul, U.S. Consulate at Genoa [1989]
+- Miles, Afton O., Staff Assistant, Bureau of International Organization Affairs, Department of State [1990, 1991]
+- Miles, Richard M., Consul General, U.S. Consulate at Leningrad until 1991; Principal Officer, U.S. Mission in Berlin from 1991 until 1992; Charge d’Affaires, U.S. Embassy in Baku [1992]; U.S. Ambassador to Azerbaijan from September 16, 1992
+- Millan, William, Opinion Analysis and Plans Staff, Bureau of Public Affairs, Department of State [1990]; Political Counselor, U.S. Embassy in Caracas [1990-1992]
+- Millard, Katherine J., Administrative Counselor, U.S. Embassy in Tirana [1992]
+- Miller, Aaron D., member, Policy Planning Staff, Department of State [1989-1992]
+- Miller, Bowman H., Chief, Northern and Central Europe Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1989]; thereafter Director, Office of Analysis for Western Europe and Canada, Bureau of Intelligence ad Research, Department of State
+- Miller, Cornelia P.J., Economic Counselor, U.S. Embassy in Bujumbura [1989]; Office of Aviation Negotiations, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1990, 1991]
+- Miller, Cynthia J., Deputy Director, Office of European Affairs, United States Information Agency (1989, 1990); Public Affairs Officer, U.S. Embassy in Bonn [1991, 1992]
+- Miller, David C., Jr., Special Assistant to the President for National Security Affairs and Senior Director for International Programs and African Affairs, National Security Council Staff, from March 13, 1989, until September 25, 1991
+- Miller, David Norman, Economic Counselor, U.S. Embassy in Lisbon [1989-1992]; Director, Office of Brazilian Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Miller, Donald M., Political and Economic Counselor, U.S. Consulate at Thessaloniki [1989-1991]
+- Miller, Franklin C., Deputy Assistant Secretary of Defense for Nuclear Forces and Arms Control Policy
+- Miller, Glen B., Economic Counselor, U.S. Embassy in Suva [1989-1991]
+- Miller, Grant, Special Assistant, Office of the Under Secretary of State for International Security Affairs [1990]
+- Miller, James B. (J. Brent), Administrative Counselor, U.S. Consulate at Guangzhou [1991, 1992]
+- Miller, Richard, Political and Economic Counselor, U.S. Embassy in Bridgetown [1990-1992]
+- Miller, Robert W., Commercial Counselor, U.S. Embassy in Mexico City [1990]
+- Miller, Scott, Deputy Director, Office of Defense Trade Policy, Bureau of Politico-Military Affairs, Department of State [1990-1992]
+- Miller, Thomas J., Director for Regional Affairs, Office of the Ambassador at Large for Counter-Terrorism, Department of State [1989]; Director, Office of Algeria, Libya, Morocco, Tunisia Affairs, Bureau of Near East and South Asian Affairs, Department of State [1990, 1991]; Director, Office of Israel and Arab-Israeli Affairs, Bureau of Near East and South Asian Affairs, Department of State [1992]
+- Milligan, Michael L., Administrative Officer, U.S. Mission to the Organization for Economic Cooperation and Development [1989]
+- Millikan, Desiree, Political and Economic Counselor, U.S. Embassy in Minsk [1992]
+- Millington, Jeffrey V.S., Political Counselor, U.S. Embassy in Lisbon [1989-1991]; Director, U.S. Liaison Office in Luanda from January until October 1992
+- Mills, Richard M., Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1991]; Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Mills, Robert H., Political Counselor, U.S. Embassy in Kabul [1989]
+- Mills, Sheila, Developing Countries and Trade Organization Division, Office of Bilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1991]; Textile Division, Office of Multilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Millspaugh, Larry G., Administrative Counselor, U.S. Embassy in Rangoon [1992]
+- Millspaugh, Robert A., Labor Attache, U.S. Embassy in Caracas [1989-1992]; Political Counselor, U.S. Embassy in Managua [1992]
+- Milosevic, Slobodan, President of Serbia
+- Milovanovic, Gillian A., Political and Economic Counselor, U.S. Consulate at Cape Town [1989, 1990]
+- Ming, Lili, Consul, U.S. Consulate at Hamilton [1989, 1990]; Assignment Officer, Assignment Division (EAP), Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Mingo, Michael J., Branch Public Affairs Officer, U.S. Consulate at Peshawar [1991, 1992]
+- Minton, Mark C., Deputy Director, Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]
+- Minyard, Donnie P., Consul, U.S. Consulate at Istanbul [1990, 1991]
+- Mioke, Jeffrey, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990, 1991]
+- Misheloff, Russell, Member, Policy Planning Staff, Department of State [1989]
+- Miska, Wanda M., Political Counselor, U.S. Embassy in Bangui [1989]
+- Miskel, James F., Director for Defense Policy and Arms Control, National Security Council staff, from March until November 1989
+- Mitchell, Calvin A., III, Political Counselor, U.S. Embassy in Manama [1990, 1991]; Public Affairs Officer, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Mitchell, George J., Senator (D-Maine); Senate Majority Leader
+- Mitchell, Herbert T., Jr., Administrative Counselor, U.S. Consulate at Hamilton [1989]
+- Mitchell, Jerry K., Commercial Counselor, U.S. Embassy in Athens [1989-1991]; Commercial Counselor, U.S. Embassy in Brussels [1992]
+- Mithoefer, William C., Director, Office of Human Rights and Women’s Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Malabo [1991]; Office of International Economic Policy, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Mitsotakis, Constantine, Prime Minister of Greece
+- Mitterrand, Francois, President of France
+- Mittnacht, Thomas, Economic Counselor, U.S. Embassy in Zagreb [1992]
+- Miyazawa Kiichi, Japanese Prime Minister
+- Moats, Simeon L., Political Counselor, U.S. Embassy in Monrovia [1989]; Political Counselor, U.S. Embassy in Manila [1992]
+- Mobutu Sese Seko, President of Zaire
+- Modderno, John P., Economic Counselor, U.S. Embassy in Manila [1989-1992]
+- Moffitt, William A., Deputy Director for Defense Policy and Military/Security Affairs, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1989]; Deputy Director, Office of Western European Affairs, Bureau of European and Canadian Affairs, Department of State [1990-1992]; Deputy Chief of Mission, U.S. Embassy in Valletta [1992]
+- Mohamed Siad Barre, President of Somalia
+- Moheban, Steven, Special Assistant, Bureau of Consular Affairs, Department of State [1991, 1992]
+- Mohler, Brian J., Economic Counselor, U.S. Embassy in Riyadh [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Abu Dhabi [1991, 1992]
+- Mohr, Mark E., Political Officer, U.S. Embassy in Beijing until 1990; Deputy Director, Office of China Affairs, Bureau of East Asian and Pacific Affairs, Department of State from 1990 until 1992; Principal Officer, U.S. Consulate at Brisbane [1992]
+- Mohr, Richard, Commercial Counselor, U.S. Consulate at Shenyang [1990, 1991]
+- Moi, Daniel T. arap, President of Kenya
+- Moller, Patricia N., Administrative Counselor, U.S. Consulate at Madras [1989, 1990]; Current Intelligence Staff, Bureau of Intelligence and Research, Department of State [1992]
+- Monblatt, Steven, Public Affairs Officer, U.S. Embassy in Managua [1992]
+- Mondejar, John P., Commercial Counselor, U.S. Mission in Berlin [1989, 1990]
+- Monjo, John C., U.S. Ambassador to Malaysia until April 22, 1989; U.S. Ambassador to Indonesia from May 31, 1989, until July 18, 1992; U.S. Ambassador to Pakistan from November 10, 1992
+- Monroe, Evangeline O., Deputy Director, Office of Weapons Proliferation Policy, Bureau of Politico-Military Affairs, Department of State [1992]
+- Monroe, Gerald J., Deputy Chief of Mission, U.S. Mission to the United Nations Agencies for Food and Agriculture [1989]; Director, Office of International Development Assistance, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State
+- Monroe, William T., Political and Economic Counselor, U.S. Embassy in Muscat [1989]; Deputy Director, Office of Pacific Island Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]
+- Montagne, Elizabeth, Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State [1990]; Political and Economic Counselor, U.S. Consulate at Stuttgart [1991]; Office of Field Support Liaison, Visa Services, Bureau of Consular Affairs, Department of State [1992]; Political and Economic Counselor, U.S. Consulate at Munich [1992]
+- Montgomery, George C., U.S. Ambassador to Oman until January 18, 1989
+- Montgomery, G.V. (Sonny), member, U.S. House of Representatives (D-Mississippi)
+- Montgomery, Robert J., Political Counselor, U.S. Embassy in Ottawa [1989]
+- Montgomery, Sally H., Deputy Assistant Administrator, Bureau for Food for Peace and Voluntary Assistance, Agency for International Development [1990, 1991, 1992]
+- Montgomery, William Dale, Deputy Chief of Mission, U.S. Embassy in Sofia [1989-1991]; Executive Assistant to the Deputy Secretary of State [1992]
+- Moodie, Michael Lorne, Senior Fellow and Special Adviser to the President, Center for Strategic and International Studies, Georgetown University; Assistant Director, Bureau of Multilateral Affairs, Arms Control and Disarmament Agency [1990-1992]
+- Moody, Kathleen, Congressional Liaison Officer, Office of Regional Affairs, Bureau of African Affairs, Department of State [1989-1992]
+- Moody, Larry, Public Affairs Officer, U.S. Embassy in Niamey [1989, 1990, 1991]
+- Moon, Jeffrey A., Consul and Political Counselor, U.S. Consulate at Chiang Mai [1989-1991]
+- Moon, Judith A., Public Affairs Officer, U.S. Embassy in Suva [1991, 1992]
+- Moore, Annette J., Administrative Counselor, U.S. Embassy in St. Johns [1989]
+- Moore, Barbara, Branch Public Affairs Officer, U.S. Consulate at Toronto [1989]
+- Moore, Bert C., Administrative Counselor, U.S. Embassy in New Delhi [1989]
+- Moore, Elizabeth E., Consul, U.S. Consulate at Curacao [1991, 1992]
+- Moore, James R., Branch Public Affairs Officer, U.S. Consulate at Leningrad (later St. Petersburg) [1989]; Public Affairs Officer, U.S. Embassy in Abu Dhabi [1989, 1990]
+- Moore, Jonathan, Ambassador at Large and Coordinator for Refugee Affairs and Director of the Bureau of Refugee Programs, Department of State, until June 1989; Alternate Representative to the United Nations for Special Political Affairs from 1989 until 1990; thereafter Representative on the UN Economic and Social Council
+- Moore, Mike, New Zealand Foreign Minister from February 1 until October 28, 1990; Prime Minister of New Zealand from September 4 until November 2, 1990
+- Moore, Ralph R., Economic Counselor, U.S. Embassy in Manila [1989]; Director, Office of Economic Policy, Bureau of East Asian and Pacific Affairs, Department of State [1990-1992]
+- Moore, Richard A., U.S. Ambassador to Ireland from September 19, 1989, until June 15, 1992
+- Moore, Thomas C., Commercial Counselor, U.S. Consulate at Milan [1990]
+- Moore, Thomas E., Commercial Counselor, U.S. Embassy in Port of Spain [1990, 1991]; Commercial Counselor, U.S. Consulate at Dhahran [1991, 1992]
+- Moore, W. Henson, Deputy Secretary of Energy from 1989 until 1992; Deputy Chief of Staff to the President from 1992
+- Moorefield, Kenneth, Commercial Counselor, U.S. Embassy in Caracas [1989-1991]; Commercial Counselor, U.S. Embassy in London [1991, 1992]
+- Moorhouse, James A., Commercial Counselor, U.S. Embassy in Paris [1989, 1990]; Commercial Counselor, U.S. Embassy in New Delhi [1990-1992]
+- Moose, George E., U.S. Ambassador to Senegal until May 21, 1991; M/TF [1992]
+- Moran, David R., Chief, Developing Countries and Trade Organization Division, Office of Bilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Moran, James B., U.S. Ambassador to the Seychelles until August 31, 1991
+- Moran, John L., Office of Monetary Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990]; Economic Counselor, U.S. Embassy in Brussels [1992]
+- Moran, Roger J., Political Counselor, U.S. Embassy in Yaounde [1989]; Office of Central African Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Political and Economic Counselor, U.S. Embassy in Cotonou [1992]
+- Morford, Richard A., Deputy Director, Office of Business Practices, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1989]; Deputy Director, Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990]; Economic Counselor, U.S. Embassy in Seoul [1991, 1992]
+- Morgan, Ann M., Director, Office of Refugee Training, Refugee Programs, Department of State [1989-1992]
+- Morgan, Kathryn Boe, AID [1991]; Director, Directorate for Policy, Agency for International Development [1992]
+- Morgan, Richard H., Consul, U.S. Consulate at Fukuoka [1992]
+- Morgan, William M., Branch Public Affairs Officer, U.S. Consulate at Fukuoka [1989]
+- Moriarty, James F., Deputy Director, Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Moriarty, Lauren, Deputy Director, Office of Development Finance, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1992]
+- Morisseau, Stephen B., Branch Public Affairs Officer, U.S. Consulate at Thessaloniki [1989, 1990]
+- Morley, Robert, Director, Office of Cuban Affairs, Bureau of Inter-American Affairs, Department of State [1989-1991]; Director for Latin American Affairs, National Security Council staff, from June 1991 until October 1992
+- Morris, Charles, Jr., Legislative Affairs Officer, Bureau of Legislative Affairs, Department of State [1990, 1991]; Principal Officer, U.S. Consulate at Chiang Mai [1992]
+- Morris, Greta N., Public Affairs Adviser and Director, Public Affairs Staff, Bureau of African Affairs, Department of State [1989-1991]; Policy Officer, Office of East Asian and Pacific Affairs, United States Information Agency [1991, 1992]
+- Morris, Jay F., Deputy Administrator of the Agency for International Development [1989]
+- Morris, Luther R., Political Counselor, U.S. Embassy in Lilongwe [1989]; Economic and Commercial Counselor, U.S. Embassy in Kampala [1990-1992]
+- Morris, Ned E., Administrative Counselor, U.S. Embassy in Quito [1991, 1992]
+- Morris, Robert G., Science Attache, U.S. Embassy in Buenos Aires [1989-1991]; Science Attache, U.S. Embassy in Madrid [1991, 1992]
+- Morris, Robert O., Consul, U.S. Embassy in Maseru [1989, 1990]
+- Morris, Virginia, Consul, U.S. Consulate at Florence [1989-1991]; Office of Economic Policy, Bureau of Inter-American Affairs, Department of State [1992]
+- Morse, Adriaen M., Administrative Counselor, U.S. Embassy in Port-au-Prince [1989, 1990]; Office of Resource Management, Office of the Deputy Assistant Secretary for Resource Management, Bureau of Diplomatic Security, Department of State [1991, 1992]
+- Morse, Ted D., Director, Coordination Group for Improving Agency Operations, Office of the Administrator, Agency for International Development [1990]
+- Mosbacher, Robert Aaron, Sr., Secretary of Commerce from January 31, 1989, until January 15, 1993
+- Moser, William H., Administrative Counselor, U.S. Embassy in Paramaribo [1991, 1992]
+- Moss, Frank, Director for Multilateral Affairs, Office of the Coordinator for Counter-Terrorism, Department of State [1990-1992]
+- Moss, Lloyd W., Bureau of Politico-Military Affairs, Department of State [1990]; Head, U.S. Liaison Office at Koror [1991, 1992]
+- Moten, Sarah E., Deputy Assistant Secretary for International Assistance and Relief, Refugee Programs, Department of State [1990-1992]
+- Mount, Day O., Deputy Assistant Secretary for Planning and Development, [Information Management], Bureau of Administration and Information Management, Department of State [1989]; Consul General, U.S. Consulate at Stuttgart [1991, 1992]
+- Moxhay, Diana J., Branch Public Affairs Officer, U.S. Consulate at St. Petersburg [1991, 1992]
+- Moyer, Jacqueline R., Consul, U.S. Embassy in Ouagadougou [1991]
+- Moynihan, Daniel Patrick, Senator (D-New York)
+- Mozur, Michael C., Economic and Commercial Counselor, U.S. Embassy in Berlin [1989, 1990]; Economic Counselor, U.S. Mission at Berlin [1991, 1992]; Charge d’Affaires ad interim, U.S. Embassy in Tashkent from March 16, 1992
+- Mu, George, Commercial Counselor, U.S. Embassy in Seoul [1989]; Commercial Counselor, U.S. Embassy in Ottawa [1990, 1991]; Commercial Counselor, U.S. Embassy in Tokyo [1991, 1992]
+- Mubarak, Mohammed Hosni, President of Egypt
+- Mudd, Donald E., Consul, U.S. Consulate at Frankfurt [1989]
+- Mueller, Richard W., Deputy Executive Secretary of the Department of State [1989]; Deputy Assistant Secretary of State for Legislative Affairs [1990, 1991]
+- Mugabe, Robert, President of Zimbabwe
+- Mulenex, David W., Administrative Counselor, U.S. Embassy in Oslo [1989, 1990]; Science Attache, U.S. Embassy in Tel Aviv [1992]
+- Mulford, David C., Assistant Secretary of the Treasury for International Affairs until May 1989; thereafter Under Secretary of the Treasury for International Affairs
+- Mulholland, Douglas P., analyst for domestic policy and research, Bush for President Committee; Assistant Secretary of State for Intelligence and Research from June 9, 1989, until January 19, 1993
+- Mull, Stephen D., Operations Center, Executive Secretariat, Department of State [1990, 1991]; Deputy Director, Operations Center, Executive Secretariat, Department of State [1992]
+- Mullen, Kathleen J., Assistant Chief of Protocol for Administration, Office of the Chief of Protocol, Department of State [1989, 1990]; Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1991]; Consul General, U.S. Embassy in Mexico City [1992]
+- Muller, Richard, Economic and Commercial Counselor, U.S. Embassy in Tirana [1992]
+- Muller, William, Consul, U.S. Embassy in Bern [1989-1992]; Counselor, Career Development and Training, Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Mullins, Janet Gardner, Assistant Secretary of State for Legislative Affairs from March 2, 1989, until August 23, 1992; Assistant to the President for Political Affairs, Office of Political Affairs, from August 23, 1992
+- Mulrean, Peter, Special Assistant to the Special Adviser for Eurasian Assistance, Office of the Deputy Secretary of State [1992]
+- Mulroney, Martin Brian, Prime Minister of Canada
+- Mundy, Carl E., Jr., Gen., USMC, Commandant of the Marine Corps from July 1, 1991
+- Munoz, Arnold A., Administrative Counselor, U.S. Embassy in Caracas [1991, 1992]
+- Munshi, Kiki S., Public Affairs Officer, U.S. Embassy in Freetown [1992]
+- Munson, Edward R., Administrative Counselor, U.S. Consulate at Maracaibo [1992]
+- Munter, Cameron, Staff Assistant, Bureau of European and Canadian Affairs, Department of State [1989]; Office of Eastern European and Yugoslavian Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]
+- Murphey, William J., Public Affairs Officer, U.S. Embassy in Damascus [1991, 1992]
+- Murphy, David J., Commercial Counselor, U.S. Consulate at Shanghai [1991, 1992]
+- Murphy, George F., Jr., Deputy Director of the Arms Control and Disarmament Agency until August 1989
+- Murphy, Joseph P., Consul, U.S. Consulate at Dubai [1991, 1992]
+- Murphy, Margaret Ann, Consul, U.S. Embassy in Brasilia [1992]
+- Murphy, Martin D., Office of Regional Political-Economic Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Public Affairs Adviser, U.S. Mission to the Organization for Cooperation and Development [1992]
+- Murphy, Patricia A., Consul, U.S. Embassy in Suva [1989-1991]; Consul, U.S. Consulate at Sao Paulo [1992]
+- Murphy, Patrick J., Political and Military Counselor, U.S. Embassy in Abu Dhabi [1991, 1992]
+- Murphy, Peter K., Consul, U.S. Embassy in Bonn [1989, 1990]
+- Murphy, Richard William, Assistant Secretary of State for Near Eastern and South Asian Affairs until May 15, 1989
+- Murphy, Thomas M., Economic and Commercial Counselor, U.S. Embassy in Djibouti [1989-1991]; Political Counselor, U.S. Embassy in Conakry [1991, 1992]
+- Murphy, Wayne K., Col., USA, Deputy Director, Office of Strategic and Theater Policy, Bureau of Politico-Military Affairs, Department of State [1990, 1991]
+- Murray, Blair, Deputy Director, Office of Security Assistance and Sales, Bureau of Politico-Military Affairs, Department of State [1989]
+- Murrin, Thomas J., Deputy Secretary of Commerce (1989, 1990)
+- Murtha, John P., member, U.S. House of Representatives (D-Pennsylvania)
+- Musaveni, Yoweri, President of Uganda
+- Mussomeli, Joseph A., Operations Center, Executive Secretariat, Department of State [1990]; Economic Counselor, U.S. Embassy in Colombo [1991, 1992]
+- Mustain, Robert W., Office of United Nations Social and Refugee Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1990, 1991]; Office of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Muth, John J., Labor Attache, U.S. Embassy in Paris [1989-1991]; Senior Adviser, Office of the Special Assistant to the Secretary and Coordinator of International Labor Affairs [1992]
+- Myers, Robert P., Jr., Consul General, U.S. Consulate at Belfast [1989]; Director, Office of Program Management, Bureau of International Narcotics Matters, Department of State [1990, 1991]
+- Myles, Marianne M., Deputy Principal Officer and Economic Counselor, U.S. Consulate at Rio de Janeiro [1992]
+- Myles, Stanley T., Deputy Chief of Mission, U.S. Embassy in Paramaribo [1989-1991]; Charge d’Affaires [1991]; Political Counselor, U.S. Embassy in Brasilia [1992]
+- Myrick, Bismark, Consul General, U.S. Consulate at Durban [1991, 1992]
+- Myrick, James F., Consul, U.S. Embassy in Athens [1989, 1990]
+- Nach, James P., Political Counselor, U.S. Embassy in Kingston [1989, 1990]; Director, Office of Philippines Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Counselor, Senior Officer Division, Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Nagy, Tibor P., Jr., Deputy Chief of Mission, U.S. Embassy in Lome [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Yaounde [1991, 1992]
+- Nahas, Albert G., Economic and Commercial Counselor, U.S. Embassy in San Salvador [1991, 1992]
+- Naland, John, Staff Assistant, Policy Planning Staff, Department of State [1990, 1991]
+- Nank, Gary R., Public Affairs Officer, U.S. Embassy in Bujumbura [1990]
+- Napper, Larry C., Charge d’Affaires and Deputy Chief of Mission, U.S. Embassy in Bucharest; Director, Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State from 1991
+- Natsios, Andrew S., Director, Office of U.S. Foreign Disaster Assistance, Agency for International Development [1990, 1991]; Assistant Administrator, Bureau for Food and Humanitarian Assistance, Agency for International Development (1992)
+- Nay, John R., Consul, U.S. Consulate at Calgary [1989]
+- Nazarbayev, Nursultan, President of Kazakhstan
+- Neal, Jerome B., Economic and Commercial Counselor, U.S. Consulate at Antwerp [1989-1992]
+- Neary, Charles, Office of Central African Affairs, Bureau of African Affairs, Department of State [1990, 1991]
+- Nee, Coleman J., Science Attache, U.S. Embassy in Warsaw [1990-1992]
+- Needels, Christopher, Director for International Programs, National Security Council staff (1989, 1990, 1991)
+- Negem, Frederick B., Jr., Public Affairs Officer, U.S. Mission to the United Nations [1989, 1990]
+- Negroponte, John Dimitri, Deputy Assistant to the President for National Security Affairs until January 1989; U.S. Ambassador to Mexico from July 3, 1989
+- Neighbors, Lloyd W., Public Affairs Officer, U.S. Consulate at Hong Kong [1989-1992]
+- Neitzke, Ronald J., Deputy Chief of Mission, U.S. Embassy in Zagreb [1992]; Charge d’Affaires ad interim, U.S. Embassy in Zagreb from August 25, 1992
+- Nelsen, Larry A., Deputy Director, Office of Business Practices, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990]; Deputy Director, Office of Intellectual Property and Competition, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1991, 1992]; Economic Counselor, U.S. Embassy in Riyadh [1992]
+- Nelson, Alan C., Commissioner, Immigration and Naturalization Service, until June 16, 1989
+- Nelson, Andrea J., Administrative Counselor, U.S. Embassy in Stockholm [1991, 1992]
+- Nelson, Frederick, Associate Counsel to the President from October 23, 1989
+- Nelson, Karl G., Branch Public Affairs Officer, U.S. Consulate at Surabaya [1989, 1990]; Branch Public Affairs Officer, U.S. Consulate at Cebu [1991, 1992]
+- Nelson, Richard A., Bureau of East Asian and Pacific Affairs, Department of State [1991]; Senior Adviser for Operations, Office of Commonwealth of Independent States Assistance, Office of the Deputy Secretary of State [1992]
+- Nesbitt, Jeff, Assistant to the Vice President and Director of Communications
+- Nesbitt, Leroy, Economic Counselor, U.S. Embassy in Port-of-Spain [1991]
+- Nesbitt, Wanda L., Secretariat Staff, Executive Secretariat, Department of State [1990]; Consul, U.S. Embassy in Kinshasa [1991, 1992]
+- Nesmith, Joyce, Personal Assistant to the Under Secretary of State for International Security Affairs [1990]
+- Nettles, G. Clay, Economic Counselor, U.S. Embassy in Ankara [1989, 1990]; Economic Counselor, U.S. Mission to the European Office of the United Nations and Other International Organizations [1991, 1992]
+- Neuling, Bruce, Special Trade Activities Division, Office of Multilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1990-1992]
+- Neumann, Ronald E., Deputy Chief of Mission, U.S. Embassy in Abu Dhabi [1989, 1990]; Director, Office of Northern Gulf Affairs (Iran and Iraq), Bureau of Near Eastern and South Asian Affairs, Department of State [1991, 1992]
+- Neureiter, Paul A., Economic and Commercial Counselor, U.S. Embassy in Port Moresby [1990-1992]; Overseas Training, School of Language Studies, Foreign Service Institute, Department of State [1992]
+- Nevitt, Robert L.M., Public Affairs Officer, U.S. Embassy in Tokyo [1989-1992]
+- Newcomb, Thomas M., Economic and Commercial Counselor, U.S. Embassy in Freetown [1990, 1991]
+- Newell, Gregory J., U.S. Ambassador to Sweden until June 12, 1989
+- Newkirk, W. Douglas, Assistant U.S. Trade Representative for GATT Affairs, Office of the United States Trade Representative, from 1989 until 1992
+- Newlin, Michael H., U.S. Representative, U.S. Mission to International Organizations in Vienna until September 6, 1991; acting Director, Office of Defense Trade Policy, Bureau of Politico-Military Affairs, Department of State
+- Newman, Della M., U.S. Ambassador to New Zealand from October 25, 1989, until December 21, 1992
+- Newman, Don M., U.S. Representative to the International Civil Aviation Organization from June 27, 1990
+- Newman, James C., Economic and Commercial Counselor, U.S. Consulate at Calcutta [1989-1991]
+- Newmann, Douglas B., Economic and Commercial Counselor, U.S. Embassy in Amman [1992]
+- Newquist, Richard J., Commercial Counselor, U.S. Embassy in Helsinki [1991]
+- Newton, Anthony C., Economic Counselor, U.S. Embassy in Bridgetown [1989, 1990]; Deputy Director, U.S. Liaison Office in Luanda [1991, 1992]
+- Newton, David G., Director, Office of Lebanon, Jordan, Syria Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989, 1990]
+- Ney, Edward Noonan, U.S. Ambassador to Canada from June 30, 1989, until June 20, 1992
+- Nguyen Co Thach, Vietnamese Prime Minister
+- Nice, Jeremy, Administrative Counselor, U.S. Embassy in Brasilia [1989-1992]; Administrative Counselor, U.S. Embassy in Islamabad [1992]
+- Nicholas, David R., Defense Adviser, U.S. Mission to the North Atlantic Treaty Organization [1989-1992]
+- Nichols, Charles E. Administrative Counselor, U.S. Consulate at Guayaquil [1989, 1990]; Area Management Division, Operations and Post Support Office, Office of the Deputy Assistant Secretary for Foreign Buildings Operations, Bureau of Administration, Department of State [1992]
+- Nichols, Edmund L., Agricultural Counselor, U.S. Mission to the European Communities [1990-1992]
+- Nichols, Patrick J., Director, Office of East-West Trade and Foreign Policy Controls, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1989]; Economic Counselor, U.S. Embassy in Belgrade [1989-1992]
+- Nicholson, Marc E., Deputy Director, Office of Defense Relations and Security Assistance, Bureau of Politico-Military Affairs, Department of State [1992]
+- Nickels, Don, Senator (R-Oklahoma)
+- Nider, Ralph L., Consul, U.S. Consulate at Toronto [1989]
+- Niemczyk, Julian M., U.S. Ambassador to Czechoslovakia until July 7, 1989
+- Nigro, Louis J., Consul and Political Counselor, U.S. Embassy in N’Djamena [1989-1991]; Office of Western European Affairs, Bureau of European and Canadian Affairs, Department of State [1992]; Political Counselor, U.S. Embassy in Port-au-Prince [1992]
+- Niles, Thomas Michael Tolliver, U.S. Ambassador to Canada until June 28, 1989; Ambassador, U.S. Mission to the European Communities from June 23, 1989, until August 26, 1991; Assistant Secretary of State for European and Canadian Affairs from October 3, 1991
+- Nist, Theodore A., Consul and Administrative Counselor, U.S. Embassy in Ulaanbaatar [1990, 1991]; Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Nitze, Paul H., Ambassador at Large and Special Advisor on Arms Control Matters, Department of State
+- Nitze, William A., Deputy Assistant Secretary for Environment, Health, and Natural Resources, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989, 1990]
+- Nix, John U., Deputy Chief of Mission, U.S. Embassy in Nicosia [1989]; Charge d’Affaires ad interim, U.S. Embassy in Nicosia from July 1, 1989, until July 1, 1990; Deputy Principal Officer, Berlin [1991, 1992]
+- Nixon, Richard M., President of the United States from January 20, 1969, until August 9, 1974
+- Nixon, Warren P., Administrative Counselor, U.S. Embassy in Berlin [1989]; Administrative Counselor, U.S. Embassy in Vienna [1989-1992]
+- Noble, Deborah, Staff Assistant, Policy Planning Staff, Department of State [1989]
+- Noble, James R., Office of Export and Import Control, (Nuclear Energy and Energy Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1991]; Office of Nuclear Technology and Safeguards, (Nuclear Energy and Energy Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Noble, Peter T., Commercial Counselor, U.S. Embassy in Panama City [1989]; Commercial Counselor, U.S. Embassy in Bogota [1989]; Commercial Counselor, U.S. Embassy in Belgrade [1990, 1991]; Commercial Counselor, U.S. Embassy in Panama City [1992]
+- Noble, Stephen V., Office of Canadian Affairs, Bureau of European and Canadian Affairs, Department of State [1990]; Economic Counselor, U.S. Embassy in San Jose [1991, 1992]
+- Nolan, David, Economic and Commercial Counselor, U.S. Embassy in Windhoek [1991, 1992]
+- Nolan, Robert B., Post Management Officer, Office of the Executive Director, Bureau of Inter-American Affairs, Department of State [1989]; Office of the Procurement Executive, Bureau of Administration, Department of State [1991, 1992]; Administrative Counselor, U.S. Embassy in Helsinki [1992]
+- Noriega, Roger, Political Counselor and Public Affairs Officer, U.S. Mission to the Organization of American States [1990-1992]
+- Noriega Morena, Gen. Manuel Antonio, Commander of the Panamanian Defense Forces until December 20, 1989
+- Norland, David W., Economic Counselor, U.S. Embassy in Panama City [1991]
+- Norland, Richard B., Special Assistant, Office of the Under Secretary of State for Political Affairs [1990, 1991]
+- Norman, James G., Political and Economic Counselor, U.S. Consulate at Merida [1989]
+- Norman, Robert L., Political and Economic Counselor, U.S. Consulate at Izmir [1990-1992]
+- Norris, Chester E., Jr., U.S. Ambassador to Equatorial Guinea until April 18, 1991
+- Norris, Frances McMurtray, Director of Congressional Relations, Office of National Drug Control Policy from 1989 until August 1990; Special Assistant to the President for Legislative Affairs from August 8, 1990
+- Norris, John J., Jr., Economic Counselor, U.S. Consulate at Shanghai [1989-1992]; Deputy Director, Office of Chinese and Mongolian Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Northern, Marc E., Labor Attache, U.S. Embassy in Copenhagen [1989-1992]
+- Nottingham, Roger C., Administrative Counselor, U.S. Embassy in Kampala [1989]; Bureau of International Narcotics Matters, Department of State [1991]
+- Novetzke, Sally Johnson, State Co-Chair (Iowa), George Bush for President, 1988; U.S. Ambassador to Malta from November 9, 1989
+- Novinger, George T., Administrative Counselor, U.S. Consulate at Osaka-Kobe [1992]
+- Nowakowski, Raymond M., Administrative Counselor, U.S. Consulate at Istanbul [1989]
+- Noyes, Jon L., Consul, U.S. Embassy in Tunis [1989, 1990]
+- Noyes, Julieta Valls, Office of Panamanian Affairs, Bureau of Inter-American Affairs, Department of State [1990-1992]
+- Noyes, Lawrence P., Consul, U.S. Consulate at Mazatlan [1989, 1990]
+- Nujoma, Sam, President of Namibia from March 21, 1990
+- Nuland, Victoria, Political and Economic Counselor, U.S. Embassy in Ulaanbaatar [1989]; Office of Soviet Affairs, Bureau of European and Canadian Affairs, Department of State [1990]
+- Nunn, Samuel A., Senator (D-Georgia); Chair, Senate Armed Services Committee
+- Nunnemacher, Harry A. Consul, U.S. Consulate at Dubai [1989, 1990]
+- Nygard, Richard C., Deputy Assistant Administrator, Bureau for Program and Policy Coordination, Agency for International Development [1990, 1991]
+- Oakley, Phyllis E., Deputy Assistant Secretary of State for Public Affairs and Deputy Spokesperson until March 1989; Deputy Assistant Secretary for Regional Analysis, Bureau of Intelligence and Research, Department of State [1992]
+- Oakley, Robert B., U.S. Ambassador to Pakistan until August 29, 1991
+- Oba, Gary G., Consul and Political and Economic Counselor, U.S. Embassy in Bissau [1989, 1990]; Consul, U.S. Consulate at Osaka-Kobe [1991, 1992]; Regional Officer for Near East, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Obee, Kent D., Public Affairs Officer, U.S. Embassy in Islamabad [1989]; Public Affairs Officer, U.S. Embassy in Pretoria [1990-1992]; Director, Office of North African, Near Eastern, and South Asian Affairs, United States Information Agency (1992)
+- Obey, David R., Member, U.S. House of Representatives (D-Wisconsin); Chair, Foreign Operations Subcommittee, House Appropriations Committee
+- O’Brien, Michael, Public Affairs Officer, U.S. Embassy in Tegucigalpa [1989]; Deputy Director, Office of African Affairs, United States Information Agency (1989-1991); Public Affairs Officer, U.S. Embassy in Lagos [1991, 1992]
+- O’Callaghan, James D., Branch Public Affairs Officer, U.S. Consulate at Naples [1991, 1992]
+- Ochiltree, Thomas, Political Counselor, U.S. Embassy in Tegucigalpa [1992]
+- O’Connell, John G., Political and Military Counselor, U.S. Embassy in Muscat [1989, 1990]
+- O’Connor, Thomas E., Public Affairs Officer, U.S. Embassy in Vienna [1989-1991]; Director, Policy Guidance Staff, Bureau of Policy and Programs, United States Information Agency [1991, 1992]
+- Odell, Deborah M., Office of Ecology, Health, and Conservation, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990]; Political Counselor, U.S. Consulate at Monterrey [1991, 1992]
+- O’Donnell, Edward B., Jr., Economic Counselor, U.S. Embassy in Panama City [1989, 1990]; Economic Counselor, U.S. Embassy in Vienna [1990-1992]
+- O’Donnell, Terrence, General Counsel, Department of Defense, from October 30, 1989, until March 6, 1992
+- O’Donohue, Daniel A., U.S. Ambassador to Thailand until August 10, 1991
+- Odor, Sandra S., Administrative Unit Chief and Post Management Officer, Office of the Executive Director, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Administrative Counselor, U.S. Consulate at Sydney [1992]
+- Oertadian, Richard N., Consul General, U.S. Consulate at Naples [1992]
+- O’Friel, Paul C., Commercial Counselor, U.S. Embassy in Tunis [1992]
+- Ogden, Geoffrey, Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1990]; Office of Maritime and Land Transport, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1990-1992]
+- Ogden, Jerome C., Deputy Assistant Secretary for Visa Services, Bureau of Consular Affairs, Department of State [1989, 1990]; Director, Policy and Coordination Staff, Bureau of Consular Affairs [1991, 1992]; Consul General, U.S. Consulate at Shanghai [1992]
+- Ogden, Richard M., Economic Counselor, U.S. Embassy in London [1989, 1990]; Director, Office of Canadian Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]
+- Oglesby, Donna Marie, Public Affairs Officer, U.S. Embassy in Bangkok [1989-1992]
+- Oguna, Atim, Regional Affairs Officer, Office of Regional Affairs, Bureau of African Affairs, Department of State [1991, 1992]
+- O’Hara, Harry J., Labor Attache, U.S. Embassy in Nairobi [1989, 1990]; Member, Policy Planning Staff, Department of State [1992]
+- Ohta, John T., Branch Public Affairs Officer, U.S. Consulate at Istanbul [1989, 1990]
+- Ojamaa, Elo-Kai, Political Counselor, U.S. Embassy in Tallinn [1992]
+- O’Keefe, John M., Administrative Counselor, U.S. Embassy in Belgrade [1989-1992]
+- O’Keefe, Michael J., Consul, U.S. Consulate at Matamoros [1989, 1990]
+- O’Keefe, Sean, Department of Defense Comptroller from May 22, 1989, until July 7, 1992; Acting Secretary of the Navy from July 7 until December 16, 1992; Secretary of the Navy from December 16, 1992, until January 20, 1993
+- Olason, Victor B., Director, Office of European Affairs, United States Information Agency (1989, 1990, 1991); Public Affairs Officer, U.S. Embassy in Rome [1992]
+- O’Leary, Anne, Branch Public Affairs Officer, U.S. Consulate at Alexandria [1990-1992]
+- O’Leary, Cornelius, Director of the White House Situation Room
+- O’Leary, John, Administrative Counselor, U.S. Embassy in Port-au-Prince [1992]
+- O’Leary, Sandra, Member, Policy Planning Staff, Department of State [1989, 1990]; Director, Planning and Economic Analysis Staff, Bureau of Economic and Business Affairs, Department of State [1991, 1992]
+- Olesen, Jeffry R., Administrative Counselor, U.S. Consulate at Lahore [1991, 1992]
+- Olsen, Norman H., Jr., Consul and Political and Economic Counselor, U.S. Embassy in Majuro [1990, 1991]
+- Olson, G. Brent, Deputy Director, Office of Program Management, Bureau of International Narcotics Matters, Department of State [1989]
+- Olson, Gordon R., Post Management Officer, Office of the Executive Director, Bureau of Near Eastern and South Asian Affairs, Department of State [1989, 1990]; Administrative Counselor, U.S. Embassy in Lusaka [1990-1992]
+- Olson, John, Administrative Counselor, U.S. Embassy in Praia [1989, 1990]
+- Olson, Steven S., Economic Counselor, U.S. Embassy in Abidjan [1991, 1992]
+- Olson, V. Edward, Economic Counselor, U.S. Consulate at Rio de Janeiro [1989-1991]; Deputy Director, Office of East-West Trade and Foreign Policy Controls, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1992]
+- Olson, William J., Deputy Assistant Secretary of State for International Narcotics Matters [1990-1992]
+- Olszewski, Jan, Prime Minister of Poland
+- O’Malley, Michael E., Consul, U.S. Embassy in Reykjavik [1991, 1992]
+- Onate, Andres D., Science Attache, U.S. Embassy in Beijing [1991, 1992]
+- O’Neill, Aloysius, III, Deputy Director, Office of Philippine Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- O’Neill, Joseph P., Deputy Chief of Mission, U.S. Embassy in Khartoum [1990-1991]; Charge d’Affaires ad interim, U.S. Embassy in Asmara from June 1991
+- O’Neill, Rosemary, Multilateral Affairs Officer, Office of Multilateral Affairs and Human Rights Programs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1989]
+- Ordway, John M., Deputy Director, Office of Southern African Affairs, Bureau of African Affairs, Department of State [1989-1991]; Deputy Director for Multilateral and Security Affairs, Bureau of European and Canadian Affairs, Department of State [1991]; Deputy Director for Russia and Security Affairs, Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]; Director for African Affairs, National Security Council staff (1992)
+- Orlando, Jack P., Economic Counselor, U.S. Consulate at Vancouver [1989-1991]; acting Economic Counselor, U.S. Embassy in Brasilia [1992]
+- Orozco, Cristobal R., Administrative Counselor, U.S. Embassy in Tegucigalpa [1989]; Administrative Counselor, U.S. Embassy in New Delhi [1990-1992]
+- Orr, Bobette K., Commercial Counselor, U.S. Consulate at Auckland [1989-1991]; Consul General, U.S. Consulate at Edinburgh [1992]
+- Orr, Robert D., Governor of Indiana (R) until January 9, 1989; U.S. Ambassador to Singapore from July 14, 1989, until September 12, 1992
+- Ortblad, Dennis J., Consul General, U.S. Consulate at Sapporo [1992]
+- Ortega Saavedra, Cdte. Daniel, President of Nicaragua until April 25, 1990
+- Osius, Theodore, Administrative Counselor, U.S. Embassy in Vatican City [1992]
+- Oslick, Alan, Office of Maritime and Land Transport, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1991]; Strategic Planning, Office of Plans, Office of the Deputy Assistant Secretary for Planning and Development, Bureau of Diplomatic Security, Department of State [1992]
+- Osterling, Caroline, Branch Public Affairs Officer, U.S. Mission at Berlin [1989-1992]
+- Ostrander, Frank W., Political and Economic Counselor, U.S. Consulate at Stuttgart [1992]
+- Otero, Maria L., Principal Officer, U.S. Consulate at Barranquilla [1991, 1992]
+- Otis, Terrell R., Deputy Director, Office of International Security Policy, Bureau of Politico-Military Affairs, Department of State [1989]; Deputy Director, Office of Philippine Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Office of Performance Evaluation, Bureau of Personnel, Department of State [1992]
+- Otto, Bo, Trade and Commerical Adviser, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990]
+- Otto, Olaf North, III, Current Intelligence Staff, Office of Intelligence Support, Bureau of Intelligence and Research, Department of State [1990-1992]; Political and Economic Counselor, U.S. Consulate at Adana [1992]
+- Otto, Stanley A., Economic and Commercial Counselor, U.S. Consulate at Fukuoka [1990-1992]
+- Owen, George, Chief, Security Export Controls Division, Office of COCOM Affairs, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1989]
+- Owen, Jonathan P., Public Affairs Officer, U.S. Embassy in Amman [1990-1992]; Public Affairs Officer, U.S. Embassy in Rabat [1992]
+- Owen, M. Elizabeth, Office of International Conference Administration, Office of the Executive Director, Bureau of International Organization Affairs, Department of State [1990-1992]
+- Owen, Michael S., Political Counselor, U.S. Embassy in Nouakchott [1990, 1991]; Current Intelligence Staff, Office of Intelligence Support, Bureau of Intelligence and Research, Department of State [1992]
+- Owen, William H., Labor Attache, U.S. Consulate at Casablanca [1990-1992]; Political Counselor and Labor Attache, U.S. Consulate at Casablanca [1992]
+- Owens, Michael Patrick, Deputy Chief of Mission, U.S. Embassy in Suva [1989-1991]; Director, Office of Pacific Island Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Owens, William, RADM, Senior Military Assistant to the Secretary of Defense
+- Owens-Kirkpatrick, Barbro, Deputy Director, Office of Southern Cone Affairs, Bureau of Inter-American Affairs, Department of State [1990]; Deputy Director, Office of International Security Operations, Bureau of Politico-Military Affairs, Department of State [1992]
+- Ozal, Turgut, President of Turkey
+- Paal, Douglas H., Director for Asian Affairs, National Security Council staff, from March 1989 until 1991; Special Assistant to the President for National Security Affairs and Senior Director for Asian Affairs, National Security Council Staff from April 4, 1991
+- Pabst, David A., Consul General, U.S. Consulate at Osaka-Kobe [1992]
+- Pace, Barbara, Office of the Under Secretary of State for Political Affairs [1990]; Bureau of European and Canadian Affairs, Department of State [1991]
+- Pace, Robert S., Deputy Director, Office of Security Assistance and Sales, Bureau of Politico-Military Affairs, Department of State [1989]; Director, Office of Defense Trade Policy, Bureau of Politico-Military Affairs, Department of State [1990, 1991]; Political Counselor, U.S. Embassy in Ankara [1991, 1992]
+- Pacelli, David, Director for Latin American Affairs, National Security Council Staff (1989, 1990)
+- Padovano, Frank A., Agricultural Counselor, U.S. Mission to the European Communities [1989]
+- Pahigian, Anthony, Staff Assistant, Bureau of Politico-Military Affairs, Department of State [1990, 1991]; Action Officer, Office of Weapons Proliferation Policy, Bureau of Politico-Military Affairs, Department of State [1991]
+- Paige, James A., Jr., Administrative Counselor, U.S. Embassy in Bujumbura [1991, 1992]
+- Palazzolo, Mary Dell, Consul General, U.S. Consulate at Martinique [1989, 1990]
+- Palmer, Geoffrey, Prime Minister of New Zealand from August 8, 1989, until September 4, 1990
+- Palmer, Larry L., Administrative Counselor, U.S. Embassy in Freetown [1989]
+- Palmer, Mark Robie, U.S. Ambassador to Hungary until January 31, 1990
+- Palmer, Ronald D., U.S. Ambassador to Mauritius until October 21, 1989
+- Palmer, William R., III, Branch Public Affairs Officer, U.S. Consulate at Shanghai [1989, 1990]
+- Palmeri, Robert J., Public Affairs Officer, U.S. Embassy in Dakar [1989-1991]; Public Affairs Officer, U.S. Embassy in Abidjan [1992]
+- Pankin, Boris, Soviet Foreign Minister from August 28 until November 19, 1991
+- Panyarachun, Anand, Prime Minister of Thailand
+- Para, Richard, Commercial Counselor, U.S. Embassy in Manama [1989]
+- Paradis, Douglas E., acting Chief, Program Division, Office of International Conferences, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Pardo de Zela, Miguel, Commercial Counselor, U.S. Embassy in Lisbon [1991, 1992]
+- Pardon, Raymond J., Labor Attache, U.S. Embassy in Johannesburg [1989]; Division Chief, Central and West African Division, Office of Analysis for Africa, Bureau of Intelligence and Research, Department of State [1990, 1991]; Deputy Director, Office of East African Affairs, Bureau of African Affairs, Department of State [1992]
+- Parent, Kenneth W., Deputy Director, Office of the Executive Director, Bureau of Intelligence and Research, Department of State [1989]; Administrative Counselor, U.S. Embassy in Dhaka [1989, 1990]; Administrative Counselor, U.S. Embassy in Accra [1991, 1992]
+- Parish, Charles M., Jr., Consul, U.S. Embassy in Kathmandu [1989-1992]
+- Park, David M., Public Affairs Officer, U.S. Embassy in Port Moresby [1991, 1992]
+- Park, Deborah P., Southern Europe Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1990]; Consul, U.S. Embassy in Prague [1991, 1992]
+- Parker, Alan, Director, Office of East-West Trade, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Economic Counselor, U.S. Embassy in Tel Aviv [1992]
+- Parker, Frank S., Economic Counselor, U.S. Embassy in Caracas [1990-1992]
+- Parker, John W., Political Counselor, U.S. Embassy in Tashkent [1992]; thereafter, Chief, Eastern Republic Division, Office of Analysis for Commonwealth of Independent States and Eastern Europe, Bureau of Intelligence and Research, Department of State
+- Parker, Maurice, Consul, U.S. Consulate at Edinburgh [1989]
+- Parkin, Ernest J., Jr., Administrative Counselor, U.S. Embassy in Valletta [1989]
+- Parmly, Michael E., Political Counselor, U.S. Embassy in Bucharest [1989]; Political Counselor, U.S. Mission to the European Communities [1992]
+- Parnell, Isaiah L., Administrative Counselor, U.S. Consulate at Monterrey [1992]
+- Parnell, Jack C., Deputy Secretary of Agriculture (1989, 1990)
+- Parris, Mark Robert, Deputy Chief of Mission, U.S. Embassy in Tel Aviv [1990-1992]; Principal Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs [1992]
+- Parrott, F. Coleman, Director, Allowances Staff, Office of the Deputy Assistant Secretary for Operations, Bureau of Administration, Department of State [1989-1991]; Administrative Counselor, U.S. Embassy in Santiago [1991, 1992]
+- Parsons, Donald K., Consul, U.S. Embassy in Paris [1989, 1990]
+- Parsons, Edmund M., Economic Counselor, U.S. Embassy in Mexico City [1989]; Director, Office of Program Management, International Narcotics Matters, Department of State [1989, 1990]
+- Parsont, Diane, Deputy Political/Military Adviser, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Paschyn, Dan, Administrative Counselor, U.S. Embassy in Kiev [1992]
+- Pascoe, B. Lynn, Deputy Chief of Mission, U.S. Embassy in Beijing [1989-1992]; Deputy Chief of Mission, U.S. Embassy in Bangkok [1992]; Principal Deputy Assistant Secretary of State for East Asian and Pacific Affairs from 1992
+- Pascua, Gerard R., Political Counselor, U.S. Embassy in Montevideo [1990-1992]
+- Pascua, Gerard R., Political Counselor, U.S. Embassy in Montevideo [1991, 1992]
+- Pasi, Geeta, Political and Economic Counselor, U.S. Consulate at Douala [1989, 1990]
+- Passage, David D., Director for African Affairs, National Security Council staff (1989); Director, Office of Regional Affairs and Staff Director NSC Interdepartmental Group, Bureau of African Affairs, Department of State [1989]; U.S. Ambassador to Botswana from August 7, 1990
+- Passan, Andrew A., Consul, U.S. Embassy in Lusaka [1990, 1991]
+- Passen, Andrew, Consul, U.S. Consulate at Kaduna [1989]
+- Pastore, Edmee Hawkes, Administrative Counselor, U.S. Embassy in Bissau [1989, 1990]; Administrative Counselor, U.S. Embassy in St. George’s [1991]
+- Pastorino, Robert S., Deputy Chief of Mission, U.S. Embassy in Mexico City from 1989 until 1991; U.S. Ambassador to the Dominican Republic from February 6, 1992
+- Patard, Richard, Economic and Commercial Counselor, U.S. Embassy in Yaounde [1992]
+- Patchell, Anne W., Administrative Counselor, U.S. Consulate at Hamburg [1989]
+- Patin, Paul B., Branch Public Affairs Officer, U.S. Consulate at Douala [1990, 1991]; Public Affairs Officer, U.S. Embassy in Bujumbura [1992]
+- Patrick, Sue Ford, Deputy Chief of Mission, U.S. Embassy in Kigali [1989-1991]
+- Patterson, Alan L., Consul, U.S. Embassy in Bamako [1992]
+- Patterson, Anne W., Specialized Agency Affairs, U.S. Mission to the European Office of the United Nations and Other International Organizations [1989, 1990]; Political Counselor, U.S. Mission to the European Office of the United Nations and Other International Organizations [1991]; Director, Office of Andean Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Patterson, Charles N., Jr., Deputy Director, Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Patterson, Rex-Marc, Office of European Security and Regional Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Southeast Asia Division, Office of Analysis for East Asia and the Pacific, Bureau of Intelligence and Research, Department of State [1992]
+- Patterson, Robert E., Administrative Counselor, U.S. Consulate at Leningrad (later St. Petersburg) [1989, 1990]
+- Patterson, Sue H., Consul, U.S. Embassy in Guatemala City [1989-1992]
+- Patterson, Torkel L., Director for Asian Affairs, National Security Council staff (1991, 1992)
+- Paukert, Edward T., Administrative Counselor, U.S. Embassy in Beirut [1989]; Administrative Counselor, U.S. Embassy in Kabul [1989]
+- Pavitt, James L., Director for Intelligence Programs, National Security Council staff, from August 1990 until June 1992; Special Assistant to the President for National Security Affairs and Senior Director for Intelligence Programs, National Security Council staff, from June 24, 1992
+- Paxton, Larry W., Administrative Counselor, U.S. Consulate at Peshawar [1989]
+- Pazdral, Ronna S., Administrative Counselor, U.S. Embassy in Zagreb [1992]
+- Paz Zamora, Jamie, President of Bolivia
+- Pearce, David D., Political Counselor, U.S. Embassy in Kuwait [1989-1991]; Special Assistant, Office of the Under Secretary of State for Political Affairs [1991]
+- Pearson, Margaret, Public Affairs Adviser, Bureau of European and Canadian Affairs, Department of State [1991, 1992]
+- Pearson, W. Robert, Deputy Assistant Secretary of the Department of State [1991]; Special Assistant to the Secretary of State and Executive Secretary of the Department from May 28, 1991, until January 22, 1992
+- Peashock, David, Deputy Director, Office of Energy-Producer Country Affairs, (International Energy and Resources Policy), Bureau of Economic and Business Affairs, Department of State [1989, 1990]; Division Chief, Office of Energy-Producer Country Affairs, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Office of Regional Political-Economic Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Peck, Juliana Seymour, Political Counselor, U.S. Embassy in Abu Dhabi [1991, 1992]
+- Peck, Robert A., Senior Deputy Director, Management Policy, Office of the Under Secretary of State for Management [1989, 1990]
+- Peden, Neil, Assistant Administrator, Bureau for Private Enterprise, Agency for International Development [1989]
+- Pegues, Clarence E., Jr., Administrative Counselor, U.S. Embassy in Tel Aviv [1989, 1990]; Director, Office of Foreign Service National Personnel, Bureau of Personnel, Department of State [1992]
+- Pell, Claiborne, Senator (D-Rhode Island); Chair, Senate Foreign Relations Committee
+- Pelletier, Michael, Branch Public Affairs Officer, U.S. Consulate at Kaduna [1991, 1992]
+- Pelletreau, Nancy, Consul, U.S. Consulate at Naples [1989-1992]
+- Pelletreau, Robert H., Jr., U.S. Ambassador to Tunisia until May 11, 1991; U.S. Ambassador to Egypt from September 12, 1991
+- Pelosi, Nancy, member, U.S. House of Representatives (D-California)
+- Peltier, Kenneth N., Executive Director, Bureau of European and Canadian Affairs, Department of State, until 1988; U.S. Ambassador to Comoros from September 24, 1990
+- Pendergrass, Dewey R., Principal Officer, U.S. Consulate at Udorn [1989-1992]; Office of Refugee Processing and Admission, Bureau of Refugee Programs, Department of State [1992]
+- Pendergrast, Dell F., Public Affairs Officer, U.S. Embassy in Ottawa [1990-1992]
+- Pendleton, Mary C., Administrative Counselor, U.S. Embassy in Bucharest [1989]; Coordinator, Administrative Training, School of Professional Studies, Foreign Service Institute, Department of State [1990, 1991]; U.S. Ambassador to Moldova from August 26, 1992
+- Pendleton, Miles S., Jr., Political Counselor, U.S. Embassy in London [1989]; Political Counselor, U.S. Embassy in Paris [1990-1992]
+- Penfold, John, Deputy Chief of Mission, U.S. Embassy in Tegucigalpa [1989]; Deputy Chief of Mission, U.S. Embassy in Lisbon [1990-1992]
+- Penner, Darryl L., Public Affairs Officer, U.S. Embassy in Damascus [1989, 1990]
+- Penner, Vernon D., Jr., U.S. Ambassador to Cape Verde until November 21, 1989
+- Penney, Edward T., Public Affairs Officer, U.S. Embassy in Rabat [1990]
+- Pentz, Alison, Political Counselor, U.S. Consulate at Antwerp [1989-1992]
+- Peppers, Ray, Public Affairs Officer, U.S. Embassy in Dhaka [1989-1992]
+- Percival, Bronson E., Principal Officer, U.S. Consulate at Medan [1990, 1991]; Counselor, Career Development-Political, Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Perenyi, Peter S., Principal Officer, U.S. Consulate at Poznan [1989, 1990]; thereafter Arms Control and Disarmament Agency
+- Perett, William G., Chief, Northern and Central Europe and Canada Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State
+- Perez, Abelardo I., Deputy Director, Office of Southern Cone Affairs, Bureau of Inter-American Affairs, Department of State [1990-1992]
+- Perez, Carlos, Administrative Counselor, U.S. Embassy in Asuncion [1991, 1992]
+- Perez, Carlos Andres, President of Venezuela from February 1989
+- Perez, Carol Z., Operations Center, Executive Secretariat, Department of State [1991]; Office of the Executive Director, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Perez, Enrique, Legislative Management Officer, Bureau of Legislative Affairs, Department of State [1990]; Deputy Director, Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]
+- Perez, Julio T., Administrative Counselor, U.S. Embassy in Georgetown [1991, 1992]
+- Perez de Cuellar, Javier, United Nations Secretary General
+- Perina, Rudolph V., Deputy Chair, U.S. Delegation to the Negotiations on Confidence and Security Building Measures in Europe [1990-1992]
+- Perito, Robert M., Director, Office of Southern African Affairs, Bureau of African Affairs, Department of State [1989-1991]; Director, Office of Chinese and Mongolian Affairs, Bureau of East Asian and Pacific Affairs, Department of State from 1992
+- Perkins, Anthony C., Consul, U.S. Embassy in Warsaw [1990, 1991]; Consul, U.S. Consulate at Naples [1992]
+- Perkins, Edward J., U.S. Ambassador to South Africa until May 22, 1989; Director General of the Foreign Service and Director of Personnel, Department of State from September 22, 1989, until May 7, 1992; U.S. Permanent Representative to the United Nations from May 12, 1992
+- Perkins, John D., Commercial Counselor, U.S. Embassy in Mexico City [1989]
+- Pernick, Irwin, Special Assistant, Office of the Under Secretary of State for Security Affairs, Science, and Technology [1989]; Counselor, Department of Veterans Affairs (1990-1992)
+- Perrin, Bill K., U.S. Ambassador to Cyprus until July 21, 1989; Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs [1990, 1991]
+- Perrin, Patricia E., Labor Attache, U.S. Embassy in Panama City [1989, 1990]; U.S. Mission to the Organization of American States [1992]
+- Perrolle, Pierre M., Science Attache, U.S. Embassy in Beijing [1989]
+- Perrone, Daniel M., Consul, U.S. Consulate at Merida [1990-1992]
+- Perry, Blossom, Staff Assistant, Policy Planning Staff, Department of State [1992]
+- Perry, Cynthia Shepart, U.S. Ambassador to Sierra Leone until August 30, 1989; U.S. Ambassador to Burundi from February 12, 1990
+- Perry, Robert C., Deputy Chief of Mission, U.S. Embassy in Port Louis [1989, 1990]; Chief, Americas Caribbean Division, Office of Program Management, Bureau of International Narcotics Matters, Department of State [1990-1992]; Director, Office of Program Management, Bureau of International Narcotics Matters, Department of State [1992]
+- Perry, William J., Director, Stanford University Center for International Security and Arms Control from 1989 until 1993; Deputy Secretary of Defense from March 5, 1993
+- Peters, Betsy Ross, Administrative Counselor, U.S. Embassy in Cotonou [1991, 1992]
+- Peters, Lauralee M., Career Development—Economic, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1989]; Deputy Assistant Secretary of State for Personnel from 1989 until 1991; The Senior Seminar, Foreign Service Institute, Department of State; Office of Anglophone and Lusophone West African Affairs, Bureau of African Affairs, Department of State [1992]; U.S. Ambassador to Sierra Leone from October 8, 1992
+- Peters, Lee M., Deputy Director, Office of Brazilian Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Deputy Director, Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Peters, Mary Ann, Economic Counselor, U.S. Embassy in Moscow [1989, 1990]; Deputy Director, Office of Pakistan, Afghanistan, and Bangladesh Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990]; Deputy Chief of Mission, U.S. Embassy in Sofia [1992]
+- Peters, Philip, Office of Press and Public Affairs, Bureau of Inter-American Affairs, Department of State [1990]; Director, Office of Press and Public Affairs, Bureau of Inter-American Affairs, Department of State [1991, 1992]
+- Peters, Sheila J., Political Counselor, U.S. Consulate at Lahore [1991, 1992]
+- Petersen, Robert B., Public Affairs Officer, U.S. Embassy in Abidjan [1991, 1992]
+- Peterson, Lisa J., Consul, U.S. Embassy in Bangui [1990, 1991]; Consul, U.S. Consulate at Durban [1991, 1992]
+- Peterson, Marvin R., Senior Science Adviser, U.S. Mission to International Organizations in Vienna [1990-1992]
+- Peterson, Richard R., Consul General, U.S. Consulate at Ciudad Juarez [1991, 1992]
+- Peterson, Robert B., Public Affairs Officer, U.S. Embassy in Abidjan [1989, 1990, 1991]
+- Petrone, Joseph C., Chief of Mission, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva until July 27, 1989
+- Petterson, Donald K., U.S. Ambassador to Tanzania until December 26, 1989; Director of the Liberia Task Force, Department of State, in 1990; acting Deputy Assistant Secretary of State for African Affairs in 1990; Charge d’Affaires, U.S. Embassy in Harare from 1990 until 1991; U.S. Ambassador to Sudan from August 24, 1992
+- Pforzheimer, Anne E., Consul and Administrative Counselor, U.S. Consulate at Barranquilla [1990, 1991]
+- Phaup, Dwight, Director, Planning and Economic Analysis Staff, Bureau of Economic and Business Affairs, Department of State [1990]
+- Philip, Maria I., Consul, U.S. Embassy in Georgetown [1991, 1992]
+- Phillips, Christopher H., U.S. Ambassador to Brunei from November 28, 1989, until October 31, 1991
+- Phillips, Gregory E., Office of Central European Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Political and Economic Counselor, U.S. Consulate at Hamburg [1991, 1992]
+- Phillips, James D., U.S. Ambassador to Burundi until January 12, 1990
+- Phipps, Brian H., Consul, U.S. Embassy in Mogadishu [1990, 1991]
+- Phlipot, Constance A., Commercial Counselor, U.S. Embassy in Rangoon [1991, 1992]
+- Piascik, Lisa A., Consul, U.S. Embassy in Damascus [1989, 1990]; European Services Division, Office of Citizens Consular Services, Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1990]; Principal Officer, U.S. Consulate at Cebu [1992]
+- Piazza, Col. John B., USAF, Director, Office of International Security Operations, Bureau of Politico-Military Affairs, Department of State [1992]
+- Picard, Helen B., Public Affairs Officer, U.S. Embassy in Mbabane [1990, 1991]; Public Affairs Officer, U.S. Embassy in Windhoek [1991, 1992]
+- Piccuta, Daniel W., II, Political Counselor, U.S. Consulate at Guangzhou [1992]; Operations Center, Executive Secretariat, Department of State [1992]
+- Pickering, Thomas R., U.S. Permanent Representative to the United Nations from March 20, 1989, until May 7, 1992; U.S. Ambassador to India from August 14, 1992
+- Pierce, David C., Refugee Coordinator, U.S. Embassy in Bangkok [1991, 1992]
+- Pierce, Roger D., Consul, U.S. Consulate at Istanbul [1989, 1990]; Consul, U.S. Consulate at Amsterdam [1990-1992]
+- Pierce, William A., Political and Military Counselor, U.S. Embassy in Riyadh [1989-1992]
+- Piez, William, Deputy Assistant Secretary of State for East Asian and Pacific Affairs [1989, 1990]
+- Pifer, Steven K., Deputy Director for Multilateral and Security Affairs, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1989-1991]
+- Pillard, Diane, Consul, U.S. Embassy in Paris [1992]
+- Pilling, Donald, Director for Defense Policy and Arms Control, National Security Council staff [1989, 1990]
+- Pilliod, Charles J., Jr., U.S. Ambassador to Mexico until April 7, 1989
+- Pina, Jeanette C., Administrative Counselor, U.S. Consulate at Barcelona [1991, 1992]
+- Pines, Robert H., acting Deputy Assistant Secretary of State for European and Canadian Affairs [1990]; Deputy Assistant Secretary of State for European and Canadian Affairs [1991, 1992]
+- Piness, Peter, Branch Public Affairs Officer, U.S. Consulate at Lubumbashi [1991]
+- Pinkerton, James P., Deputy Assistant to the President for Policy Planning (1989, 1990, 1991)
+- Pinkham, Shirlie C., Commercial Counselor, U.S. Embassy in Rangoon [1989-1991]; Office of Development Finance, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1992]
+- Pinochet, Gen. Augusto, President of Chile until March 11, 1990
+- Pipal, Suella, Consul, U.S. Consulate at Casablanca [1989-1992]
+- Pistor, Michael T.F., Counselor, United States Information Agency until 1991; U.S. Ambassador to Malawi from July 1, 1991
+- Pitts, Amy, Office of Administrative Services, Office of the Executive Director, Bureau of International Organization Affairs, Department of State [1991, 1992]; Administrative Counselor, U.S. Embassy in Lilongwe [1992]
+- Plaisted, Joan M., Deputy Chief of Mission, U.S. Embassy in Rabat [1991, 1992]; Charge d’Affaires, U.S. Embassy in Rabat [1992]
+- Planty, Donald L., Political and Military Counselor, U.S. Embassy in Madrid [1989]; Deputy Chief of Mission, U.S. Embassy in Oslo [1989-1992]; Director, Office of Southern Cone Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Platt, Mark J., Chief, Developing Counties and Trade Organization Division, Office of International Trade, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Santo Domingo [1990, 1991]
+- Platt, Nicholas, U.S. Ambassador to the Philippines until July 20, 1991; U.S. Ambassador to Pakistan from October 24, 1991, until November 3, 1992
+- Plotkin, Robert D., Public Affairs Officer, U.S. Embassy in San Jose [1989]
+- Polansky, John, Office of Aviation Negotiations, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1991]
+- Polansky, Sol, U.S. Ambassador to Bulgaria until August 17, 1990
+- Polasky, Frederick, Office of Performance Evaluation, Bureau of Personnel, Department of State [1990]; Consul, U.S. Embassy in Sanaa [1992]
+- Polik, Lorraine W., Consul, U.S. Consulate at Zagreb [1989, 1990]; Consul, U.S. Consulate at Hamburg [1991, 1992]
+- Polka, Richard, Consul, U.S. Consulate at Bratislava [1991, 1992]
+- Pollack, James, Public Affairs Officer, U.S. Embassy in Dakar [1992]
+- Pollack, Margaret J., Officer-in-Charge, Economic Development Division, Office of International Development Assistance, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1991, 1992]
+- Pollard, Diane R., Bureau of European and Canadian Affairs, Department of State [1990, 1991]
+- Pollock, James C., Public Affairs Officer, U.S. Embassy in Kuala Lumpur [1989-1992]
+- Polt, Michael C., Political Counselor, U.S. Embassy in Panama City [1989, 1990]; Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Executive Assistant to the Under Secretary of State for International Security Affairs [1992]
+- Pometto, Paul, Current Intelligence Staff, Office of Intelligence Support, Bureau of Intelligence and Research, Department of State [1991]; International Affairs Officer, Office of Multilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Poneman, Daniel B., Director for Defense Policy and Arms Control, National Security Council staff, from January 1991 until October 1992 (1992)
+- Pons, Robert W., Administrative Counselor, U.S. Embassy in Vientiane [1990-1992]
+- Ponticelli, Charlotte M., Director, Policy and Planning Staff, Bureau of International Organization Affairs, Department of State [1989, 1990]; Director, Office of Human Rights and Women’s Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1991, 1992]
+- Popadiuk, Roman, Deputy Assistant to the President and Deputy Press Secretary for Foreign Affairs from January 21, 1989, until May 26, 1992; U.S. Ambassador to Ukraine from June 4, 1992
+- Pope, Edward C., Administrative Counselor, U.S. Consulate at Madras [1989]; Operations Center, Secretariat Staff, Executive Secretariat, Department of State [1990]; M/SNPI [1992]
+- Pope, Laurence E., II, Director, Office of Northern Gulf Affairs (Iran and Iraq), Bureau of Near Eastern and South Asian Affairs, Department of State [1989, 1990]; Office of the Coordinator for Counter-Terrorism [1992]
+- Pope, William, Legislative Management Officer, Bureau of Legislative Affairs, Department of State [1990-1992]
+- Porter, Blaine D., Economic and Commercial Counselor, U.S. Embassy in Lusaka [1989-1991]; Political and Economic Counselor, U.S. Consulate at Hong Kong [1992]
+- Porter, Harry W., Deputy Director, Foreign Missions, Department of State [1991, 1992]
+- Porter, Leonard J., Administrative Counselor, U.S. Embassy in Rangoon [1989]
+- Porter, Richard W., Deputy Assistant Secretary for Policy Review and Analysis, Department of the Treasury, from February 1989 until July 1990; Special Assistant to the President and Executive Secretary of the Domestic Policy Council from July 25, 1990
+- Porter, Robert C., Jr., Political Counselor, U.S. Embassy in Monrovia [1990, 1991]; Deputy Director, Office of Central African Affairs, Bureau of African Affairs, Department of State [1992]
+- Porter, Roger B., Assistant to the President for Economic and Domestic Policy (1989-1992)
+- Poulin, Susan S., Policy and Planning Staff, Bureau of International Organization Affairs, Department of State [1990, 1991]; Policy Planning Coordinator, Office of Multilateral Policy Coordination, Office of the Deputy Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Povenmire, Marilyn, Director, Policy and Coordination Staff, Bureau of Consular Affairs, Department of State [1989, 1990]
+- Powell, Barbara H., Personal Assistant to the Under Secretary of State for Management [1989, 1990]
+- Powell, Bernice A., Office of Technical Specialized Agencies, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1990]; Consul, U.S. Embassy in Praia [1992]; Consul, U.S. Consulate at Melbourne [1992]
+- Powell, Colin L., Gen., Chairman of the Joint Chiefs of Staff from October 1, 1989
+- Powell, Keith, II, Consul, U.S. Consulate at Vancouver [1990-1992]
+- Powell, Nancy Jo, Deputy Chief of Mission, U.S. Embassy in Lome [1991, 1992]; Consul General, U.S. Consulate at Calcutta [1992]
+- Powers, Gordon R., Deputy Director and Commercial Coordinator, Economic Policy Staff, Bureau of African Affairs, Department of State [1989]
+- Poza, Carlos F., Commercial Counselor, U.S. Embassy in Lisbon [1989, 1990]; Commercial Counselor, U.S. Embassy in Panama City [1990, 1991]
+- Pozorski, David R., Economic Counselor, U.S. Mission in Berlin [1989, 1990]; Deputy Director for Arms Control and Strategic Affairs (later Strategy and Security Affairs), Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Prahar, Peter A., Administrative Counselor, U.S. Consulate at Osaka-Kobe [1990-1992]
+- Praster, Thomas, Staff Assistant, Bureau of Politico-Military Affairs, Department of State [1991]; Office of Weapons Proliferation Policy, Bureau of Politico-Military Affairs, Department of State [1992]
+- Pratt, Mark S., Consul General, U.S. Consulate at Guangzhou [1989, 1990]
+- Presel, Joseph A., Deputy Chief of Mission, U.S. Embassy in Belgrade [1989]; Director, Office of Strategic and Theater Policy, Bureau of Politico-Military Affairs, Department of State [1990]; PM [1991]; Deputy Representative, U.S. Delegation for the Negotiation on Conventional Armed Forces in Europe [1992]
+- Presock, Patricia, Deputy Assistant to the President from January 31, 1989
+- Preston, Gene R., Branch Public Affairs Officer, U.S. Consulate at Karachi [1989, 1990]
+- Priamou, John L., Commercial Counselor, U.S. Embassy in Abu Dhabi [1989-1991]; Commercial Counselor, U.S. Embassy in Athens [1991, 1992]
+- Price, Charles H., II, U.S. Ambassador to the United Kingdom until February 28, 1989
+- Price, Eugene, Chief, Southern Europe Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1989]
+- Price, Gary V., Deputy Director, Office of Human Rights, Bureau of Human Rights and Humanitarian Affairs, Department of State [1989]; User Contracts, Office of User Services, Office of the Deputy Assistant Secretary for Information Services, Bureau of Diplomatic Security (later moved into Bureau of Administration), Department of State [1990-1992]
+- Price, Janice L., Economic Counselor, U.S. Embassy in Abidjan [1989-1991]; Office of Research, Bureau of Intelligence and Research, Department of State [1992]
+- Price, John T., Vice Consul, U.S. Consulate at Oporto [1990, 1991]
+- Price, Leila P., Personal Assistant to the Senior Representative for Strategic Technology Policy, Office of the Under Secretary of State for International Security Affairs [1990-1992]
+- Price, Lois A., Consul, U.S. Consulate at Antwerp [1989-1991]
+- Price, Robert L., Director, Office of COCOM Affairs, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1989-1992]
+- Price, Thomas L., Political Counselor, U.S. Embassy in Abidjan [1989-1991]; Charge d’Affaires, U.S. Embassy in Yerevan from April 1992
+- Price, Ying, Commercial Counselor, U.S. Consulate at Hong Kong [1989-1991]
+- Primakov, Yevgeniy M., Chairman of the Council of the Soviet Union, USSR Supreme Soviet, from June 3, 1989
+- Primosch, William E., Office of Chinese and Mongolian Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Director for International Economic Affairs, National Security Council staff (1992)
+- Pringle, Robert M., U.S. Ambassador to Mali until September 17, 1990; Director, Office of Central African Affairs, Bureau of African Affairs, Department of State [1991, 1992]
+- Prochnik, Martin, Director, Office of Cooperative Science and Technology Programs, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989-1992]
+- Proctor, Gregory, Special Assistant to the Ambassador at Large and Special Advisor to the Secretary of State for Nonproliferation and Nuclear Energy Affairs [1989]
+- Proctor, Robert A., Director, Policy Coordination Staff, Bureau of Personnel, Department of State [1990, 1991]; Political Counselor, U.S. Embassy in Kingston [1991, 1992]
+- Provost, Steven D., Assistant to the President for Communications from July 13 until August 23, 1992; Assistant to the President and Chief Speechwriter from August 23 until November 21, 1992
+- Provyn, Frank R., Director, Office of International Conference Programs (later International Conferences), Bureau of International Organization Affairs, Department of State [1989, 1990, 1991]; acting Director, Office of International Conference Programs, Bureau of International Organization Affairs, Department of State [1992]; thereafter Director
+- Pruett, Steven R., U.S. Liaison Office at Koror [1989, 1990]; Office of Fisheries Affairs, (Oceans and Fisheries Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990, 1991]
+- Pryce, William T., Deputy U.S. Permanent Representatives to the Organization of Latin American States until 1989; Special Assistant to the President for National Security Affairs and Senior Director for Latin America and the Caribbean, National Security Council staff, from November 8, 1989, until August 6, 1992
+- Pryor, Elizabeth B., Public Affairs Adviser, U.S. Delegation for the Negotiation on Conventional Armed Forces in Europe [1990]; ACDA [1992]
+- Przystup, James, Member, Policy Planning Staff, Department of State [1989-1991]
+- Pudschun, Jerrilyn, Consul, U.S. Embassy in Ankara [1989]; Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1992]
+- Pugh, Robert L., U.S. Ambassador to Chad until November 15, 1989; Management Policy, Bureau of Finance and Management Policy, Department of State [1990]; Dean, The Senior Seminar, Foreign Service Institute, Department of State [1991]
+- Purnell, Jon R., Deputy Principal Officer, U.S. Consulate at Leningrad (later St. Petersburg) [1989-1992]
+- Putt, James R., Political Counselor, U.S. Consulate at Bombay [1991]
+- Qian Qichen, Chinese Foreign Minister
+- Quainton, Anthony Cecil Eden, Deputy Inspector General, Office of the Inspector General, Department of State until November 1989; U.S. Ambassador to Peru from December 11, 1989, until September 16, 1992; Assistant Secretary of State for Diplomatic Security from September 23, 1992
+- Quasius, Peter L., Public Affairs Officer, U.S. Embassy in Georgetown [1989]
+- Quast, Necia L., Current Intelligence Staff, Office of Intelligence Support, Bureau of Intelligence and Research, Department of State [1990-1991]; Economic and Commercial Counselor, U.S. Embassy in Lusaka [1991, 1992]
+- Quayle, J. Danforth, III, Vice President of the United States
+- Quesada, Monique V., Political and Economic Counselor, U.S. Consulate at Martinique [1990, 1991]
+- Quinn, Andrew J., Staff Assistant, Bureau of East Asian and Pacific Affairs, Department of State [1991]; Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Quinn, Eileen J., Administrative Counselor, U.S. Consulate at Dhahran [1989, 1990]; Human Resources Unit Chief, Office of the Executive Director, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Quinn, Kenneth M., Deputy Chief of Mission, U.S. Embassy in Manila [1989, 1990]; Deputy Assistant Secretary of State for East Asian and Pacific Affairs from 1990
+- Quinn, Martin, Public Affairs Officer, U.S. Embassy in Doha [1989, 1990]
+- Quinn, Maureen F., Office of Development Finance, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990]; Economic Counselor, U.S. Embassy in Panama City [1992]
+- Quinn, Thomas P., acting Assistant Secretary of Defense for Command, Control, Communications and Intelligence from May 13 until November 19, 1989
+- Quinones, C. Kenneth, Deputy Director, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]; Office of Southern European Affairs, Bureau of European and Canadian Affairs, Department of State [1990]; Office of Korean Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Quintus, John, Public Affairs Officer, U.S. Embassy in Port Louis [1989, 1990]; Branch Public Affairs Officer, U.S. Consulate at Toronto [1990-1992]
+- Quinville, Robin, Multilateral Affairs Officer, Office of Multilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990, 1991]
+- Raab, Maxwell M., U.S. Ambassador to Italy until June 3, 1989
+- Raab-Ayres, Priscilla, Director, Trade and Development Program, United States International Development Cooperation Agency (1989-1991); Senior Adviser for Private Sector, Office of Commonwealth of Independent States Assistance, Office of the Deputy Secretary of State [1992]
+- Rabadan, David, NEA Regional Officer, Office of Human Rights, Bureau of Human Rights and Humanitarian Affairs, Department of State [1989, 1990]
+- Rabasa, Angel M., Political and Military Counselor, U.S. Embassy in Athens [1989, 1990]
+- Rabens, Joyce, B., Chief, Special Trade Activities Division, Office of International Trade, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1989]; Deputy Director, Office of Regional-Political Economic Affairs, Bureau of European and Canadian Affairs, Department of State [1990-1992]
+- Rabens, Ronald B., Deputy Executive Director, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Administrative Counselor, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1992]
+- Rabin, Yitzhak, Israeli Minister of Defense until June 1990
+- Rackmales, Robert, Chief, Career Development—Political, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Belgrade [1989-1992]; Charge d’Affaires ad interim from May 1, 1992
+- Rada, William L., Consul, U.S. Consulate at Curacao [1989, 1990]; Administrative Counselor, U.S. Consulate at Naples [1992]
+- Rademaker, Stephen, Deputy Legal Adviser, National Security Council staff (1989); Associate Counsel to the President, National Security Council staff (1989)
+- Rafferty, Rubin Michael, Administrative Counselor, U.S. Embassy in Alma Ata [1992]
+- Rafsanjani, Ali Akbar Hashemi, Speaker of the Iranian Majlis until August 1989; thereafter President of Iran
+- Ragsdale, Marguerita D., Office of Arabian Peninsular Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990-1992]; Political and Economic Counselor, U.S. Embassy in Doha [1992]
+- Raiole, Michael J., Economic and Commercial Counselor, U.S. Embassy in Dar Es Salaam [1991, 1992]
+- Ramage, Donald F., Administrative Counselor, U.S. Embassy in Canberra [1989]
+- Ramee, Mark, Political Counselor, U.S. Embassy in Moscow [1989, 1990]; Deputy Negotiator, U.S. Delegation to the Open Skies Conference [1990-1992]
+- Ramirez, Adolfo A., Administrative Counselor, U.S. Embassy in Luxembourg City [1989]
+- Ramsay, William C., Deputy Assistant Secretary for Energy, Resources, and Food Policy, Bureau of Economic and Business Affairs, Department of State [1990-1992]
+- Randall, Thomas L., Jr., Consul, U.S. Embassy in Tijuana [1989-1991]; Consul, U.S. Embassy in Bogota [1991, 1992]
+- Randall, Timothy, Branch Public Affairs Officer, U.S. Consulate at Naples [1989, 1990]; Chief, American Republics Branch, Office of International Visitors, Bureau of Educational and Cultural Affairs, United States Information Agency [1992]
+- Randolph, David E., Political Counselor, U.S. Embassy in Santo Domingo [1989-1991]; Deputy Director, Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State [1992]
+- Rankin, David C., Bureau of International Narcotics Matters, Department of State [1990]; Chief, Aviation Division, Office of Transnational Issues, Bureau of International Narcotics Matters [1991]
+- Rankin, Haywood, Political Counselor, U.S. Embassy in Baghdad [1989]; Deputy Chief of Mission, U.S. Embassy in Muscat [1989-1992]; Deputy Chief of Mission, U.S. Embassy in Algiers [1992]
+- Ranneberger, Michael E., Deputy Chief of Mission, U.S. Embassy in Maputo [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Asuncion [1990-1992]; Deputy Director, Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Ransom, David M., Director, Office of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989, 1990]; Director, Office of Southern European Affairs, Bureau of European and Canadian Affairs, Department of State [1990-1992]
+- Ransom, Marjorie A., Executive Assistant to the Counselor, United States Information Agency [1989, 1990]; Chief, Foreign Service Personnel Division, United States Information Agency [1990]; Public Affairs Officer, U.S. Embassy in Cairo [1992]
+- Rao, P.V. Narasimha, Prime Minister of India from June 21, 1991
+- Raphel, Robin L., Political Counselor, U.S. Embassy in Pretoria [1989-1991]; Political Counselor, U.S. Embassy in New Delhi [1991, 1992]
+- Rapoport, Sheldon J., Political and Economic Counselor, U.S. Consulate at Adana [1989, 1990]; Office of Terrorism and Narcotics Analysis, Bureau of Intelligence and Research, Department of State [1990-1992]
+- Rasco, Roger C., Branch Public Affairs Officer, U.S. Consulate at Bombay [1989-1992]
+- Rase, Glen R., Economic Counselor, U.S. Embassy in Santiago [1989-1991]; Deputy Director, Office of Monetary Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1992]
+- Rasmussen, Douglas K., Principal Officer, U.S. Consulate at Songkhla [1989]; Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Raspolic, Elizabeth, Consul, U.S. Embassy in Beijing [1989]; Office of Inspections, Office of the Inspector General, Department of State [1990, 1991]; Deputy Chief of Mission and Charge d’Affaires, U.S. Embassy in Ouagadougou [1992]
+- Rathke, Jeffrey, Consul, U.S. Embassy in Riga [1992]
+- Ratigan, John R., Coordinator for Consular Training, School of Professional Studies, Foreign Service Institute, Department of State [1989]; Consul, U.S. Consulate at Toronto [1990-1992]; Consul, U.S. Embassy in Seoul [1992]
+- Ratley, Col. Lonnie, USAF, Director, Office of International Security Operations, Bureau of Politico-Military Affairs, Department of State [1991]
+- Ratney, Michael, Special Assistant, Bureau of Intelligence and Research, Department of State [1989]
+- Rattray, Alexander L., Consul General, U.S. Consulate at Frankfurt [1989, 1990]
+- Rawlings, James W., U.S. Ambassador to Zimbabwe until March 30, 1989
+- Rawson, David P., Director, Office of West African Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Director, Office of Anglophone and Lusophone West African Affairs, Bureau of African Affairs, Department of State [1991]; Center for the Study of Foreign Affairs, Foreign Service Institute, Department of State [1992]
+- Rawson, Sandra, Office of Southern African Affairs, Bureau of African Affairs, Department of State [1991, 1992]
+- Ray, Charles A., Administrative Counselor, U.S. Consulate at Chiang Mai [1989, 1990]; Special Assistant, Office of Defense Trade Controls, Bureau of Politico-Military Affairs, Department of State [1991, 1992]; Charge d’affaires ad interim, U.S. Embassy in Lima from September 1992
+- Raymer, Robert T., Consul, U.S. Embassy in Panama City [1990-1992]
+- Raymond, Walter, Jr., Assistant Director, United States Information Agency (1989-1991); Senior Coordinator, East European Initiative, Office of European Affairs, United States Information Agency [1992]
+- Raynor, Michael A., Consul, U.S. Embassy in Luxembourg City [1991, 1992]; Special Assistant, Bureau of Legislative Affairs, Department of State [1992]
+- Read, Edna M., Consul, U.S. Embassy in Oslo [1989]
+- Reagan, Ronald W., President of the United States from January 20, 1981, until January 20, 1989
+- Reams, Peter R., Career Development—Political, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Antananarivo [1991, 1992]
+- Recinos, Augusto, Staff Assistant, Bureau of Inter-American Affairs, Department of State [1989]
+- Reddy, Kathleen M., Investment Adviser, U.S. Mission to the Organization for Economic Cooperation and Development [1992]
+- Redecker, J. Brayton, Deputy Principal Officer, U.S. Consulate at Frankfurt [1989-1991]
+- Redman, Charles E., Assistant Secretary of State for Public Affairs and Department of State Spokesperson until March 1, 1989; U.S. Ambassador to Sweden from June 13, 1989, until August 24, 1992
+- Redmond, Richard J., Director, Office of European, Near Eastern, and Latin America Refugee Assistance, Refugee Programs, Department of State [1989]
+- Reeber, Mary K., Public Affairs Officer, U.S. Embassy in Nassau [1989-1992]
+- Reece, T. Dennis, Consul, U.S. Consulate at Jeddah [1989-1991]; North Africa and Arabian Peninsula Affairs, Office of Analysis for Near East and South Asia, Bureau of Intelligence and Research, Department of State [1992]
+- Reed, Henry M., II, Administrative Adviser, U.S. Mission to the North Atlantic Treaty Organization [1989-1992]
+- Reed, Joseph Verner, Jr., Chief of Protocol, Department of State, from May 21, 1989, until October 21, 1991
+- Reed, Karla, Foreign Service Institute, Department of State [1990]; Consul, U.S. Embassy in Riyadh [1991, 1992]
+- Reese, Charles M., Commercial Counselor, U.S. Consulate at Perth [1989-1991]
+- Reese, T. Dennis, Consul, U.S. Consulate at Jeddah [1989]
+- Reese, Thomas H., Deputy Assistant Administrator, Bureau for Asia and the Near East, Agency for International Development [1989]; Deputy Assistant Administrator, Bureau for Asia, Near East, and Europe, Agency for International Development [1990]
+- Rehfeld, Eric, Coordinator for NATO Programs, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1989-1992]
+- Rehfuss, David P., Economic Counselor, U.S. Embassy in The Hague [1989, 1990]; Economic Counselor, U.S. Embassy in Riyadh [1991, 1992]
+- Reich, Otto J., U.S. Ambassador to Venezuela until July 17, 1989
+- Reich, Thomas G., Office of Thailand and Burma Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990]; Political and Military Counselor, U.S. Consulate at Naha [1992]
+- Reichart, John, Member, Policy Planning Staff, Department of State [1989-1992]
+- Reichenbach, Arthur J., Commercial Counselor, U.S. Embassy in Vienna [1989, 1990]; Commercial Counselor, U.S. Embassy in Bern [1991, 1992]
+- Reid, James R., Administrative Counselor, U.S. Embassy in Libreville [1991]
+- Reid, John M., Public Affairs Officer, U.S. Embassy in Seoul [1989-1991]; Deputy Director, Office of East Asian and Pacific Affairs, United States Information Agency [1992]; Public Affairs Officer, U.S. Embassy in Bangkok [1992]
+- Reid, Thomas D., Operations Center, Executive Secretariat, Department of State [1990]; Staff Assistant, Bureau of European and Canadian Affairs, Department of State [1990-1992]
+- Reifsnyder, Daniel A., Deputy Director, Office of Cooperative Science and Technology, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989]; Director, Office of Global Change, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990-1992]
+- Reilly, James J., Economic Counselor, U.S. Mission to the Organization of American States, Bureau of Inter-American Affairs, Department of State [1990-1992]
+- Reilly, Philip F., Consul, U.S. Embassy in Maputo [1992]
+- Reilly, William K., Administrator of the Environmental Protection Agency until February 1989
+- Reinstein, Robert A., Deputy Assistant Secretary for Environment, Health, and Natural Resources, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990-1992]
+- Reis, Robert, Deputy Director, Office of Investment Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1989, 1990]
+- Reis, Victor, Director of Defense Research and Engineering from December 3, 1991
+- Remler, Philip, Office of Northern Gulf Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990]; Political Counselor, U.S. Embassy in Baku [1992]
+- Render, Arlene, Deputy Chief of Mission, U.S. Embassy in Accra [1989]; The Senior Seminar, Foreign Service Institute, Department of State; U.S. Ambassador to The Gambia from December 31, 1990
+- Rennie, Lance C., Consul, U.S. Embassy in Cotonou [1991, 1992]
+- Rethmeier, Julie A., Consul, U.S. Consulate at Edinburgh [1990, 1991]
+- Reuther, David E., Refugee Coordinator, U.S. Embassy in Khartoum [1990]; Deputy Director, Office of Northern Gulf Affairs (Iran and Iraq), Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Revere, Evans J.R., Principal Officer, U.S. Consulate at Fukuoka [1990-1992]; Special Assistant, Office of the Under Secretary of State for Political Affairs [1992]
+- Rey, Frank, Administrative Counselor, U.S. Interests Section in Havana [1989, 1990]; Administrative Officer, International Communications and Information Policy, Department of State [1991]
+- Reynard, Garace, Administrative Counselor, U.S. Embassy in Kigali [1991, 1992]
+- Reynolds, Andrew W., Deputy Director, Office of Cooperative Science and Technology, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1991, 1992]
+- Reynolds, Carol T., Economic and Commercial Counselor, U.S. Embassy in Kathmandu [1989, 1990]; Commercial Counselor, U.S. Embassy in Kathmandu [1991]; Foreign Service Institute, Department of State [1992]
+- Rhinehart, Frank E., Administrative Counselor, U.S. Embassy in Rabat [1989]
+- Rhodes, J. Steven, U.S. Ambassador to Zimbabwe from April 5 until August 6, 1990
+- Ricciuti, Nicholas J., Consul, U.S. Embassy in San Salvador [1989, 1990]; Director, Citizens Emergency Center, Office of the Deputy Assistant Secretary for Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1991]; Director, Policy and Coordination Staff, Bureau of Consular Affairs, Department of State [1992]
+- Rice, Condoleezza, Director for European and Soviet Affairs, National Security Council staff, from February 1989 until May 1990; Senior Director for European and Soviet Affairs from May 1990 until August 1990; Special Assistant to the President for National Security Affairs and Senior Director for Soviet Affairs from August 10, 1990, until March 1991
+- Rice, Donald B., President and Chief Executive Officer, RAND Corp.; Secretary of the Air Force from May 22, 1989, until January 20, 1993
+- Rice, Jonathan K., Branch Public Affairs Officer, U.S. Consulate at Dhahran [1989, 1990, 1991]
+- Rice, Thomas J., Consul, U.S. Embassy in Vienna [1989-1991]
+- Rich, Robert G., Jr., U.S. Ambassador to Belize until July 7, 1990
+- Richard, Anne C., Adviser to the Deputy Secretary for Policy and Resources, Office of the Deputy Secretary of State [1990-1992]
+- Richard, Christopher J., Staff Assistant, Bureau of International Organization Affairs, Department of State [1991]; Office of United Nations Social and Refugee Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs [1992]
+- Richard, Lucy H., Adviser for Industrialized Country Policy, International Communications and Information Policy, Department of State [1990, 1991]
+- Richards, Lois, Senior Adviser, Office of Emergencies and Solutions, Refugee Programs, Department of State [1991, 1992]; Deputy Assistant Administrator, Bureau for Food and Humanitarian Assistance, Agency for International Development [1992]
+- Richards, Robert W., Economic Counselor, U.S. Consulate at Dubai [1989-1992]; Political and Military Counselor, U.S. Embassy in Ouagadougou [1992]
+- Richards, Timothy, Trade Adviser, U.S. Mission to the European Communities [1992]
+- Richardson, Elliott L., President’s Special Representative for the Multilateral Assistance Initiative to the Philippines from November 8, 1989
+- Richardson, Joseph P., Deputy Director, Office of Maritime and Land Transport, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Office of Korean Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Richardson, Karl Spence, Consul General, U.S. Consulate at Naha [1989]; Director, Office of Korean Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]
+- Richter, Kim B., Office of Panamanian Affairs, Bureau of Inter-American Affairs, Department of State [1991]; Office of Field Support Liaison, Visa Services, Bureau of Consular Affairs, Department of State [1992]
+- Richter, Lawrence G., Consul, U.S. Embassy in Port Moresby [1989, 1990]
+- Rickerman, Lysbeth J., Administrative Counselor, U.S. Embassy in St. Johns [1990]
+- Rickert, Jonathan B., Chief, Assignments Division (EUR), Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Bucharest [1991, 1992]
+- Ricks, Sonja, Special Assistant, Bureau of African Affairs, Department of State [1992]
+- Ridgway, Rozanne L., Assistant Secretary of State for European and Canadian Affairs until June 1989
+- Riedel, Bruce O., Director for Near East and South Asian Affairs, National Security Council staff (1991, 1992)
+- Riegg, Nicholas H., Economic Counselor, U.S. Embassy in Colombo [1992]
+- Ries, Charles P., Economic Counselor, U.S. Mission to the European Communities [1992]
+- Rife, Marlene M., Bureau of International Organization Affairs, Department of State [1991, 1992]
+- Rifkin, Roberta, Executive Secretary, Arms Control and Disarmament Agency
+- Rifkin, Sylvia, Public Affairs Officer, U.S. Embassy in Valletta [1990-1992]
+- Rigdon, Alice M., Customs Attache, U.S. Mission to the European Communities [1989, 1990, 1991]
+- Riggs, Floyd A., Deputy Director, Office of Multilateral Policy Coordination, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1990-1992]
+- Riley, John P., Economic Counselor, U.S. Consulate at Montreal [1989-1992]; Economic Counselor, U.S. Embassy in Kingston [1992]
+- Rimas, Algirdas, Economic Counselor, U.S. Embassy in Vilnius [1992]
+- Ristaino, Richard, Chief, Southern Africa Division, Office of Analysis for Africa, Bureau of Intelligence and Research, Department of State [1990, 1991]
+- Ritchie, Beth L., Branch Public Affairs Officer, U.S. Consulate at Bratislava [1991, 1992]
+- Riveles, Stanley, Chief, Strategic Affairs Division, Bureau of Strategic Programs, Arms Control and Disarmament Agency, from 1989
+- Rizzo, Vincent J., Consul, U.S. Embassy in Abidjan [1989, 1990]
+- Robbins, Gary D., Political Counselor, U.S. Consulate at Johannesburg [1992]
+- Roberts, David A., Administrative Counselor, U.S. Embassy in Jakarta [1989, 1990]; Administrative Counselor, U.S. Embassy in Lima [1991, 1992]
+- Roberts, Donald A., Political and Economic Counselor, U.S. Embassy in Doha [1989-1992]; Economic and Commercial Counselor, U.S. Embassy in Manama [1992]
+- Roberts, James M., III, acting Public Affairs Officer, U.S. Mission to the Organization for Economic Cooperation and Development [1991, 1992]
+- Roberts, John E., Economic and Commercial Counselor, U.S. Consulate at Surabaya [1989, 1990]
+- Roberts, John W., Commercial Counselor, U.S. Consulate at Medan [1989-1991]; Commercial Counselor, U.S. Consulate at Surabaya [1991]
+- Roberts, Kenneth E., Jr., Director, Office of Research, Bureau of Intelligence and Research, Department of State [1990, 1991]
+- Roberts, Ricky, Public Affairs Officer, U.S. Embassy in Manama [1990-1992]
+- Robertson, Charles E., III, Consul, U.S. Embassy in Abu Dhabi [1989-1992]
+- Robertson, Thomas B., Office of Soviet Affairs, Bureau of European and Canadian Affairs, Department of State [1990]; Political Counselor, U.S. Embassy in Budapest [1991, 1992]
+- Robins, David S., Economic Counselor, U.S. Embassy in Rabat [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Manama [1992]
+- Robinson, Brooks A., Branch Public Affairs Officer, U.S. Consulate at Kaduna [1989, 1990]; Public Affairs Officer, U.S. Embassy in Mbabane [1991, 1992]
+- Robinson, Katherine Dee, Consul, U.S. Embassy in Beijing [1989-1991]
+- Robinson, Lawrence K., Office of Chinese and Mongolian Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1991]
+- Robinson, Leonard H., Jr., Deputy Assistant Secretary of State for African Affairs [1991, 1992]
+- Robinson, Max N., Consul, U.S. Embassy in Moscow [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Helsinki [1990-1992]
+- Robinson, Paul, Representative to the Nuclear Testing Talks
+- Robinson, Raymond G., Consul General, U.S. Consulate at Martinique [1990, 1991]; Director, Office of Resource Management, Office of the Deputy Secretary for Resource Management, Bureau of Diplomatic Security, Department of State [1992]
+- Robinson, Thomas L., Deputy Director, Office of Australia and New Zealand Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]
+- Robinson, William B., Director, Office of Munitions Control, Bureau of Politico-Military Affairs, Department of State [1989]; Director, Office of Defense Trade Controls, Bureau of Politico-Military Affairs, Department of State [1990-1992]
+- Robl, Terri L., Financial Economist, Economic Policy Staff, Bureau of African Affairs, Department of State [1991]
+- Robson, John E., Dean and Professor of Management, School of Business Administration, Emory University, until 1989; Deputy Secretary of the Treasury
+- Rocha, V. Manuel, Deputy Chief of Mission, U.S. Embassy in Santo Domingo [1991, 1992]
+- Rochester, Chris, Public Affairs Officer, U.S. Embassy in Bangui [1991]; Country Officer, Southern Africa, Office of African Affairs, United States Information Agency [1992]
+- Rock, Anthony F., Office of Cooperative Science and Technology Programs, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990, 1991]; Science Adviser, U.S. Mission to the European Communities [1991, 1992]
+- Rockey, David T., Administrative Counselor, U.S. Consulate at Shenyang [1991, 1992]
+- Roddy, Timothy E., Administrative Counselor, U.S. Embassy in The Hague [1989-1992]
+- Rodgers, H. Clarke, Jr., Executive Director, Bureau of European and Canadian Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Mission to the European Office of the United Nations and Other International Organizations [1991, 1992]
+- Rodgers, Richard P., Political Counselor, U.S. Embassy in Reykjavik [1991, 1992]
+- Rodman, Peter W., Special Assistant to the President for National Security Affairs and National Security Council Counselor, National Security Council staff (1989)
+- Rodriguez, Andres, President of Paraguay from May 15, 1989
+- Roe, Charlotte E., Labor Attache, U.S. Embassy in Tel Aviv [1990]; Labor Attache, U.S. Embassy in Bogota [1990-1992]; Officer-in-Charge, Agricultural Development Division, Office of International Development Assistance, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Roe, Pamela K., Consul, U.S. Consulate at Bordeaux [1989, 1990]; Staff Assistant, Bureau of Consular Affairs, Department of State [1990, 1991]; Office of Western European Affairs, Bureau of European and Candian Affairs, Department of State [1992]
+- Roesch, Thomas K., Commercial Counselor, U.S. Consulate at Calgary [1989, 1990]
+- Rogers, Alan A., Public Affairs Officer, U.S. Embassy in Asuncion [1989, 1990]
+- Rogers, Edward M., Jr., Deputy Assistant to the President and Executive Assistant to the Chief of Staff (1989, 1990)
+- Rogers, Gale E., Visa Services, Bureau of Consular Affairs, Department of State [1990]; Consul, U.S. Embassy in Kuwait [1990-1992]
+- Rogers, John F.W., Under Secretary of State for Management from October 9, 1991, until January 13, 1993
+- Rogers, Richard P., Political Counselor, U.S. Embassy in Reykjavik [1989, 1990]
+- Rogers, Stephen H., Counselor for Economic and Commercial Affairs and Officer in Charge, U.S. Embassy in Pretoria [1989, 1990]; U.S. Ambassador to Swaziland from November 15, 1990
+- Rogich, Sigmund A., U.S. Ambassador to Iceland from June 4, 1992
+- Rogus, David F., Deputy Director, Office of Cuban Affairs, Bureau of Inter-American Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Reykjavik [1989-1991]
+- Rohn, Douglas C., Administrative Counselor, U.S. Embassy in Yaounde [1991, 1992]
+- Roh Tae Woo, President of South Korea
+- Rolston, Scott L., Consul and Political Counselor, U.S. Consulate at Udorn [1991, 1992]
+- Romano, Daniel F., Administrative Counselor, U.S. Consulate at Krakow [1989]; Current Intelligence Staff, Office of Intelligence Support, Bureau of Intelligence and Research, Department of State [1992]
+- Romero, Peter F., Deputy Director, Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State [1989]; thereafter Director, Office of Central American Affairs, Department of State [1990, 1991]; Charge d’Affaires, U.S. Embassy in San Salvador [1992]
+- Rondon, F. Mark (Fernando), Economic and Commercial Counselor, U.S. Embassy in Conakry [1989, 1990]; Office of Inspections, Office of the Inspector General, Department of State [1990, 1991]; Dean, The Senior Seminar, Foreign Service Institute, Department of State [1992]
+- Roney, John D., Branch Public Affairs Officer, U.S. Consulate at Guadalajara [1989, 1990]
+- Rook, Anthony F., Science and Technical Adviser, U.S. Mission to the European Communities [1991]
+- Rooney, Matthew M., Economic and Commercial Counselor, U.S. Embassy in Libreville [1991, 1992]
+- Root, Danny B., Consul, U.S. Embassy in Athens [1991, 1992]
+- Rope, William F., Deputy Chief of Mission, U.S. Embassy in Ankara [1989, 1990]; Principal Deputy Assistant Secretary of State for Politico-Military Affairs [1990, 1991]
+- Rose, Carol, Consul, U.S. Embassy in Addis Ababa [1989]
+- Rose, Douglas, Deputy Director, Office of American Republics Affairs, United States Information Agency (1992); also acting Director, Office of American Republics Affairs (1992)
+- Rose, Gerald S., Administrative Counselor, U.S. Embassy in Lagos [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Monrovia [1991, 1992]
+- Rose, Theorphilus R., Consul, U.S. Consulate at Zagreb [1991, 1992]
+- Rose, TJ, Special Assistant, Office of the Deputy Secretary of State [1989]
+- Rose, Victoria A., Public Affairs Officer, U.S. Embassy in Bangui [1989, 1990]
+- Rosenberg, Alison Podell, Deputy Assistant Secretary of State for African Affairs (for Economic Policy and Assistance) from 1988 until 1992; Assistant Administrator, Bureau for Africa, Agency for International Development, from 1992
+- Rosenberry, Sara A., Economic and Commercial Counselor, U.S. Embassy in Bujumbura [1991, 1992]
+- Rosenman, Richard G., Consul, U.S. Consulate at Recife [1989-1991]
+- Rosenquist, Eric, Program Analyst, Global Support Division, Office of Transnational Issues, Bureau of International Narcotics Matters, Department of State [1990]
+- Rosenthal, James D., Deputy Director, Office of Management Policy, Office of the Under Secretary of State for Management [1989]
+- Rosenthal, Michael, Chief, International Nuclear Affairs Division, Bureau of Nuclear and Weapons Control, Arms Control and Disarmament Agency [1989, 1990]; Chief, International Nuclear Affairs Division, Bureau of Nonproliferation Policy, Arms Control and Disarmament Agency [1991, 1992]
+- Roskens, Ronald W., President of the University of Nebraska System until 1989; Administrator of the Agency for International Development from April 23, 1990, until December 1, 1992
+- Ross, Christopher W.S., U.S. Ambassador to Algeria until August 14, 1991; U.S. Ambassador to Syria from September 25, 1991
+- Ross, Clathan M., Public Affairs Officer, U.S. Embassy in Colombo [1989, 1990]; Public Affairs Officer, U.S. Embassy in Brazzaville [1992]
+- Ross, Dennis B., Director, Policy Planning Staff, Department of State, from January 21, 1989, until August 23, 1992; Assistant to the President for Policy Planning from August until November 1992
+- Rossi, Herman J., III, Economic and Commercial Counselor, U.S. Embassy in Monrovia [1989]; Economic Counselor, U.S. Embassy in Kingston [1990-1992]
+- Rossin, Lawrence G., Political Counselor, U.S. Embassy in The Hague [1989-1992]
+- Rostenkowski, Daniel (Dan or Rosty), Member, U.S. House of Representatives (D-Illinois); Chair, Committee on Ways and Means
+- Rostow, Charles Nicholas, Special Assistant to the President for National Security Affairs and Legal Advisor to the National Security Council from 1988 until November 1992
+- Rostow, Victor, acting Deputy Assistant Secretary of Defense for Conventional Forces and Arms Control Policy (1989, 1990)
+- Roth, James M., Consul, U.S. Embassy in Canberra [1989]
+- Roth, Richard A., Deputy Director, Office of Southern African Affairs, Bureau of African Affairs, Department of State [1990-1992]
+- Roth, Toby, member, U.S. House of Representatives (R-Wisconsin)
+- Rothman, Andrew C., Security Trade Controls Division, Office of COCOM Affairs, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1990]; Political and Economic Counselor, U.S. Consulate at Surabaya [1991, 1992]
+- Rouse, John H., Deputy Chief of Mission, U.S. Embassy in The Hague [1989]; Contemporary Documents Review, Office of Freedom of Information, Privacy, and Classification Review, Office of the Deputy Assistant Secretary for Information Services, Bureau of Diplomatic Security (office later moved into the Bureau of Administration), Department of State [1990]
+- Rowe, Leslie V., Principal Officer, U.S. Consulate at Recife [1989-1992]
+- Rowe, Paul E., Administrative Counselor, U.S. Embassy in Libreville [1989, 1990]; Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]
+- Rowell, Edward M., U.S. Ambassador to Portugal until March 30, 1990; U.S. Ambassador to Luxembourg from May 10, 1990
+- Rowen, Henry S., Professor of Public Policy Studies, Stanford University Hoover Institution on War, Revolution, and Peace; Assistant Secretary of Defense for International Security Affairs from June 26, 1989, until July 31, 1991
+- Rowny, Edward L., Gen., Special Advisor to the President and Secretary of State on Arms Control Matters [1989, 1990]
+- Roy, J. Stapleton, Deputy Assistant Secretary of State for East Asian and Pacific Affairs until March 1989; Executive Secretary of the Department of State from March 26, 1989, until May 24, 1991; U.S. Ambassador to China from August 20, 1991
+- Rubenstein, Irwin, Consul General, U.S. Consulate at Guadalajara [1989]; Office of Mexican Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Border Coordinator, U.S.-Mexico Border Affairs Unit, Bureau of Inter-American Affairs, Department of State [1992]
+- Rubino, Samuel A., Administrative Officer, U.S. Embassy in Dublin [1989-1992]; Administrative Counselor, U.S. Consulate at Dhahran [1992]
+- Rudensky, Maria, Consul, U.S. Embassy in Kiev [1992]
+- Rudman, Warren B., Senator (R-New Hampshire)
+- Rudman, William, Deputy Under Secretary of Defense for Trade Security and Policy
+- Ruether, David, Deputy Director, Office of Northern Gulf Affairs (Iran and Iraq), Bureau of Near Eastern Affairs, Department of State [1992]
+- Rufenacht, Christina, Strategic Forces Division, Office of Strategic and Proliferation Affairs, Bureau of Intelligence and Research, Department of State [1991]; Special Assistant for Technical Assistance Initiatives, Office of Commonwealth of Independent States Assistance, Office of the Deputy Secretary of State [1992]
+- Ruffner, George F., Commercial Counselor, U.S. Consulate at Amsterdam [1989]; Commercial Counselor, U.S. Embassy in Singapore [1990-1992]
+- Rugh, William A., Director, Bureau for Near East and South Asia (later North Africa, Near Eastern, and South Asian Affairs), United States Information Agency from 1989 until 1992; U.S. Ambassador to the United Arab Emirates from November 3, 1992
+- Rundell, David H., Political Officer, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989, 1990]; Political and Economic Counselor, U.S. Consulate at Jeddah [1990-1992]
+- Ruppe, Loret Miller, Director, Peace Corps, from 1981 until 1989; U.S. Ambassador to Norway from August 29, 1989, until February 28, 1993
+- Rusch, Theresa L., Director, Office of Reception and Placement, Refugee Programs, Department of State [1989]; Director, Office of Refugee Admissions and Processing, Refugee Programs, Refugee Programs, Department of State [1990-1992]
+- Ruse, Edward E., III, Commercial Counselor, U.S. Consulate at Munich [1989-1992]
+- Russell, Beatrice A., Deputy Director, Public Affairs Staff, Bureau of African Affairs, Department of State [1989-1991]
+- Russell, Lawrence D., Administrative Counselor, U.S. Embassy in London [1989]
+- Russell, Layton Ross, Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1990]; Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1990-1992]; Consul, U.S. Consulate at Rio de Janeiro [1992]
+- Russell, McKinley H., Public Affairs Officer, U.S. Embassy in Beijing [1989-1991]; Counselor, United States Information Agency from April 1, 1991
+- Russell, Theodore E., Deputy Chief of Mission, U.S. Embassy in Prague [1989-1991]
+- Russillo, Victor L., Consul, U.S. Embassy in Brazzaville [1989]
+- Russo, Edith, Branch Public Affairs Officer, U.S. Consulate at Izmir [1989-1992]
+- Ruterbories, Julie, Consul, U.S. Embassy in Bishkek [1992]
+- Ruth, Rick, Executive Assistant to the Director, United States Information Agency [1992]
+- Ruwe, L. Nicholas, U.S. Ambassador to Iceland until October 7, 1989
+- Ryan, Mary A., U.S. Ambassador to Swaziland until January 24, 1990; Principal Deputy Assistant Secretary of State for Consular Affairs [1990, 1991]; Deputy Assistant Secretary of State for European and Canadian Affairs [1992]
+- Ryan, Thomas W., Administrative Counselor, U.S. Embassy in Kathmandu [1991, 1992]
+- Ryan, Timothy G., Consul, U.S. Consulate at Quebec [1992]
+- Ryerson, William E., Consul, U.S. Embassy in Belgrade until 1990; Associate Director, Visa Services, Office of the Deputy Assistant Secretary for Visa Services, Bureau of Consular Affairs, Department of State from 1990 until 1991; Chief, U.S. Delegation in Tirana during 1991; U.S. Ambassador to Albania from December 21, 1991
+- Sabo, Marin Olav, member, U.S. House of Representatives (DFL-Minnesota)
+- Saboe, Steven A., Special Assistant, Office of the Senior Representative for Strategic Technology Policy, Office of the Under Secretary of State for Security Assistance, Science, and Technology (later International Security Affairs), Department of State [1989-1991]; Special Assistant, Office of Coordinator for Export Control Policy, Office of the Under Secretary of State for International Security Affairs [1992]
+- Sacks, Richard S., Economic Counselor, U.S. Consulate at Casablanca [1991, 1992]
+- Sagurton, Edwin C., Jr., Consul, U.S. Consulate at Pusan [1992]
+- Saiers, Edward L., Deputy Assistant Administrator, Bureau for Africa, Agency for International Development [1989-1991]; Deputy Director, Directorate for Policy, Agency for International Development [1992]
+- Sailer, Camille, Commercial Counselor, U.S. Consulate at Munich [1991, 1992]
+- Sala, Joseph L., Developing Countries and Trade Organization Division, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1990]; Labor Attache, U.S. Embassy in Lisbon [1991, 1992]
+- Salazar, David R., Consul, U.S. Embassy in Kampala [1989, 1990]; Security Trade Controls Division, Office of COCOM Affairs, (International Trade Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Salazar, John M., Administrative Counselor, U.S. Embassy in Montevideo [1989, 1990]
+- Salgo, Nicholas M., Director, Moscow Embassy Building Control Office, Department of State from 1988 until 1989; Special Negotiator for Property Issues, Office of the Under Secretary of State for Management [1990-1992]
+- Salinas de Gortari, Carlos, President of Mexico
+- Salisbury, Wayne, Post Management Officer, Office of the Executive Director, Bureau of African Affairs, Department of State [1989]; Staff Assistant, Bureau of African Affairs, Department of State [1990, 1991]
+- Salisbury, William R., Labor Attache, U.S. Embassy in New Delhi [1989, 1990]; Labor Attache, U.S. Embassy in The Hague [1991, 1992]
+- Salmon, Charles B., Jr., Director, Office of Philippine Affairs, Bureau of East Asian and Pacific Affairs, Department of State, until 1989; Charge d’Affaires ad interim, U.S. Embassy at Vientiane from August 1989 until August 1992; U.S. Ambassador to Laos from August 6, 1992
+- Salmon, John W., Deputy Director, Office of Strategic and Theater Policy, Bureau of Politico-Military Affairs, Department of State [1990, 1991]
+- Salmon, Sandra, Principal Officer, U.S. Consulate at Ponta Delgada [1991, 1992]
+- Saloom, Joseph A., III, Deputy Chief of Mission, U.S. Embassy in Niamey [1989, 1990]; Director, Office of Monetary Affairs, International Finance and Development, Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Niamey [1991]; Deputy Assistant Secretary for International Finance and Development, Bureau of Economic and Business Affairs, Department of State [1992]
+- Salter, Bryant J., Principal Officer, U.S. Consulate at Merida [1989-1991]; Charge d’Affaires ad interim, U.S. Embassy in St. Johns, from January 1, 1991
+- Salvatierra, George, Director, Office of United Nations System Recruitment, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1990, 1991]; Director, Office of United Nations Employment Information and Assistance, Office of Technical Specialized Agencies, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Salvetti, Lloyd D., Director, Intelligence Programs, National Security Council Staff (1989, 1990)
+- Samaras, Antonis, Greek Foreign Minister
+- Sambaiew, Nancy H., Consul, U.S. Embassy in Tokyo [1990, 1991]
+- Samore, Gary, Special Assistant, Office of the Ambassador at Large and Special Advisor to the Secretary of State on Nonproliferation Policy and Nuclear Energy Affairs [1989-1992]
+- Sampas, Dorothy M., Administrative Counselor, U.S. Embassy in Beijing [1989]; Administrative Counselor, U.S. Mission to the United Nations [1991, 1992]
+- Samson, Peter, Public Affairs Officer, U.S. Consulate at Tijuana [1991, 1992]
+- Sanchez, Fernando, Consul, U.S. Embassy in Tegucigalpa [1990-1992]
+- Sanchez-Carlo, Maria, Labor Attache, U.S. Embassy in Lima [1989, 1990]; Principal Officer, U.S. Consulate at Recife [1992]
+- Sand, Barbara, Administrative Counselor, U.S. Embassy in Kigali [1989]; Administrative Counselor, U.S. Consulate at Cape Town [1990-1992]
+- Sandate, Celio F., Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1990]; Consul, U.S. Consulate at Milan [1990-1992]
+- Sandberg, Dennis A., Economic Counselor, U.S. Embassy in Copenhagen [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Copenhagen [1991, 1992]
+- Sandberg, Eric, Economic Counselor, U.S. Embassy in St. Johns [1989, 1990]; Operations Center, Executive Secretariat, Department of State [1990]; Office of Thailand and Burma Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990-1992]
+- Sanders, Robin R., Staff Assistant, Bureau of African Affairs, Department of State [1989]; Political and Economic Counselor, U.S. Embassy in Windhoek [1990, 1991]; Political Counselor, U.S. Embassy in Dakar [1992]
+- Sanderson, Janet A., Economic and Commercial Counselor, U.S. Embassy in Amman [1989-1992]
+- Sanguinetti Coirolo, Julio Maria, President of Uruguay until March 1, 1990
+- Sanner, Beth E., Associate Director for European and Eurasian Affairs, National Security Council staff, from October 1992
+- Santillo, Patrick, Commercial Counselor, U.S. Consulate at Osaka-Kobe [1990-1992]
+- Santoro, Eugene, Public Affairs Officer, U.S. Embassy in Ljubljana [1992]
+- Santos, Daniel, Jr., Office of the Executive Director, Bureau of European and Canadian Affairs, Department of State [1990]; Administrative Counselor, U.S. Consulate at Toronto [1990-1992]
+- Sarbanes, Paul S., Senator (D-Maryland)
+- Sarney Costa, Jose, President of Brazil until March 14, 1990
+- Sarofeen, Robert A., Administrative Counselor, U.S. Embassy in Abu Dhabi [1989]; Post Management Officer, Office of the Executive Director, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Administrative Counselor, U.S. Mission at Berlin [1992]
+- Sarros, P. Peter, ARA [1991]
+- Sartain, James, Political and Military Counselor, U.S. Embassy in Manama [1992]
+- Sasahara, Karen H., Political and Economic Counselor, U.S. Consulate at Jeddah [1989, 1990]
+- Sasser, Jim, Senator (D-Tennessee)
+- Sassou-Nguesso, Denis, President of the Republic of Congo
+- Satterfield, David, Political Counselor, U.S. Embassy in Beirut [1989, 1990]; Deputy Director, Secretariat Staff, Executive Secretariat, Department of State [1990, 1991]; thereafter, Director, Secretariat Staff, Executive Secretariat, Department of State
+- Saturni, Fabio, Consul, U.S. Consulate at Palermo [1991]; Consul, U.S. Consulate at Florence [1991, 1992]
+- Saucher, Robert, Consul, U.S. Embassy in Paramaribo [1989]
+- Saud al-Faysal, Prince, Saudi Arabian Foreign Minister
+- Saud Fahd bin Abd al-Aziz Al, King and Prime Minister of Saudi Arabia
+- Saunders, Richard M., Special Assistant to the Ambassador at Large for Burden-sharing [1992]
+- Savage, Eleanor W., Director, Office of Ecology, Health, and Conservation, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990, 1991]; Consul General, U.S. Consulate at Melbourne [1992]
+- Savage, John R., Economic Counselor, U.S. Embassy in Quito [1989-1992]; Political and Economic Counselor, U.S. Embassy in Bridgetown [1992]
+- Savage, Timothy M., Political Counselor, U.S. Embassy in Prague [1990-1992]
+- Savimbi, Jonas, Leader of the National Union for the Total Independence of Angola (UNITA)
+- Savisaar, Edgar, Estonian Foreign Minister
+- Scaletta, Thomas F., Jr., Administrative Counselor, U.S. Embassy in Bissau [1991, 1992]
+- Scanlan, Francis T., Consul, U.S. Consulate at Belfast [1989]; Labor Attache, U.S. Embassy in Vienna [1989-1991]; Political Counselor, U.S. Embassy in Santo Domingo [1991, 1992]
+- Scanlan, John D., U.S. Ambassador to Yugoslavia until March 6, 1989
+- Scanlan, Michael T., Branch Public Affairs Officer, U.S. Consulate at Cape Town [1989-1991]
+- Scarlett, Earle, Political Counselor, U.S. Consulate at Sao Paulo [1992]
+- Scarlis, Basil G., Management Analysis Officer, Management Policy, Department of State [1989]; Planning and Coordination Staff, Bureau of Personnel, Department of State [1990]; Political and Economic Counselor, U.S. Embassy in Bern [1991, 1992]
+- Scassa, Eugene L., Executive Director, Bureau of Inter-American Affairs, Department of State until 1990; U.S. Ambassador to Belize from November 22, 1990
+- Schaffer, Howard B., Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs [1989]; Foreign Service Institute, Department of State [1990, 1991]
+- Schaffer, Teresita Currie, Director, Office of Egypt Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State until 1989; Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs from 1989 until 1992; U.S. Ambassador to Sri Lanka and Maldives from October 7, 1992
+- Scheland, Mark D., Political and Economic Counselor, U.S. Embassy in Muscat [1991, 1992]
+- Schell, Barbara L., Economic and Commercial Counselor, U.S. Embassy in Damascus [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in N’Djamena [1991, 1992]
+- Schermerhorn, Lange, Deputy Director, Office of Foreign Service Career Development and Assignments (later Office of Career Development and Assignments), Bureau of Personnel, Department of State [1990-1992]
+- Schieck, Frederick W., Deputy Assistant Administrator, Bureau for Latin America and the Caribbean, Agency for International Development [1989, 1990]; also acting Assistant Administrator, Bureau for Latin America and the Caribbean, Agency for International Development [1989]
+- Schifferdecker, Arnold P., Political Counselor, U.S. Embassy in Rabat [1989]; Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1990, 1991]; Director, Office of Environmental Protection, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Schifter, Richard, Assistant Secretary of State for Human Rights and Humanitarian Affairs until April 3, 1992
+- Schimmel, Michael R., Administrative Counselor, U.S. Consulate at Mazatlan [1991]; Consul, U.S. Consulate at Mazatlan [1992]; Consul, U.S. Embassy in Belize City [1992]
+- Schlaikjer, Stephen, Economic Counselor, U.S. Consulate at Guangzhou [1989]; Economic Counselor, U.S. Embassy in Beijing [1990-1992]
+- Schlenker, Thomas A., Science Attache, U.S. Embassy in Budapest [1989, 1990, 1991]
+- Schlessinger, Andrew, Public Affairs Officer, U.S. Embassy in Tegucigalpa [1992]
+- Schlicher, Ronald L., Consul and Political Counselor, U.S. Consulate at Alexandria [1989]
+- Schlossberg, Arnold, Jr., Principal Deputy Assistant Secretary of State for Politico-Military Affairs [1989]
+- Schlosser, John K., Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State [1990]; Political Counselor, U.S. Embassy in Paramaribo [1991, 1992]
+- Schluter, Poul, Prime Minister of Denmark
+- Schmadel-Heard, Fredericka, Consul, U.S. Embassy in Reykjavik [1989]; Consul, U.S. Consulate at Krakow [1992]
+- Schmidt, John, Special Assistant, Office of the Under Secretary of State for International Security Affairs [1992]
+- Schmiel, Eugene D., Principal Officer, U.S. Consulate at Mombasa [1989]; Deputy Director, Office of Central African Affairs, Bureau of African Affairs, Department of State [1989-1991]; Deputy Director, Office of Korean Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Schnabel, Rockwell A. (Rocky), U.S. Ambassador to Finland until February 24, 1989; Under Secretary of Commerce for Travel and Tourism from 1989 until 1991; Deputy Secretary of Commerce from 1991 until 1992
+- Schneider, Michael, Deputy Associate Director, Bureau of Policy and Programs, United States Information Agency [1992]
+- Schoeb, Donald R., Administrative Counselor, U.S. Embassy in Rome [1989, 1990]; Administrative Counselor, U.S. Embassy in Manila [1991, 1992]
+- Schoettle, Peter G., Deputy Director, Office of Theater Nuclear Policy, Bureau of Politico-Military Affairs, Department of State [1989]
+- Schofer, Andrew J., Strategic Forces Division, Office of Strategic and Proliferation Affairs, Bureau of Intelligence and Research, Department of State [1991]
+- Schofield, William P., Labor Attache, U.S. Embassy in Kingston [1990, 1991]; Office of Eastern European and Yugoslav Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Schollenbager, David K, Economic Counselor, U.S. Embassy in Kabul [1989]
+- Scholz, Wesley S., Chief, Marine and Polar Minerals Division, Office of International Commodities, (International Energy and Resources Policy), Bureau of Economic and Business Affairs, Department of State [1989]; Director, Office of International Commodities, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1990-1992]
+- Schoppe, Elizabeth A., Consul, U.S. Embassy in Canberra [1989-1991]
+- Schrage, Barbara J., Deputy Director (Middle East, Latin America, Europe, Peacekeeping, Arms Control, Environment, Law of the Sea, and Outer Space), Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1989]; Taiwan Coordination Adviser, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990-1992]
+- Schrager, Stanley N., Public Affairs Officer, U.S. Embassy in Manila [1990, 1991]
+- Schreiber, Joseph B., Administrative Counselor, U.S. Embassy in Mbabane [1989, 1990]
+- Schroeder, Anita, Administrative Counselor, U.S. Embassy in Bamako [1992]
+- Schroeder, Nancy, Chief, Reports Coordination and Review Staff, Bureau of Intelligence and Research, Department of State [1990-1992]
+- Schroeder, Patricia, member, U.S. House of Representatives (D-Colorado)
+- Schuler, Elizabeth, Consul, U.S. Embassy in Abidjan [1989]; Office of Andean Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]
+- Schultz, Eric, Office of Public and Diplomatic Liaison, Visa Services, Bureau of Consular Affairs, Department of State [1990]; Office of Field Support Liaison, Visa Services, Bureau of Consular Affairs, Department of State [1991]; Regional Officer for CIS and South Asia, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]; Administrative Counselor, U.S. Consulate at Martinique [1992]
+- Schultz, Herbert W., Director, Program Planning and Post Support Office, Office of the Deputy Assistant Secretary for Foreign Buildings, Bureau of Administration, Department of State [1989]; Administrative Counselor, U.S. Embassy in Canberra [1989-1992]
+- Schultz, Jeanne Lee, Office of Eastern European and Yugoslavian Affairs, Bureau of European and Canadian Affairs, Department of State [1990]; Consul, U.S. Mission at Berlin [1991, 1992]
+- Schulz, Kirsten A., Staff Assistant, Bureau of International Organization Affairs, Department of State [1992]
+- Schumaker, James F., Deputy Director, Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Schuman, Daniel J., Public Affairs Officer, U.S. Embassy in Antananarivo [1990, 1991]
+- Schunter, Elaine, Consul, U.S. Embassy in Abidjan [1989]; Administrative Counselor, U.S. Embassy in Abidjan [1990]; Administrative Counselor, U.S. Embassy in Nairobi [1992]
+- Schwartz, Amy L., Associate Counsel to the President from March 6, 1989, until 1991; Deputy Assistant Secretary for Policy and Programs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1991, 1992]
+- Schwartz, Bethany, Special Assistant, Bureau of Politico-Military Affairs, Department of State [1991, 1992]
+- Schwartz, Deborah Ruth, Deputy Director, Office of Aviation Programs and Policy, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1989]; Economic Counselor, U.S. Embassy in Lagos [1990, 1991]
+- Schwartz, Louis, Jr., Consul General, U.S. Consulate at Rio de Janeiro [1989-1991]
+- Schwartz, Marlene E., Director, Field Coordination Staff, Office of the Deputy Assistant Secretary for Passport Services, Bureau of Consular Affairs, Department of State [1989-1991]; Administrative Management Division, Resource Management Office, Office of the Deputy Assistant Secretary for Foreign Buildings Operations, Bureau of Administration, Department of State [1992]
+- Schwartz, Michael H., Political and Military Counselor, U.S. Embassy in Reykjavik [1989-1992]
+- Schwartz, Todd, Economic Counselor, U.S. Consulate at Dhahran [1989-1991]; Energy Consumer-Country Affairs Division, Office of Global Energy, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1992]
+- Schwartzkopf, Gen. H. Norman, USA, Commander in Chief, U.S. Central Command
+- Schwartzman, Charles, Chief for Defense Affairs, Office of Freely Associated State Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Schweitzer, Manfred G., Political and Economic Counselor, U.S. Consulate at Guadalajara [1989-1992]
+- Scobey, Margaret, Political Counselor, U.S. Consulate at Jerusalem [1990, 1991]; Deputy Director, Secretariat Staff, Executive Secretariat, Department of State [1992]
+- Scogna, B. Paul, Commercial Counselor, U.S. Embassy in Kuwait [1989-1991]; Commercial Counselor, U.S. Consulate at Dubai [1991, 1992]
+- Scolow, Frank Jr., Political and Military Counselor, U.S. Embassy in Sanaa [1991]
+- Scorza, Richard, Branch Public Affairs Officer, U.S. Consulate at Thessaloniki [1989]
+- Scott, Gail P., Labor Attache, U.S. Embassy in Jakarta [1989-1991]; Grievance Staff, Bureau of Personnel, Department of State [1992]
+- Scott, Gerald W., Political Counselor, U.S. Embassy in Kinshasa [1989-1992]
+- Scott, Jerry W., Public Affairs Officer, U.S. Interests Section in Havana [1989]; Area Personnel Staff, Office of Personnel, Bureau of Management, United States Information Agency [1992]; Public Affairs Officer, U.S. Embassy in Santo Domingo [1992]
+- Scott, John F., Deputy Director, Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Scott, Kenneth M., Jr., Deputy Chief of Mission, U.S. Embassy in Libreville [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Dar es Salaam [1990-1992]
+- Scott, Louise A., Consul, U.S. Embassy in Praia [1989]; Office of Legislation, Regulations, and Advisory Assistance, Visa Services, Bureau of Consular Affairs, Department of State [1990]; Office of International Conference Programs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1991, 1992]
+- Scott, Robert L., Administrative Counselor, U.S. Embassy in Majuro [1990]
+- Scotton, Frank, Public Affairs Officer, U.S. Embassy in Ankara [1989, 1990]; Public Affairs Officer, U.S. Embassy in Beijing [1991, 1992]
+- Scowcroft, Gen. Brent, USAF (Ret.), President’s Assistant for National Security Affairs from January 1989
+- Scully, Cornelius D., Director, Office of Legislation, Regulation, and Advisory Assistance, Office of the Deputy Assistant Secretary for Visa Services, Bureau of Consular Affairs, Department of State [1989-1992]
+- Scully, Richard T., Director, Office of Marine Science and Polar Affairs, (Oceans and Fisheries Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989, 1990]; Director, Office of Oceans, (Oceans and Fisheries Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1991, 1992]
+- Searls, Melvin W., Jr., Commercial Counselor, U.S. Embassy in New Delhi [1989, 1990]; Commercial Counselor, U.S. Embassy in Paris [1991, 1992]; Consul, U.S. Embassy in Beijing [1992]
+- Sears, Timothy A., Foreign Service Institute, Department of State [1990, 1991]; Administrative Counselor, U.S. Embassy in Belize City [1991, 1992]
+- Sease, James H., Branch Public Affairs Officer, U.S. Consulate at Cebu [1989, 1990, 1991]
+- Seasword, Mary S., Chief, Southern Africa Division, Office of Analysis for Africa, Bureau of Intelligence and Research, Department of State [1989, 1990]
+- Seay, Edmond E., III, Labor Attache, U.S. Embassy in Kingston [1991, 1992]
+- Seay, Edmond E., Jr., Operations Center, Executive Secretariat, Department of State [1991, 1992]
+- Secchia, Peter F., U.S. Ambassador to Italy from July 3, 1989, until January 20, 1993
+- Secor, Peter J., Political and Economic Counselor, U.S. Consulate at Adana [1991]; Developed Country Trade Division, Office of Bilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Segars, Joseph M., Deputy Chief of Mission, U.S. Embassy in Dar es Salaam until 1989; Senior Officers Division, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State from 1989 until 1991; The Senior Seminar, Foreign Service Institute, Department of State [1992]
+- Segesvary, Louis S., Consul General, U.S. Consulate at Zurich [1989]
+- Segura-Giron, Bernardo, Administrative Counselor, U.S. Embassy in Manama [1989, 1990]; Administrative Counselor, U.S. Embassy in Buenos Aires [1991, 1992]
+- Seiber, Marilyn J., International Economist, Office of the Under Secretary of State for Economic and Agricultural Affairs [1990, 1991]
+- Seigel, Steven K., Consul, U.S. Embassy in Bamako [1990, 1991]
+- Seitz, Raymond G. H., Deputy Chief of Mission, U.S. Embassy in London until 1989; Assistant Secretary of State for European and Canadian Affairs from August 8, 1989, until April 30, 1991; U.S. Ambassador to the United Kingdom from June 25, 1991
+- Selby, Jamison M., Deputy Legal Adviser, Office of the Legal Adviser, Department of State [1990-1992]
+- Selin, Ivan, Under Secretary of State for Management from May 23, 1989, until June 23, 1991; Chairman of the Nuclear Regulatory Commission from July 1, 1991
+- Sell, Louis D., Political Counselor, U.S. Embassy in Belgrade [1989, 1990]; Political Counselor, U.S. Embassy in Moscow [1992]
+- Sembler, Melvin F., U.S. Ambassador to Australia from October 25, 1989
+- Semler, Peter, Political Counselor, U.S. Embassy in Paris [1989]; Foreign Service Institute, Department of State [1990]; Consul General, U.S. Consulate at Milan [1990-1992]
+- Senko, Michael J., Deputy Chief of Mission and Political and Economic Counselor, U.S. Embassy in Ulaanbaatar [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Belize City [1992]
+- Sens, Andrew D., Director, Office of Environmental Protection, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989, 1990]; Operation Center, Executive Secretariat, Department of State [1991]
+- Sens, Andrew, Director, Office of Southern Cone Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Executive Assistant, Bureau of Inter-American Affairs, Department of State [1992]
+- Serpa, Nancy Morgan, Legislative Management Officer, Bureau of Legislative Affairs [1989]; Policy Coordination Staff, Bureau of Personnel, Department of State [1990-1992]; Congressional Relations and Litigation, Policy Coordination Staff, Bureau of Personnel, Department of State [1992]
+- Serrano Elias, Jorge Antonio, President of Guatemala from January 14, 1991
+- Serrao, Christine, U.S. Consulate at Belem [1991, 1992]
+- Service, Robert E., Deputy Chief of Mission, U.S. Embassy in Buenos Aires [1989]; Deputy Chief of Mission, U.S. Embassy in Brasilia [1990-1992]
+- Serwer, Daniel P., Economic Counselor, U.S. Embassy in Rome [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Rome [1990-1992]
+- Sessions, William S., Director, Federal Bureau of Investigation
+- Sessoms, Allen L., Science Attache, U.S. Embassy in Paris [1989, 1990]; Political Counselor, U.S. Embassy in Mexico City [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Mexico City [1991, 1992]
+- Seymour, Jack M., Jr., Deputy Director for Southern Tier Countries, Office of Eastern European and Yugoslav Affairs, Bureau of European and Canadian Affairs, Department of State [1989]; Deputy Director, Office of Central European Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]
+- Shad, John, U.S. Ambassador to the Netherlands until February 23, 1989
+- Shaffer, Dale A., Jr., Consul, U.S. Consulate at Ciudad Juarez [1990-1992]
+- Shamir, Yitzhak, Prime Minister of Israel
+- Shannon, John W., Under Secretary of the Army from August 14, 1989; acting Secretary of the Army from January 20, 1993
+- Shannon, Thomas A., Jr., Labor Attache, U.S. Consulate at Johannesburg [1992]
+- Shapiro, Charles S., Political Counselor, U.S. Embassy in San Salvador [1989]; Deputy Director, Office of Andean Affairs, Bureau of Inter-American Affairs, Department of State [1989, 1990]; Chief, Andean/South American Division, Office of Program Management, Bureau of International Narcotics Matters, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Port-of-Spain [1991, 1992]
+- Sharon, Ariel, Israeli Minister of Industry and Commerce until February 1990; Minister of Construction and Minister of Housing from June 1990
+- Sharp, Steven J., Public Affairs Officer, U.S. Embassy in Muscat [1991, 1992]
+- Shattan, Joseph, Senior Adviser to the Director, United States Information Agency [1992]
+- Shaw, Catherine, Special Assistant and Public Affairs Liaison, Bureau of International Narcotics Matters, Department of State [1989, 1990]
+- Shea, Cecile, Administrative Counselor, U.S. Consulate at Calgary [1991, 1992]
+- Shea, Laurel M., Special Assistant, Bureau of Politico-Military Affairs, Department of State [1989]; Political and Military Counselor, U.S. Embassy in Athens [1991, 1992]
+- Sheaks, Owen James (OJ), Chief, Science and Technological Policy Division, Bureau of Multilateral Affairs, Arms Control and Disarmament Agency [1989]; Chief, Division of Verification, Bureau of Verification and Intelligence (later Verification and Implementation), Arms Control and Disarmament Agency [1990-1992]
+- Shear, David, Deputy Director, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]; Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Shearburn, John W., Operations Center, Executive Secretariat, Department of State [1990, 1991]; Special Assistant, Office of the Under Secretary of State for Management [1992]
+- Sheehan, Donald F., Director, Office of Active Measures Analysis and Response, Bureau of Intelligence and Research, Department of State [1989-1991]; Office of Analysis for Commonwealth of Independent States and Eastern Europe, Bureau of Intelligence and Research, Department of State [1992]
+- Sheehan, Kevin, Special Assistant, Office of the Under Secretary of State for International Security Affairs [1990-1992]
+- Shekhar, Chandra, Prime Minister of India from November 10, 1990, until June 21, 1991
+- Shelby, Diane W., Consul, U.S. Consulate at Oran [1989-1992]
+- Shelton, Elizabeth W., Economic Counselor, U.S. Consulate at Istanbul [1989, 1990]; Financial Management, Bureau of Finance and Management Policy, Department of State [1990]; Office of Economic Policy, Bureau of East Asian and Pacific Affairs, Department of State [1991, 1992]
+- Shelton, J. Michael, Economic and Commercial Counselor, U.S. Embassy in La Paz [1990-1992]
+- Shem, Carl A., Economic Counselor, U.S. Consulate at Bombay [1992]
+- Shemanski, Donald, Political, Economic, and Commercial Counselor, U.S. Consulate at Palermo [1990]
+- Sheppard, Frederick H., Career Development-Administrative, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1989]; Administrative Counselor, U.S. Embassy in Nairobi [1989]
+- Sherman, Dona P., Consul, U.S. Consulate at Jerusalem [1991, 1992]
+- Sherman, Edric, Consul General, U.S. Consulate at Auckland [1989, 1990]; Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1990, 1991]; Special Assistant, Office of the Under Secretary of State for International Security Affairs [1992]
+- Sherman, George F., Political Counselor, U.S. Embassy in New Delhi [1989-1991]; Center for Studies of Foreign Affairs, Foreign Service Institute, Department of State [1992]
+- Sherman, Gilbert K., Public Affairs Officer, U.S Consulate at Jerusalem [1989-1992]
+- Sherman, Richard M., Consul, U.S. Embassy in Colombo [1989-1991]
+- Sherr, Theodore S., Senior Science Adviser, U.S. Mission to International Organizations in Vienna [1989, 1990]
+- Sherwood, Harrison B., Commercial Counselor, U.S. Embassy in The Hague [1989, 1990]; Commercial Counselor, U.S. Embassy in Mexico City [1991]; Commercial Counselor, U.S. Embassy in Stockholm [1991, 1992]
+- Sherwood, Nicholas A., Consul, U.S. Consulate at Guangzhou [1990, 1991]; Chief, Assignments Division (EAP), Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Shevardnadze, Eduard, Soviet Foreign Minister until December 1990
+- Shinn, David H., U.S. Ambassador to Burkina Faso until August 6, 1990; coordinator for Somalia during 1992 and 1993
+- Shiplett, Myra Howze, Associate Director, Passport Services, Bureau of Consular Affairs, Department of State [1989]
+- Shipley, Robert, Commercial Counselor, U.S. Consulate at Monterrey [1989]; Commercial Counselor, U.S. Embassy in Prague [1990-1992]
+- Shippy, Amelia Ellen, Political and Economic Counselor, U.S. Consulate at Karachi [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Kampala [1991, 1992]
+- Shire, Jacqueline, Office of Defense Trade Policy, Bureau of Politico-Military Affairs, Department of State [1991]; Special Assistant, Bureau of Politico-Military Affairs, Department of State [1992]
+- Shirley, Katherine, Consul General, U.S. Consulate at Palermo [1989]; Associate Coordinator for Counter-Terrorism, Department of State from 1989 until 1991; U.S. Ambassador to Senegal from June 5, 1991, until September 1, 1992
+- Shivers, Kenneth, Consul and Administrative Counselor, U.S. Consulate at Naha [1990-1992]
+- Shlaudeman, Harry W., U.S. Ambassador to Brazil until May 14, 1989; Consultant, Department of State, from 1989 until 1990; U.S. Ambassador to Nicaragua from June 21, 1990, until March 14, 1992
+- Shoemaker, Mary C., South Asia Division, Office of Analysis for Near East and South Asia, Bureau of Intelligence and Research, Department of State [1990]; Consul and Political and Economic Counselor, U.S. Embassy in Kolonia [1991, 1992]
+- Shostal, Pierre, Director, Office of Central European Affairs, Bureau of European and Canadian Affairs, Department of State [1989-1991]; Consul General, U.S. Consulate at Frankfurt [1991, 1992]
+- Shuler, David L., Administrative Counselor, U.S. Consulate at Osaka-Kobe [1989, 1990]; Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State [1991]; Special Assistant, Office of the Under Secretary of State for Political Affairs [1992]
+- Shultz, George P., Secretary of State until January 20, 1989
+- Shurtleff, Leonard G., U.S. Ambassador to the Congo (Brazzaville) until July 5, 1990; Coordinator for Management Projects, Office of the Under Secretary of State for Management [1990-1992]
+- Siad Barre, Maj. Gen. Mohamed, President of Somalia
+- Sibert, Alonzo, Economic and Commercial Counselor, U.S. Embassy in Dakar [1991, 1992]
+- Sibilla, Christopher, Labor Attache, U.S. Embassy in San Jose [1990]
+- Sibley, George N., Economic and Commerical Counselor, U.S. Embassy in Kathmandu [1991]
+- Sicherman, Harvey, Member, Policy Planning Staff, Department of State [1991, 1992]
+- Sidabras, Victor, Public Affairs Officer, U.S. Embassy in Vilnius [1992]
+- Siddiqi, Adnan, Public Affairs Officer, U.S. Embassy in Khartoum [1991, 1992]
+- Sides, Ann B., Consul, U.S. Embassy in Dakar [1989, 1990]; Consul, U.S. Embassy in Zagreb [1992]
+- Siefert, Charles W., acting Public Affairs Officer, U.S. Embassy in Lome [1990]
+- Siefkin, William H., Deputy Director, Office of Defense Relations and Security Assistance, Bureau of Politico-Military Affairs, Department of State [1990, 1991]
+- Siegenthaler, Robert, Consul, U.S. Consulate at Udorn [1989]
+- Siekert, Magda, Country Affairs Officer, Office of North African, Near Eastern, and South Asian Affairs, United States Information Agency [1992]; Public Affairs Officer, U.S. Embassy in Abu Dhabi [1992]
+- Siekert, Paul R., Office of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Economic Counselor, U.S. Embassy in Abu Dhabi [1992]
+- Sienkiewicz, Stanley, Special Assistant, Office of the Under Secretary of State for Security Assistance, Science, and Technology [1989]
+- Sievers, Marc J., Labor Attache, U.S. Embassy in Cairo [1989]; Office of Israel and Arab-Israeli Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Sigmund, Anne M., Press and Public Affairs Adviser, Office of Press and Public Affairs, Bureau of Inter-American Affairs, Department of State [1990]; Public Affairs Officer, U.S. Embassy in Warsaw [1991, 1992]
+- Sigur, Gaston J., Jr., Assistant Secretary of State for East Asian and Pacific Affairs until February 21, 1989
+- Sihanouk, Prince Norodom, President of the National Government of Cambodia
+- Sikes, Joseph T., Administrative Counselor, U.S. Embassy in Khartoum [1989]; acting Director, Planning and Acquisitions Office, Office of the Deputy Assistant Secretary for Foreign Buildings Operations, Bureau of Administration, Department of State [1990]; Director, Acquisitions and Planning Office, Office of the Deputy Assistant Secretary for Foreign Buildings Operations, Bureau of Administration, Department of State [1990-1992]
+- Silins, Ints M., Deputy Director for Bilateral Political Relations, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State until 1989; Consul General, U.S. Consulate at Strasbourg from 1989 until 1991; Charge d’Affaires ad interim, U.S. Embassy in Riga from October 2, 1991; U.S. Ambassador to Latvia from April 10, 1992
+- Silkwood, Darold W., Chief, Defense Program and Analysis, Bureau of Nuclear and Weapons Control, Arms Control and Disarmament Agency [1989, 1990]
+- Silliman, Douglas A., Staff Assistant, Bureau of Near Eastern and South Asian Affairs, Department of State [1989]; Office of Lebanon, Jordan, Syria Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]
+- Silver, Charles N., Public Affairs Officer, U.S. Embassy in Copenhagen [1992]
+- Silver, Neil E., Deputy Director, Office of Korean Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989, 1990]; Chief, China Division, Office of Analysis for East Asia and the Pacific, Bureau of Intelligence and Research, Department of State [1990-1992]; Political Counselor, U.S. Embassy in Beijing [1992]
+- Silverman, Lawrence, Staff Assistant, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Sim, Cheryl J., Political Counselor, U.S. Embassy in Antananarivo [1990, 1991]
+- Simmons, Donald, Administrative Counselor, U.S. Embassy in Yerevan [1992]
+- Simon, Anne W., Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1991, 1992]
+- Simon, Hugh, Jr., Political Counselor, U.S. Embassy in Quito [1989-1991]
+- Simon, Paul, Senator (D-Illinois); Democratic candidate for president in 1988
+- Simon, Steven N., Director, Office of Policy Analysis, Bureau of Politico-Military Affairs, Department of State [1990, 1991]; acting Director, Office of Policy Analysis, Bureau of Politico-Military Affairs, Department of State [1992]
+- Simon, Victoria, Commercial Counselor, U.S. Embassy in Quito [1992]
+- Simonds, Katherine K., Economic and Commercial Counselor, U.S. Embassy in Georgetown [1991, 1992]
+- Simons, Paul, Member, Policy Planning Staff, Department of State [1990, 1991]; Economic Counselor, U.S. Embassy in Quito [1992]
+- Simons, Thomas W., Jr., Deputy Assistant Secretary of State for European and Canadian Affairs [1989]; Diplomat-in-Residence, Brown University; U.S. Ambassador to Poland from September 11, 1990
+- Simpkins, Roy C., Science Attache, U.S. Embassy in Mexico City [1989-1991]; Science Attache, U.S. Embassy in Brasilia [1992]
+- Simpson, Alan K., Senator (R-Wyoming)
+- Simpson, Daniel H., Deputy Chief of Mission, U.S. Embassy in Beirut [1989]; U.S. Ambassador to the Central African Republic from February 6, 1990, until December 15, 1992
+- Sims, Dudley O., Public Affairs Officer, U.S. Embassy in Lome [1989, 1990]; Public Affairs Officer, U.S. Embassy in Kampala [1990-1992]
+- Singer, Norman A., Consul, U.S. Embassy in Mexico City [1989, 1990]; Consul, U.S. Embassy in Bonn [1991, 1992]
+- Singh, V.P., Prime Minister of India from December 2, 1989, until November 10, 1990
+- Singlaub, Mary Ann, Labor Attache, U.S. Embassy in Bridgetown [1991, 1992]
+- Sipprelle, Dudley G., Consul, U.S. Embassy in Rome [1989, 1990]; Consul, U.S. Embassy in Port-au-Prince [1991, 1992]
+- Sise, Robert J., Jr., Political Counselor, U.S. Embassy in Port Louis [1989, 1990]
+- Sison, Michelle Jeanne, Economic Counselor, U.S. Embassy in Cotonou [1989-1991]; Principal Officer, U.S. Consulate at Douala [1991, 1992]
+- Sites, Erik K., Consul and Economic Counselor, U.S. Consulate at Leipzig [1992]
+- Sittel, Jan N., Administrative Counselor, U.S. Consulate at Palermo [1989]
+- Sittmann, William F., Deputy Executive Secretary, National Security Council staff from June 1989 until June 1990; Executive Secretary, National Security Council staff from June 4, 1990
+- Siv, Sichan A., Deputy Assistant to the President for Public Liaison (1991, 1992); Deputy Assistant Secretary of State for South Asian Affairs [1992]
+- Skinner, Samuel K., Secretary of Transportation; White House Chief of Staff from December 16, 1991, until August 29, 1992
+- Skocz, Dennis E., Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State [1990]; Senior Political Adviser, U.S. Mission to the Organization of American States [1990-1992]
+- Skodon, Emil M., Economic Counselor, U.S. Embassy in Kuwait [1989-1991]; Consul General, U.S. Consulate at Perth [1992]
+- Skok, William, Office of Business Practices, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990]; Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1991]; Chief, Security Enforcement and Licensing Division, Office of COCOM Affairs, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1992]
+- Skol, Michael M., Deputy Assistant Secretary for South America, Bureau of Inter-American Affairs, Department of State [1989, 1990]; U.S. Ambassador to Venezuela from November 19, 1990
+- Skoug, Kenneth N., Jr., Deputy Chief of Mission, U.S. Embassy in Caracas [1989, 1990]; Charge d’Affaires ad interim, U.S. Embassy in Caracas from July 1, 1989, until September 1, 1990
+- Slack, Michael, Office of Defense Relations and Security Assistance, Bureau of Politico-Military Affairs, Department of State [1990]; Office of the Deputy Assistant Secretary for Regional Affairs and Security Assistance, Bureau of Politico-Military Affairs, Department of State [1991]
+- Slaght, Dale V., Commercial Counselor, U.S. Consulate at Toronto [1989-1991]; Commercial Counselor, U.S. Embassy in Moscow [1992]
+- Slaven, William A., Administrative Counselor, U.S. Consulate at Krakow [1990]
+- Slawecki, Barbara A., Commercial Counselor, U.S. Consulate at Shanghai [1989]
+- Sleght, Alexander K., Director, Office of United Nations Social and Refugee Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1989, 1990]; Deputy Director, Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State [1992]
+- Slezak, Lester P., Labor Attache, U.S. Embassy in London [1989-1991]; Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State [1992]
+- Slocum, Sally V., Administrative Counselor, U.S. Embassy in Brazzaville [1991, 1992]
+- Sloss, David, Chief, Nuclear Safeguards and Technology Division, Bureau of Nonproliferation Policy, Arms Control and Disarmament Agency [1992]
+- Slotta, Gregory, Staff Assistant, Policy Planning Staff, Department of State [1989]
+- Slutz, Pamela J.H., Political Counselor, U.S. Consulate at Shanghai [1991, 1992]
+- Smaldone, Joseph P., Chief, Arms Transfer Division, Bureau of Nuclear and Weapons Control, Arms Control and Disarmament Agency [1989, 1990]; Chief, Weapons and Technology Control Division, Bureau of Nonproliferation Policy, Arms Control and Disarmament Agency [1991, 1992]
+- Smalley, Robert M., U.S. Ambassador to Lesotho until July 7, 1989
+- Smetana, Carol, Regional Officer for East, Central, and Western Europe, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Smith, Alfred E., Economic and Commercial Counselor, U.S. Embassy in Antananarivo [1989, 1990]
+- Smith, Catherine M., Special Assistant, Office of the Under Secretary of State for Management [1990, 1991]
+- Smith, Charles B., Jr., Chief, Eastern Europe Division, Office of Analysis for the Soviet Union and Eastern Europe, Bureau of Intelligence and Research, Department of State [1989]; Labor Attache, U.S. Consulate at Rio de Janeiro [1991]; Labor Attache, U.S. Consulate at Sao Paulo [1991, 1992]
+- Smith, Dane F., Jr., Deputy Chief of Mission, U.S. Embassy in Khartoum [1989]; Director, Economic Policy Staff, Bureau of African Affairs, Department of State [1990]; U.S. Ambassador to Guinea from August 16, 1990
+- Smith, Daniel B., Political Counselor, U.S. Consulate at Istanbul [1990-1992]; Special Assistant to the Assistant Secretary of State for European and Canadian Affairs [1992]
+- Smith, David G., Chief, Middle America-Caribbean Division, Office of Analysis for Inter-American Republics, Bureau of Intelligence and Research, Department of State [1989-1992]
+- Smith, David J., assistant to Senate Majority Leader Dole; Chief Negotiator for Defense and Space Talks from 1989
+- Smith, Diana E., Special Assistant for Policy Planning, Bureau of European and Canadian Affairs, Department of State [1989, 1990]
+- Smith, Douglas Ray, Political and Economic Counselor, U.S. Embassy in Sofia [1989-1992]
+- Smith, Gordon A., Assistant Secretary of Defense for Command, Control, Communications, and Intelligence until May 12, 1989
+- Smith, Hanscom, Consul, U.S. Embassy in Yaounde [1991, 1992]
+- Smith, James E., Public Affairs Officer, U.S. Embassy in Amman [1989]
+- Smith, Jay T., Consul, U.S. Consulate at Marseille [1989]
+- Smith, Joan V., Consul, U.S. Embassy in Singapore [1989-1991]
+- Smith, Judy A., Special Counsel to the U.S. Attorney for the District of Columbia; Special Assistant to the President and Deputy Press Secretary from March 7, 1991
+- Smith, Kathleen A., Consul, U.S. Embassy in Doha [1991, 1992]
+- Smith, Keith C., Deputy Chief of Mission, U.S. Embassy in Oslo [1989]; Director, Office of Southern Cone Affairs, Bureau of Inter-American Affairs, Department of State [1990]; Deputy Special Adviser for Eastern European Assistance, Bureau of European and Canadian Affairs, Department of State [1991]; Deputy for Policy, Bureau of European and Canadian Affairs, Department of State [1992]
+- Smith, Leroy O., Consul, U.S. Embassy in Luxembourg City [1989, 1990]
+- Smith, Mark J., Branch Public Affairs Officer, U.S. Consulate at Zagreb [1989-1992]
+- Smith, Morton S., Public Affairs Officer, U.S. Embassy in Manila [1991, 1992]
+- Smith, N. Shaw, Deputy Assistant Secretary for United Nations Political Affairs, Bureau of International Organization Affairs, Department of State [1989]; Deputy Assistant Secretary for Coordination, Bureau of Intelligence and Research, Department of State [1990-1992]
+- Smith, Paul L., Deputy Chief of Mission, U.S. Embassy in Libreville [1990, 1991]; Chief, Americas/Caribbean Division, Office of Program Management, Bureau of International Narcotics Matters, Department of State [1992]
+- Smith, Raymond F., Political Counselor, U.S. Embassy in Moscow [1990, 1991]; Director, Office of Analysis for Commonwealth of Independent States and Eastern Europe, Bureau of Intelligence and Research, Department of State [1992]
+- Smith, Rebecca, Special Assistant to the Ambassador at Large and Coordinator for Refugee Affairs, Department of State [1989-1992]
+- Smith, R. Grant, Deputy Chief of Mission, U.S. Embassy in New Delhi [1990, 1991]; Principal Deputy Assistant Secretary of State for International Narcotics Matters [1992]
+- Smith, Richard A., Jr., Political Counselor, U.S. Mission in Berlin [1989]; Deputy Director, Office of Canadian Affairs, Bureau of European and Canadian Affairs, Department of State [1990]; Public Affairs, Bureau of European and Canadian Affairs, Department of State [1991]
+- Smith, Richard J., Principal Deputy Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs until September 1989; Special Negotiator, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State; Principal Deputy Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs [1991, 1992]
+- Smith, Russell Y., Commercial Counselor, U.S. Embassy in Baghdad [1989, 1990]; Commercial Counselor, U.S. Consulate at Istanbul [1991, 1992]
+- Smith, Samuel V., Director, Office of Multilateral Affairs and Human Rights Program (later Office of Multilateral Affairs), Bureau of Human Rights and Humanitarian Affairs, Department of State [1989-1991]; Deputy Director, Office of Aviation Negotiations, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Smith, Stephen T., Administrative Counselor, U.S. Embassy in Tunis [1989, 1990]; Post Management Officer, Office of the Executive Director, Bureau of European and Canadian Affairs, Department of State [1992]
+- Smith, Stuart M., Political, Economic, and Commercial Counselor, U.S. Embassy in Ouagadougou [1990-1992]
+- Smith, Timothy F., Branch Public Affairs Officer, U.S. Consulate at Sapporo [1989]; Deputy Policy Officer, Office of American Republics Affairs, United States Information Agency [1992]
+- Smith-Kinney, Stephanie A., Consul, U.S. Embassy in Riyadh [1989, 1990]; Deputy Director, Office of Global Changes, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990-1991]; Principal Officer, U.S. Consulate at Merida [1991, 1992]
+- Smolik, Robert J., Economic Counselor, U.S. Embassy in Santo Domingo [1989, 1990]; Deputy Director for Political Affairs, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Smyth, Richard, Administrative Officer, U.S. Embassy in Copenhagen [1989, 1990]; Office of Intelligence Liaison, Bureau of Intelligence and Research, Department of State [1991, 1992]
+- Snead, Larry L., Director, Office of Fisheries Affairs, (Oceans and Fisheries Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989-1992]
+- Snead, Thomas J., Special Assistant for Public Affairs, Bureaus of Oceans and International Environmental and Scientific Affairs, Department of State [1989, 1990]; Consul, U.S. Consulate at Shanghai [1991, 1992]
+- Snegur, Mircea, President of Moldova
+- Snell, Terry R., Political Counselor, U.S. Embassy in Warsaw [1989-1991]; Executive Assistant to the Ambassador at Large and Special Adviser to the Secretary of State on Non-Proliferation Policy and Nuclear Energy Affairs [1992]
+- Snellgrove, Trevor A., Administrative Counselor, U.S. Consulate at Ciudad Juarez [1989, 1990]
+- Snider, Donald M., Director for Defense Policy and Arms Control, National Security Council staff
+- Snider, Raymond R., Office of Western European Affairs, Bureau of European and Canadian Affairs, Department of State [1990]; Charge d’Affaires, U.S. Embassy in Harare [1991]; Deputy Chief of Mission, U.S. Embassy in Harare [1991, 1992]
+- Snow, Andrew, Consul and Economic and Commercial Counselor, U.S. Embassy in Nouakchott [1991, 1992]
+- Snow, Christopher, Deputy Director, Office of North African, Near Eastern, and South Asian Affairs, United States Information Agency (1989, 1990); Public Affairs Officer, U.S. Embassy in Tel Aviv [1991, 1992]
+- Snow, Robert Anthony, editorial page editor, Washington Times; Deputy Assistant to the President for Communications and Director of Speechwriting from February 19, 1991, until March 1992; Deputy Assistant to the President for Media Affairs from March 19, 1992
+- Snow, Stephen R., Political Counselor, U.S. Embassy in Dhaka [1989-1991]; Labor Attache, U.S. Embassy in Wellington [1991, 1992]
+- Snyder, Charles B., Politico-Military Adviser, Office of Regional Affairs, Bureau of African Affairs, Department of State [1989-1992]
+- Snyder, Joseph C., III, Political Counselor, U.S. Embassy in Vienna [1989-1991]; Director, Office of Press Relations, Bureau of Public Affairs, Department of State [1992]
+- Snyder, Robert E., Labor Attache, U.S. Embassy in Canberra [1990-1992]
+- Socolow, Frank, Jr., Political and Military Counselor, U.S. Embassy in Saana [1991, 1992]
+- Sofaer, Abraham David, Legal Adviser of the Department of State until June 15, 1990
+- Soglo, Nicephore, President of Benin
+- Sokolsky, Richard, Director, Office of Defense Relations and Security Assistance, Bureau of Politico-Military Affairs, Department of State [1990]; Director, Office of Strategic and Theater Policy, Bureau of Politico-Military Affairs, Department of State [1991, 1992]
+- Solana Morales, Fernando, Mexican Secretary of Foreign Affairs
+- Solarz, Stephen J., Member, U.S. House of Representatives (D-New York) until January 3, 1993
+- Soler, Doreen, Consul, U.S. Embassy in Rabat [1991, 1992]
+- Solomon, George J., Commercial Counselor, U.S. Embassy in Tegucigalpa [1991]
+- Solomon, Richard H., Director, Policy Planning Staff, Department of State, until January 21, 1989; Assistant Secretary of State for East Asian and Pacific Affairs from June 23, 1989, until July 10, 1992; U.S. Ambassador to the Philippines from September 4, 1992
+- Sommer, Peter R., U.S. Ambassador to Malta until October 8, 1989
+- Sontag, Jack, Chief, Soviet Internal Affairs Division, Office of Analysis for the Soviet Union and Eastern Europe, Bureau of Intelligence and Research, Department of State [1989-1992]
+- Sorenson, Clifford T.G., Economic Counselor, U.S. Embassy in Brazzaville [1991, 1992]
+- Sorenson, Robert E., Consul, U.S. Embassy in Ankara [1989-1992]
+- Sorg, Richard B., Administrative Counselor, U.S. Embassy in Port Moresby [1989]
+- Soriano, James, Labor Attache, U.S. Embassy in Cairo [1991, 1992]
+- Sotirhos, Michael, U.S. Ambassador to Jamaica until July 7, 1989; U.S. Ambassador to Greece from October 6, 1989, until January 30, 1993
+- Sour, Jennifer, Special Assistant, Office of the Counselor, Department of State [1989-1991]
+- Southwick, E. Michael, Executive Director, Bureau of Intelligence and Research, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Nairobi [1991, 1992]
+- Spain, James W., U.S. Ambassador to Sri Lanka and the Maldives until June 16, 1989
+- Spakauskas, Anthony, Chief, Organization and Occupational Analysis Division, Office of Resources Management and Organization, Bureau of Personnel, Department of State [1990, 1991]; Policy Planning and Implementation Staff, Bureau of Personnel, Department of State [1992]
+- Spalding, Peter F., Chief, Assignments Division (AF), Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1989, 1990]; Consul General, U.S. Consulate at Surabaya [1991, 1992]
+- Spangler, Michael A., Economic Counselor, U.S. Consulate at Guangzhou [1992]
+- Spangler, Scott M., President, First Phoenix Capital Inc., until 1990; Assistant Administrator, Bureau for Africa, Agency for International Development [1990, 1991]; Associate Administrator, Directorate for Operations, Agency for International Development [1992]
+- Spearman, Leonard H.O., U.S. Ambassador to Rwanda until November 10, 1990; U.S. Ambassador to Lesotho from January 24, 1991
+- Specht, Linda S., Economic and Commercial Counselor, U.S. Embassy in Paramaribo [1991, 1992]; Consul, U.S. Embassy in Port Moresby [1992]
+- Speck, Janet G., Commercial Counselor, U.S. Embassy in Prague [1989, 1990]
+- Speckhard, Daniel V., Adviser to the Deputy Secretary for Policy and Resources, Office of the Deputy Secretary of State [1991]; Director, Advisers to the Deputy Secretary for Policy and Resources, Office of the Deputy Secretary of State [1992]
+- Specter, Arlen, Senator (R-Pennsylvania)
+- Spector, J. Brooks, Public Affairs Officer, U.S. Embassy in Mbabane [1989, 1990]
+- Speed, Horace, Political Counselor, U.S. Embassy in Lilongwe [1990, 1991]
+- Speer, Mary, Public Affairs Officer, U.S. Liaison Office in Luanda [1992]
+- Spence, Melvin T., Administrative Counselor, U.S. Consulate at Montreal [1989, 1990]
+- Spencer, Terence J., Public Affairs Officer, U.S. Embassy in Port Moresby [1989-1991]
+- Sperling, Gilbert J., Consul, U.S. Consulate at Madras [1989-1991]; Consular Systems Division, Office of the Executive Director, Bureau of Consular Affairs, Department of State [1992]
+- Spiegel, John, Consul, U.S. Embassy in Nicosia [1989-1991]; Office of Aviation Negotiations, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1992]
+- Spiers, Ronald Ian, Under Secretary of State for Management until May 15, 1989
+- Spillane, John P., Economic Counselor, U.S. Mission to the Organization for Economic Cooperation and Development [1989-1992]; Economic Counselor, U.S. Embassy in Cairo [1992]
+- Spiro, Elizabeth P., Special Assistant, Office of the Under Secretary of State for Political Affairs [1989]; Political Counselor, U.S. Embassy in Oslo [1991, 1992]
+- Spiro, Joel S., Economic Counselor, U.S. Mission to the European Communities [1989-1992]
+- Spiro, John, Director, Office of Technical Specialized Agencies, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Sprick, Karl H., Consul, U.S. Consulate at Hamburg [1989, 1990]; Office of Field Support Liaison, Visa Services, Bureau of Consular Affairs, Department of State [1990]; Executive Secretary of the Foreign Service Grievance Board, Department of State [1992]
+- Sprigg, Sheri, AF Regional Officer, Office of Human Rights, Bureau of Human Rights and Humanitarian Affairs, Department of State [1989]
+- Springer, Craig, Branch Public Affairs Officer, U.S. Consulate at Frankfurt [1989-1992]; Public Affairs Officer, U.S. Embassy in Vienna [1992]
+- Springmann, J. Michael, Political and Economic Counselor, U.S. Consulate at Stuttgart [1989, 1990]; Office of Economic Analysis, Bureau of Intelligence and Research, Department of State [1992]
+- Sprott, John T., Deputy Director, Foreign Service Institute, Department of State [1989-1992]
+- Sprow, Gregory B., Narcotics Adviser, U.S. Mission to International Organizations in Vienna [1989-1992]
+- Stacy, Gerald L., Deputy Director, Office of Strategic and Theater Policy, Bureau of Politico-Military Affairs, Department of State [1990-1992]
+- Stader, Donald E., Jr., Office of Vietnam, Laos, and Cambodia Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990]; Consul General, U.S. Consulate at Mombasa [1991, 1992]
+- Stadtler, Walter E., U.S. Ambassador to Benin until December 3, 1989
+- Staeben, Derwood K., Consul, U.S. Embassy in Vilnius [1992]
+- Stafford, Joseph D., III, Political Counselor, U.S. Embassy in Algiers [1989, 1990]; North Africa and Arabian Peninsula Division, Office of Analysis for Near East and South Asia, Bureau of Intelligence and Research, Department of State [1990, 1991]; Deputy Director, Office of Algeria, Libya, Morocco, Tunisia Affairs, Bureau of East Asian Affairs, Department of State [1992]
+- Stallings, Alden P., Branch Public Affairs Officer, U.S. Consulate at Pusan [1989]
+- Stammerman, Kenneth A., Consul General, U.S. Consulate at Dhahran [1990-1992]
+- Stanfield, Sylvia G., Office of International Development Assistance, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1990]; Office of Australia and New Zealand Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1991]; Director, Office of Australia and New Zealand Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1991, 1992]
+- Stanford, Ann L., Consul General, U.S. Consulate at Lyon [1989-1992]
+- Stanitz, Jacques, III, Administrative Counselor, U.S. Consulate at Karachi [1990-1992]; OPS/AM/EUR [1992]
+- Stanton, Karen C., Consul, U.S. Embassy in Islamabad [1991, 1992]
+- Staples, George M., Political Counselor, U.S. Embassy in Nassau [1989]; Operations Center, Executive Secretariat, Department of State [1990]; Office of Southern European Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Harare [1992]
+- Staples, William B., Chief, Science and Technological Policy Division, Bureau of Multilateral Affairs, Arms Control and Disarmament Agency [1990-1992]
+- Starr, Barbara, Executive Secretary, Office of the Director, Arms Control and Disarmament Agency
+- Starrett, Samuel D., Commercial Counselor, U.S. Consulate at Casablanca [1989-1992]
+- St. Clair, Michael, Administrative Counselor, U.S. Embassy in Maseru [1991, 1992]
+- Stebbing, David, Chief, Food Policy Division, Office of Food Policy and Programs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1989]; Economic Counselor, U.S. Embassy in Lima [1990, 1991]
+- Steele, E. James, Consul and Commercial Counselor, U.S. Embassy in Vientiane [1989, 1990]
+- Steers, Howard J.T., Northern and Central Europe Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1991? 1992]; Charge d’Affaires ad interim, U.S. Embassy in Chisinau from March 13, 1992
+- Steinberg, Donald K., Economic Counselor, U.S. Embassy in Pretoria [1991, 1992]
+- Steiner, Steven E., U.S. Representative for the Special Verification Commission from 1988; U.S. Representative to the START Joint Compliance and Inspection Commission from 1991
+- Steinitz, Mark, Director, Office of Terrorism and Narcotics Analysis, Bureau of Intelligence and Research, Department of State [1990, 1991]
+- Stephan, Charles L., III, Consul, U.S. Embassy in Nairobi [1989-1991]; Grievance Staff, Bureau of Personnel, Department of State [1992]
+- Stephanchuk, John, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1990]; Political and Economic Counselor, U.S Consulate at Kiev [1991]; Political and Economic Counselor, U.S. Embassy in Kiev [1992]
+- Stephens, Patsy G., Consul, U.S. Consulate at Martinique [1989-1991]; Consul, U.S. Consulate at Monterrey [1991, 1992]
+- Stephenson, Paul D., Economic Counselor, U.S. Consulate at Shenyang [1990, 1991]
+- Stern, Robert, Deputy Director, Office of Aviation Negotiations, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Office of Inspections, Office of the Inspector General, Department of State [1992]
+- Sternberg, Leslie, Economic and Commercial Counselor, U.S. Embassy in La Paz [1989, 1990]; Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]
+- Stetson-Mannix, Sherry, ACDA Representative, U.S. Delegation to the Conference on Disarmament [1992]
+- Stettenbauer, Grace Carolyn, Administrative Counselor, U.S. Embassy in Djibouti [1992]
+- Stettner, Carolyn, Director for International Programs, National Security Council staff (1991)
+- Stevens, Justice B., Consul, U.S. Embassy in Stockholm [1989-1992]
+- Stevens, Sandra A., Consul, U.S. Consulate at Melbourne [1989-1992]; Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State [1992]
+- Stewart, Curtis M., Principal Officer, U.S. Consulate at Ponta Delgado [1989]; Consul, U.S. Embassy in Nassau [1990-1992]; acting Economic Counselor, U.S. Consulate at Rio de Janeiro [1992]
+- Stewart, James, Political and Economic Counselor, U.S. Embassy in Gaborone [1992]
+- Stewart, John Todd (J. Todd), Deputy Chief of Mission, U.S. Embassy in San Jose [1989, 1990]; Charge d’Affaires, U.S. Embassy in San Jose [1990]; Deputy Chief of Mission, U.S. Embassy in Ottawa [1990-1992]
+- Stewart, Karen, Office of Israel and Arab-Israeli Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Principal Officer, U.S. Consulate at Udorn [1992]
+- Stewart, Wesley D., Public Affairs Officer, U.S. Embassy in Canberra; Deputy Director, Office of East Asian and Pacific Affairs, United States Information Agency, from 1989 until 1992
+- Stigliani, Nicholas A., Chief, Central and Western Africa Division, Office of Analysis for Africa, Bureau of Intelligence and Research, Department of State [1989, 1990]; Labor Attache, U.S. Embassy in Ankara [1991, 1992]
+- Stirling, Gordon, Political Counselor, U.S. Embassy in Port of Spain [1989, 1990]; ACDA [1992]
+- Stites, Richard W., Branch Public Affairs Officer, U.S. Consulate at Guangzhou [1990-1992]
+- Stitt, Wilbert, Post Management Officer, Office of the Executive Director, Bureau of Inter-American Affairs, Department of State [1990, 1991]
+- St. John, John J., Director, Office of Mexican Affairs, Bureau of Inter-American Affairs, Department of State
+- Stockbridge, Cynthia, Consul, U.S. Embassy in Nicosia [1991, 1992]
+- Stocker, Carol K. (Kay), Deputy Director, Office of Central European Affairs, Bureau of European and Canadian Affairs, Department of State [1989]; Deputy Director, Office of Monetary Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; acting Director, Office of Monetary Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1992]; Deputy Chief of Mission, U.S. Embassy in Tunis [1992]
+- Stoiber, Carlton E., Director, Office of Non-proliferation and Export Policy, (Nuclear Energy and Energy Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989-1992]
+- Stokes, Louis, member, U.S. House of Representatives (D-Ohio)
+- Stoler, Andrew L., Deputy United States Trade Representative in Geneva [1990-1992]
+- Stoll, Daniel C., Consul, U.S. Embassy in Baghdad [1989, 1990]; Office of Egyptian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]
+- Stolojan, Theodor, Romanian Prime Minister
+- Stoltenberg, Gerhard, West German Minister of Defense until October 3, 1990; thereafter German Minister of Defense
+- Stoltenberg, Thorvald, United Nations High Commissioner for Refugees until November 1990; thereafter Norwegian Foreign Minister
+- Stoltz, Karl E., Public Affairs Officer, U.S. Embassy in Port Moresby [1992]
+- Stone, Curtis A., Economic Counselor, U.S. Embassy in Dublin [1989-1992]; Office of Business Practices, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1992]
+- Stone, David L., Consul, U.S. Consulate at Hermosillo [1990-1992]; Office of Performance Evaluation, Bureau of Personnel, Department of State [1992]
+- Stone, Marvin, Deputy Director, United States Information Agency
+- Stone, Michael P.W., Under Secretary of the Army from 1988 until 1989; Secretary of the Army from August 14, 1989, until January 20, 1993
+- Stone, Richard B., Presidential Envoy for Central American Affairs and Ambassador at Large during the Reagan administration; U.S. Ambassador to Denmark from February 10, 1992
+- Stonecipher, Charles A., Consul and Political and Economic Counselor, U.S. Embassy in Bissau [1991, 1992]
+- Storella, Mark C., Consul and Political Counselor, U.S. Mission in Phnom Penh [1992]
+- Stott, David, Jr., Consul, U.S. Embassy in Maseru [1992]
+- Stout, Charles R., Director, Policy Coordination Staff, Bureau of Personnel, Department of State [1989]; Deputy Team Leader, Office of Inspections, Office of the Inspector General [1990]
+- Stovras, Frank, Public Affairs Officer, U.S. Embassy in Riyadh [1989, 1990]
+- Strachan, Linda A., Special Assistant for Congressional Relations, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990-1992]
+- Strain, Stephen, Associate Coordinator for Public and Legislative Affairs, Office of the Ambassador at Large for Counter-Terrorism, Department of State [1989, 1990]; Public Affairs Liaison, Policy, Planning, and Evaluation Staff, Bureau of International Narcotics Matters, Department of State [1990, 1991]; Deputy Coordinator, East European Initiative, Office of European Affairs, United States Information Agency [1992]
+- Strasser, Daniel A., Political Counselor, U.S. Consulate at Rio de Janeiro [1989-1991]; Chief, South America Division, Office of Program Management, Bureau of International Narcotics Matters, Department of State [1992]
+- Stratford, Richard J.K., Deputy Assistant Secretary for Nuclear Energy and Energy Technology Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989-1992]
+- Stratford, Timothy P., Commercial Counselor, U.S. Embassy in Beijing [1989-1992]
+- Strathearn, Bruce D., Economic Counselor, U.S. Embassy in Colombo [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Saana [1991, 1992]
+- Strauss, Robert S., U.S. Ambassador to the Soviet Union from August 24, 1991, until November 19, 1992
+- Strausz-Hupe, Robert, U.S. Ambassador to Turkey until May 18, 1989
+- Streeb, Gordon L., Senior Inspector, Office of Inspections, Office of the Inspector General, Department of State [1989, 1990]; U.S. Ambassador to Zambia from November 21, 1990
+- Streicher, Joseph O., Consul, U.S. Consulate at Zurich [1989, 1990]
+- Strelick, Arthur, Administrative Counselor, U.S. Consulate at Stuttgart [1992]
+- Stremlau, John J., Deputy Director, Policy Planning Staff, Department of State [1990-1992]
+- Strickler, Theodore E., Administrative Counselor, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1989]; Executive Director, Bureau of Politico-Military Affairs, Department of State [1991]
+- Stroessner, Alfredo, President of Paraguay until February 3, 1989
+- Stromme, Craig J., Branch Public Affairs Officer, U.S. Consulate at Johannesburg [1992]
+- Strong, J. Francis, Political and Military Counselor, U.S. Embassy in Valletta [1990]; Political Counselor, U.S. Embassy in Valletta [1991]
+- Stroock, Thomas F., U.S. Ambassador to Guatemala from October 31, 1989, until November 10, 1992
+- Strotz, Judith A., Special Assistant, Office of the Under Secretary of State for Political Affairs [1989, 1990]; Deputy Director, Office of Thailand and Burma Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Strovas, Frank, Public Affairs Officer, U.S. Embassy in Riyadh [1990]
+- Struble, James Curtis (J. Curtis), Consul, U.S. Embassy in Tegucigalpa [1989]; Deputy Director for Bilateral Political Relations, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Consul, U.S. Embassy in Bangkok [1991, 1992]
+- Struble, John, Office of Eastern European and Yugoslavian Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]
+- Strudwick, James, Commercial Counselor, U.S. Embassy in Brazzaville [1989-1991]; Consul, U.S. Embassy in Abidjan [1991, 1992]
+- Stuart, Robert D., U.S. Ambassador to Norway until July 17, 1989
+- Studeman, Vice Adm. William O., Director of Naval Intelligence until 1988; Director, National Security Agency from 1988 until 1992; Deputy Director, Central Intelligence Agency
+- Stults, Mary Kay, Personal Assistant to the Under Secretary of State for Political Affairs [1991]
+- Suchan, Gregory M., Political Counselor, U.S. Embassy in Copenhagen [1991, 1992]
+- Suddarth, Roscoe S., U.S. Ambassador to Jordan until July 27, 1990; Office of Inspections, Office of the Inspector General, Department of State [1990, 1991]; Deputy Inspector, Office of the Inspector General, Department of State [1992]
+- Suettinger, Robert L. Director, Office of Analysis for East Asia and the Pacific, Bureau of Intelligence and Research, Department of State [1989]
+- Sullivan, Gordon R., Gen., USA, Chief of Staff of the Army from June 22, 1991
+- Sullivan, Joseph G., Director, Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State until 1989; Deputy Assistant Secretary for Central America, Bureau of Inter-American Affairs, Department of State, from 1989 until 1991
+- Sullivan, Roy F., Administrative Counselor, U.S. Embassy in St. George’s [1989, 1990]; Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State [1991]
+- Summers, Hollis S., Vice Counsel, U.S. Consulate at Ponta Delgada [1989]; Office of Freely Associated State Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Summers, Robert A., Chief, Division of Verification, Bureau of Verification and Intelligence, Arms Control and Disarmament Agency [1989]; Chief, Nuclear Safeguards and Technology Division, Bureau of Nuclear and Weapons Control, Arms Control and Development Agency [1990-1992]
+- Sun, Nora, Commercial Counselor, U.S. Consulate at Guangzhou [1989]; Commercial Counselor, U.S. Consulate at Shanghai [1989-1991]
+- Sundquist, M. Alexandra, Office of Development Finance, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990]; Consul General, U.S. Consulate at Bordeaux [1991, 1992]
+- Sununu, John H., White House Chief of Staff from January 21, 1989, until December 15, 1991; Counselor to the President from December 16, 1991, until February 28, 1992
+- Surber, Russell J., Chief, Junior Officer Division, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1989, 1990]; Charge d’Affaires, U.S. Embassy in Port Salinas [1990]; Director, Office of Egyptian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Sutherland, William E., Administrative Counselor, U.S. Embassy in Freetown [1991, 1992]
+- Svendsen, Eric E., Political and Economic Counselor, U.S. Embassy in Accra [1989]; Director, Office of Multilateral Program Coordination, Bureau of International Organization Affairs, Department of State [1990, 1991]; U.S. Mission to International Organizations in Vienna [1992]
+- Svengsouk, Thavanh, Public Affairs Officer, U.S. Embassy in Bangui [1991, 1992]
+- Swan, James, Political Counselor, U.S. Embassy in Yaounde [1992]
+- Swann, Mary B., Public Affairs Staff, Bureau of African Affairs, Department of State [1990]; Deputy Director, Public Affairs Staff, Bureau of African Affairs, Department of State [1991, 1992]
+- Swartz, David H., Staff Director, Nuclear Risk Reduction Center, Bureau of Politico-Military Affairs, Department of State [1989]; Dean, School of Language Studies, Foreign Service Institute, Department of State [1990, 1991]; Charge d’Affaires, U.S. Embassy in Minsk [1992]; U.S. Ambassador to Belarus from September 9, 1992
+- Swavely, Peter J., Political Counselor, U.S. Embassy in Belize City [1992]
+- Sweany, Garrett G., Political Adviser, U.S. Mission to International Organizations in Vienna [1989]
+- Sweeney, Eugene P., Political, Economic, and Commercial Counselor, U.S. Consulate at Florence [1989]; Current Intelligence Staff, Office of Intelligence Support, Bureau of Intelligence and Research, Department of State [1992]
+- Swenson, Christopher H., Administrative Counselor, U.S. Embassy in Bogota [1989]; Administrative Counselor, U.S. Embassy in Mogadishu [1990]; Office of Inspections, Office of the Inspector General, Department of State [1992]
+- Swicker, Eileen G., Political Counselor, U.S. Embassy in Bangui [1989, 1990]
+- Swicker, George S., Political and Military Counselor, U.S. Embassy in N’Djamena [1989-1991]
+- Swift, Elizabeth A. (Ann), Consul, U.S. Embassy in Kingston [1989]; Deputy Assistant Secretary for Overseas Citizens Services, Bureau of Consular Affairs, Department of State [1990, 1991]
+- Swigert, James W., Office of Western European Affairs, Bureau of European and Canadian Affairs, Department of State [1990]; Political Counselor, U.S. Embassy in Belgrade [1991, 1992]
+- Swihart, James W., Jr., Director, Office of Eastern European and Yugoslav Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Vienna [1992]
+- Swing, William L., Deputy Assistant Secretary of State for Personnel until July 1989; U.S. Ambassador to South Africa from September 8, 1989, until July 5, 1992
+- Swope, M. Elizabeth (Mary E.), Associate Executive Director, Management and Administration, Bureau of Consular Affairs, Department of State [1989]; Coordinator, Consular Training, School of Professional Studies, Foreign Service Institute, Department of State [1990, 1991]; Consul, U.S. Embassy in Cairo [1991, 1992]
+- Sykes, Jill A., Diplomatic and Consular Liaison, Office of the Chief of Protocol, Department of State [1990-1992]
+- Sylvester, Charles T., Consul General, U.S. Consulate at Shanghai [1989]
+- Syrette, Ann, Consul, U.S. Embassy in St. Johns [1989-1992]
+- Syse, Jan Peder, Prime Minister of Norway from October 16, 1989, until November 3, 1990
+- Szymanski, Christopher J., Deputy Chief of Mission, U.S. Embassy in Rangoon [1989, 1990]
+- Tabai, Ieremia, President of Kiribati
+- Tabler-Stone, Melinda, Consul, U.S. Consulate at Nuevo Laredo [1989, 1990]; Office of Program Management, Bureau of International Narcotics Matters, Department of State [1992]
+- Tadeu, Americo A., Commercial Counselor, U.S. Consulate at Guadalajara [1991, 1992]
+- Tae-woo, Roh, President of the Republic of Korea
+- Taft, Julia V., Director, Office of U.S. Foreign Disaster Assistance, Agency for International Development [1989]; Special Assistant (Consultant), Office of Commonwealth of Independent States Assistance, Office of the Deputy Secretary of State [1992]
+- Taft, Robert A., Commercial Counselor, U.S. Consulate at Sydney [1989, 1990]; Commercial Counselor, U.S. Embassy in Caracas [1991, 1992]
+- Taft, William Howard, IV, Deputy Secretary of Defense until April 22, 1989; U.S. Permanent Representative to the North Atlantic Treaty Organization from August 3, 1989, until June 26, 1992; also acting Secretary of Defense from January 20, 1989, until March 21, 1989
+- Taglialatela, Linda S., Administrative Counselor, U.S. Embassy in Bern [1989]; Deputy Director, Office of Resources Management and Organization Analysis, Bureau of Personnel, Department of State [1990-1992]
+- Taher, Daniel, Commercial Counselor, U.S. Embassy in Bern [1989, 1990]
+- Tahir-Kheli, Shirin, Director for Near East and South Asian Affairs, National Security Council staff (1989)
+- Talcott, Gregory M., Deputy Chief of Mission, U.S. Embassy in Freetown [1989]; Deputy Director (Africa, Asia, Host Country, New Peacekeeping, Terrorism, Dependent Areas), Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1989-1991]; Labor Attache, U.S. Embassy in Jakarta [1991, 1992]
+- Tamlyn, Lucy, U.S. Mission to International Organizations in Vienna [1989, 1990]; Consul and Economic and Commercial Counselor, U.S. Embassy in Maputo [1990, 1991]
+- Tamposi, Elizabeth M., Assistant Secretary of State for Consular Affairs from October 18, 1989, until November 10, 1992
+- Tangalos, Andrew, Commercial Counselor, U.S. Embassy in Algiers [1992]
+- Tansey, Robert J., Economic Counselor, U.S. Consulate at Calgary [1989]; Office of Pacific Island Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990]
+- Tarpey, Dona, Staff Assistant, Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Office of Southern European Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Tarrant, James R., Economic Counselor, U.S. Embassy in Ottawa [1989]; Special Negotiator for Transportation Affairs, Bureau of Economic and Business Affairs, Department of State [1990, 1991]; acting Deputy Assistant Secretary for Transportation Affairs, Bureau of Economic and Business Affairs, Department of State [1992]; thereafter Deputy Assistant Secretary for Transportation Affairs, Bureau of Economic and Business Affairs, Department of State
+- Tatge, Robert O., Consul, U.S. Consulate at Pozan [1989]; Consul, U.S. Embassy in Helsinki [1989-1992]
+- Taylor, John J., Principal Officer, U.S. Interests Section in Havana until September 1990
+- Taylor, Larry R., Public Affairs Officer, U.S. Embassy in Ankara [1990-1992]; Public Affairs Officer, U.S. Mission to the European Office of the United Nations and Other International Organizations in Geneva [1992]
+- Taylor, Lawrence P., Economic Counselor, U.S. Embassy in Ottawa [1989-1992]; Director, Foreign Service Institute, Department of State, from August 17, 1992
+- Taylor, Lisa, Political and Economic Counselor, U.S. Embassy in Vientiane [1989, 1990]
+- Taylor, Paul D., U.S. Ambassador to the Dominican Republic until January 9, 1992
+- Taylor, Philip B., III, Director, Office of Andean Affairs, Bureau of Inter-American Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Guatemala City [1989-1992]; Consul General, U.S. Consulate at Sao Paulo [1992]
+- Taylor, Rush Walker, U.S. Ambassador to Togo until September 4, 1990
+- Taylor, William, Special Assistant for Legislation and Defense Strategy, Office of Commonwealth of Independent States Assistance, Office of the Deputy Secretary of State [1992]
+- Teare, Richard W., Deputy Chief of Mission, U.S. Embassy in Canberra [1989]; Director, Office of Indonesia, Malaysia, Brunei, and Singapore, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]
+- Teegan, Evelyn I.H., U.S. Ambassador to Kiribati from January 1990
+- Teely, Peter B., U.S. Ambassador to Canada from July 3, 1992, until February 19, 1993
+- Tefft, Bruce D., Political and Commercial Counselor, U.S. Embassy in Djibouti [1991, 1992]
+- Tefft, John F., Political/Military Counselor, U.S. Embassy in Rome [1989]; Deputy Director, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Director, Office of Northern European Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Teich, Zachary Z., Science Attache, U.S. Embassy in Canberra [1992]
+- Teitelbaum, Donald G., Political Counselor, U.S. Embassy in Georgetown [1989-1990]; Middle America-Caribbean Division, Office of Analysis for Inter-American Republics, Bureau of Intelligence and Research, Department of State [1990, 1991]
+- Tekach-Ball, Mara R., Consul and Economic and Commercial Counselor, U.S. Embassy in Nouakchott [1990, 1991]
+- Telleen, David, Deputy Director, Office of Multilateral Affairs and Human Rights Program, Bureau of Human Rights and Humanitarian Affairs, Department of State [1989]; Regional Military Forces Division, Office of Politico-Military Analysis, Bureau of Intelligence and Research, Department of State [1990]; Theater Military Forces Division, Office of Politico-Military Analysis, Bureau of Intelligence and Research, Department of State [1991, 1992]
+- Teller, Dirck, Commercial Counselor, U.S. Embassy in Riyadh [1989-1992]
+- Teplitz, Alaina, Consul and Economic Counselor, U.S. Embassy in Ulaanbaatar [1992]
+- Terra, Daniel J., U.S. Ambassador at Large for Cultural Affairs until January 27, 1989
+- Terry, P. Albert (or Prince A.), Jr., Administrative Counselor, U.S. Embassy in Luxembourg City [1989-1992]
+- Thatcher, Margaret, Prime Minister of the United Kingdom until November 28, 1990
+- Thayer, Harry ET, Dean, School of Language Studies, Foreign Service Institute, Department of State [1989]; Contemporary Documents Review, Office of Freedom of Information, Privacy, and Classification Review, Office of the Deputy Assistant Secretary for Information Services, Bureau of Diplomatic Security, Department of State [1991]; Office of Asylum Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Thayer, Scott N., Executive Secretary, U.S. Delegation to the Negotiations on Confidence and Security Building Measures in Europe [1992]
+- Thayer, Yvonne, Director, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs [1992]
+- Theros, Patrick N., Deputy Chief of Mission, U.S. Embassy in Amman [1989-1991]
+- Thessin, James H., Assistant Legal Adviser for Oceans, International Environmental and Scientific Affairs, Office of the Legal Adviser, Department of State [1989]; Deputy Legal Adviser, Office of the Legal Adviser, Department of State [1990-1992]
+- Theurer, Walter, Public Affairs Officer, U.S. Embassy in Bujumbura [1990-1992]
+- Thibault, Albert A., Jr., Deputy Chief of Mission, U.S. Embassy in Kathmandu [1989-1991]; Director, Office of European, Near Eastern, and Latin American Refugee Assistance, Bureau of Refugee Affairs, Department of State [1992]
+- Thibeault, Stephen, Branch Public Affairs Officer, U.S. Consulate at Chiang Mai [1992]
+- Thiele, Tracey K., Branch Public Affairs Officer, U.S. Consulate at Chengdu [1990, 1991, 1992]
+- Thomas, A. Lucille, Administrative Counselor, U.S. Embassy in Santo Domingo [1989]; Administrative Counselor, U.S. Embassy in Ottawa [1990-1992]
+- Thomas, Bruce E., Labor Attache, U.S. Embassy in San Salvador [1989]; Political Counselor, U.S. Embassy in Nassau [1989-1992]
+- Thomas, Charles H., Principal Deputy Assistant Secretary of State for European and Canadian Affairs until 1989; U.S. Ambassador to Hungary from July 2, 1990
+- Thomas, Harry, Special Assistant, Bureau of African Affairs, Department of State [1989]; Labor Attache, U.S. Embassy in Harare [1990-1992]; Special Assistant, Office of the Under Secretary of State for Political Affairs [1992]
+- Thomas, Herbert S., III, Political Counselor, U.S. Consulate at Guangzhou [1989]; Political and Economic Counselor, U.S. Embassy in Mogadishu [1989, 1990]; Office of Anglophone and Lusophone West African Affairs, Bureau of African Affairs, Department of State [1992]
+- Thomas, Jeffery C., Public Affairs Officer, U.S. Embassy in Muscat [1989]
+- Thomas, Mary Jane, Administrative Counselor, U.S. Embassy in Budapest [1991, 1992]
+- Thomas, Michael D., acting Public Affairs Officer, U.S. Embassy in Georgetown [1992]
+- Thomas, Robert, Political and Economic Counselor, U.S. Consulate at Leningrad (later St. Petersburg) [1989]
+- Thomas, William W., Jr., Science Attache, U.S. Embassy in Beijing [1990]
+- Thomas-Greenfield, Linda, Consul and Political, Economic, and Commercial Counselor, U.S. Embassy in Banjul [1989]; Special Assistant, Bureau of Personnel, Department of State [1992]
+- Thompson, Alan R., Deputy Chief of Mission, U.S. Embassy in Berlin [1989]
+- Thompson, Elizabeth D., Administrative Counselor, U.S. Embassy in Brazzaville [1989, 1990]; Office of Refugee Processing and Admission, Refugee Programs, Department of State [1992]
+- Thompson, Larry C., Consul General, U.S. Consulate at Thessaloniki [1990, 1991]
+- Thompson, Samuel, Special Assistant to the Ambassador at Large and Special Adviser to the Secretary of State on Non-Proliferation Policy and Energy Affairs [1989-1991]
+- Thompson, Trudie E., Political and Economic Counselor, U.S. Embassy in Gaborone [1989]; Operations Center, Executive Secretariat, Department of State [1990, 1991]
+- Thompson, Ward C., Political Counselor, U.S. Embassy in Copenhagen [1989-1991]; Northern and Central Europe and Canada Division, Office of Analysis for Western Europe and Canada, Bureau of Intelligence and Research, Department of State [1992]
+- Thompson, William F., Special Assistant to the Special Adviser for Eastern European Assistance, Office of the Deputy Secretary of State [1990]
+- Thoms, Andrew G., Jr., Political Counselor, U.S. Embassy in Mexico City [1989, 1990]; Director, Office of Transnational Issues, Bureau of International Narcotics Matters, Department of State [1990, 1991]; Consul General, U.S. Consulate at Munich [1991, 1992]
+- Thomsen, Samuel B., Deputy Chief of Mission, U.S. Embassy in Majuro [1990, 1991]
+- Thomson, Scott D., Special Assistant, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1992]
+- Thornberg, Richard L., Attorney General of the United States
+- Thorne, Carlton E., Director, Office of Export and Import Control, (Nuclear Energy and Energy Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989-1992]
+- Thornhill, Elizabeth, Branch Public Affairs Officer, U.S. Consulate at Casablanca [1989-1992]
+- Thornton, Susan A., Consul, U.S. Embassy in Alma Ata [1992]
+- Thurber, James P., Public Affairs Officer, U.S. Embassy in Ottawa [1989, 1990]
+- Thurman, David E., Economic Counselor, U.S. Consulate at Bombay [1989, 1990]
+- Thurmond, Strom, Senator (R-South Carolina)
+- Thurston, Michael, Consul, U.S. Embassy in Colombo [1991, 1992]
+- Thurwachter, Todd N., Commercial Counselor, U.S. Consulate at Guangzhou [1989-1991]; Director, U.S. Commercial Office in Nagoya [1991, 1992]
+- Thyden, James E., Political Counselor, U.S. Embassy in Oslo [1989, 1990]
+- Timberman, Thomas M.F., Consul General, U.S. Consulate at Madras [1989, 1990]
+- Timbie, James P., Advisor to the Deputy Secretary of State for Strategic Policy; Senior Advisor to the Under Secretary of State for Security Assistance, Science and Technology until April 30, 1990; thereafter, Senior Advisor to the Under Secretary of State for International Security Affairs
+- Timmer, Paul N., Consul, U.S. Consulate at Leningrad (later St. Petersburg) [1989-1991]
+- Tindell, Cynthia, Economic Policy Staff, Bureau of African Affairs, Department of State [1990]; Trade and Commercial Advisor (later Security and Economic Assistance), Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990-1992]
+- Tkacik, John J., Jr., Economic Counselor, U.S. Consulate at Guangzhou [1989-1992]; Chief, China Division, Office of Analysis for East Asia and the Pacific, Bureau of Intelligence and Research, Department of State [1992]
+- Tobey, William H., Director for Defense Policy and Arms Control, National Security Council staff (1989, 1990)
+- Tobias, Barbara J., Science Attache, U.S. Embassy in Brasilia [1989-1992]; Director, Office of Defense Relations and Security Assistance, Bureau of Politico-Military Affairs, Department of State [1992]
+- Todd, James C., Economic Counselor, U.S. Mission to the Organization for American States [1989, 1990]
+- Todman, Terence A., U.S. Ambassador to Denmark until January 8, 1989; U.S. Ambassador to Argentina from June 13, 1989
+- Tolson, Jerome F., Jr., Administrative Counselor, U.S. Embassy in Mexico City [1989]; Deputy Assistant Secretary for Operations, Bureau of Administration, Department of State [1990-1992]
+- Tomchik, Stephen, Special Assistant, Office of the Under Secretary of State for Political Affairs [1989]; Deputy Director, Office of Weapons Proliferation Policy, Bureau of Politico-Military Affairs [1990, 1991]; Special Assistant, Office of the Under Secretary of State for International Security Affairs [1992]
+- Tompkins, Tain P., Economic Counselor, U.S. Embassy in Canberra [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Bridgetown [1992]
+- Tomsen, Peter, Deputy Chief of Mission, U.S. Embassy in Beijing [1989]; Special Envoy to the Afghan Resistance, Bureau of Near Eastern and South Asian Affairs, Department of State [1989-1992]
+- Tomseth, Victor L., Director, Office of Thailand and Burma Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Bangkok [1989-1992]
+- Toney, Gerald R., Consul, U.S. Embassy in Belize City [1989]; Visa Services, Bureau of Consular Affairs, Department of State [1990]
+- Tongour, Nadia, Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Tonkin, Thomas M., Political Counselor, U.S. Embassy in Guatemala City [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Dublin [1991, 1992]
+- Torres, Joseph B., Consul, U.S. Consulate at Palermo [1989, 1990]
+- Tousignant, Alan R., Industrial Officer, U.S. Mission to the European Communities [1989-1992]
+- Towell, Timothy L., U.S. Ambassador to Paraguay until April 27, 1991
+- Townswick, Mary, Economic and Commercial Counselor, U.S. Embassy in Bangui [1990, 1991]; Financial Economist, Economic Policy Staff, Bureau of African Affairs, Department of State [1992]
+- Toy, Steven, Multilateral Affairs Officer, Office of Multilateral Affairs and Human Rights Programs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1989]
+- Toye, Richard, Head, Policy Planning Group, Arms Control and Disarmament Agency [1989]
+- Tracy, Laurie, Labor Attache, U.S. Embassy in Quito [1989-1992]
+- Trahan, Eugene A., Administrative Counselor, U.S. Consulate at Munich [1989, 1990]; Administrative Counselor, U.S. Embassy in Abidjan [1991, 1992]
+- Trail, George A., III, U.S. Ambassador to Malawi until May 2, 1991; Deputy Chief of Mission, U.S. Embassy in Lagos [1991, 1992]
+- Treacy, John P., Public Affairs Officer, U.S. Embassy in Guatemala City [1989, 1990]; Public Affairs Officer, U.S. Embassy in Dublin [1990-1992]
+- Tremont, Pamela, Economic Counselor, U.S. Consulate at Calgary [1992]
+- Trezise, Arthur, Commercial Counselor, U.S. Embassy in Bogota [1990-1992]
+- Trigg, Ronald A., Political Counselor, U.S. Consulate at Johannesburg [1989-1992]
+- Trimble, Carol, Administrative Counselor, U.S. Consulate at Krakow [1991, 1992]
+- Tritak, John, Office of Politico-Military Policy Analysis, Bureau of Politico-Military Affairs, Department of State [1990]; Deputy Director, Office of Defense Relations and Security Assistance, Bureau of Politico-Military Affairs, Department of State [1992]
+- Trivelli, Paul A., Economic Counselor, U.S. Consulate at Monterrey [1989-1992]; Economic Counselor, U.S. Embassy in Managua [1992]
+- Trivisani, Thomas P., Administrative Counselor, U.S. Consulate at Johannesburg [1991, 1992]
+- Trost, Carlisle A.H., Adm., USN, Chief of Naval Operations until June 29, 1990
+- Trost, Laurie, Consul, U.S. Embassy in Luxembourg City [1992]
+- Trotter, C. David, Energy Adviser, U.S. Mission to the Organization for Economic Cooperation and Development [1990-1992]
+- Trouillot, Ertha Pascal, President of Haiti
+- Trowbridge, John Russell (J. Russell), Developed Country Trade Division, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1990]; Economic Counselor, U.S. Embassy in Prague [1991, 1992]
+- Troy, Carl Frederick, Political and Economic Counselor, U.S. Embassy in Malabo [1989]; Office of Southern African Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Political Counselor, U.S. Embassy in Windhoek [1991, 1992]
+- Troy, Thaddeus W., Consul, U.S. Embassy in Bujumbura [1991, 1992]
+- Truhan, J. Patrick, Administrative Counselor, U.S. Consulate at Casablanca [1989-1992]; Administrative Counselor, U.S. Embassy in Sofia [1992]
+- Truitt, Michelle E., Director, Fraud Protection Programs, Bureau of Consular Affairs, Department of State [1989, 1990]; Deputy Executive Director, Bureau of Inter-American Affairs, Department of State [1991, 1992]
+- Trujillo, Dora, Consul, U.S. Embassy in Guatemala City [1989]
+- Tucker, Susie, Visa Services, Bureau of Consular Affairs, Department of State [1991]; Consul, U.S. Consulate at Jeddah [1991, 1992]
+- Tueller, Matthew, Office of Egyptian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990-1991]; Political Counselor, U.S. Embassy in Kuwait [1991, 1992]
+- Tull, Theresa A., U.S. Ambassador to Guyana until July 10, 1990; Director, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Tumminia, Frank, Deputy Chief of Mission, U.S. Embassy in Paramaribo [1989]; Consul General, U.S. Consulate at Genoa [1990]
+- Tunis, Eric D., Political Counselor, U.S. Embassy in Nicosia [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Apia [1991, 1992]
+- Turak, Jonathan S., Special Trade Activities Division, Office of International Trade, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1990]; Economic and Commercial Counselor, U.S. Embassy in Conakry [1990-1992]
+- Turco, Robin, Staff Assistant, Office of the Under Secretary of State for Management [1990, 1991]
+- Turley, Frank C., Office of the Deputy Assistant Secretary for Visa Services, Bureau of Consular Affairs, Department of State [1990]; Foreign Service Institute, Department of State [1991]; Consul, U.S. Embassy in Singapore [1992]
+- Turner, Linda C., Consul, U.S. Embassy in Algiers [1989, 1990]; Bureau of International Organization Affairs, Department of State [1990]
+- Turnquist, Dan E., Labor Attache, U.S. Mission to the European Communities [1989-1991]; Labor Attache, U.S. Embassy in Bonn [1992]
+- Tuttle, Eugene P., Economic Counselor, U.S. Embassy in St. George’s [1989]; Economic and Commercial Counselor, U.S. Embassy in Port-au-Prince [1991]; Labor Attache, U.S. Embassy in Vienna [1991, 1992]
+- Tutwiler, Margaret D., Assistant Secretary of State for Public Affairs from March 3, 1989, until August 23, 1992; Assistant to the President for Communications from August 23, 1992
+- Twadell, William H., U.S. Ambassador to Mauritania until July 20, 1991; Charge d’Affaires ad Interim, U.S. Embassy in Monrovia from September 1992
+- Twining, Charles H., Jr., Director, Office of Vietnam, Laos, and Cambodia, Bureau of East Asian and Pacific Affairs, Department of State [1989-1991]; Representative, U.S. Embassy in Phnom Penh from November 11, 1991
+- Tyler, David, Staff Assistant, Office of the Assistant Secretary of State for Consular Affairs [1989]
+- Tymeson, Craig S., Administrative Counselor, U.S. Embassy in Suva [1989, 1990]; Administrative Counselor, U.S. Consulate at Sao Paulo [1992]
+- Tynes, Robert E., Consul, U.S. Embassy in Belgrade [1991, 1992]
+- Tyson, Donald R., Consul, U.S. Consulate at Sydney [1990-1992]
+- Ulmer, Sandra Y., Personal Assistant, Office of the Deputy Secretary of State [1990, 1991]; Special Assistant, Office of the Deputy Secretary of State [1992]
+- Uncu, Lucy P., Consul, U.S. Embassy in Ankara [1992]
+- Undeland, Richard, Public Affairs Officer, U.S. Embassy in Tunis [1989-1992]
+- Underriner, John, Regional Officer for East Asia, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990, 1991]
+- Underwood, Jennifer O., Consul, U.S. Embassy in Kampala [1991, 1992]
+- Underwood, Thomas A., Political Counselor, U.S. Embassy in Kampala [1991, 1992]
+- Untermeyer, Charles G. (Chase), Assistant to the President and Director of the Office of Presidential Personnel from 1989 until 1991; Director, Voice of America and Associate Director for Broadcasting, Bureau of Broadcasting, United States Information Agency
+- Urban, Elayne J., Consul, U.S. Consulate at Guadalajara [1989-1991]; Office of Legislation, Regulations, and Advisory Assistance, Visa Services, Bureau of Consular Affairs, Department of State [1992]
+- Urbancic, Frank C., Political and Economic Counselor, U.S. Embassy in Doha [1989]; Deputy Chief of Mission, U.S. Embassy in Freetown [1991, 1992]
+- Urbina de Breen, Marlene, Security Enforcement and Licensing Division, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1990]; Financial Economist, Economic Policy Staff, Bureau of African Affairs, Department of State [1992]
+- Uribe, Ernesto, Public Affairs Officer, U.S. Embassy in Santo Domingo [1989]; Public Affairs Officer, U.S. Embassy in Buenos Aires [1991, 1992]
+- Usrey, Gary S., Consul, U.S. Embassy in Panama City [1989, 1990]; Deputy Director, Office of Environmental Protection, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990, 1991]; Deputy Director, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern Affairs, Department of State [1992]
+- Ussery, Michael, U.S. Ambassador to Morocco from January 29, 1989, until January 16, 1992; Deputy Director, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Vagnorius, Gedimanas, Lithuanian Prime Minister
+- Valerga, Stanislaus R.P., Consul General, U.S. Consulate at Lyon [1989]
+- Valli, Moosa A., Office of the Executive Director, Bureau of Inter-American Affairs, Department of State [1990]; Post Management Officer, Office of the Executive Director, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Office of Southern African Affairs, Bureau of African Affairs, Department of State [1992]
+- Valois, Denise M., Staff Assistant, Bureau of International Organization Affairs, Department of State [1990, 1991]; Office of the Deputy Assistant Secretary for Regional Affairs and Security Assistance, Bureau of Politico-Military Affairs [1991]; Office of Bhutan, India, Maldives, Nepal, and Sri Lanka Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Van den Broek, Hans, Netherlands Prime Minister
+- Vandenbroucke, Donna, Office of West African Affairs, Bureau of African Affairs, Department of State [1990]; Bureau of Legislative Affairs [1991]; Office of Legislation, Regulations, and Advisory Assistance, Visa Services, Bureau of Consular Affairs, Department of State [1992]
+- Vandenbroucke, Lucien, Political Counselor, U.S. Embassy in Nouakchott [1989]; Staff Assistant, Bureau of Near Eastern and South Asian Affairs, Department of State [1990]; Office of East African Affairs, Bureau of African Affairs, Department of State [1991]
+- Van Der Meulen, Hendrik, Political Counselor, U.S. Embassy in Port Louis [1991, 1992]
+- Van De Velde, James, Executive Secretary and NIST Executive Director, Office of the U.S. Delegation to Geneva Arms Control Negotiations [1991, 1992]
+- Van Diepen, Vann, Deputy Director, Office of Policy Analysis, Bureau of Politico-Military Policy, Department of State [1990, 1991]; Director, Office of Weapons Proliferation Policy, Bureau of Politico-Military Affairs, Department of State [1992]
+- Vanell, David, Political and Military Counselor, U.S. Embassy in Manama [1990-1992]
+- Van Heuven, Ruth N., Consul General, U.S. Consulate at Zurich [1989-1992]
+- Van Hollen, Eliza, Chief, South Asia Division, Office of Analysis for Near East and South Asia, Bureau of Intelligence and Research, Department of State [1990-1992]
+- Van Laningham, James R., Administrative Counselor, U.S. Embassy in Baghdad [1989, 1990]; Deputy Director, Operations and Post Support Office, Office of the Deputy Assistant for Foreign Buildings Operations, Bureau of Administration, Department of State [1991]
+- Van Maerssen, Otto H., Consul, U.S. Consulate at Merida [1992]
+- Van Treeck, Douglas, Economic and Commercial Counselor, U.S. Embassy in Niamey [1989-1992]
+- Van Voorst, Carol L., Office of Northern European Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Special Assistant, Office of the Under Secretary of State for Political Affairs [1991]
+- Varga, Michael J., Economic Counselor, U.S. Consulate at Casablanca [1989]; Planning and Economic Analysis Staff, Bureau of Economic and Business Affairs, Department of State [1990]; Office of Monetary Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1991]; Office of Lebanon, Jordan, Syria Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1992]
+- Vargas, Felix C., Deputy Director, Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State [1990-1992]; Political and Economic Counselor, U.S. Delegation to the Conference on Security and Cooperation in Europe [1992]
+- Varrell-Bonner, Jennifer, Consul, U.S. Consulate at Nuevo Laredo [1990-1992] and Consul, U.S. Consulate at Tijuana [1991]
+- Vasquez, Edward H., Special Assistant to the Assistant Secretary of State for Consular Affairs [1990]; Principal Officer, U.S. Consulate at Mazatlan [1991, 1992]
+- Vassiliou, George, President of Cyprus
+- Vautrain, Michele, Economic Counselor, U.S. Consulate at Cape Town [1991, 1992]
+- Veler, Annette T., Charge d’Affaires, U.S. Embassy in St. George’s from July 1, 1991
+- Venable, Carolyn A., Office of Regional Political-Economic Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Passport Services, Bureau of Consular Affairs, Department of State [1992]
+- Veneman, Ann M., Deputy Under Secretary of Agriculture for International Affairs and Commodity Programs (1989, 1990); Deputy Secretary of Agriculture (1991, 1992)
+- Verdun, Aubrey V., Labor Attache and Political Counselor, U.S. Embassy in Maputo [1989]; Political Counselor, U.S. Embassy in Maputo [1990]; Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1991]
+- Verner, Jaroslav J., Press and Cultural Attache, U.S. Embassy in Berlin [1989, 1990]; Public Affairs Officer, U.S. Embassy in Tashkent [1992]
+- Vernon, Daniel A., Economic Counselor, U.S. Embassy in Baghdad [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Honiara [1991, 1992]
+- Veron-Sullivan, Yolande, Public Affairs Officer, U.S. Embassy in Valletta [1989]; Public Affairs Officer, U.S. Embassy in Algiers [1990, 1991]; Deputy Policy Officer, Office of African Affairs, United States Information Agency [1992]
+- Vershbow, Alexander R. (Sandy), Director, Office of Soviet Union Affairs, Bureau of European and Canadian Affairs, Department of State [1989-1991]; Deputy Permanent Representative and Deputy Chief of Mission, U.S. Mission to the North Atlantic Treaty Organization [1992]
+- Verville, Elizabeth G., Deputy Legal Adviser, Office of the Legal Adviser, Department of State [1989]; Deputy Assistant Secretary of State for Politico-Military Affairs [1990, 1991]; Senior Coordinator, Bureau of Politico-Military Affairs, Department of State [1992]
+- Vessey, Gen. John W., Jr., USA (Ret.), Presidential Emissary to Vietnam for POW/MIA Affairs
+- Vessey, John W., III, Consul, U.S. Consulate at Bombay [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Port Moresby [1990-1992]
+- Vest, George S., Director General of the Foreign Service and Director of Personnel, Department of State until May 3, 1989
+- Viccellio, Henry, Jr., Lt. Gen., USAF, Director, Joint Staff, from May 17, 1991, until December 1, 1992
+- Vickers, Harold E., Administrative Counselor, U.S. Embassy in Vienna [1989]
+- Vieira, John A., Administrative Counselor, U.S. Consulate at Madras [1991, 1992]
+- Villalobos, Ricardo, Commercial Counselor, U.S. Embassy in Santiago [1990-1992]
+- Villarosa, Sharon E.W., Office of Indonesia, Malaysia, Brunei, and Singapore Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990]; Principal Officer, U.S. Consulate at Songkhla [1991, 1992]
+- Villegoureix-Reid, Phyllis, Consul, U.S. Embassy in Warsaw [1989]
+- Villinski, Theodore J., Commercial Counselor, U.S. Embassy in Manila [1989, 1990]; Commercial Counselor, U.S. Embassy in Jakarta [1991, 1992]
+- Vincent, John W., Deputy Chief of Mission, U.S. Embassy in Nouakchott [1989, 1990]; Labor Attache, U.S. Embassy in Mexico City [1990-1992]
+- Virden, Richard A., Public Affairs Officer, U.S. Embassy in Lisbon [1989-1991]; Public Affairs Officer, U.S. Embassy in Bucharest [1991, 1992]
+- Vlahos, Michael, Director, Center for Studies of Foreign Affairs, Foreign Service Institute, Department of State [1989, 1990]
+- Vogel, Frederick J., Office of the Deputy Assistant Secretary for Defense and Arms Control, Bureau of Politico-Military Affairs, Department of State [1990]; Deputy Chief of Mission, U.S. Embassy in Vientiane [1991, 1992]
+- Vogelgesang, Sandra L., Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs until August 1989
+- Voien, Steve, Consul, U.S. Embassy in Abidjan [1990, 1991]
+- Volker, Karen E., Developed Country Trade Division, Office of International Trade, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1990]; Staff Assistant, Office of the Special Adviser for Eastern European Assistance, Office of the Deputy Secretary of State [1990, 1991]; Special Assistant for Technical Assistance Initiatives, Office of Commonwealth of Independent States Assistance, Office of the Deputy Secretary of State [1992]
+- Volker, Kurt, Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1990, 1991]; Special Assistant, Office of the Counselor, Department of State [1992]
+- Von Briesen, Mary, Director, Office of Asylum Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1989, 1990]; Deputy Director, Office of Lebanon, Jordan, Syria Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990-1992]
+- Von Duerckheim, Marsha, Consul, U.S. Embassy in Nairobi [1992]
+- Von Grey, Michael L., Science Attache, U.S. Mission to International Organizations in Vienna [1991, 1992]
+- Vranitzky, Franz, Chancellor of Austria
+- Vreeland, Frederick, NEA [1991]; U.S. Ambassador to Morocco from May 7, 1992
+- Vrooman, Peter H., Political and Economic Counselor, U.S. Embassy in Djibouti [1991, 1992]
+- Vuono, Carl E., Gen., USA, Chief of Staff of the Army until June 21, 1991
+- Wackerbarth, Paul, Economic Counselor, U.S. Embassy in Warsaw [1990, 1991]
+- Wagenseil, Steven, Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1990]; Deputy Chief of Mission, U.S. Embassy in Maseru [1991, 1992]
+- Wagner, Connie A., Administrative Counselor, U.S. Embassy in Bujumbura [1989]
+- Wagner, David P., Public Affairs Officer, U.S. Embassy in Montevideo [1989, 1990]; Branch Public Affairs Officer, U.S. Consulate at Rio de Janeiro [1990, 1991]
+- Wagner, Jim E., Principal Officer, U.S. Consulate at Maracaibo [1989-1991]
+- Wagoner, Ruth, Charge d’Affaires, U.S. Embassy in Banjul [1990]; Deputy Chief of Mission, U.S. Embassy in Banjul [1991]
+- Wahba, Marcelle, Public Affairs Officer, U.S. Embassy in Nicosia [1991, 1992]
+- Wajda, Thomas J., Director, Office of Maritime and Land Transport, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1989-1990]; Science Attache, U.S. Embassy in Ottawa [1991, 1992]
+- Wake, Douglas B., Political and Economic Counselor, U.S. Consulate at Leningrad (later St. Petersburg) [1989-1991]
+- Walda, Thomas J., Science Attache, U.S. Embassy in Ottawa [1991]
+- Walden, Gregory S., Chief Counsel, Federal Aviation Administration until 1991; Associate Counsel to the President from January 8, 1991
+- Walesa, Lech, leader of the Solidarity Movement; President of Poland
+- Walker, David A., Chief, Current Intelligence Staff, Office of Intelligence Support, Bureau of Intelligence and Research, Department of State [1989]
+- Walker, David M., Assistant Director, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990]; Political Counselor, U.S. Embassy in Wellington [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Wellington [1991, 1992]
+- Walker, Edward S., Jr., Deputy Assistant Secretary of State for Near Eastern and Asian Affairs until June 1989; U.S. Ambassador to the United Arab Emirates from January 16, 1990, until June 23, 1992; thereafter Office of Inspections, Office of the Inspector General, Department of State
+- Walker, Howard K., Office of Inspections, Office of the Inspector General [1989]; U.S. Ambassador to Comoros from October 25, 1989, until September 24, 1990; simultaneously U.S. Ambassador to Madagascar from September 27, 1989, until July 12, 1992
+- Walker, Jenonne R., Director, Office of Theater Nuclear Policy, Bureau of Politico-Military Affairs, Department of State [1989]
+- Walker, Julius P., Deputy Chief of Mission, U.S. Embassy in Yaounde [1990]
+- Walker, Lannon, U.S. Ambassador to Nigeria from November 17, 1989, until July 10, 1992; M/TF [1992]
+- Walker, William G., U.S. Ambassador to El Salvador until February 21, 1992
+- Walkley, Barrie, Director, Public Affairs Staff, Bureau of African Affairs, Department of State [1992]
+- Wall, Philip R., Labor Adviser, U.S. Mission to the Organization for Economic Cooperation and Development [1992]
+- Wallace, Roger W., Commercial Counselor, U.S. Embassy in Mexico City [1991, 1992]
+- Wallace, William O., Grievance Staff, Bureau of Personnel, Department of State [1990, 1991]; Deputy Director, Policy Coordination Staff, Bureau of Personnel, Department of State [1992]
+- Walpole, Robert D., acting Director then Director, Office of Strategic Forces Analysis, Bureau of Intelligence and Research, Department of State [1989]; Deputy Assistant Secretary of State for Politico-Military Affairs [1990, 1991]
+- Walser, Geoffrey, Commercial Counselor, U.S. Consulate at Montreal [1989-1992]
+- Walsh, Helen C., Director for International Economic Affairs, National Security Council staff (1992)
+- Walsh, James D., Consul General, U.S. Consulate at Halifax [1989]; Political Counselor, U.S. Embassy in Buenos Aires [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Buenos Aires [1992]
+- Walsh, James P., Consul, U.S. Embassy in Montevideo [1989, 1990]; Office of Field Support Liaison, Visa Services, Bureau of Consular Affairs, Department of State [1990, 1991]
+- Walsh, Patrick, Consul, U.S. Consulate at Lahore [1992]
+- Walsh, Ralph C., Consul, U.S. Consulate at Monterrey [1989, 1990]
+- Walters, Lt. Gen. Vernon A., USA (Ret.), U.S. Permanent Representative to the United Nations until March 15, 1989; U.S. Ambassador to the Federal Republic of Germany from April 24, 1989, until October 3, 1990; thereafter U.S. Ambassador to Germany
+- Walters, Paul T., Commercial Counselor, U.S. Embassy in Jakarta [1989, 1990]; Commercial Counselor, U.S. Embassy in Kuala Lumpur [1991, 1992]
+- Wanner, Raymond E., Officer-in-Charge of Communications and UNESCO Affairs, Office of United Nations Social and Refugee Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1989-1992]
+- Wapensky, Russell A., Policy and Press Adviser, U.S. Mission to the Organization of American States, Bureau of Inter-American Affairs, Department of State [1989, 1990]; Special Assistant, Office of the Under Secretary of State for Economic and Agricultural Affairs [1990, 1991]; Office of the Under Secretary of State for Economic and Agricultural Affairs [1992]
+- Ward, Elizabeth J. (Libby), Special Adviser for Nuclear Affairs, Office of Regional and Multilateral Force and Observers Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1990-1992]
+- Ward, George F., Deputy Chief of Mission, U.S. Embassy in Bonn [1989-1992]; Principal Deputy Assistant Secretary of State for International Organization Affairs and Principal Deputy Assistant Secretary for UN Political Affairs [1992]
+- Ward, James L., Consul, U.S. Embassy in Santo Domingo [1989, 1990]; Policy and Coordination Staff, Bureau of Consular Affairs, Department of State [1990, 1991]; Principal Deputy Secretary of State for Consular Affairs [1991, 1992]
+- Ward, Jennifer C., Deputy Chief of Mission, U.S. Embassy in Dakar until 1989; Political Counselor, U.S. Embassy in Kingston from 1989 until 1991; U.S. Ambassador to Niger from August 16, 1991
+- Ward, John K., Science Attache, U.S. Embassy in Moscow [1989, 1990]
+- Ward, Kevin J., Consul, U.S. Embassy in Conakry [1990, 1991]
+- Ward, Matthew P., Political and Economic Counselor, U.S. Consulate at Shanghai [1989]; Economic Counselor, U.S. Embassy in Khartoum [1989-1992]
+- Wardlaw, Frank P., Consul General, U.S. Consulate at Shanghai [1989-1992]
+- Warlick, James, Operations Center, Executive Secretariat, Department of State [1990]; Special Assistant, Office of the Deputy Secretary of State [1991, 1992]
+- Warner, John W., Senator (R-Virginia)
+- Warner, Joseph L., Administrative Counselor, U.S. Consulate at Tijuana [1989, 1990]; Office of Foreign Missions, Department of State [1992]
+- Warnock, John A., Labor Attache, U.S. Embassy in Bonn [1989-1991]; Labor Attache, U.S. Embassy in London [1992]
+- Warren, Louis B., Deputy Director, Office of Bhutan, India, Maldives, Nepal, Sri Lankan Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989]; Economic Counselor, U.S. Embassy in New Delhi [1990-1992]; Director, Office of Development Finance, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1992]
+- Warren, William, Charge d’Affaires, U.S. Consulate at Honiara [1989, 1990]; Deputy Chief of Mission, U.S. Consulate at Honiara [1991]; Principal Officer, U.S. Consulate at Adana [1991, 1992]
+- Warrick, James M., Consul, U.S. Embassy in Bujumbura [1989]
+- Washington, Ruth V., U.S. Ambassador to The Gambia from November 21, 1989
+- Wasylko, Stephan, Commercial Counselor, U.S. Embassy in Budapest [1989]; Commercial Counselor, U.S. Consulate at Vancouver [1990-1992]; Commercial Counselor, U.S. Embassy in Kiev [1992]
+- Waters, Gerald, Public Affairs Officer, U.S. Embassy in Quito [1989]; Public Affairs Officer, U.S. Embassy in Bridgetown [1991, 1992]
+- Watkins, James D., Secretary of Energy
+- Watkins, Rufus A., Administrative Counselor, U.S. Consulate at Ciudad Juarez [1991, 1992]
+- Watson, Alexander F., U.S. Ambassador to Peru until August 9, 1989; Deputy U.S. Representative, U.S. Mission to the United Nations from 1989 until 1992
+- Watson, Bobby L., Consul, U.S. Embassy in Lagos [1989, 1990]; Examination Division, Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1990-1991]; Labor Attache, U.S. Embassy in Lagos [1991, 1992]
+- Watson, Douglas K., Deputy Chief of Mission, U.S. Embassy in Port-au-Prince [1989-1991]
+- Watson, Peter S., Director for Asian Affairs, National Security Council Staff (1989, 1990)
+- Watson, Samuel III, Staff Assistant, Bureau of Economic and Business Affairs, Department of State [1989, 1990]; Office of Philippine Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]
+- Wattawa, Verne, Executive Secretary and Executive Director, U.S. Delegation to the Nuclear and Space Arms Talks
+- Wauchope, Keith L., Deputy Chief of Mission, U.S. Embassy in Monrovia [1989]; U.S. Ambassador to Gabon from December 8, 1989, until July 13, 1992; Director, Office of Performance Evaluation, Bureau of Personnel, Department of State
+- Waxmansky, Gary R., Science Attache, U.S. Embassy in Warsaw [1989]
+- Wayne, Earl A., Director for Regional Affairs, Office of the Coordinator for Counter-Terrorism, Department of State [1990, 1991]; Director for European and Soviet Affairs, National Security Council staff, from June 1991 until April 1992; thereafter Director for European and Eurasian Affairs, National Security Council staff (1992)
+- Wazer, M. Patricia, Consul, U.S. Embassy in Tokyo [1989]; Principal Officer, U.S. Consulate at Brisbane [1990-1992]
+- Weaver, Eric, Commercial Counselor, U.S. Embassy in Tegucigalpa [1992]
+- Weaver, Kaarn J., Political and Economic Counselor, U.S. Consulate at Hong Kong [1989]; Office of Multilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1990, 1991]; Director, Office of Multilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1991, 1992]
+- Webb, James H., Administrative Counselor, U.S. Embassy in Cotonou [1989, 1990]; Administrative Counselor, U.S. Embassy in Kampala [1991, 1992]
+- Webster, Christopher White, Economic Counselor, U.S. Embassy in Algiers [1990-1992]; Deputy Director, Office of Pakistan, Afghanistan, and Bangladesh, South Asian Affairs, Department of State [1992]
+- Webster, Jessica, Economic and Commercial Counselor, U.S. Embassy in Nassau [1990, 1991]
+- Webster, William, Director of Central Intelligence until August 1991
+- Weden, Charles F., Deputy Assistant Administrator, Bureau for Europe and Near East, Agency for International Development [1991]; Deputy Assistant Administrator, Bureau for Near East, Agency for International Development [1992]
+- Wehrli, Edward J., Multilateral Affairs Officer, Office of Multilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990, 1991]; Consul, U.S. Embassy in Dhaka [1992]
+- Weil, Caroline E., Special Assistant, Bureau of International Organization Affairs, Department of State [1990-1992]
+- Weiner, James A., Executive Director, Bureau of Intelligence and Research, Department of State [1990, 1991]; Administrative Counselor, U.S. Embassy in Bogota [1992]
+- Weingarten, William A., Director, Office of Energy-Producer Country Affairs, (International Energy and Resources Policy), Bureau of Economic and Business Affairs, Department of State [1989, 1990]; Director, Office of Food Policy and Programs, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1990-1992]; Economic/Social Adviser, U.S. Mission to the Organization for Economic Cooperation and Development [1992]
+- Weinhold, William J., Public Affairs Officer, U.S. Embassy in Rangoon [1990-1992]
+- Weinland, Helen, Consul General, U.S. Consulate at Kaduna [1991, 1992]
+- Weinmann, John G., U.S. Ambassador to Finland from November 10, 1989, until August 29, 1991; Chief of Protocol, Department of State, from October 31, 1991, until January 20, 1993
+- Weinrod, W. Bruce, Deputy Assistant Secretary of Defense for European and NATO Policy
+- Weinstein, William, Economic and Commercial Counselor, U.S. Consulate at Fukuoka [1989, 1990]; Operations Center, Executive Secretariat, Department of State [1991]; Member, Policy Planning Staff, Department of State [1992]
+- Weintraub, Leon, ARA Regional Officer, Office of Human Rights, Bureau of Human Rights and Humanitarian Affairs, Department of State [1989]; Deputy Director, Office of Bilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990]; Office of West African Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Office of UN Political Affairs, Office of the Deputy Assistant Secretary for UN Political Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Weisberg, Robert I., Administrative Counselor, U.S. Consulate at Milan [1989, 1990]; Political and Economic Counselor, U.S. Embassy in Bishkek [1992]; Administrative Counselor, U.S. Embassy in Oslo [1992]
+- Weisskohl, Marjorie K., Office of Press and Public Affairs, Bureau of Inter-American Affairs, Department of State [1990-1992]
+- Welch, C. David, Director for Near East and South Asian Affairs, National Security Council staff (1989, 1990); Deputy Chief of Mission, U.S. Embassy in Riyadh [1992]; Charge d’Affaires ad Interim from August 1992
+- Welch, Gen. Larry D., USAF, Chief of Staff of the Air Force until June 30, 1990
+- Welch, Gretchen G., Post Management Officer and Supervisory Post Management Officer, Office of the Executive Director, Bureau of Near Eastern and South Asian Affairs, Department of State [1989-1991]; M [1992] Consul, U.S. Embassy in Riyadh [1992]
+- Welden, Ann E., Branch Public Affairs Officer, U.S. Consulate at Pusan [1989-1991]
+- Wellington, Martin A., Office of Politico-Military Policy Analysis, Bureau of Politico-Military Affairs, Department of State [1990]; Office of Policy Analysis, Bureau of Politico-Military Affairs, Department of State [1991]; Deputy Director, Office of Weapons Proliferation Policy, Bureau of Politico-Military Affairs, Department of State [1992]
+- Wells, Alice, Political and Economic Counselor, U.S. Embassy in Dushanbe [1992]
+- Wells, Donald E., Principal Officer, U.S. Consulate at Matamoros [1989-1991]; Fraud Protection Programs, Bureau of Consular Affairs, Department of State [1992]
+- Wells, Kerry E., External Requests Research, Office of Freedom of Information, Privacy and Classification Review, Office of the Deputy Assistant Secretary for Information Services, Bureau of Diplomatic Security [1990-1992]
+- Wells, Melissa F., U.S. Ambassador to Mozambique until October 12, 1990; U.S. Ambassador to Congo (Kinshasa) from June 11, 1991, until March 21, 1992
+- Welter, Daniel R., Consul, U.S. Embassy in Caracas [1989-1991]; Consul, U.S. Embassy in Ottawa [1991, 1992]
+- Welton, Donna Ann, Branch Public Affairs Officer, U.S. Consulate at Fukuoka [1990-1992]
+- Welty, Dean L., Deputy Chief of Mission, U.S. Embassy in Port Moresby [1989, 1990]; Charge d’Affaires, U.S. Embassy in Port Moresby [1990]; Director, Office of Multilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Wendt, Allen, Senior Representative for Strategic Technology Policy, Department of State [1989-1992]
+- Wenger, Lisa Sampson, Threat Analysis Division, Office of Policy Coordination, Office of the Deputy Assistant Secretary for Policy and Counterterrorism, Bureau of Diplomatic Security, Department of State [1990]; Security Trade Controls Division, Office of COCOM Affairs, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1991, 1992]
+- Wenner-Yeaman, Sandra, Administrative Counselor, U.S. Embassy in Doha [1989]; Administrative Counselor, U.S. Embassy in Chisinau [1992]
+- Wesche, Stephen G., Deputy Director, Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State [1989]; Office of the Under Secretary of State for Political Affairs [1990]; Office of Recruitment, Examination, and Employment, Bureau of Personnel, Department of State [1991]; Political Counselor, U.S. Embassy in Panama City [1991, 1992]
+- Wessner, Charles W., U.S. Mission to the Organization for Economic Cooperation and Development [1989, 1990]
+- Westgate, Samuel, Branch Public Affairs Officer, U.S. Consulate at Stuttgart [1989-1992]
+- Westling, Amy, Consul, U.S. Embassy in Algiers [1992]
+- Westmore, Donald B., Director, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Colombo [1990-1992]; Deputy Assistant Secretary of State for East Asian and Pacific Affairs from 1992
+- Westmoreland, Margaret, Public Affairs Officer, U.S. Embassy in Paramaribo [1989]
+- Westner, Frances C., Special Assistant for Public Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1989, 1990]; Director, Public Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1991]
+- Weston, Richard, Administrative Counselor, U.S. Consulate at Palermo [1989]; Bureau of Legislative Affairs, Department of State [1990]; Office of the Associate Comptroller for Budget and Planning, Bureau of Finance and Management Policy, Department of State [1991]
+- Weston, Stephanie A., Consul, U.S. Consulate at Fukuoka [1989]
+- Weston, Thomas G., Legislative Assistant, Office of the Under Secretary of State for Management [1989]; Charge d’Affaires, Deputy Chief of Mission, U.S. Mission to the European Communities [1992]
+- Wethington, Olin L., Special Assistant to the President and Executive Secretary of the Economic Policy Council from April 12, 1990
+- Weygandt, A. Daniel, Office of Central European Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Whaley, Peter, Consul, U.S. Consulate at Lyon [1989-1992]; Office of Defense Relations and Security Assistance, Bureau of Politico-Military Affairs, Department of State [1992]
+- Wharton, Royal M., Office of the Coordinator for Counter-Terrorism, Department of State [1990]; Political and Economic Counselor, U.S. Embassy in St. George’s [1991, 1992]
+- Wharton, William B., Director, Office of Citizenship Appeals and Legal Assistance, Office of the Deputy Assistant Secretary for Passport Services, Bureau of Consular Affairs, Department of State [1989-1992]
+- Wheeler, Evelyn, Consul and Administrative Counselor, U.S. Embassy in Ulaanbaatar [1991]
+- White, Alfred J., Economic Counselor, U.S. Embassy in Caracas [1989, 1990]; Director, Commercial, Legislative and Public Affairs, Bureau of Economic and Business Affairs, Department of State [1991, 1992]
+- White, George M., Political and Economic Counselor, U.S. Consulate at Naples [1991, 1992]
+- White, Jeffrey S., Administrative Counselor, U.S. Embassy in Stockholm [1989, 1990]; Charge d’Affaires ad interim, U.S. Embassy in Ashkhabat from March 17, 1992
+- White, Nyoka, Public Affairs Adviser, Bureau of European and Canadian Affairs, Department of State [1989, 1990]
+- White, Robin L., International Economist, Office of the Under Secretary of State for Economic and Agricultural Affairs [1990]; Chief for Economic Affairs, Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs [1991]
+- White, Steven J., Administrative Counselor, U.S. Embassy in Prague [1989]
+- White, Thomas J., Economic and Commercial Counselor, U.S. Embassy in Monrovia [1990, 1991]; Economic Counselor, U.S. Consulate at Sao Paulo [1992]
+- White, Wayne, Chief, North Africa and Arabian Peninsula Division, Office of Analysis for Near East and South Asia, Bureau of Intelligence and Research, Department of State [1990, 1991]
+- Whitehead, Robert E., Political Counselor, U.S. Embassy in Belize City [1989]; Office of West African Affairs, Bureau of African Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Bangui [1992]
+- Whiteside, Ruth A., Special Assistant to the Under Secretary of State for Management [1990, 1991]; Deputy Assistant Secretary, Bureau of Personnel, Department of State [1992]
+- Whitlock, James C., Jr., Consul General, U.S. Consulate at Hamburg [1989-1991]; Chief, Career Development-Political, Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Whitlock, Lynn, Consul, U.S. Embassy in Tbilisi [1992]
+- Whitman, Barbara Bowie, Planning and Economic Analysis Staff, Bureau of Economic and Business Affairs, Department of State [1991]; Economic Counselor, U.S. Mission to the Organization of American States [1992]
+- Whitman, Gerald J., Science Attache, U.S. Embassy in Rome [1989]; Director, Office of Advanced Technology, (Science and Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Montevideo [1991, 1992]
+- Whitney, Jane, Consul, U.S. Consulate at Stuttgart [1989, 1990]; Consul General, U.S. Consulate at Perth [1991]
+- Whitney, Peter D., Director, Office of Economic Policy, Bureau of Inter-American Affairs, Department of State [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Kingston [1990, 1991]
+- Whitten, Jamie L., member, U.S. House of Representatives (D-Mississippi)
+- Whittlesey, Cynthia, Operations Center, Executive Secretariat, Department of State [1990, 1991]; Staff Assistant, Bureau of South Asian Affairs, Department of State [1992]
+- Whyman, William E., Special Assistant, Office of the Under Secretary of State for Economic and Agricultural Affairs [1992]
+- Wick, David S., Administrative Counselor, U.S. Consulate at Lahore [1989, 1990]
+- Wickman, Steven B., Economic and Commercial Counselor, U.S. Embassy in Damascus [1990]; Developed Country Trade Division, Office of Bilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1990, 1991]
+- Widenhouse, Thomas M., Administrative Counselor, U.S. Embassy in Lisbon [1989-1992]
+- Wiedemann, Kent M., Economic Counselor, U.S. Embassy in Beijing [1989]; Director, Office of Chinese and Mongolian Affairs, Bureau of East Asian and Pacific Affairs, Department of State, [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Tel Aviv [1992]
+- Wiggins, Frontis B., Principal Officer, U.S. Consulate at Brisbane [1989, 1990]; Operations Training Division, Office of Training and Education, Office of the Deputy Assistant Secretary for Resource Management, Bureau of Diplomatic Security, Department of State [1991]; Foreign Operations Division, Office of Foreign Operations, Office of the Principal Deputy Assistant Secretary for Information Management and Systems Operations, Bureau of Diplomatic Security, Department of State [1992]
+- Wilcox, Philip C., Consul General, U.S. Consulate at Jerusalem [1989-1991]; Principal Deputy Assistant Secretary of State for Intelligence and Research [1992]
+- Wilczynski, Alec, Consul, U.S. Consulate at Fukuoka [1990, 1991]
+- Wilgus, Janet, Public Affairs Officer, U.S. Embassy in Algiers [1991, 1992]
+- Wilkey, Malcom R., U.S. Ambassador to Uruguay until May 10, 1990
+- Wilkin, William E., Political and Economic Counselor, U.S. Consulate at Kaduna [1989, 1990]; Consul and Political Counselor, U.S. Consulate at Kaduna [1990]
+- Wilkins, C. Howard, Jr., U.S. Ambassador to the Netherlands from July 13, 1989, until July 11, 1992
+- Wilkinson, Edward H., Consul, U.S. Embassy in Seoul [1989-1992]; Refugee Coordinator, U.S. Embassy in Bangkok [1992]
+- Wilkinson, M. James (Milton), Deputy Assistant Secretary of State for European and Canadian Affairs and Special Cyprus Coordinator until 1989; Deputy Permanent U.S. Representative on the United Nations Security Council from 1989
+- Wilkinson, Sharon P., Director, Office of Public and Diplomatic Liaison, Office of the Deputy Assistant Secretary for Visa Services, Bureau of Consular Affairs, Department of State [1989]; Consul General, U.S. Consulate at Curacao [1989-1992]
+- Wilkinson, Theodore S., III, Director, Office of Nuclear Technology and Safeguards, (Nuclear Energy and Energy Technology Affairs), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989]; Political Counselor, U.S. Embassy in Mexico City [1991, 1992]
+- Wilkinson, Xenia V., Senior Political Adviser, U.S. Mission to the Organization of American States, Bureau of Inter-American Affairs, Department of State [1989, 1990]; International Economist, Office of the Under Secretary of State for Economic and Agricultural Affairs [1990, 1991]
+- Willems, Leonard F., Consul, U.S. Embassy in Ottawa [1989-1991]
+- Willett, John Hurd, Political Counselor, U.S. Embassy in Rabat [1992]
+- Williams, Aaron S., Deputy Assistant Administrator, Bureau for Latin America and the Caribbean, Agency for International Development [1992]
+- Williams, Albert N., Consul General, U.S. Consulate at Izmir [1989, 1990]
+- Williams, Carman C., Consul, U.S. Consulate at Melbourne [1989]; Office of Inspections, Office of the Inspector General, Department of State [1990]
+- Williams, David, Post Management Officer, Office of the Executive Director, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Williams, Edward L., Deputy Director, Office of Economic Policy, Bureau of Inter-American Affairs, Department of State [1990-1992]
+- Williams, Gary, Foreign Service Institute, Department of State [1990]; Political Counselor, U.S. Consulate at Guangzhou [1990-1992]
+- Williams, Hugh Floyd, Consul, U.S. Consulate at Madras [1991, 1992]
+- Williams, James A., Deputy, U.S. Mission in Berlin [1989, 1990]; Deputy Chief of Mission, U.S. Embassy in Athens [1990-1992]
+- Williams, James L., Administrative Counselor, U.S. Consulate at Bombay [1989]
+- Williams, Janice A., Deputy Assistant Secretary for Trade and Commercial Affairs, Bureau of Economic and Business Affairs, Department of State [1990, 1991]
+- Williams, John S., Public Affairs Officer, U.S. Embassy in La Paz [1992]
+- Williams, Louis A. (Pete), Assistant Secretary of Defense for Public Affairs from May 22, 1989, until January 20, 1993
+- Williams, Nicholas M., Consul, U.S. Embassy in Georgetown [1989-1991]; Director, Consular Training, School of Professional Studies, Foreign Service Institute, Department of State [1992]
+- Williams, Richard H., Associate Director for Visa Services, Office of the Deputy Assistant Secretary for Visa Services, Bureau of Consular Affairs, Department of State [1989, 1990]; Consul, U.S. Consulate at Hong Kong [1990-1992]
+- Williams, Richard L., Director, Office of Chinese and Mongolian Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]; U.S. Ambassador to Mongolia until April 2, 1990; Consul General, U.S. Consulate at Hong Kong [1991, 1992]
+- Williams, Thomas E., Jr., Country Reports Director, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990]; Political Counselor, U.S. Embassy in Manama [1992]; Director, Country Human Rights Report Team, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Williamson, Bruce, Office of International Commodities, (Energy, Resources, and Food Policy), Bureau of Economic and Business Affairs, Department of State [1990, 1991]
+- Williamson, Edwin D., lawyer, Sullivan and Cromwell; Legal Adviser of the Department of State from September 20, 1990, until January 20, 1993
+- Williamson, James H., Economic Counselor, U.S. Embassy in Bucharest [1989]; Office of User Services, Office of the Deputy Assistant Secretary for Information Services, Bureau of Diplomatic Security, Department of State [1990]; Developed Country Trade Division, Office of Bilateral Trade Affairs, (Trade and Commercial Affairs), Bureau of Economic and Business Affairs, Department of State [1991]
+- Williamson, Larry C., Deputy Assistant Secretary of State for Personnel [1990-1992]
+- Williamson, Molly K., Director, Office of UN Political Affairs, Bureau of International Organization Affairs, Department of State [1990, 1991]; Consul General, U.S. Consulate at Jerusalem [1992]
+- Williamson, Richard Salisbury, Assistant Secretary of State for International Organization Affairs until March 19, 1989; Assistant to the President for Intergovernmental Affairs
+- Willingham, Margaret, International Affairs Officer, Office of Multilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Willis, Mark E., Office of Ecology, Health, and Conservation, (Environment, Health, and Natural Resources), Office of Oceans and International Environmental and Scientific Affairs, Department of State [1990-1991]; Deputy Principal Officer, U.S. Consulate at Dhahran [1991, 1992]
+- Willow, Ruth L., Administrative Counselor, U.S. Embassy in Helsinki [1989]; Management Analysis Officer, Management Policy, Bureau of Finance and Management Policy, Department of State [1990, 1991]; Director, Allowances Staff, Office of the Deputy Assistant Secretary for Operations, Bureau of Administration, Department of State [1991, 1992]
+- Wills, E. Ashley, Public Affairs Officer, U.S. Embassy in Brussels [1992]
+- Wilson, Arlen R., Labor Attache, U.S. Embassy in Ottawa [1989-1992]; Labor Attache, U.S. Embassy in Madrid [1992]
+- Wilson, Dan A., Commercial Counselor, U.S. Embassy in Ankara [1989, 1990]; Commercial Counselor, U.S. Embassy in Santo Domingo [1990, 1991]; Commercial Counselor, U.S. Consulate at Toronto [1992]
+- Wilson, David M., Public Affairs Counselor, U.S. Mission to the European Communities [1989-1992]
+- Wilson, David S., Economic Counselor, U.S. Embassy in Tel Aviv [1989]; Chief, Career Development-Economic, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1990, 1991]
+- Wilson, Heather Ann, Director for Defense Policy and Arms Control, National Security Council, from 1989 until 1991
+- Wilson, Joseph C., IV, Deputy Chief of Mission, U.S. Embassy in Baghdad [1989-1990]; Charge d’Affaires ad interim from July 1990 until January 12, 1991; U.S. Ambassador to Gabon from September 17, 1992
+- Wilson, Michael Holcombe, Canadian Minister of Finance until April 20, 1991; Canadian Minister of International Trade from April 21, 1991
+- Wilson, Pete, Senator (R-California)
+- Wilson, Richard L., Director, Office of Indonesia, Malaysia, Brunei, and Singapore Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989]; Deputy Chief of Mission, U.S. Embassy in Jakarta [1990-1992]
+- Wilson, Robert, Administrative Counselor, U.S. Consulate at Shenyang [1989, 1990]
+- Wilson, Ross L., Special Assistant, Office of the Counselor, Department of State [1990, 1991]; Deputy Executive Secretary of the Department of State [1992]
+- Wilson, Veda, Branch Public Affairs Officer, U.S. Consulate at Montreal [1989-1991]; Chief, African Branch, Press and Publications Service, Bureau of Policy and Programs, United States Information Agency [1992]
+- Wimmer, J. Carolyn, Special Assistant, Bureau of Inter-American Affairs, Department of State [1989-1992]
+- Winant, John H., Political Counselor, U.S. Embassy in Djibouti [1990, 1991]; Office of European Security and Political Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Winant, Jon A., Deputy Assistant Secretary of State for Coordination, Bureau of Intelligence and Research, Department of State [1990]
+- Winder, Joseph A.B., Deputy Chief of Mission, U.S. Embassy in Bangkok [1989]; Office of the Ambassador at Large and Coordinator for Refugee Affairs, Department of State [1990]; Economic Counselor, U.S. Embassy in Tokyo [1990-1992]
+- Windmueller, Thomas, Executive Secretary and NST Executive Director, Department of State [1990]
+- Wing, Roberts S., Economic and Commercial Counselor, U.S. Consulate at Medan [1990, 1991]
+- Winkelman, James E., Commercial Counselor, U.S. Embassy in Brussels [1989-1991]
+- Winn, David M., Deputy Principal Officer, U.S. Consulate at Jerusalem [1990-1992]; Deputy Director, Office of Southern European Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Winn, Philip D., U.S. Ambassador to Switzerland until August 5, 1989
+- Winner, Andrew, PM [1990]; Deputy Director, Office of Policy Analysis, Bureau of Politico-Military Affairs, Department of State [1991]
+- Winstanley, Ralph, Deputy Director, Office of Algeria, Libya, Morocco, Tunisia Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989]
+- Winston, Chriss A. Hurst, Deputy Director of Communications, Bush-Quayle Campaign; Deputy Director of Public Affairs, Office of Presidential Transition; Deputy Assistant to the President for Communications and Director of Speechwriting from 1989 until 1991; Director, Office of Public Liaison, United States Information Agency [1992]
+- Winter, Andrew J., Administrative Counselor, U.S. Embassy in Pretoria [1989, 1990]; Executive Director, Bureau of African Affairs, Department of State [1990-1992]
+- Winter, Harvey J., Director, Office of Business Practices, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1989-1991]; Director, Office of Intellectual Property and Competition, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1991]
+- Wintheiser, Charles J., Consul, U.S. Embassy in Saana [1991, 1992]
+- Wisgerhof, Paul, Deputy Director, Office of East-West Trade and Foreign Policy Controls, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1989]; Director, Office of Aviation Negotiations, (Transportation Affairs), Bureau of Economic and Business Affairs, Department of State [1990, 1991]
+- Wisner, Frank George II, U.S. Ambassador to Egypt until June 6, 1991; U.S. Ambassador to the Philippines from August 16, 1991, until June 10, 1992; Under Secretary of State for International Security Affairs from July 20, 1992, until January 19, 1993; Secretary of State ad interim on January 20, 1993
+- Witajewski, Robert M., Principal Officer, U.S. Consulate at Hermosillo [1990-1992]
+- Witting, William N., Consul General, U.S. Consulate at Calgary [1991, 1992]
+- Wittmann, Christopher E., Administrative Counselor, U.S. Embassy in Bangui [1990]
+- Wiznitzer, Mark, Chief, Security Enforcement and Licensing Division, Office of COCOM Affairs, (International Trade Controls), Bureau of Economic and Business Affairs, Department of State [1989, 1990]; Political Counselor, U.S. Embassy in Quito [1991, 1992]
+- Woerner, Manfred, Secretary General of the North Atlantic Treaty Organization
+- Woerner, Mark, Assignment Division (EUR), Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State [1990]; Office of the Executive Director, Bureau of European and Canadian Affairs, Department of State [1991]; Administrative Counselor, U.S. Embassy in Nicosia [1992]
+- Woerz, Bernard J., Executive Director, Bureau of Near Eastern and South Asian Affairs, Department of State [1990]; Senior Special Assistant, Bureau of Administration, Department of State [1990-1992]; Consul General, U.S. Consulate at Curacao [1992]
+- Wohlers, Laurence D., Branch Public Affairs Officer, U.S. Consulate at Osaka-Kobe [1989-1992]; Public Affairs Officer, U.S. Embassy in Antananarivo [1992]
+- Wojtasiewicz, James P., Economic and Commercial Counselor, U.S. Embassy in Bandar Seri Begawan [1989-1991]
+- Wolcott, Jackie, Special Assistant to the Secretary of Veterans Affairs (1989, 1990); Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State [1990-1992]
+- Wolf, John S., Executive Assistant to the Under Secretary of State for Political Affairs until 1989; Principal Deputy Assistant Secretary of State for International Organization Affairs from 1989 until 1991; U.S. Ambassador to Malaysia from October 7, 1992
+- Wolfe, Edward E., Deputy Assistant Secretary for Oceans and Fisheries Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989, 1990] 1992?
+- Wolffe, Alejandro D., Special Assistant, Office of the Under Secretary of State for Political Affairs [1990, 1991]; Political Counselor, U.S. Embassy in Santiago [1991, 1992]
+- Wolfowitz, Paul D., U.S. Ambassador to Indonesia until May 12, 1989; Under Secretary of Defense for Policy from May 15, 1989, until January 19, 1993
+- Wollan, David S., Chief, Defense and Space Division, Bureau of Strategic Programs, Arms Control and Disarmament Agency [1990]; Chief, Defense and Space Division, Bureau of Strategic and Nuclear Affairs, Arms Control and Disarmament Agency [1991, 1992]
+- Wollemborg, Leo R., Consul, U.S. Embassy in New Delhi [1989-1991]; Deputy Principal Officer, U.S. Consulate at Frankfurt [1991, 1992]
+- Wonnacott, Paul, Senior Economic Adviser, Office of the Under Secretary of State for Economic and Agricultural Affairs [1990, 1991]
+- Wood, John S., Commercial Counselor, U.S. Consulate at Bombay [1992]
+- Wood, Peter S., Administrative Counselor, U.S. Embassy in Bamako [1990-1992]
+- Wood, Robert, Special Assistant, Bureau of Intelligence and Research, Department of State [1989]
+- Wood, R. Susan, Consul General, U.S. Consulate at Marseille [1989-1991]; Consul General, U.S. Consulate at Montreal [1992]
+- Woodcock, Leonard, Former U.S. Ambassador to China
+- Woods, M. Alan, Administrator, Agency for International Development, until June 29, 1989
+- Woods, Ronald E., Deputy Chief of Mission, U.S. Embassy in Brussels [1989]; Deputy Chief of Mission, U.S. Embassy in London [1989-1992]
+- Woodward, Donna K., Consul and Administrative Counselor, U.S. Consulate at Medan [1991, 1992]
+- Woody, Ronnie D., Trade Division, U.S. Mission to the Organization for Economic Cooperation and Development [1989, 1990]; Economic Counselor, U.S. Embassy in Wellington [1990-1992]
+- Woolsey, R. James, Chief U.S. Negotiator, U.S. Delegation for the Negotiation on Conventional Armed Forces in Europe from October 1989
+- Woolwine, Walter J., Administrative Counselor, U.S. Embassy in Ouagadougou [1989]
+- Working, William W., Lt. Col., USAF, Director of the Program and Budget Office, Intelligence Community Staff until 1989; Special Assistant to the President for National Security Affairs and Senior Director for Intelligence Programs, National Security Council Staff, from March 13, 1989, until June 24, 1992
+- Wozniak, Robert, Public Affairs Officer, U.S. Embassy in Rabat [1991, 1992]
+- Wrampelmeier, Brooks, Consul General, U.S. Consulate at Dhahran [1989]
+- Wray, James, Deputy Assistant to the President and Director, Office of Political Affairs (1989, 1990)
+- Wright, James C., Jr., Member, U.S. House of Representatives (D-Texas) and Speaker of the House of Representatives until June 30, 1989
+- Wright, Lacy A., Jr., Deputy Chief of Mission, U.S. Embassy in Port of Spain [1989-1991]; Deputy Chief of Mission, U.S. Embassy in Kingston [1991, 1992]
+- Wright, Mary A., Office of the Executive Director, Bureau of Finance and Management Policy, Department of State [1990]; Political Counselor, U.S. Embassy in St. George’s [1990, 1991]
+- Wright, Philip E., Branch Public Affairs Officer, U.S. Consulate at Guangzhou [1992]
+- Wright, Roderick, Economic Counselor, U.S. Mission to the European Office of the United Nations and Other International Organizations [1989, 1990]
+- Wright, William H., Economic and Commercial Counselor, U.S. Consulate at Cebu [1989]
+- Wrobleski, Ann B., Assistant Secretary of State for International Narcotics Matters until June 17, 1989
+- Wukitsch, Thomas K., Chief, Arab-Israeli States Division, Office of Analysis for Near East and South Asia, Bureau of Intelligence and Research, Department of State [1989-1991]; Office of Southern European Affairs, Bureau of European and Canadian Affairs, Department of State [1992]
+- Wulf, Norman A., Deputy Assistant Director, Bureau of Nuclear and Weapons Control, Arms Control and Disarmament Agency [1989]; Principal Deputy Assistant Director, Bureau of Nuclear and Weapons Control [1990, 1991]; Principal Deputy Assistant Director, Bureau of Nonproliferation Policy [1992]
+- Wu Xueqian, Chinese Vice Premier
+- Wycoff, Karl E., Deputy Chief of Mission, U.S. Embassy in Vientiane [1990, 1991]; Deputy Director, Office of Pacific Island Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Wygant, Michael G., U.S. Representative, U.S. Office in Kolonia [1989]; Charge d’Affaires, U.S. Embassy in Kolonia [1990]
+- Wyrough, Richard R., Director, Office of Panamanian Affairs, Bureau of Inter-American Affairs, Department of State [1989-1991]
+- Yager, Brenda, Legislative Counsel to the Ambassador at Large and Special Advisor to the Secretary of State on Nonproliferation Policy and Nuclear Energy Affairs [1989]
+- Yaki, Michael, Public Affairs Officer, U.S. Embassy in Jakarta [1989-1992]
+- Yalowitz, Kenneth S., Director, Office of Australian and New Zealand Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1989-1991]; Economic Counselor, U.S. Embassy in Moscow [1992]
+- Yamamoto, Donald Y., Consul General, U.S. Consulate at Fukuoka [1992]
+- Yamate, Robert T., Administrative Counselor, U.S. Embassy in Antananarivo [1990]; Administrative Counselor, U.S. Consulate at Montreal [1991, 1992]
+- Yamauchi, Emi, Branch Public Affairs Officer, U.S. Consulate at Johannesburg [1990-1992]; Adviser, Office of Public Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]
+- Yang Shangkun, President of China
+- Yarmy, William M., Director, U.S. Development Office, U.S. Embassy in Seoul [1990-1992]; Commercial Counselor, U.S. Embassy in Kuwait [1992]
+- Yarvin, Herbert, Principal Officer, U.S. Consulate at Oporto [1989-1991]; Head, Policy Planning and Implementation Staff, Bureau of Personnel, Department of State [1992]
+- Yates, John M., Political Counselor, U.S. Embassy in Manila [1989]; Deputy Chief of Mission, U.S. Embassy in Lagos [1990, 1991]; Deputy Chief of Mission, U.S. Embassy in Kinshasa [1991, 1992]; Charge d’Affaires ad interim, U.S. Embassy in Kinshasa from March 1, 1992
+- Yates, Mary Carlin, Director, Office of Public Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990, 1991]
+- Yatron, Gus, member, U.S. House of Representatives (D-Pennsylvania)
+- Yellin, James H., Consul General, U.S. Consulate at Lubumbashi [1989, 1990]; Political Counselor, U.S. Embassy in Algiers [1992]
+- Yeltsin, Boris N., President of the Russian Federation
+- Yerxa, Rufus H., assistant chief counsel, House of Representatives Committee on Ways and Means and staff director of the Subcommittee on Trade until 1989; Deputy U.S. Trade Representative in Geneva from May 1989; U.S. Trade Representative in Geneva [1990]
+- Yeutter, Clayton K., Secretary of Agriculture from February 16, 1989, until March 1, 1991; Chair, Republican National Committee; Counselor to the President for Domestic Policy from February 18 until August 1992; thereafter Bush-Quayle 1992 Campaign Staff
+- Yockey, Donald J., Principal Deputy Assistant Secretary of Defense (Acquisitions), 1990; acting Under Secretary of Defense (Acquisitions) from January 1 until June 20, 1991; Under Secretary of Defense (Acquisitions) from June 20, 1991, until January 20, 1993
+- Yonker, David S., Commercial Counselor, U.S. Embassy in Buenos Aires [1989]
+- Young, Daniel J., Commercial Counselor, U.S. Consulate at Melbourne [1991, 1992]
+- Young, Harry E., Jr., Administrative Counselor, U.S. Embassy in Yaounde [1989]; Administrative Counselor, U.S. Mission at Berlin [1991]; Administrative Counselor, U.S. Consulate at Rio de Janeiro [1992]
+- Young, Jonny, U.S. Ambassador to Sierra Leone from November 29, 1989, until July 23, 1992; Director, Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
+- Young, Michael K., Deputy Legal Adviser, Office of the Legal Adviser, Department of State [1990, 1991]; Deputy Under Secretary of State for Economic and Agricultural Affairs [1992]
+- Young, Virginia C., Consul, U.S. Embassy in Bucharest [1989-1991]; Consul, U.S. Embassy in Lima [1991]
+- Young, William G., Economic Counselor, U.S. Consulate at Bombay [1990-1992]
+- Yovanovich, Marie, Operations Center, Executive Secretariat, Department of State [1991, 1992]
+- Yu, Alan K., Consul, U.S. Consulate at Chengdu [1991, 1992]
+- Yun, Joseph Y., Economic and Commercial Counselor, U.S. Consulate at Medan [1989, 1990]; Office of Monetary Affairs, (International Finance and Development), Bureau of Economic and Business Affairs, Department of State [1990, 1991]
+- Zabriskie, Peggy S., Administrative Counselor, U.S. Consulate at Jerusalem [1991, 1992]
+- Zaiser, Jeffrey M., Office of Chinese and Mongolian Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990]; Consul, U.S. Consulate at Pusan [1990, 1991]
+- Zajac, Eugene C., Consul General, U.S. Consulate at Izmir [1990-1992]
+- Zakhem, Sam H., U.S. Ambassador to Bahrain until August 1, 1989
+- Zalucky, Paul, Commercial Counselor, U.S. Consulate at Lahore [1992]
+- Zamkov, Mark, Political Counselor, U.S. Embassy in Bangui [1991, 1992]; Consul, U.S. Embassy in Cotonou [1992]
+- Zamostny, Tom, Member, Policy Planning Staff, Department of State [1992]
+- Zappala, Joseph, U.S. Ambassador to Spain from October 16, 1989, until June 4, 1992
+- Zavis, William M., Public Affairs Officer, U.S. Embassy in Oslo [1992]
+- Zelikow, Philip, Director for European and Soviet Affairs, National Security Council staff from February 3, 1989, until January 1991
+- Zelle, Susan W., Office of Central African Affairs, Bureau of African Affairs, Department of State [1990]; Political and Economic Counselor, U.S. Consulate at Madras [1991, 1992]
+- Zerolis, John W., Office of Eastern Europe and Yugoslav Affairs, Bureau of European and Canadian Affairs, Department of State [1990]; Labor Attache, U.S. Embassy in Belgrade [1991, 1992]; Labor Attache, U.S. Embassy in Zagreb [1992]
+- Zerwick, Kay W., Personal Assistant to the Under Secretary of State for Economic and Agricultural Affairs [1990, 1991]
+- Zetkalic, Jack, Office of Northern European Affairs, Bureau of European and Canadian Affairs, Department of State [1990]; Special Assistant, Bureau of Politico-Military Affairs, Department of State [1990-1992]
+- Zhao Ziyang, General Secretary of the Chinese Communist Party until June 24, 1989
+- Zhelev, Zhelyu, President of Bulgaria
+- Zhu Qizhen, Chinese Ambassador to the United States from November 15, 1989
+- Zigli, Barbara A., Branch Public Affairs Officer, U.S. Consulate at Chengdu [1990, 1991]
+- Zimmerman, John C., Director, Office of Strategic Technology and Nuclear Affairs, Bureau of Politico-Military Affairs, Department of State [1989]; Economic Counselor, U.S. Consulate at Istanbul [1991, 1992]
+- Zimmerman, Warren, Chair of Delegation, U.S. Delegation to the Vienna Conference on Security and Cooperation in Europe; Ambassador to Yugoslavia from March 21, 1989, until May 12, 1992; Director, Refugee Programs, Department of State [1992]
+- Zinoman, Murray, Chief, NE Asia Division Chief, Office of Analysis for East Asia and the Pacific, Bureau of Intelligence and Research, Department of State [1989]; Office of Vietnam, Laos, and Cambodia Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1990]; Contemporary Documents Review, Office of Freedom of Information, Privacy, and Classification Review, Office of the Deputy Assistant Secretary for Information Services, Bureau of Diplomatic Security, Department of State [1991, 1992]
+- Zoellick, Robert Bruce, Counselor of the Department of State from March 2, 1989, until March 23, 1992; Undersecretary of State for Economic and Agricultural Affairs from May 20, 1991, until August 23, 1992; White House Deputy Chief of Staff from August 23, 1992, until January 20, 1993
+- Zorn, Richard H., Political Counselor, U.S. Embassy in Reykjavik [1989]; Deputy Director (United Nations), Office of Multilateral Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1990, 1991]; Officer-in-Charge of Industrial and Communications Programs, Office of Technical Specialized Agencies, Office of the Deputy Assistant Secretary for International Development and Technical Specialized Agency Affairs, Bureau of International Organization Affairs, Department of State [1992]
+- Zorrick, Michael, Consul and Economic and Commercial Counselor, U.S. Embassy in Kigali [1991, 1992]
+- Zuckerman, Stanley A., Public Affairs Officer, U.S. Embassy in Brasilia [1989]; Director, Office of American Republics Affairs, United States Information Agency (1989-1991); Coordinator, Foreign Information Policy, Office of the Under Secretary of State for Political Affairs [1992]
+- Zumwalt, James G., III, Special Adviser, Policy and Programs, Bureau of Human Rights and Humanitarian Affairs, Department of State [1992]
+- Zweiben, Beverly, Officer-in-Charge of Human Rights Affairs, Office of Human Rights and Women’s Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State; acting Director, Office of Human Rights and Women’s Affairs, Office of the Deputy Assistant Secretary for International Social and Humanitarian Affairs, Bureau of International Organization Affairs, Department of State
+- Zweifel, David E., Director, Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State [1989]; Office of Inspections, Office of the Inspector General, Department of State [1990, 1991]; Chief, Senior Officer Division, Office of Career Development and Assignments, Bureau of Personnel, Department of State [1992]
