@@ -1,3 +1,8 @@
+---
+layout: default
+title: President Bush Chief-of-Mission Letter
+---
+
 # President Bush Chief-of-Mission Letter
 
 Checked: 2026-05-22

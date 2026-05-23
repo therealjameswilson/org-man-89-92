@@ -1,3 +1,8 @@
+---
+layout: default
+title: NSR-16 Review: International Affairs Budget and Programs
+---
+
 # NSR-16 Review: International Affairs Budget and Programs
 
 Checked: 2026-05-23

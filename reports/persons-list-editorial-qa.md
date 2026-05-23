@@ -1,3 +1,8 @@
+---
+layout: default
+title: Persons List Editorial QA
+---
+
 # Persons List Editorial QA
 
 Generated file: [../persons.md](../persons.md)

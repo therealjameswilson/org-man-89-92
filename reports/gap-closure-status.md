@@ -1,3 +1,8 @@
+---
+layout: default
+title: Gap Closure Status
+---
+
 # Gap Closure Status
 
 Checked: 2026-05-23

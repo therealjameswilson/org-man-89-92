@@ -15,11 +15,12 @@ Management of Foreign Policy*.
 
 ## Project Notes
 
-- [Current policy sweep](reports/current-policy-sweep.md)
-- [Cross-source volume candidates](reports/cross-source-volume-ii-candidates.md)
-- [Bush Chief-of-Mission letter](reports/bush-chief-of-mission-letter.md)
-- [Compiler gap assessment](reports/compiler-gap-assessment.md)
-- [Persons list editorial QA](reports/persons-list-editorial-qa.md)
+- [Current policy sweep](reports/current-policy-sweep.html)
+- [Cross-source volume candidates](reports/cross-source-volume-ii-candidates.html)
+- [Bush Chief-of-Mission letter](reports/bush-chief-of-mission-letter.html)
+- [Compiler gap assessment](reports/compiler-gap-assessment.html)
+- [Persons list editorial QA](reports/persons-list-editorial-qa.html)
+- [Public site gap check](reports/public-site-gap-check.html)
 
 ## Official Volume
 

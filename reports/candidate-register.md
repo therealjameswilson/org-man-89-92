@@ -1,3 +1,8 @@
+---
+layout: default
+title: Candidate Register
+---
+
 # Candidate Register
 
 Checked: 2026-05-23
