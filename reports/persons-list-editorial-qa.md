@@ -23,6 +23,10 @@ Volume XXXI:
   and doubled internal whitespace.
 - Sorted entries by normalized surname field, then by the remainder of the
   entry.
+- Converted source year shorthand such as `[1989, 1990]` and `(1991, 1992)` to
+  prose date language.
+- Normalized recurring title/style terms, including `Attaché`,
+  `Chargé d'Affaires`, and `Under Secretary`.
 
 ## Gap Fixes Applied
 
@@ -33,13 +37,11 @@ Volume XXXI:
   Council service as 1989-1991:
   <https://news.va.gov/138730/honoring-veterans-air-force-heather-wilson/>
 - Fixed obvious transcription/place-name issues: `Tallinn`, `Riyadh`,
-  `Liberia`, `Program Analyst`, and `Charge d'Affaires`.
+  `Liberia`, `Program Analyst`, `Commercial`, and `Chargé d'Affaires`.
 
 ## Remaining Compiler Judgment
 
 - The list remains intentionally comprehensive. It should be pruned only after
   the final document set is locked.
-- Source shorthand such as `[1989, 1990]` and `(1989, 1990)` is preserved. A
-  final publication pass may convert these to prose dates for selected entries.
-- Accent/style normalization is not global. For example, many `Attache`
-  instances remain as supplied by the source list.
+- Final pruning requires the locked document set; no mechanical pass can
+  determine which people actually appear in the final volume.
