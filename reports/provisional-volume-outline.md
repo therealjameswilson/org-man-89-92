@@ -5,7 +5,7 @@ title: Provisional Volume Outline
 
 # Provisional Volume Outline
 
-Checked: 2026-05-23
+Checked: 2026-05-24
 
 Volume: *Foreign Relations of the United States, 1989-1992, Volume II,
 Organization and Management of Foreign Policy*
@@ -67,7 +67,31 @@ Selection logic: NSR-16 is the strongest internal starting point. Public budget
 statements should provide chronology and fallback text, not substitute for
 internal OMB/State/White House records.
 
-### 4. Chief-of-Mission Authority, Overseas Staffing, and Security
+### 4. Intelligence Matters: Covert Action, Oversight, and the Intelligence Budget
+
+Purpose: document intelligence organization and management where it intersects
+with covert action procedures, congressional oversight, NSC review machinery,
+and the intelligence community budget.
+
+Candidate sources:
+
+- NSD 79, "Approval and Review of Covert Action," January 19, 1993.
+- Intelligence Authorization Act, Fiscal Year 1991, Public Law 102-88.
+- NSR 29, "Intelligence Capabilities - 1992-2005," November 15, 1991.
+- NSD 67, "Intelligence Capabilities - 1992-2005," March 30, 1992.
+- Press Secretary Fitzwater statement on organizational changes in the
+  intelligence community, April 1, 1992.
+- Intelligence Authorization Acts for Fiscal Years 1992 and 1993.
+- NSC Intelligence Programs, DCI/Community Management Staff, OMB, and
+  White House congressional liaison files.
+
+Selection logic: NSD 79 is the chapter anchor for covert action, NSC/DC review,
+legal review, restricted notification, delayed notification, and OMB resource
+responsibility. NSR 29/NSD 67 and the FY 1992-FY 1993 intelligence
+authorization record provide the separate intelligence-budget and community
+management lane.
+
+### 5. Chief-of-Mission Authority, Overseas Staffing, and Security
 
 Purpose: document the President's field-management doctrine and the mechanism
 for controlling interagency staffing overseas.
@@ -85,7 +109,7 @@ Candidate sources:
 Selection logic: this is a core chapter. The Bush letter and an implementation
 document should both be pursued.
 
-### 5. Foreign Service Personnel and Department Management
+### 6. Foreign Service Personnel and Department Management
 
 Purpose: cover personnel, diversity, skills, assignments, administrative
 capacity, and Department modernization.
@@ -101,7 +125,7 @@ Candidate sources:
 Selection logic: public material identifies themes, but internal management
 files are needed for final selection.
 
-### 6. Foreign Assistance Reform and Coordination
+### 7. Foreign Assistance Reform and Coordination
 
 Purpose: show how the administration tried to make foreign assistance a more
 flexible foreign-policy instrument.
@@ -118,7 +142,7 @@ Candidate sources:
 Selection logic: use this chapter only for management/coordination, not regional
 aid policy as such.
 
-### 7. New Independent States Assistance Machinery
+### 8. New Independent States Assistance Machinery
 
 Purpose: cover the large 1991-1992 management problem created by the Soviet
 collapse.
@@ -134,7 +158,7 @@ Candidate sources:
 Selection logic: this is the strongest 1991-1992 addition found so far and
 should be developed as a late-volume chapter if internal files support it.
 
-### 8. Selective Interagency Case Studies
+### 9. Selective Interagency Case Studies
 
 Purpose: include only cases that reveal machinery.
 
@@ -157,11 +181,13 @@ or implementation.
 1. Bush Chief-of-Mission letter, final all-post version.
 2. NSR-16 plus response/options/follow-on records.
 3. Chief-of-Mission/NSDD 38 staffing implementation document.
-4. NSC transition organization/process document.
-5. Internal FY 1991-FY 1993 budget management document.
-6. Internal foreign-assistance reform or NIS coordination document.
-7. Internal Foreign Service/personnel/security implementation document.
-8. One or two interagency case studies if they show machinery.
+4. NSD 79 covert action approval/review/congressional notification directive.
+5. NSR 29/NSD 67 intelligence capabilities and NFIP budget mechanism records.
+6. NSC transition organization/process document.
+7. Internal FY 1991-FY 1993 budget management document.
+8. Internal foreign-assistance reform or NIS coordination document.
+9. Internal Foreign Service/personnel/security implementation document.
+10. One or two interagency case studies if they show machinery.
 
 ## Open Decisions
 
@@ -172,4 +198,6 @@ or implementation.
 - Whether refugee admissions are central enough for a case study.
 - Whether late-1992 Department reorganization belongs in this Bush volume or
   mainly anticipates the Clinton administration.
-
+- Whether NSD 79, dated January 19, 1993, can be used as the Bush
+  administration capstone document for covert-action management in a 1989-1992
+  volume.

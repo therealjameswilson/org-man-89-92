@@ -5,7 +5,7 @@ title: Candidate Register
 
 # Candidate Register
 
-Checked: 2026-05-23
+Checked: 2026-05-24
 
 Status key:
 
@@ -19,6 +19,13 @@ Status key:
 | Include review | President Bush Chief-of-Mission letter | July 12, 1990 | Published final text located; archival final copy needed | COM authority, interagency control overseas, staffing, security, ethics | Pull signed/circulated White House or S/S copy. |
 | Include review | NSR-16, Comprehensive Review of International Affairs Budget and Programs | June 7, 1989 | Online NARA PDF/OCR | Function 150, budget, foreign assistance, USIA, refugee assistance, IO contributions, management reform | Pull response/options paper and follow-on decisions. |
 | Include review | Chief of Mission Authority and Overseas Staffing / NSDD 38 package | 1989 scan with 1982/1986 attachments | Embedded in NSR-16 online NARA PDF/OCR | Overseas staffing, COM authority, Special Embassy Program, agency disputes | Check M/MO or M/MP source copy and S/S circulation. |
+| Include review | NSD 79, Approval and Review of Covert Action | January 19, 1993 | Bush Library/NARA online PDF and OCR review; H-Files, NSD Files, OA/ID 90005-033 | Covert action Findings, MONs, NSC/DC review, legal review, congressional notification, restricted/delayed notice, OMB resource consistency | Verify signed final and distribution; check withheld drafts and Scowcroft/Rostow memoranda. |
+| Include review | NSR 29, Intelligence Capabilities - 1992-2005 | November 15, 1991 | FAS NSR index locator; official Bush Library/NARA pull needed | Intelligence capabilities review, post-Cold War IC posture, budget planning | Pull official NSR file and tasking/backing papers. |
+| Include review | NSD 67, Intelligence Capabilities - 1992-2005 | March 30, 1992 | FAS NSD index locator; public-paper locator; official Bush Library/NARA pull needed | Intelligence community management, NFIP FY 1993-FY 1997 reallocations, budget mechanism | Pull official NSD file, fact sheet, Scowcroft/Gates/OMB records. |
+| Source anchor | Press Secretary Fitzwater statement on intelligence-community organizational changes | April 1, 1992 | Public Papers/govinfo PDF | NSD 67 public chronology, NFIP reallocations, budget mechanism, Gates presentation to Congress | Use as locator; replace with internal NSC/DCI/OMB records for selection. |
+| Source anchor | Intelligence Authorization Act, Fiscal Year 1991, Public Law 102-88 | August 14, 1991 | Statute PDF | Covert-action Findings, congressional notification, Intelligence Oversight Act framework | Use for source notes with NSD 79. |
+| Include review | Intelligence Authorization Act, Fiscal Year 1992, Public Law 102-183 | December 4, 1991 | Statute PDF | Intelligence budget authorization, aggregate budget disclosure sense of Congress | Pair with HPSCI/SSCI reports and DCI/OMB implementation files. |
+| Include review | Intelligence Authorization Act, Fiscal Year 1993, Public Law 102-496 | October 24, 1992 | Statute PDF | DCI budget responsibilities, Community Management Staff, aggregate budget disclosure, congressional oversight | Pair with DCI Community Management Staff, OMB, and committee records. |
 | Include review | Reagan-Bush Transition Briefing Book: Background on NSC Organization and Administration | 1988 transition file | Online NARA PDF/OCR sample | NSC structure, interagency process, budget/personnel | Full review; decide whether to select cover memo, NSDD 276, or use as source anchor. |
 | Source anchor | National Security Council Administrative Manual | Transition-era copy | Online NARA PDF/OCR sample | NSC records, staff procedures, Secretariat, chron files | Use for source notes unless process chapter needs excerpts. |
 | Include review | FY 1992 International Affairs Budget / Foreign Assistance Funding Proposal | February-May 1991 | Dispatch public text | Budget, foreign assistance, congressional strategy | Pull internal State/OMB/Baker files. |
@@ -31,4 +38,3 @@ Status key:
 | Locator | Department of State Reorganization | December 1992 | Dispatch capture; needs clean copy | Late-administration transition/reorganization | Recover clean text and pull internal transition/reorganization files. |
 | Selective | COCOM/export-control interagency files | 1989-1992 | NARA NSD/NSR/NSC/DC leads | Export-control process machinery | Review only if case-study lane is included. |
 | Selective | Public Diplomacy on Persian Gulf via SVTS | October 18, 1990 | NARA NSC/DC lead | Public diplomacy/USIA coordination | Review only if public diplomacy lane is included. |
-

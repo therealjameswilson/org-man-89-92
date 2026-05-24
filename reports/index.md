@@ -13,6 +13,7 @@ title: Reports
 - [Current policy sweep](current-policy-sweep.html)
 - [Department of State Dispatch sweep](dispatch-1991-1992-sweep.html)
 - [Gap closure status](gap-closure-status.html)
+- [Intelligence matters chapter](intelligence-matters-chapter.html)
 - [NSC administrative transition review](nsc-admin-transition-review.html)
 - [NSR-16 budget review](nsr-16-budget-review.html)
 - [Persons list editorial QA](persons-list-editorial-qa.html)

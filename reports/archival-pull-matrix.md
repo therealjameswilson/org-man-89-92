@@ -5,7 +5,7 @@ title: Archival Pull Matrix
 
 # Archival Pull Matrix
 
-Checked: 2026-05-23
+Checked: 2026-05-24
 
 Purpose: convert the gap assessment into an actionable pull list. This matrix is
 based on the current reports and the published FRUS Volume XXXI sources page.
@@ -34,7 +34,8 @@ based on the current reports and the published FRUS Volume XXXI sources page.
 | 2 | DS and security management files | Post security responsibilities after the Chief-of-Mission letter and Inman Act implementation. |
 | 2 | AID administrator and policy files | Foreign-assistance reform, International Cooperation Act, NIS assistance implementation, donor coordination. |
 | 2 | USIA/BIB files | Public diplomacy/international communications budget and organization. |
-| 3 | L and H | Legal authority and documentary/citation support; useful if statutory authority becomes a chapter. |
+| 2 | L and H | Legal authority, covert-action legal review, congressional-notification support, and documentary/citation support. |
+| 2 | State Under Secretary for Political Affairs / P files | State participation in NSC Deputies Committee covert-action review and intelligence-policy coordination. |
 
 ## White House / Bush Library
 
@@ -44,6 +45,13 @@ based on the current reports and the published FRUS Volume XXXI sources page.
 | 1 | Cabinet Affairs transition and policy files | Cabinet-level organization, department/agency coordination, foreign-affairs resource decisions. |
 | 1 | John Sununu Chief of Staff and Issues/Budget files | White House management of foreign affairs budget, policy development, and agency coordination. |
 | 1 | Policy Development files, 1989-1992 | White House policy-process structure and cross-cutting management decisions. |
+| 1 | NSD 79, "Approval and Review of Covert Action," H-Files, NSD Files, OA/ID 90005-033 | Covert-action Findings/MON procedures, NSC/DC review, legal working group, congressional notification, restricted/delayed notification, OMB budget consistency. |
+| 1 | NSR 29, "Intelligence Capabilities - 1992-2005" | Launch of the post-Cold War intelligence capabilities review; tasking, terms of reference, recipient list, budget-management questions. |
+| 1 | NSD 67, "Intelligence Capabilities - 1992-2005" | Presidential decision on intelligence capabilities, NFIP budget mechanism, agency concurrence, and congressional presentation. |
+| 1 | NSC Intelligence Programs / Senior Director files | Covert-action process administration, special-access controls, intelligence capabilities review, congressional notification procedures. |
+| 1 | DCI Robert Gates and Community Management Staff files | NFIP FY 1993-FY 1997 reallocations, annual budget mechanism, and presentation to Congress. |
+| 1 | OMB intelligence and national security budget files | NFIP budget reallocations, multi-year intelligence funding mechanism, covert-action resource consistency for congressional budget requests. |
+| 2 | White House Legislative Affairs and NSC congressional liaison files | SSCI/HPSCI consultations, restricted notification procedures, Gates presentation/briefing to Congress, budget-disclosure strategy. |
 | 2 | Katie Winklejohn Chief of Staff-Designate Transition Files | Pre-inaugural White House management and foreign-policy transition. |
 | 2 | Andrew Card Office of Policy Development files | Mature-administration policy development and transition-management leads. |
 | 2 | Brent Scowcroft / Gates / NSC staff files | NSC-State process, interagency machinery, NSR/NSD implementation, staff organization. |
@@ -56,8 +64,10 @@ based on the current reports and the published FRUS Volume XXXI sources page.
 | 1 | *Department of State Dispatch*, 1991-1992 | Public budget, assistance, personnel, refugee, NIS, and reorganization locators. |
 | 2 | *Current Policy*, 1989-1990 | Public statements on budget, IO arrears, refugee admissions, COCOM, Citizens Democracy Corps, and assistance coordination. |
 | 2 | *Digest of United States Practice in International Law, 1989-1990* | Legal/citation support for Chief-of-Mission authority, once a usable copy is recovered. |
+| 1 | Bush Library/NARA NSD 79 online PDF and finding aid | Public control copy for covert-action chapter anchor and version-control pull list. |
+| 1 | Public Papers, April 1, 1992, Fitzwater statement on intelligence-community organizational changes | Public locator for NSR 29/NSD 67, NFIP reallocations, new budget mechanism, and Gates presentation to Congress. |
+| 1 | Intelligence Authorization Acts for FY 1991-FY 1993 | Statutory framework for covert-action notification, intelligence budget authorization, aggregate budget disclosure, and DCI budget duties. |
 
 ## Source Reference
 
 - FRUS Volume XXXI sources page: https://history.state.gov/historicaldocuments/frus1989-92v31/sources
-

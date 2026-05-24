@@ -49,6 +49,10 @@ especially:
   with the September 14, 1989 Armacost/Japan version in NAID 470760858 treated
   as a related predecessor/variant.
 - `NSR-16 - Comprehensive Review of International Affairs Budget and Programs`, NAID 446394955.
+- `NSD 79 - Approval and Review of Covert Action`, Bush Library/NARA
+  H-Files, NSD Files, OA/ID 90005-033.
+- `NSR 29` and `NSD 67 - Intelligence Capabilities - 1992-2005`, which
+  anchor the intelligence capabilities and NFIP budget-management lane.
 
 See [reports/cross-source-volume-ii-candidates.md](reports/cross-source-volume-ii-candidates.md)
 for the full cross-source queue, and
@@ -60,7 +64,8 @@ for the final-version check on the Bush ambassador letter.
 The current source base is strong enough for a provisional outline, but not for
 final selection. The main risks are thin 1991-1992 coverage, unreviewed State
 internal management files, White House/Bush Library catalog leads without PDFs,
-and incomplete version control for the Bush Chief-of-Mission letter.
+incomplete version control for the Bush Chief-of-Mission letter, and unresolved
+internal records for the intelligence budget/congressional-oversight lane.
 
 See [reports/compiler-gap-assessment.md](reports/compiler-gap-assessment.md) for
 the gap memo and immediate pull list.
@@ -72,6 +77,7 @@ Follow-up gap-closure work is tracked in:
 - [reports/archival-pull-matrix.md](reports/archival-pull-matrix.md)
 - [reports/dispatch-1991-1992-sweep.md](reports/dispatch-1991-1992-sweep.md)
 - [reports/nsr-16-budget-review.md](reports/nsr-16-budget-review.md)
+- [reports/intelligence-matters-chapter.md](reports/intelligence-matters-chapter.md)
 - [reports/nsc-admin-transition-review.md](reports/nsc-admin-transition-review.md)
 - [reports/provisional-volume-outline.md](reports/provisional-volume-outline.md)
 
