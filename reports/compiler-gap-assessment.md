@@ -34,8 +34,9 @@ major additions are:
   fallback sources.
 - A candidate register for tracking selection status, source type, and next
   action.
-- A separate intelligence-matters chapter plan keyed to NSD 79, NSR 29, NSD 67,
-  and FY 1991-FY 1993 intelligence authorization records.
+- A separate intelligence-matters chapter plan keyed to President Bush's PDB
+  process, NSD 79, NSR 29, NSD 67, and FY 1991-FY 1993 intelligence
+  authorization records.
 
 ## Highest-Risk Gaps
 
@@ -46,7 +47,7 @@ major additions are:
 | High | White House/Bush Library no-PDF leads are only catalog leads. | Cabinet Affairs, Policy Development, Chief of Staff, Sununu, Card, and Winklejohn files could change the volume architecture, especially for White House control of foreign-policy management. | Request scans or archival pulls for the no-PDF leads in the cross-source report. |
 | High | The Bush Chief-of-Mission letter still needs an archival final copy. | The July 12, 1990 final all-chief-of-mission letter is the strongest field-management candidate, but the signed/circulated version has not yet been obtained. | Pull Bush Library/White House copy, S/S circulation copy, Central Foreign Policy File dissemination, or Office of Chief of Mission Authority and Overseas Staffing file. |
 | High | NSR-16 has been surfaced, not fully analyzed. | The international affairs budget/program review could be a central management document, but the sampled PDF has not yet been reduced to candidate-level findings. | Read and abstract the full NSR-16 file; identify memo authors, options, decisions, and any follow-on NSD or budget action. |
-| High | Intelligence matters now have candidate anchors, but the internal budget and congressional-interaction record is incomplete. | NSD 79 covers covert-action procedure and congressional notification, while NSR 29/NSD 67 and the FY 1992-FY 1993 statutes point to a separate intelligence budget lane. Final selection still needs internal DCI, OMB, NSC, and congressional liaison records. | Pull NSD 79 signed/version files, NSR 29, NSD 67, Gates briefing material, OMB NFIP files, Community Management Staff files, and HPSCI/SSCI records. |
+| High | Intelligence matters now have candidate anchors, but the internal PDB, budget, and congressional-interaction record is incomplete. | Public CIA histories establish that Bush used the PDB as an interactive daily process, NSD 79 covers covert-action procedure and congressional notification, and NSR 29/NSD 67 plus the FY 1992-FY 1993 statutes point to a separate intelligence budget lane. Final selection still needs internal CIA PDB Staff, DCI, OMB, NSC, and congressional liaison records. | Pull Bush PDB process/control files, Daily Diary corroboration, NSD 79 signed/version files, NSR 29, NSD 67, Gates briefing material, OMB NFIP files, Community Management Staff files, and HPSCI/SSCI records. |
 
 ## Medium-Risk Gaps
 
@@ -75,8 +76,9 @@ not strong enough for final selection. The safe compiler move is:
 1. Use the current reports to define chapters and must-pull source pools.
 2. Treat public statements as scaffolding unless no internal equivalent exists.
 3. Promote five items immediately to high-confidence inclusion review:
-   the Bush Chief-of-Mission letter, NSR-16, NSD 79, NSR 29/NSD 67, and the
-   NSC organization/admin transition materials.
+   the Bush Chief-of-Mission letter, NSR-16, Bush PDB process records,
+   NSD 79, NSR 29/NSD 67, and the NSC organization/admin transition
+   materials.
 4. Do not close the source search until 1991-1992 State internal records and
    White House no-PDF leads have been checked.
 
@@ -84,16 +86,18 @@ not strong enough for final selection. The safe compiler move is:
 
 1. July 12, 1990 Bush Chief-of-Mission letter, final signed/circulated copy.
 2. NSR-16, full review and follow-on decisions.
-3. NSD 79, signed/version files and congressional-notification implementation.
-4. NSR 29 and NSD 67 intelligence capabilities and NFIP budget files.
-5. Baker classified papers, Lot 93D187.
-6. Eagleburger chron/subject files, Lot 95D335.
-7. Kimmitt special/chron files, Lot 91D490.
-8. Zoellick Counselor records, Lot 94D589.
-9. Kanter files, Lot 93D396, for late-1991/1992 management and transition.
-10. Bush Library Cabinet Affairs, Policy Development, and Chief of Staff no-PDF
+3. Bush PDB process/control files, briefer notes, tasking logs, and Daily
+   Diary corroboration.
+4. NSD 79, signed/version files and congressional-notification implementation.
+5. NSR 29 and NSD 67 intelligence capabilities and NFIP budget files.
+6. Baker classified papers, Lot 93D187.
+7. Eagleburger chron/subject files, Lot 95D335.
+8. Kimmitt special/chron files, Lot 91D490.
+9. Zoellick Counselor records, Lot 94D589.
+10. Kanter files, Lot 93D396, for late-1991/1992 management and transition.
+11. Bush Library Cabinet Affairs, Policy Development, and Chief of Staff no-PDF
    leads.
-11. Central Foreign Policy File all-post instructions on management, staffing,
+12. Central Foreign Policy File all-post instructions on management, staffing,
    security, budget, and Chief-of-Mission authority.
-12. NSC/DC process case files only after deciding which case-study lanes belong
+13. NSC/DC process case files only after deciding which case-study lanes belong
     in the volume.

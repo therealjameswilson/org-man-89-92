@@ -45,6 +45,10 @@ based on the current reports and the published FRUS Volume XXXI sources page.
 | 1 | Cabinet Affairs transition and policy files | Cabinet-level organization, department/agency coordination, foreign-affairs resource decisions. |
 | 1 | John Sununu Chief of Staff and Issues/Budget files | White House management of foreign affairs budget, policy development, and agency coordination. |
 | 1 | Policy Development files, 1989-1992 | White House policy-process structure and cross-cutting management decisions. |
+| 1 | Presidential Daily Diary and appointment logs | Daily PDB timing, attendees, first appointment pattern, travel-day exceptions, and non-substantive corroboration for Bush's intelligence consumption. |
+| 1 | WHPO photo/contact-sheet records for PDB sessions | Visual/caption evidence for briefing participants, especially early 1989 sessions with Chuck Peters, Webster, Sununu, Gates, and Scowcroft. |
+| 1 | CIA PDB Staff / Office of Current Production and Analytic Support files | PDB briefer notes, daily debriefs, follow-up tasking, distribution/control sheets, "Signs of the Times," raw-reporting supplements, and presidential reactions. |
+| 1 | Scowcroft/Gates/Sununu morning-meeting files | How PDB items became daily policy follow-up, presidential questions, calls to foreign leaders, and NSC tasking. |
 | 1 | NSD 79, "Approval and Review of Covert Action," H-Files, NSD Files, OA/ID 90005-033 | Covert-action Findings/MON procedures, NSC/DC review, legal working group, congressional notification, restricted/delayed notification, OMB budget consistency. |
 | 1 | NSR 29, "Intelligence Capabilities - 1992-2005" | Launch of the post-Cold War intelligence capabilities review; tasking, terms of reference, recipient list, budget-management questions. |
 | 1 | NSD 67, "Intelligence Capabilities - 1992-2005" | Presidential decision on intelligence capabilities, NFIP budget mechanism, agency concurrence, and congressional presentation. |
@@ -65,6 +69,10 @@ based on the current reports and the published FRUS Volume XXXI sources page.
 | 2 | *Current Policy*, 1989-1990 | Public statements on budget, IO arrears, refugee admissions, COCOM, Citizens Democracy Corps, and assistance coordination. |
 | 2 | *Digest of United States Practice in International Law, 1989-1990* | Legal/citation support for Chief-of-Mission authority, once a usable copy is recovered. |
 | 1 | Bush Library/NARA NSD 79 online PDF and finding aid | Public control copy for covert-action chapter anchor and version-control pull list. |
+| 1 | CIA, *Getting to Know the President*, chapter 5 | Public source anchor for Bush PDB briefing preferences, daily briefer model, and transition continuity. |
+| 1 | CIA, *First Callers: The President's Daily Brief Across Three Administrations* | Public source anchor for PDB process, distribution control, briefer follow-up, and senior-principal use. |
+| 1 | CIA, "Remembering President George H. W. Bush (1924-2018): The Model Consumer" | Public PDB Staff perspective; locator for Chuck Peters article and handwritten presidential feedback. |
+| 2 | Intelligence.gov PDB explainer | General locator for PDB definition and public release status; use to explain why Bush 41 PDB texts are not presently public. |
 | 1 | Public Papers, April 1, 1992, Fitzwater statement on intelligence-community organizational changes | Public locator for NSR 29/NSD 67, NFIP reallocations, new budget mechanism, and Gates presentation to Congress. |
 | 1 | Intelligence Authorization Acts for FY 1991-FY 1993 | Statutory framework for covert-action notification, intelligence budget authorization, aggregate budget disclosure, and DCI budget duties. |
 

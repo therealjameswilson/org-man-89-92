@@ -49,6 +49,9 @@ especially:
   with the September 14, 1989 Armacost/Japan version in NAID 470760858 treated
   as a related predecessor/variant.
 - `NSR-16 - Comprehensive Review of International Affairs Budget and Programs`, NAID 446394955.
+- President Bush's PDB process/control records, with CIA public histories used
+  as locators for briefer notes, tasking logs, distribution controls, and Daily
+  Diary corroboration.
 - `NSD 79 - Approval and Review of Covert Action`, Bush Library/NARA
   H-Files, NSD Files, OA/ID 90005-033.
 - `NSR 29` and `NSD 67 - Intelligence Capabilities - 1992-2005`, which

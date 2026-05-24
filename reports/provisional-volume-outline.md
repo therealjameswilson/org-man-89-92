@@ -67,14 +67,22 @@ Selection logic: NSR-16 is the strongest internal starting point. Public budget
 statements should provide chronology and fallback text, not substitute for
 internal OMB/State/White House records.
 
-### 4. Intelligence Matters: Covert Action, Oversight, and the Intelligence Budget
+### 4. Intelligence Matters: Presidential Briefing, Covert Action, Oversight, and the Intelligence Budget
 
 Purpose: document intelligence organization and management where it intersects
-with covert action procedures, congressional oversight, NSC review machinery,
-and the intelligence community budget.
+with the President's own intelligence consumption, covert action procedures,
+congressional oversight, NSC review machinery, and the intelligence community
+budget.
 
 Candidate sources:
 
+- President's Daily Brief process/control records, briefer notes, tasking logs,
+  and Daily Diary corroboration for Bush's daily intelligence sessions.
+- *CIA Support to Policymakers: The First Callers* and *Getting to Know the
+  President* as public source anchors for the Bush PDB process.
+- Andres Vaart, "Remembering President George H. W. Bush (1924-2018): The
+  Model Consumer," and the cited Charles A. Peters *Studies in Intelligence*
+  article.
 - NSD 79, "Approval and Review of Covert Action," January 19, 1993.
 - Intelligence Authorization Act, Fiscal Year 1991, Public Law 102-88.
 - NSR 29, "Intelligence Capabilities - 1992-2005," November 15, 1991.
@@ -85,11 +93,12 @@ Candidate sources:
 - NSC Intelligence Programs, DCI/Community Management Staff, OMB, and
   White House congressional liaison files.
 
-Selection logic: NSD 79 is the chapter anchor for covert action, NSC/DC review,
-legal review, restricted notification, delayed notification, and OMB resource
-responsibility. NSR 29/NSD 67 and the FY 1992-FY 1993 intelligence
-authorization record provide the separate intelligence-budget and community
-management lane.
+Selection logic: Bush's PDB process should open the chapter because it shows
+how intelligence reached and shaped the President's morning decision workflow.
+NSD 79 is the chapter anchor for covert action, NSC/DC review, legal review,
+restricted notification, delayed notification, and OMB resource responsibility.
+NSR 29/NSD 67 and the FY 1992-FY 1993 intelligence authorization record
+provide the separate intelligence-budget and community management lane.
 
 ### 5. Chief-of-Mission Authority, Overseas Staffing, and Security
 
@@ -181,13 +190,14 @@ or implementation.
 1. Bush Chief-of-Mission letter, final all-post version.
 2. NSR-16 plus response/options/follow-on records.
 3. Chief-of-Mission/NSDD 38 staffing implementation document.
-4. NSD 79 covert action approval/review/congressional notification directive.
-5. NSR 29/NSD 67 intelligence capabilities and NFIP budget mechanism records.
-6. NSC transition organization/process document.
-7. Internal FY 1991-FY 1993 budget management document.
-8. Internal foreign-assistance reform or NIS coordination document.
-9. Internal Foreign Service/personnel/security implementation document.
-10. One or two interagency case studies if they show machinery.
+4. President Bush PDB process/control records and Daily Diary corroboration.
+5. NSD 79 covert action approval/review/congressional notification directive.
+6. NSR 29/NSD 67 intelligence capabilities and NFIP budget mechanism records.
+7. NSC transition organization/process document.
+8. Internal FY 1991-FY 1993 budget management document.
+9. Internal foreign-assistance reform or NIS coordination document.
+10. Internal Foreign Service/personnel/security implementation document.
+11. One or two interagency case studies if they show machinery.
 
 ## Open Decisions
 
@@ -201,3 +211,6 @@ or implementation.
 - Whether NSD 79, dated January 19, 1993, can be used as the Bush
   administration capstone document for covert-action management in a 1989-1992
   volume.
+- Whether any Bush 41 PDB text, cover page, supplement, briefer note, or
+  distribution/control sheet can be released enough to serve as a selected
+  document rather than source-note evidence.
