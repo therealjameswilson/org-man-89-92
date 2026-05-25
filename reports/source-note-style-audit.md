@@ -17,6 +17,12 @@ any candidate is promoted to selected-document status. The existing reports are
 mostly discovery notes, so NAIDs, web links, and "locator" language are useful
 internally but should not be treated as final source notes.
 
+Current match result: no candidate source note in the project is fully
+FRUS-ready yet because the archival control copies still need verification for
+OA/ID, exact folder title, classification/handling markings, routing, and
+annotations. The NSR-16 note has been converted from catalog style to a
+FRUS-shaped provisional note, but bracketed fields remain open.
+
 Published FRUS source notes follow a compact order:
 
 1. `Source:`
@@ -30,6 +36,22 @@ Published FRUS source notes follow a compact order:
 
 The source note should not lead with a URL, NAID, PDF filename, or explanatory
 assessment. Those belong in compiler notes, pull matrices, or source lists.
+
+## Matching Check
+
+| Item checked | Current form | FRUS match | Required fix before final selection |
+| --- | --- | --- | --- |
+| NSR-16 review note | Provisional `Source:` note now begins with George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSR Files. | Partial match | Verify OA/ID, folder title, classification, signature/routing, and any presidential annotation from the control copy. |
+| NSD 79 draft note | Provisional note uses Bush Library, Bush Presidential Records, NSC, H-Files, NSD Files, OA/ID 90005-033. | Partial match | Verify exact folder title, classification/handling markings, signed-final status, distribution list, and any legal or version-control attachments. |
+| Chief-of-Mission letter | Working notes point to *State*, October 1990, and NAID 470760858 as a related file. | Not final | Pull the signed/circulated July 12, 1990 all-post White House or S/S copy. Use the printed *State* version only as fallback. |
+| PDB process/control records | Public CIA histories and Bush Library Daily Record are locators. | Not a source note | Select an actual archival record: PDB Staff/CPAS control sheet, briefer note, tasking log, distribution sheet, releasable cover/supplement, Daily Diary page, or NSC morning-meeting record. |
+| NSC transition/admin sources | NAID-based discovery locators. | Not final | Convert selected documents to repository-order notes only after exact file unit, series, classification, and document markings are verified. |
+| Current Policy and public statements | Public-source candidates and context notes. | Fallback only | Prefer internal State/White House/OMB records for final document source notes; cite public items in editorial notes when needed. |
+
+Bottom line: the existing project notes now match FRUS *format logic*, but they
+do not yet match FRUS *final source-note evidentiary standard*. They should not
+be treated as publishable source notes until the bracketed archival facts are
+closed.
 
 ## FRUS-Style Templates
 
