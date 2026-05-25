@@ -19,3 +19,4 @@ title: Reports
 - [Persons list editorial QA](persons-list-editorial-qa.html)
 - [Provisional volume outline](provisional-volume-outline.html)
 - [Public site gap check](public-site-gap-check.html)
+- [Source note style audit](source-note-style-audit.html)

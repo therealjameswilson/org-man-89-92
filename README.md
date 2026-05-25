@@ -83,6 +83,7 @@ Follow-up gap-closure work is tracked in:
 - [reports/intelligence-matters-chapter.md](reports/intelligence-matters-chapter.md)
 - [reports/nsc-admin-transition-review.md](reports/nsc-admin-transition-review.md)
 - [reports/provisional-volume-outline.md](reports/provisional-volume-outline.md)
+- [reports/source-note-style-audit.md](reports/source-note-style-audit.md)
 
 ## Front Matter
 

@@ -7,9 +7,15 @@ title: NSR-16 Review: International Affairs Budget and Programs
 
 Checked: 2026-05-23
 
-Source: `NSR-16 - June 07, 1989 - Comprehensive Review of International Affairs
-Budget and Programs [1]`, NAID 446394955, H-Files, National Security Review
-Files.
+Source-note status: catalog locator only. The final note should use FRUS
+repository order rather than leading with a NAID:
+
+`Source: George H.W. Bush Library, Bush Presidential Records, National Security
+Council, H-Files, NSR Files, OA/ID [verify], NSR-16--June 07,
+1989--Comprehensive Review of International Affairs Budget and Programs [1].
+[Classification marking to verify].`
+
+Catalog locator: NAID 446394955.
 
 Local OCR sample: `/private/tmp/orgman-source-check/nsr-16-budget-ocr.txt`
 
@@ -112,4 +118,3 @@ actual staffing-control machinery.
 ## Link
 
 - NARA Catalog, NAID 446394955: https://catalog.archives.gov/id/446394955
-
