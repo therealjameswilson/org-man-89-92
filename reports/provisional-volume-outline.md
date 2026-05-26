@@ -78,6 +78,11 @@ Candidate sources:
 
 - President's Daily Brief process/control records, briefer notes, tasking logs,
   and Daily Diary corroboration for Bush's daily intelligence sessions.
+- Presidential Daily Diary and Presidential Daily Backup Materials, White House
+  Office of Appointments and Scheduling Files, GB-WHASF-001, NAID 186322, for
+  meetings, telephone calls, intelligence/national security briefings, Daily
+  Backup material, Desert Storm coalition contacts, and participant/timing
+  corroboration.
 - *CIA Support to Policymakers: The First Callers* and *Getting to Know the
   President* as public source anchors for the Bush PDB process.
 - Andres Vaart, "Remembering President George H. W. Bush (1924-2018): The
@@ -95,6 +100,10 @@ Candidate sources:
 
 Selection logic: Bush's PDB process should open the chapter because it shows
 how intelligence reached and shaped the President's morning decision workflow.
+The Daily Diary/Backup series should provide the non-substantive chronology:
+for example, the first-week NSC briefing and foreign-leader calls on January
+23, 1989, and Desert Storm intelligence briefings, coalition/congressional
+calls, and postwar planning meetings on January 16-17 and February 27, 1991.
 NSD 79 is the chapter anchor for covert action, NSC/DC review, legal review,
 restricted notification, delayed notification, and OMB resource responsibility.
 NSR 29/NSD 67 and the FY 1992-FY 1993 intelligence authorization record
@@ -190,7 +199,8 @@ or implementation.
 1. Bush Chief-of-Mission letter, final all-post version.
 2. NSR-16 plus response/options/follow-on records.
 3. Chief-of-Mission/NSDD 38 staffing implementation document.
-4. President Bush PDB process/control records and Daily Diary corroboration.
+4. President Bush PDB process/control records and Daily Diary/Backup
+   corroboration, including pertinent meetings and calls.
 5. NSD 79 covert action approval/review/congressional notification directive.
 6. NSR 29/NSD 67 intelligence capabilities and NFIP budget mechanism records.
 7. NSC transition organization/process document.
@@ -214,3 +224,6 @@ or implementation.
 - Whether any Bush 41 PDB text, cover page, supplement, briefer note, or
   distribution/control sheet can be released enough to serve as a selected
   document rather than source-note evidence.
+- Which Daily Diary/Daily Backup entries should be cited in document source
+  notes or editorial notes for meetings and calls, rather than left as general
+  chronology.

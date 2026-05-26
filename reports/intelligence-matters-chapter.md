@@ -30,7 +30,8 @@ Oversight, and the Intelligence Budget
 | Source anchor | *CIA Support to Policymakers: The First Callers: The President's Daily Brief Across Three Administrations* | 2013/2016 | Strongest public account of the Bush 41 PDB process. Treats the PDB as both document and process and identifies the working-level briefer model, distribution discipline, pre-briefs, and follow-up tasking. | Use as a locator for primary records, not as a substitute for archival PDB process files. |
 | Source anchor | *Getting to Know the President*, chapter 5, "Reagan and Bush - A Study in Contrasts" | 1996/2021 | Provides the transition-to-Bush account: Bush wanted daily CIA briefers during the campaign, transition, and presidency; he read the PDB carefully and used the briefer for immediate follow-up. | Use to identify Charles Peters interview, Gates/Webster/Scowcroft source trails, and transition briefing records. |
 | Source anchor | Andres Vaart, "Remembering President George H. W. Bush (1924-2018): The Model Consumer" | December 2018 | PDB Staff perspective on Bush as a consumer, including Chuck Peters and Hank Appelbaum, handwritten notes, "Signs of the Times," and the first Oval Office PDB session after inauguration. | Pull the cited Charles A. Peters article, "Intelligence for the Highest Levels: Serving Our Senior Consumers," and any underlying PDB Staff records. |
-| Locator | Presidential Daily Diary and White House photo records for PDB sessions | 1989-1992 | Provides non-PDB evidence of timing, attendees, and routinization of the President's intelligence consumption; the Bush Library Daily Record for February 15, 1989, lists WHPO-P00650 as photographs of President Bush participating in an NSC briefing, matching the early-session visual trail in CIA publications. | Pull Daily Diary entries, appointment logs, WHPO contact sheets, and captions for sampled PDB sessions. |
+| Locator | Presidential Daily Diary and Presidential Daily Backup Materials, White House Office of Appointments and Scheduling Files, GB-WHASF-001, NAID 186322 | 1989-1993 | Provides non-PDB evidence of timing, location, attendees, meetings, telephone calls, intelligence and national security briefings, and related backup material. The series is especially useful for cross-referencing PDB sessions to foreign-leader calls, NSC meetings, Desert Storm coalition contacts, and follow-up meetings. | Pull Daily Diary/Backup entries for sampled intelligence briefings, NSC briefings, coalition calls, and foreign-leader meetings. Use for chronology and participants, not as a substitute for memcons, telcons, or PDB content. |
+| Locator | White House photo records for PDB and NSC briefing sessions | 1989-1992 | Provides visual/caption evidence of briefing participants and related meetings; the Bush Library Daily Record for February 15, 1989, lists WHPO-P00650 as photographs of President Bush participating in an NSC briefing, matching the early-session visual trail in CIA publications. | Pull WHPO contact sheets, captions, release worksheets, and matching Daily Diary entries for sampled PDB/NSC sessions. |
 | Include review | NSD 79, "Approval and Review of Covert Action" | January 19, 1993 | Best anchor document. Sets Presidential Findings, Memoranda of Notification, NSC and Deputies Committee review, legal working group review, periodic review, congressional notification, restricted notification, delayed notification, non-CIA covert action procedures, and OMB budget responsibility. | Use Bush Library/NARA file as control copy; verify final signed version and distribution. |
 | Include review | NSR 29, "Intelligence Capabilities - 1992-2005" | November 15, 1991 | Launches the intelligence capabilities review that led to NSD 67. It is the best entry point for post-Cold War intelligence-community structure and resource questions. | Pull official Bush Library/NARA NSR file; FAS index is only a locator. |
 | Include review | NSD 67, "Intelligence Capabilities - 1992-2005" | March 30, 1992 | Presidential decision document for the intelligence capabilities review. Public reporting links it to FY 1993-FY 1997 NFIP reallocations and a new budget mechanism. | Pull official Bush Library/NARA NSD file and backing papers from NSC, DCI, DOD, and OMB files. |
@@ -62,6 +63,24 @@ for PDB process files: briefer debrief notes, questions/tasking logs, control
 sheets, distribution instructions, Daily Diary entries, Scowcroft/Gates/Sununu
 morning-meeting records, and any releasable PDB cover pages or issue-specific
 supplements.
+
+The Presidential Daily Diary and Daily Backup series, NAID 186322, should be
+used as the chronology spine for this strand. It can confirm the timing,
+location, participants, telephone-call status, and surrounding meetings for
+intelligence and national security briefings. It should not be treated as a
+substantive account of call content or meeting minutes; pair diary references
+with released memcons, telcons, PDB process records, NSC meeting files, or WHPO
+caption records.
+
+## Pertinent Meetings and Calls to Cross-Reference
+
+| Date | Daily Diary / Daily Record lead | Volume II use |
+| --- | --- | --- |
+| January 23, 1989 | The Bush Library Daily Record identifies a daily NSC briefing with John Sununu, Brent Scowcroft, Robert Gates, and Vice President Quayle, plus a telephone call with Chancellor Helmut Kohl. The Bush Library Memcons/Telcons table also lists full telcons that day with Mikhail Gorbachev, Kohl, Hosni Mubarak, and Margaret Thatcher. | Opening-week evidence for Bush's intelligence and foreign-policy morning workflow and immediate leader-call pattern. |
+| February 15, 1989 | WHPO-P00650 photographs show President Bush participating in an NSC briefing. | Early corroboration point for regular NSC/intelligence briefing sessions. |
+| January 16, 1991 | Daily Record entries identify an Intelligence Briefing and National Security Briefing, a call with French President Francois Mitterrand, calls with Egyptian President Mubarak and Representative Richard Gephardt, and calls to world leaders and Congress about the imminent attack on Iraqi troops in Kuwait. | Shows intelligence consumption, congressional notification, coalition management, and crisis communications converging at the start of Operation Desert Storm. |
+| January 17, 1991 | Daily Record entries identify an Intelligence Briefing and NSC Briefing and a meeting involving Scowcroft, Gates, Quayle, Baker, Haass, and Eagleburger. | Useful cross-reference for post-strike intelligence update, NSC coordination, and senior foreign-policy follow-up. |
+| February 27, 1991 | Daily Record entries identify an Intelligence Briefing and NSC Briefing, a postwar-plans meeting with Baker, Cheney, Powell, Scowcroft, Gates, Sununu, and Quayle, a Baker/Gates/Sununu meeting on Saddam Hussein's agreement on UN sanctions, and a telephone call with British Prime Minister John Major during a meeting. | Capstone Desert Storm example linking intelligence briefings, postwar planning, sanctions policy, allied calls, and senior interagency management. |
 
 ## Covert Action and Congress
 
@@ -106,7 +125,7 @@ multi-year funding and congressional oversight.
 | 1 | Bush Library/NARA, NSR Files, NSR 29, "Intelligence Capabilities - 1992-2005" | Original review request, tasking, due dates, recipients, and any attached terms of reference. |
 | 1 | Bush Library/NARA, NSD Files, NSD 67, "Intelligence Capabilities - 1992-2005" | Presidential decision text, fact sheet, Scowcroft memoranda, Gates briefing material, OMB clearance, implementation guidance. |
 | 1 | CIA PDB Staff / Office of Current Production and Analytic Support files | Bush daily briefing procedures, briefer notes, follow-up tasking, "Signs of the Times," presidential reactions, and control/distribution practice. |
-| 1 | Bush Library, Presidential Daily Diary and appointment logs | Routine timing, attendee lists, and non-substantive corroboration for PDB sessions. |
+| 1 | Bush Library, Presidential Daily Diary and Presidential Daily Backup Materials, White House Office of Appointments and Scheduling Files, GB-WHASF-001, NAID 186322 | Routine timing, location, attendee lists, telephone-call status, Daily Backup materials, Desert Storm intelligence/national security briefings, coalition leader calls, and non-substantive corroboration for PDB/NSC sessions. |
 | 1 | NSC Scowcroft/Gates/Sununu morning-meeting files | How PDB items flowed into policy follow-up, calls to foreign leaders, NSC tasking, and daily foreign-policy agenda setting. |
 | 1 | NSC Intelligence Programs / Senior Director files | Covert-action process, intelligence capabilities review, congressional notification procedures, special-access controls. |
 | 1 | DCI Robert Gates and Community Management Staff files | NFIP budget mechanism, presentation to Congress, implementation of FY 1992-FY 1993 authorization acts. |
@@ -121,6 +140,7 @@ multi-year funding and congressional oversight.
 | --- | --- | --- |
 | NSR 29 and NSD 67 official PDFs were not recovered from the current Bush Library site. | Medium | FAS indexes provide title/date locators, but the project needs the Bush Library/NARA control copies and any backing memoranda. |
 | Actual Bush 41 PDB texts are not available as a public document set. | High | Treat public CIA histories as locators and request PDB process records, control sheets, briefer notes, Daily Diary entries, and releasable cover/supplement material. |
+| Daily Diary/Daily Backup materials can confirm meetings and calls but not substantive content. | Medium | Use NAID 186322 for time, location, participants, call status, and backup materials; pair with released memcons/telcons, NSC meeting files, PDB process files, and WHPO captions for substance. |
 | The Charles A. Peters 1995 *Studies in Intelligence* article has not been recovered directly. | Medium | Pull "Intelligence for the Highest Levels: Serving Our Senior Consumers" from CIA's FOIA Electronic Reading Room or request it through CIA. |
 | Gates briefing material and agency concurrence records have not been read. | High | Pull DCI, DOD, NSC Intelligence Programs, and OMB files before final document selection. |
 | Congressional interaction beyond statutory text is still thin. | High | Pull the promised Gates presentation/briefing materials, HPSCI/SSCI reports, and White House legislative-affairs files. |
@@ -137,7 +157,14 @@ multi-year funding and congressional oversight.
 - CIA, *First Callers: The President's Daily Brief Across Three Administrations*: https://www.cia.gov/resources/csi/static/First-Callers-President-Brief.pdf
 - CIA, "Remembering President George H. W. Bush (1924-2018): The Model Consumer": https://www.cia.gov/resources/csi/static/Remembering-George-HW-Bush.pdf
 - Intelligence.gov, "What is the PDB?": https://www.intelligence.gov/publics-daily-brief/presidents-daily-brief
+- Bush Library finding aid, White House Office of Appointments and Scheduling Files / Presidential Daily Diary and Presidential Daily Backup Materials, NAID 186322: https://www.bush41library.gov/digital-research-room/finding-aid/white-house-office-appointments-and-scheduling-files
+- NARA Catalog, Presidential Daily Diary and Presidential Daily Backup Materials, NAID 186322: https://catalog.archives.gov/id/186322
+- Bush Library Memcons and Telcons table: https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons
 - Bush Library Daily Record, February 15, 1989: https://www.bush41library.gov/digital-research-room/daily-record?date=1989-02-15
+- Bush Library Daily Record, January 23, 1989: https://www.bush41library.gov/digital-research-room/daily-record?date=1989-01-23
+- Bush Library Daily Record, January 16, 1991: https://www.bush41library.gov/digital-research-room/daily-record?date=1991-01-16
+- Bush Library Daily Record, January 17, 1991: https://www.bush41library.gov/digital-research-room/daily-record?date=1991-01-17
+- Bush Library Daily Record, February 27, 1991: https://www.bush41library.gov/digital-research-room/daily-record?date=1991-02-27
 - Public Papers, statement on organizational changes in the intelligence community: https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg528-2.pdf
 - Intelligence Authorization Act, Fiscal Year 1991, Public Law 102-88: https://www.congress.gov/102/statute/STATUTE-105/STATUTE-105-Pg429.pdf
 - Intelligence Authorization Act, Fiscal Year 1992, Public Law 102-183: https://www.congress.gov/102/statute/STATUTE-105/STATUTE-105-Pg1260.pdf

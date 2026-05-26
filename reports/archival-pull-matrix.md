@@ -45,7 +45,7 @@ based on the current reports and the published FRUS Volume XXXI sources page.
 | 1 | Cabinet Affairs transition and policy files | Cabinet-level organization, department/agency coordination, foreign-affairs resource decisions. |
 | 1 | John Sununu Chief of Staff and Issues/Budget files | White House management of foreign affairs budget, policy development, and agency coordination. |
 | 1 | Policy Development files, 1989-1992 | White House policy-process structure and cross-cutting management decisions. |
-| 1 | Presidential Daily Diary and appointment logs | Daily PDB timing, attendees, first appointment pattern, travel-day exceptions, and non-substantive corroboration for Bush's intelligence consumption. |
+| 1 | Presidential Daily Diary and Presidential Daily Backup Materials, White House Office of Appointments and Scheduling Files, GB-WHASF-001, NAID 186322 | Daily PDB timing, attendees, locations, telephone-call status, Daily Backup materials, Desert Storm intelligence/national security briefings, coalition leader contacts, first appointment pattern, travel-day exceptions, and non-substantive corroboration for Bush's intelligence consumption. |
 | 1 | WHPO photo/contact-sheet records for PDB sessions | Visual/caption evidence for briefing participants, especially early 1989 sessions with Chuck Peters, Webster, Sununu, Gates, and Scowcroft. |
 | 1 | CIA PDB Staff / Office of Current Production and Analytic Support files | PDB briefer notes, daily debriefs, follow-up tasking, distribution/control sheets, "Signs of the Times," raw-reporting supplements, and presidential reactions. |
 | 1 | Scowcroft/Gates/Sununu morning-meeting files | How PDB items became daily policy follow-up, presidential questions, calls to foreign leaders, and NSC tasking. |
@@ -72,6 +72,8 @@ based on the current reports and the published FRUS Volume XXXI sources page.
 | 1 | CIA, *Getting to Know the President*, chapter 5 | Public source anchor for Bush PDB briefing preferences, daily briefer model, and transition continuity. |
 | 1 | CIA, *First Callers: The President's Daily Brief Across Three Administrations* | Public source anchor for PDB process, distribution control, briefer follow-up, and senior-principal use. |
 | 1 | CIA, "Remembering President George H. W. Bush (1924-2018): The Model Consumer" | Public PDB Staff perspective; locator for Chuck Peters article and handwritten presidential feedback. |
+| 1 | Bush Library finding aid for White House Office of Appointments and Scheduling Files / Presidential Daily Diary and Presidential Daily Backup Materials, NAID 186322 | Public locator for meeting, telephone-call, briefing, backup-material, and Desert Storm chronology pull targets. |
+| 1 | Bush Library Memcons and Telcons table | Cross-reference released or partially released conversation records against Daily Diary meetings and calls. |
 | 2 | Intelligence.gov PDB explainer | General locator for PDB definition and public release status; use to explain why Bush 41 PDB texts are not presently public. |
 | 1 | Public Papers, April 1, 1992, Fitzwater statement on intelligence-community organizational changes | Public locator for NSR 29/NSD 67, NFIP reallocations, new budget mechanism, and Gates presentation to Congress. |
 | 1 | Intelligence Authorization Acts for FY 1991-FY 1993 | Statutory framework for covert-action notification, intelligence budget authorization, aggregate budget disclosure, and DCI budget duties. |
@@ -79,3 +81,6 @@ based on the current reports and the published FRUS Volume XXXI sources page.
 ## Source Reference
 
 - FRUS Volume XXXI sources page: https://history.state.gov/historicaldocuments/frus1989-92v31/sources
+- NARA Catalog, Presidential Daily Diary and Presidential Daily Backup Materials, NAID 186322: https://catalog.archives.gov/id/186322
+- Bush Library finding aid for White House Office of Appointments and Scheduling Files: https://www.bush41library.gov/digital-research-room/finding-aid/white-house-office-appointments-and-scheduling-files
+- Bush Library Memcons and Telcons table: https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons

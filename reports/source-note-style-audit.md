@@ -44,7 +44,8 @@ assessment. Those belong in compiler notes, pull matrices, or source lists.
 | NSR-16 review note | Provisional `Source:` note now begins with George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSR Files. | Partial match | Verify OA/ID, folder title, classification, signature/routing, and any presidential annotation from the control copy. |
 | NSD 79 draft note | Provisional note uses Bush Library, Bush Presidential Records, NSC, H-Files, NSD Files, OA/ID 90005-033. | Partial match | Verify exact folder title, classification/handling markings, signed-final status, distribution list, and any legal or version-control attachments. |
 | Chief-of-Mission letter | Working notes point to *State*, October 1990, and NAID 470760858 as a related file. | Not final | Pull the signed/circulated July 12, 1990 all-post White House or S/S copy. Use the printed *State* version only as fallback. |
-| PDB process/control records | Public CIA histories and Bush Library Daily Record are locators. | Not a source note | Select an actual archival record: PDB Staff/CPAS control sheet, briefer note, tasking log, distribution sheet, releasable cover/supplement, Daily Diary page, or NSC morning-meeting record. |
+| PDB process/control records | Public CIA histories and Bush Library Daily Record are locators. | Not a source note | Select an actual archival record: PDB Staff/CPAS control sheet, briefer note, tasking log, distribution sheet, releasable cover/supplement, Daily Diary/Backup page, or NSC morning-meeting record. |
+| Presidential Daily Diary and Daily Backup, NAID 186322 | Series-level finding aid and date-specific Daily Record pages identify meetings, calls, briefings, and backup materials. | Source-note support | Use to cite time, place, participants, call status, and backup-material existence. Do not use it as a substitute for call summaries, meeting minutes, memcons, telcons, or PDB content. |
 | NSC transition/admin sources | NAID-based discovery locators. | Not final | Convert selected documents to repository-order notes only after exact file unit, series, classification, and document markings are verified. |
 | Current Policy and public statements | Public-source candidates and context notes. | Fallback only | Prefer internal State/White House/OMB records for final document source notes; cite public items in editorial notes when needed. |
 
@@ -129,7 +130,12 @@ Fallback only:
 
 ### Presidential Daily Diary Corroboration
 
-`Source: George H.W. Bush Library, Presidential Daily Diary, [date]. No classification marking. [Entry/time/attendees to verify against diary page.]`
+`Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, GB-WHASF-001, [date or folder title]. [Classification marking to verify]. [Entry time, location, participants, telephone-call status, or backup-material note to verify against the diary/backup page.]`
+
+Use this form for chronology and participation only. If the selected document
+prints or cites a substantive conversation, pair the Daily Diary/Backup note
+with the released memcon/telcon, NSC meeting file, PDB process record, or WHPO
+caption source.
 
 ## Editorial Rules For This Project
 
@@ -143,6 +149,10 @@ Fallback only:
   conversation and State papers.
 - Add presidential annotations and stamped notations when visible.
 - For meetings, include location when known from the record.
+- For Daily Diary/Daily Backup references, include the specific date and
+  whether the cited support is a diary entry, telephone memorandum, briefing
+  memorandum, schedule, agenda, talking-points outline, or WHPO-caption
+  cross-reference.
 - For attachments, use "Attached but not printed" only when the attachment is
   present or clearly identified in the source document.
 - For missing records, use a separate editorial footnote, not the source note,
@@ -160,3 +170,10 @@ Fallback only:
   https://history.state.gov/historicaldocuments/frus1989-92v31/d68
 - FRUS Volume XXXI, Sources:
   https://history.state.gov/historicaldocuments/frus1989-92v31/sources
+- Bush Library finding aid for White House Office of Appointments and
+  Scheduling Files / Presidential Daily Diary and Presidential Daily Backup
+  Materials, NAID 186322:
+  https://www.bush41library.gov/digital-research-room/finding-aid/white-house-office-appointments-and-scheduling-files
+- NARA Catalog, Presidential Daily Diary and Presidential Daily Backup
+  Materials, NAID 186322:
+  https://catalog.archives.gov/id/186322

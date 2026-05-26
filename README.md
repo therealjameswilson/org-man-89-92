@@ -52,6 +52,10 @@ especially:
 - President Bush's PDB process/control records, with CIA public histories used
   as locators for briefer notes, tasking logs, distribution controls, and Daily
   Diary corroboration.
+- `Presidential Daily Diary and Presidential Daily Backup Materials`,
+  White House Office of Appointments and Scheduling Files, GB-WHASF-001, NAID
+  186322, for meetings, telephone calls, intelligence/national security
+  briefings, Daily Backup material, and Desert Storm coalition contacts.
 - `NSD 79 - Approval and Review of Covert Action`, Bush Library/NARA
   H-Files, NSD Files, OA/ID 90005-033.
 - `NSR 29` and `NSD 67 - Intelligence Capabilities - 1992-2005`, which

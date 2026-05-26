@@ -47,7 +47,7 @@ major additions are:
 | High | White House/Bush Library no-PDF leads are only catalog leads. | Cabinet Affairs, Policy Development, Chief of Staff, Sununu, Card, and Winklejohn files could change the volume architecture, especially for White House control of foreign-policy management. | Request scans or archival pulls for the no-PDF leads in the cross-source report. |
 | High | The Bush Chief-of-Mission letter still needs an archival final copy. | The July 12, 1990 final all-chief-of-mission letter is the strongest field-management candidate, but the signed/circulated version has not yet been obtained. | Pull Bush Library/White House copy, S/S circulation copy, Central Foreign Policy File dissemination, or Office of Chief of Mission Authority and Overseas Staffing file. |
 | High | NSR-16 has been surfaced, not fully analyzed. | The international affairs budget/program review could be a central management document, but the sampled PDF has not yet been reduced to candidate-level findings. | Read and abstract the full NSR-16 file; identify memo authors, options, decisions, and any follow-on NSD or budget action. |
-| High | Intelligence matters now have candidate anchors, but the internal PDB, budget, and congressional-interaction record is incomplete. | Public CIA histories establish that Bush used the PDB as an interactive daily process, NSD 79 covers covert-action procedure and congressional notification, and NSR 29/NSD 67 plus the FY 1992-FY 1993 statutes point to a separate intelligence budget lane. Final selection still needs internal CIA PDB Staff, DCI, OMB, NSC, and congressional liaison records. | Pull Bush PDB process/control files, Daily Diary corroboration, NSD 79 signed/version files, NSR 29, NSD 67, Gates briefing material, OMB NFIP files, Community Management Staff files, and HPSCI/SSCI records. |
+| High | Intelligence matters now have candidate anchors, but the internal PDB, budget, and congressional-interaction record is incomplete. | Public CIA histories establish that Bush used the PDB as an interactive daily process. The Presidential Daily Diary/Daily Backup series, NAID 186322, can corroborate pertinent intelligence briefings, NSC meetings, telephone calls, and Desert Storm coalition contacts. NSD 79 covers covert-action procedure and congressional notification, while NSR 29/NSD 67 plus the FY 1992-FY 1993 statutes point to a separate intelligence budget lane. Final selection still needs internal CIA PDB Staff, DCI, OMB, NSC, and congressional liaison records. | Pull Bush PDB process/control files, Daily Diary/Backup entries for pertinent meetings and calls, NSD 79 signed/version files, NSR 29, NSD 67, Gates briefing material, OMB NFIP files, Community Management Staff files, and HPSCI/SSCI records. |
 
 ## Medium-Risk Gaps
 
@@ -87,7 +87,7 @@ not strong enough for final selection. The safe compiler move is:
 1. July 12, 1990 Bush Chief-of-Mission letter, final signed/circulated copy.
 2. NSR-16, full review and follow-on decisions.
 3. Bush PDB process/control files, briefer notes, tasking logs, and Daily
-   Diary corroboration.
+   Diary/Backup corroboration for pertinent meetings and calls.
 4. NSD 79, signed/version files and congressional-notification implementation.
 5. NSR 29 and NSD 67 intelligence capabilities and NFIP budget files.
 6. Baker classified papers, Lot 93D187.
