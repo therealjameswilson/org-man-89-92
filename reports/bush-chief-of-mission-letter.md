@@ -5,7 +5,7 @@ title: President Bush Chief-of-Mission Letter
 
 # President Bush Chief-of-Mission Letter
 
-Checked: 2026-05-22
+Checked: 2026-05-26
 
 Volume: *Foreign Relations of the United States, 1989-1992, Volume II,
 Organization and Management of Foreign Policy*
@@ -26,9 +26,9 @@ personal responsibility for mission security.
 
 | Source | Evidence | Assessment |
 | --- | --- | --- |
-| *State*, October 1990, pp. 2-3, "President Bush expands the authority of ambassadors overseas" | Describes a July 12 White House letter sent to all Chiefs of Mission and prints the President's text. The article says new ambassadors were taking it with them as they arrived at post. | Best accessible printed final text found in this sweep. Use as a locator and verification copy. |
-| *Digest of United States Practice in International Law 1989-1990* | Data.gov catalogs the official State Department Digest and its State PDF resource. Search-index snippets place the letter under "Ambassadorial Functions: Authority" and identify it as President Bush's July 12, 1990 instruction to U.S. Chiefs of Mission. | Strong official pointer, but the current State PDF URL returned an HTML error page during this check. Re-fetch or obtain from a library/source copy before final citation. |
-| NARA Catalog, `Authorities and Responsibilities of the United States Chief of Mission`, NAID 470760858 | The 41-page scan includes Chief-of-Mission statutory material, earlier presidential letters, a September 14, 1989 Bush memo to department and agency heads, and a Bush letter to Ambassador Michael Armacost in Tokyo. | Important source-context file, but the Bush text here appears to be an earlier country-specific version rather than the July 12, 1990 final all-post version. |
+| [*State*, October 1990, pp. 2-3, "President Bush expands the authority of ambassadors overseas"](https://archive.org/details/sim_state-magazine_1990-10_337) | Describes a July 12 White House letter sent to all Chiefs of Mission and prints the President's text. The article says new ambassadors were taking it with them as they arrived at post. | Best accessible printed final text found in this sweep. Use as a locator and verification copy. |
+| [*Digest of United States Practice in International Law 1989-1990*](https://catalog.data.gov/dataset/digest-of-united-states-practice-in-international-law-1989-1990) | Data.gov catalogs the official State Department Digest and its State PDF resource. Search-index snippets place the letter under "Ambassadorial Functions: Authority" and identify it as President Bush's July 12, 1990 instruction to U.S. Chiefs of Mission. | Strong official pointer, but the current State PDF URL returned an HTML error page during this check. Re-fetch or obtain from a library/source copy before final citation. |
+| [NARA Catalog, `Authorities and Responsibilities of the United States Chief of Mission`, NAID 470760858](https://catalog.archives.gov/id/470760858) | The 41-page scan includes Chief-of-Mission statutory material, earlier presidential letters, a September 14, 1989 Bush memo to department and agency heads, and a Bush letter to Ambassador Michael Armacost in Tokyo. | Important source-context file, but the Bush text here appears to be an earlier country-specific version rather than the July 12, 1990 final all-post version. |
 
 ## Version Notes
 
@@ -75,9 +75,9 @@ or cited, flag it as a predecessor or country-specific variant.
   1989-1990*, pp. 581-584, once an accessible copy of the official PDF is
   recovered.
 
-## Links
+## Source Links
 
-- State Magazine issue: https://archive.org/details/sim_state-magazine_1990-10_337
-- State Magazine PDF: https://archive.org/download/sim_state-magazine_1990-10_337/sim_state-magazine_1990-10_337.pdf
-- Data.gov Digest record: https://catalog.data.gov/dataset/digest-of-united-states-practice-in-international-law-1989-1990
-- NARA Catalog, NAID 470760858: https://catalog.archives.gov/id/470760858
+- [State Magazine issue](https://archive.org/details/sim_state-magazine_1990-10_337)
+- [State Magazine PDF](https://archive.org/download/sim_state-magazine_1990-10_337/sim_state-magazine_1990-10_337.pdf)
+- [Data.gov Digest record](https://catalog.data.gov/dataset/digest-of-united-states-practice-in-international-law-1989-1990)
+- [NARA Catalog, NAID 470760858](https://catalog.archives.gov/id/470760858)
