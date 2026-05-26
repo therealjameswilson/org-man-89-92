@@ -5,10 +5,31 @@ title: Intelligence Matters Chapter
 
 # Intelligence Matters Chapter
 
-Checked: 2026-05-24
+Checked: 2026-05-26
 
 Volume: *Foreign Relations of the United States, 1989-1992, Volume II,
 Organization and Management of Foreign Policy*
+
+## Declassified Document Chronology
+
+This is the priority sequence for the chapter. It privileges declassified or
+publicly available document leads first, then uses CIA histories and secondary
+source anchors only to locate better archival records.
+
+| Date | Declassified / public document lead | What it shows | Use in the volume |
+| --- | --- | --- | --- |
+| January 23, 1989 | Bush Library Daily Record; Memcons/Telcons table for full telcons with Mikhail Gorbachev, Helmut Kohl, Hosni Mubarak, and Margaret Thatcher | First-week daily NSC briefing with John Sununu, Brent Scowcroft, Robert Gates, and Vice President Quayle; immediate foreign-leader call pattern | Use as opening chronology for Bush's intelligence and foreign-policy morning workflow; pair with released telcons where substantive call text is needed. |
+| February 15, 1989 | Bush Library Daily Record and WHPO-P00650 photographs | President Bush participating in an NSC briefing | Use as early visual/caption corroboration for regular NSC/intelligence briefing sessions. |
+| January 16, 1991 | Bush Library Daily Record / Presidential Daily Diary entry for Operation Desert Storm opening day | Intelligence Briefing, National Security Briefing, call with French President Francois Mitterrand, calls with Egyptian President Mubarak and Representative Richard Gephardt, and calls to world leaders and Congress about the imminent attack on Iraqi troops in Kuwait | Use for the convergence of intelligence consumption, congressional notification, coalition management, and crisis communications. |
+| January 17, 1991 | Bush Library Daily Record / Presidential Daily Diary entry | Intelligence Briefing, NSC Briefing, and senior follow-up meeting involving Scowcroft, Gates, Quayle, Baker, Haass, and Eagleburger | Use as post-strike intelligence update and NSC coordination evidence. |
+| February 27, 1991 | Bush Library Daily Record / Presidential Daily Diary entry | Intelligence Briefing, NSC Briefing, postwar-plans meeting with Baker, Cheney, Powell, Scowcroft, Gates, Sununu, and Quayle; Baker/Gates/Sununu meeting on Saddam Hussein's agreement on UN sanctions; telephone call with British Prime Minister John Major | Use as Desert Storm capstone linking intelligence briefings, postwar planning, sanctions policy, allied calls, and senior interagency management. |
+| August 14, 1991 | Intelligence Authorization Act, Fiscal Year 1991, Public Law 102-88 | Statutory basis for covert-action Findings and congressional notification under the Intelligence Oversight Act framework | Use as legal frame for NSD 79 and congressional-notification procedures. |
+| November 15, 1991 | NSR 29, "Intelligence Capabilities - 1992-2005" | Launches the post-Cold War intelligence capabilities review that leads to NSD 67 | Pull official Bush Library/NARA control copy and backing papers. FAS index remains only a locator. |
+| December 4, 1991 | Intelligence Authorization Act, Fiscal Year 1992, Public Law 102-183 | Intelligence-budget authorization and Sense of Congress on public aggregate intelligence-budget disclosure beginning in 1993 | Pair with HPSCI/SSCI reports, DCI files, and OMB implementation records. |
+| March 30, 1992 | NSD 67, "Intelligence Capabilities - 1992-2005" | Presidential decision point for intelligence capabilities, NFIP reallocations, and a new budget mechanism | Pull official Bush Library/NARA control copy, fact sheet, Scowcroft/Gates memoranda, OMB clearance, and implementation guidance. |
+| April 1, 1992 | Public Papers / Fitzwater statement on intelligence-community organizational changes | Public confirmation of President-approved IC organizational changes, FY 1993-FY 1997 NFIP reallocations, new budget mechanism, and Gates presentation to Congress | Use as public chronology and fallback; replace with internal NSC/DCI/OMB records where possible. |
+| October 24, 1992 | Intelligence Authorization Act, Fiscal Year 1993, Public Law 102-496 | DCI budget responsibilities, Community Management Staff, aggregate budget-disclosure language, and congressional oversight architecture | Pair with Community Management Staff, OMB, and committee records. |
+| January 19, 1993 | NSD 79, "Approval and Review of Covert Action," Bush Library/NARA H-Files, NSD Files, OA/ID 90005-033 | Capstone covert-action management directive: Findings, Memoranda of Notification, NSC/DC review, legal review, congressional notification, restricted/delayed notice, non-CIA covert action, and OMB budget consistency | Treat as the strongest recovered chapter anchor; verify signed final, distribution, and version-control file. |
 
 ## Finding
 
@@ -65,22 +86,12 @@ morning-meeting records, and any releasable PDB cover pages or issue-specific
 supplements.
 
 The Presidential Daily Diary and Daily Backup series, NAID 186322, should be
-used as the chronology spine for this strand. It can confirm the timing,
-location, participants, telephone-call status, and surrounding meetings for
-intelligence and national security briefings. It should not be treated as a
-substantive account of call content or meeting minutes; pair diary references
-with released memcons, telcons, PDB process records, NSC meeting files, or WHPO
-caption records.
-
-## Pertinent Meetings and Calls to Cross-Reference
-
-| Date | Daily Diary / Daily Record lead | Volume II use |
-| --- | --- | --- |
-| January 23, 1989 | The Bush Library Daily Record identifies a daily NSC briefing with John Sununu, Brent Scowcroft, Robert Gates, and Vice President Quayle, plus a telephone call with Chancellor Helmut Kohl. The Bush Library Memcons/Telcons table also lists full telcons that day with Mikhail Gorbachev, Kohl, Hosni Mubarak, and Margaret Thatcher. | Opening-week evidence for Bush's intelligence and foreign-policy morning workflow and immediate leader-call pattern. |
-| February 15, 1989 | WHPO-P00650 photographs show President Bush participating in an NSC briefing. | Early corroboration point for regular NSC/intelligence briefing sessions. |
-| January 16, 1991 | Daily Record entries identify an Intelligence Briefing and National Security Briefing, a call with French President Francois Mitterrand, calls with Egyptian President Mubarak and Representative Richard Gephardt, and calls to world leaders and Congress about the imminent attack on Iraqi troops in Kuwait. | Shows intelligence consumption, congressional notification, coalition management, and crisis communications converging at the start of Operation Desert Storm. |
-| January 17, 1991 | Daily Record entries identify an Intelligence Briefing and NSC Briefing and a meeting involving Scowcroft, Gates, Quayle, Baker, Haass, and Eagleburger. | Useful cross-reference for post-strike intelligence update, NSC coordination, and senior foreign-policy follow-up. |
-| February 27, 1991 | Daily Record entries identify an Intelligence Briefing and NSC Briefing, a postwar-plans meeting with Baker, Cheney, Powell, Scowcroft, Gates, Sununu, and Quayle, a Baker/Gates/Sununu meeting on Saddam Hussein's agreement on UN sanctions, and a telephone call with British Prime Minister John Major during a meeting. | Capstone Desert Storm example linking intelligence briefings, postwar planning, sanctions policy, allied calls, and senior interagency management. |
+used as the chronology spine for this strand, as reflected in the first table on
+this page. It can confirm the timing, location, participants, telephone-call
+status, and surrounding meetings for intelligence and national security
+briefings. It should not be treated as a substantive account of call content or
+meeting minutes; pair diary references with released memcons, telcons, PDB
+process records, NSC meeting files, or WHPO caption records.
 
 ## Covert Action and Congress
 
