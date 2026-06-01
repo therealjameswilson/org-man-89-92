@@ -12,6 +12,8 @@ MDR requests. The request packet supplies the wording; this ledger records
 status, response evidence, and the source-note or selection action triggered
 by each response.
 
+Spreadsheet export: [request tracking ledger CSV](request-tracking-ledger.csv).
+
 ## Status Key
 
 | Status | Meaning | Next action |

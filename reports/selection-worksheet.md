@@ -15,6 +15,8 @@ consume a document slot unless the final architecture changes.
 After sending request batches, track responses in the
 [request tracking ledger](request-tracking-ledger.html).
 
+Spreadsheet export: [selection worksheet CSV](selection-worksheet.csv).
+
 ## Status Key
 
 - Promote: strong enough to review as a selected document now, subject to

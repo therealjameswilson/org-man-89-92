@@ -19,6 +19,9 @@ Use these first, in order:
 4. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
 5. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
 
+Spreadsheet exports: [selection worksheet CSV](reports/selection-worksheet.csv)
+and [request tracking ledger CSV](reports/request-tracking-ledger.csv).
+
 ## Priority Declassified and Public Documents
 
 Start with the records that can be read or cited now. Working reports should
