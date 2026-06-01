@@ -117,4 +117,4 @@ actual staffing-control machinery.
 
 ## Link
 
-- NARA Catalog, NAID 446394955: https://catalog.archives.gov/id/446394955
+- [NARA Catalog, NAID 446394955](https://catalog.archives.gov/id/446394955)
