@@ -9,6 +9,15 @@ Working repository for source discovery, selection notes, and front matter for
 *Foreign Relations of the United States, 1989-1992, Volume II, Organization and
 Management of Foreign Policy*.
 
+## Compiler Start Here
+
+Use these first, in order:
+
+1. [Compiler handoff](reports/compiler-handoff.html): shortest orientation to the strongest candidates, open gaps, and immediate archival tasks.
+2. [Selection worksheet](reports/selection-worksheet.html): document-slot triage by chapter, with promote/hold/support status and request-batch links.
+3. [Research request packet](reports/research-request-packet.html): copy/paste-ready Bush Library, MDR, State, CIA, and lot-file request language.
+4. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
+
 ## Priority Declassified and Public Documents
 
 Start with the records that can be read or cited now. Working reports should

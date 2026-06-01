@@ -107,6 +107,61 @@
         margin: 0.4rem 0;
       }
 
+      table {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        overflow-x: auto;
+        margin: 1.25rem 0 1.8rem;
+        border-collapse: collapse;
+        border-spacing: 0;
+        font-size: 0.92rem;
+      }
+
+      thead,
+      tbody {
+        display: table;
+        min-width: 100%;
+        border-collapse: collapse;
+      }
+
+      th,
+      td {
+        min-width: 10rem;
+        padding: 0.58rem 0.68rem;
+        border: 1px solid var(--line);
+        vertical-align: top;
+      }
+
+      th {
+        background: var(--wash);
+        text-align: left;
+        font-weight: 700;
+      }
+
+      tr:nth-child(even) td {
+        background: #fbfcfe;
+      }
+
+      code,
+      pre {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      }
+
+      code {
+        font-size: 0.94em;
+      }
+
+      pre {
+        max-width: 100%;
+        overflow-x: auto;
+        padding: 0.9rem 1rem;
+        border: 1px solid var(--line);
+        background: #f8fafc;
+        font-size: 0.88rem;
+        line-height: 1.5;
+      }
+
       footer {
         border-top: 1px solid var(--line);
         color: var(--muted);
