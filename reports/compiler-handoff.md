@@ -19,6 +19,8 @@ For document-slot triage, use the
 [selection worksheet](selection-worksheet.html).
 For request status and response processing, use the
 [request tracking ledger](request-tracking-ledger.html).
+For candidate-by-candidate provisional source notes, use the
+[source note worklist](source-note-worklist.html).
 
 ## Start Here
 
@@ -97,3 +99,4 @@ record.
 - [Selection worksheet](selection-worksheet.html)
 - [Compiler gap assessment](compiler-gap-assessment.html)
 - [Source note style audit](source-note-style-audit.html)
+- [Source note worklist](source-note-worklist.html)

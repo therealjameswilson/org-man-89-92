@@ -25,9 +25,11 @@ title: Reports
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Source note style audit](source-note-style-audit.html)
+- [Source note worklist](source-note-worklist.html)
 
 ## Spreadsheet Exports
 
 - [Request tracking ledger CSV](request-tracking-ledger.csv)
 - [Selection worksheet CSV](selection-worksheet.csv)
 - [Declassified document index CSV](declassified-document-index.csv)
+- [Source note worklist CSV](source-note-worklist.csv)

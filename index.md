@@ -19,10 +19,12 @@ Use these first, in order:
 4. [Research request packet](reports/research-request-packet.html): copy/paste-ready Bush Library, MDR, State, CIA, and lot-file request language.
 5. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
 6. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
+7. [Source note worklist](reports/source-note-worklist.html): candidate-by-candidate provisional notes, missing fields, and closure actions.
 
 Spreadsheet exports: [declassified document index CSV](reports/declassified-document-index.csv),
-[selection worksheet CSV](reports/selection-worksheet.csv), and
-[request tracking ledger CSV](reports/request-tracking-ledger.csv).
+[selection worksheet CSV](reports/selection-worksheet.csv),
+[request tracking ledger CSV](reports/request-tracking-ledger.csv), and
+[source note worklist CSV](reports/source-note-worklist.csv).
 
 ## Priority Declassified and Public Documents
 
@@ -64,6 +66,7 @@ support these documents, not bury them.
 - [Archival pull matrix](reports/archival-pull-matrix.html)
 - [Compiler gap assessment](reports/compiler-gap-assessment.html)
 - [Source note style audit](reports/source-note-style-audit.html)
+- [Source note worklist](reports/source-note-worklist.html)
 
 ## Front Matter
 
@@ -83,6 +86,7 @@ support these documents, not bury them.
 - [Selection worksheet](reports/selection-worksheet.html)
 - [Compiler gap assessment](reports/compiler-gap-assessment.html)
 - [Source note style audit](reports/source-note-style-audit.html)
+- [Source note worklist](reports/source-note-worklist.html)
 - [Persons list editorial QA](reports/persons-list-editorial-qa.html)
 - [Public site gap check](reports/public-site-gap-check.html)
 

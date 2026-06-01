@@ -94,3 +94,4 @@ request_id,priority,target,route,status,date_sent,ack_date,tracking_number,respo
 - [Selection worksheet](selection-worksheet.html)
 - [Research request packet](research-request-packet.html)
 - [Source note style audit](source-note-style-audit.html)
+- [Source note worklist](source-note-worklist.html)

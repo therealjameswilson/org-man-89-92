@@ -10,6 +10,9 @@ Checked: 2026-06-01
 Reference volume: *Foreign Relations of the United States, 1989-1992, Volume
 XXXI, START I, 1989-1991*.
 
+For a candidate-by-candidate checklist of provisional notes, missing fields,
+and closure actions, use the [source note worklist](source-note-worklist.html).
+
 ## Finding
 
 The project source notes should be rewritten in FRUS document-note style before
