@@ -8,6 +8,7 @@ title: Reports
 - [Archival pull matrix](archival-pull-matrix.html)
 - [Bush Chief-of-Mission letter](bush-chief-of-mission-letter.html)
 - [Candidate register](candidate-register.html)
+- [Compiler handoff](compiler-handoff.html)
 - [Compiler gap assessment](compiler-gap-assessment.html)
 - [Cross-source volume candidates](cross-source-volume-ii-candidates.html)
 - [Current policy sweep](current-policy-sweep.html)

@@ -5,7 +5,7 @@ title: Archival Pull Matrix
 
 # Archival Pull Matrix
 
-Checked: 2026-05-24
+Checked: 2026-06-01
 
 Purpose: convert the gap assessment into an actionable pull list. This matrix is
 based on the current reports and the published FRUS Volume XXXI sources page.
@@ -52,6 +52,10 @@ based on the current reports and the published FRUS Volume XXXI sources page.
 | 1 | NSD 79, "Approval and Review of Covert Action," H-Files, NSD Files, OA/ID 90005-033 | Covert-action Findings/MON procedures, NSC/DC review, legal working group, congressional notification, restricted/delayed notification, OMB budget consistency. |
 | 1 | NSR 29, "Intelligence Capabilities - 1992-2005" | Launch of the post-Cold War intelligence capabilities review; tasking, terms of reference, recipient list, budget-management questions. |
 | 1 | NSD 67, "Intelligence Capabilities - 1992-2005" | Presidential decision on intelligence capabilities, NFIP budget mechanism, agency concurrence, and congressional presentation. |
+| 1 | [NSC/DC 151, "NSC/DC Meeting on Definition of Covert Action," NAID 352356448](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=352356448) | Public PDF review and MDR of withheld Deputies Committee summary, minutes, draft statutory/report language, David C. Miller memorandum, Working-to-Gates memorandum, and SSCI/HPSCI consultation context. |
+| 1 | [NSC0062, "Intelligence Capabilities/1992-2005," NAID 470760970](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470760970) | Public PDF review and MDR of withheld NSR-29 results, Gates presentation, intelligence-priorities report, requirements report, proposed IC reorganization, and draft memo for the Vice President and Secretary of State. |
+| 1 | [NSC Meeting NSR-29 Intelligence Priorities, NAID 470761501](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470761501) | Compare against NSC0062; identify duplicate pages, missing tabs, release differences, and the best source-note control citation. |
+| 1 | [NSC Meeting Covert Action, December 20, 1991, NAID 470761489](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470761489) | Chronology/MDR target for a covert-action NSC meeting; public packet currently appears mostly limited to withdrawal and participant/control material. |
 | 1 | NSC Intelligence Programs / Senior Director files | Covert-action process administration, special-access controls, intelligence capabilities review, congressional notification procedures. |
 | 1 | DCI Robert Gates and Community Management Staff files | NFIP FY 1993-FY 1997 reallocations, annual budget mechanism, and presentation to Congress. |
 | 1 | OMB intelligence and national security budget files | NFIP budget reallocations, multi-year intelligence funding mechanism, covert-action resource consistency for congressional budget requests. |
@@ -69,6 +73,11 @@ based on the current reports and the published FRUS Volume XXXI sources page.
 | 2 | *Current Policy*, 1989-1990 | Public statements on budget, IO arrears, refugee admissions, COCOM, Citizens Democracy Corps, and assistance coordination. |
 | 2 | *Digest of United States Practice in International Law, 1989-1990* | Legal/citation support for Chief-of-Mission authority, once a usable copy is recovered. |
 | 1 | Bush Library/NARA NSD 79 online PDF and finding aid | Public control copy for covert-action chapter anchor and version-control pull list. |
+| 1 | [Bush Library processed NSC meetings page](https://www.bush41library.gov/digital-research-room/about-textual-collections/processed-nsc-meetings) | Official meeting-number/date index for MDR requests, especially NSC0002, NSC0013, NSC0019, NSC0024/0024a, NSC0034a, NSC0041, NSC0057, NSC0061, NSC0062, and NSC0066 covert-action/intelligence meetings. |
+| 1 | [Bush Library/NARA NSC/DC 151 file unit](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=352356448) and [direct PDF](https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-151-90015-009.pdf) | Public control copy for July 5, 1990 covert-action definition review and congressional-consultation trail. |
+| 1 | [Bush Library/NARA NSC0062 file unit](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470760970) and [direct PDF](https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC_Mtgs_312293887/41-bpr-nsc-hfiles-nsc_mtgs-62-90002-032.pdf) | Public control copy for March 25, 1992 intelligence capabilities NSC meeting. |
+| 1 | [Bush Library/NARA NSR-29 Intelligence Priorities file unit](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470761501) and [direct PDF](https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-037.pdf) | Parallel public control copy for March 25, 1992 NSR-29 Intelligence Priorities packet. |
+| 1 | [Bush Library/NARA December 20, 1991 Covert Action file unit](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470761489) and [direct PDF](https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-025.pdf) | Public control copy for covert-action NSC meeting chronology and MDR request. |
 | 1 | CIA, *Getting to Know the President*, chapter 5 | Public source anchor for Bush PDB briefing preferences, daily briefer model, and transition continuity. |
 | 1 | CIA, *First Callers: The President's Daily Brief Across Three Administrations* | Public source anchor for PDB process, distribution control, briefer follow-up, and senior-principal use. |
 | 1 | CIA, "Remembering President George H. W. Bush (1924-2018): The Model Consumer" | Public PDB Staff perspective; locator for Chuck Peters article and handwritten presidential feedback. |
@@ -84,3 +93,4 @@ based on the current reports and the published FRUS Volume XXXI sources page.
 - [NARA Catalog, Presidential Daily Diary and Presidential Daily Backup Materials, NAID 186322](https://catalog.archives.gov/id/186322)
 - [Bush Library finding aid for White House Office of Appointments and Scheduling Files](https://www.bush41library.gov/digital-research-room/finding-aid/white-house-office-appointments-and-scheduling-files)
 - [Bush Library Memcons and Telcons table](https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons)
+- [Bush Library processed NSC meetings page](https://www.bush41library.gov/digital-research-room/about-textual-collections/processed-nsc-meetings)

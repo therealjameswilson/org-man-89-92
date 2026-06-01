@@ -5,7 +5,7 @@ title: Gap Closure Status
 
 # Gap Closure Status
 
-Checked: 2026-05-24
+Checked: 2026-06-01
 
 Volume: *Foreign Relations of the United States, 1989-1992, Volume II,
 Organization and Management of Foreign Policy*
@@ -27,7 +27,7 @@ Organization and Management of Foreign Policy*
 | White House/Bush Library no-PDF leads are only catalog leads. | Partly closed | Split no-PDF leads into specific pull targets: Cabinet Affairs, Policy Development, Chief of Staff, Winklejohn transition, Sununu budget/policy files, and Card Policy Development. | Contents may be low-yield; scans or on-site review required. |
 | Bush Chief-of-Mission letter still needs an archival final copy. | Partly closed | Established July 12, 1990 as the final all-chief-of-mission version using *State*, October 1990, and identified pull paths for signed/circulated copies. | A signed/circulated archival copy has not yet been obtained. |
 | NSR-16 surfaced but not fully analyzed. | Partly closed | OCRed the 77-page PDF and abstracted the NSR directive plus embedded Chief-of-Mission/NSDD 38 staffing material. | The actual NSR response/options paper may be in follow-on files or still withheld. |
-| Intelligence matters lacked a chapter/source lane. | Partly closed | Added a dedicated chapter plan keyed to President Bush's PDB process, Presidential Daily Diary/Daily Backup chronology, NSD 79, NSR 29, NSD 67, the April 1992 public statement on intelligence-community organizational changes, and FY 1991-FY 1993 intelligence authorization acts. | Bush PDB process files, Daily Diary/Backup entries for pertinent meetings and calls, NSR 29/NSD 67 official files, DCI/OMB budget files, agency concurrence records, and congressional briefing records still need archival review. |
+| Intelligence matters lacked a chapter/source lane. | Partly closed | Added a dedicated chapter plan keyed to President Bush's PDB process, Presidential Daily Diary/Daily Backup chronology, NSC/DC 151, NSC0062, NSR-29 Intelligence Priorities, NSD 79, NSR 29, NSD 67, the April 1992 public statement on intelligence-community organizational changes, and FY 1991-FY 1993 intelligence authorization acts. | Bush PDB process files, Daily Diary/Backup entries for pertinent meetings and calls, NSR 29/NSD 67 control copies, DCI/OMB budget files, agency concurrence records, and congressional briefing records still need archival review. |
 
 ## Medium-Risk Gaps
 
@@ -60,9 +60,13 @@ current inclusion-review targets are:
    in the NSR-16 scan.
 4. President Bush PDB process/control records and Daily Diary/Backup
    corroboration for pertinent meetings and calls.
-5. NSD 79 covert action procedures and congressional-notification records.
-6. NSR 29/NSD 67 intelligence capabilities and NFIP budget-management records.
+5. NSC/DC 151, NSD 79, and related covert action procedures and
+   congressional-notification records.
+6. NSC0062, NSR-29 Intelligence Priorities, NSR 29/NSD 67 intelligence
+   capabilities, and NFIP budget-management records.
 7. FY 1992 and FY 1993 foreign affairs budget records, paired with internal
    State/OMB/White House files.
 8. New Independent States assistance-coordination records.
 9. Foreign Service personnel/staffing reform records.
+
+The action list is consolidated in the [compiler handoff](compiler-handoff.html).

@@ -5,7 +5,7 @@ title: Source Note Style Audit
 
 # Source Note Style Audit
 
-Checked: 2026-05-25
+Checked: 2026-06-01
 
 Reference volume: *Foreign Relations of the United States, 1989-1992, Volume
 XXXI, START I, 1989-1991*.
@@ -42,6 +42,8 @@ assessment. Those belong in compiler notes, pull matrices, or source lists.
 | Item checked | Current form | FRUS match | Required fix before final selection |
 | --- | --- | --- | --- |
 | NSR-16 review note | Provisional `Source:` note now begins with George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSR Files. | Partial match | Verify OA/ID, folder title, classification, signature/routing, and any presidential annotation from the control copy. |
+| NSC/DC 151 draft note | Newly identified online file unit uses Bush Library, Bush Presidential Records, NSC, H-Files, NSC/DC Meetings, OA/ID 90015-009, NAID 352356448. | Partial match | Verify exact folder title, classification/handling markings, meeting minutes/summary status, and whether withheld tabs can be re-reviewed. |
+| NSC0062 / NSR-29 Intelligence Priorities draft notes | Newly identified online file units use H-Files, NSC Meetings Files, OA/ID 90002-032, and NSC/DC Meetings Follow-up, OA/ID 90043-037. | Partial match | Compare the two March 25, 1992 packets, identify duplicate or variant tabs, and verify classification/handling, meeting location, participant list, and attachment status. |
 | NSD 79 draft note | Provisional note uses Bush Library, Bush Presidential Records, NSC, H-Files, NSD Files, OA/ID 90005-033. | Partial match | Verify exact folder title, classification/handling markings, signed-final status, distribution list, and any legal or version-control attachments. |
 | Chief-of-Mission letter | Working notes point to *State*, October 1990, and NAID 470760858 as a related file. | Not final | Pull the signed/circulated July 12, 1990 all-post White House or S/S copy. Use the printed *State* version only as fallback. |
 | PDB process/control records | Public CIA histories and Bush Library Daily Record are locators. | Not a source note | Select an actual archival record: PDB Staff/CPAS control sheet, briefer note, tasking log, distribution sheet, releasable cover/supplement, Daily Diary/Backup page, or NSC morning-meeting record. |
@@ -61,6 +63,10 @@ Use these patterns when drafting final source notes.
 ### Bush Library NSR/NSD/H-Files
 
 `Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, [NSR Files/NSD Files/NSC Meetings Files], OA/ID [number], [folder title]. [Classification; handling]. [Routing, annotations, or meeting-location note.]`
+
+### Bush Library NSC/DC Meetings
+
+`Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, [NSC/DC Meetings/NSC/DC Meetings Follow-up], OA/ID [number], [folder title]. [Classification; handling]. [Meeting time/location, participants, summary/minutes status, and attachments or withheld tabs to verify.]`
 
 ### Department of State Central Foreign Policy File
 
@@ -99,6 +105,8 @@ located.
 | NSR-16, Comprehensive Review of International Affairs Budget and Programs | Online NARA/Catalog locator exists; current note was catalog-style. | Use Bush Library H-Files/NSR Files form. Verify OA/ID, folder title, classification, signatures, and any "sent for action" or presidential annotation. |
 | Chief-of-Mission/NSDD 38 package embedded in NSR-16 scan | Discovery note only. | If selected separately, cite the exact file unit and describe the attachment relationship in a footnote: "Attached to" or "Tab [x]" only if visible in the control copy. |
 | NSC transition organization/admin files | Discovery note only. | Use Bush Library NSC Institutional Files/Transition Files form. Verify whether the final source note should cite Transition Files, staff files, or an H-Files control folder. |
+| NSC/DC 151, Definition of Covert Action | Online Bush Library/NARA file unit and direct PDF located; most substantive tabs still need review or MDR. | Use Bush Library H-Files/NSC/DC Meetings form with OA/ID 90015-009 and folder title. Verify classification, meeting time/location, summary/minutes status, and attachment relationship before final note. |
+| NSC0062 and NSR-29 Intelligence Priorities | Online Bush Library/NARA file units and direct PDFs located for both March 25, 1992 packets. | Use Bush Library H-Files/NSC Meetings Files or NSC/DC Meetings Follow-up form as appropriate. Compare packets before selecting the best control source. |
 | NSD 79, Approval and Review of Covert Action | Bush Library/NARA PDF and OA/ID 90005-033 located. | Use Bush Library H-Files/NSD Files form. Verify classification, signed final, distribution list, legal memorandum, and draft/version-control records before final note. |
 | President Bush PDB process/control records | Public CIA histories are source anchors only; no selected archival record yet. | Do not cite CIA public histories as document source notes. Pull PDB Staff/CPAS control records, briefer notes, tasking logs, distribution sheets, Daily Diary entries, or releasable covers/supplements. |
 | Intelligence authorization statutes and public statements | Public fallback sources. | Use only when no internal record is selected. Statutory/public-paper citations belong in editorial notes or contextual footnotes more often than in selected-document source notes. |
@@ -115,6 +123,16 @@ archival control copy.
 ### NSD 79
 
 `Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSD Files, OA/ID 90005-033, NSD-79--January 19, 1993--Approval and Review of Covert Action. [Classification marking to verify].`
+
+### NSC/DC 151
+
+`Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings, OA/ID 90015-009, NSC/DC 151--July 05, 1990--NSC/DC Meeting on Definition of Covert Action. [Classification marking to verify]. [Meeting time/location, summary/minutes status, and tabs to verify.]`
+
+### NSC0062 / NSR-29 Intelligence Priorities
+
+`Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meetings Files, OA/ID 90002-032, NSC0062--March 25, 1992--Intelligence Capabilities/1992-2005. [Classification marking to verify]. [Meeting time/location, participant list, attachments, and withheld tabs to verify.]`
+
+`Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Follow-up, OA/ID 90043-037, NSC Meeting NSR-29-Intelligence Priorities 3/25/92. [Classification marking to verify]. [Relationship to NSC0062 packet, attachments, and withheld tabs to verify.]`
 
 ### Chief-of-Mission Letter
 

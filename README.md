@@ -53,6 +53,13 @@ especially:
   White House Office of Appointments and Scheduling Files, GB-WHASF-001, NAID
   186322, for meetings, telephone calls, intelligence/national security
   briefings, Daily Backup material, and Desert Storm coalition contacts.
+- `NSC/DC 151 - Definition of Covert Action`, NAID 352356448, for the
+  July 5, 1990 Deputies Committee packet on covert-action definition,
+  legislative language, and SSCI/HPSCI consultation context.
+- `NSC0062 - Intelligence Capabilities/1992-2005`, NAID 470760970, and
+  `NSC Meeting NSR-29 Intelligence Priorities`, NAID 470761501, for the
+  March 25, 1992 intelligence capabilities review, Gates presentation,
+  intelligence priorities, and pre-Congress review.
 - `NSD 79 - Approval and Review of Covert Action`, Bush Library/NARA
   H-Files, NSD Files, OA/ID 90005-033.
 - `NSR 29` and `NSD 67 - Intelligence Capabilities - 1992-2005`, which
@@ -76,6 +83,7 @@ the gap memo and immediate pull list.
 
 Follow-up gap-closure work is tracked in:
 
+- [reports/compiler-handoff.md](reports/compiler-handoff.md)
 - [reports/gap-closure-status.md](reports/gap-closure-status.md)
 - [reports/candidate-register.md](reports/candidate-register.md)
 - [reports/archival-pull-matrix.md](reports/archival-pull-matrix.md)
