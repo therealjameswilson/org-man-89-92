@@ -196,6 +196,9 @@ or implementation.
 
 ## Working Inclusion Priority
 
+Use the [selection worksheet](selection-worksheet.html) for document-slot
+triage, source-note readiness, and request-batch links.
+
 1. Bush Chief-of-Mission letter, final all-post version.
 2. NSR-16 plus response/options/follow-on records.
 3. Chief-of-Mission/NSDD 38 staffing implementation document.

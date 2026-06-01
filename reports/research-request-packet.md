@@ -347,6 +347,7 @@ re-reading the whole exchange.
 ## Related Project Reports
 
 - [Compiler handoff](compiler-handoff.html)
+- [Selection worksheet](selection-worksheet.html)
 - [Archival pull matrix](archival-pull-matrix.html)
 - [Source note style audit](source-note-style-audit.html)
 - [Intelligence matters chapter](intelligence-matters-chapter.html)

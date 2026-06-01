@@ -13,6 +13,8 @@ lists the exact archival and MDR steps still needed before final selection.
 
 For copy/paste request language grouped by repository and priority, use the
 [research request packet](research-request-packet.html).
+For document-slot triage, use the
+[selection worksheet](selection-worksheet.html).
 
 ## Start Here
 
@@ -86,5 +88,6 @@ record.
 - [Candidate register](candidate-register.html)
 - [Archival pull matrix](archival-pull-matrix.html)
 - [Research request packet](research-request-packet.html)
+- [Selection worksheet](selection-worksheet.html)
 - [Compiler gap assessment](compiler-gap-assessment.html)
 - [Source note style audit](source-note-style-audit.html)

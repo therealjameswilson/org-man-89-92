@@ -14,6 +14,9 @@ Status key:
 - Locator: public text or citation that points to an internal source target.
 - Selective: include only if the final outline contains that topic lane.
 
+For document-slot triage across chapters, see the
+[selection worksheet](selection-worksheet.html).
+
 | Status | Candidate | Date | Source type | Theme | Next action |
 | --- | --- | --- | --- | --- | --- |
 | Include review | President Bush Chief-of-Mission letter | July 12, 1990 | Published final text located; archival final copy needed | COM authority, interagency control overseas, staffing, security, ethics | Pull signed/circulated White House or S/S copy. |
