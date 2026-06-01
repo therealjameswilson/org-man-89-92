@@ -10,9 +10,7 @@ Generated file: [../persons.md](../persons.md)
 Source file: attached `Bush Comprehensive Names List.docx`
 
 Reference format: Office of the Historian, published FRUS persons page for
-Volume XXXI:
-
-<https://history.state.gov/historicaldocuments/frus1989-92v31/persons>
+Volume XXXI, [Persons](https://history.state.gov/historicaldocuments/frus1989-92v31/persons).
 
 ## Result
 
@@ -34,8 +32,7 @@ Volume XXXI:
 - Used published Volume XXXI wording where it directly resolved entries for
   Brooks, Rice, Timbie, and Wattawa.
 - Used the public VA profile of Heather Wilson to resolve her National Security
-  Council service as 1989-1991:
-  <https://news.va.gov/138730/honoring-veterans-air-force-heather-wilson/>
+  Council service as 1989-1991: [VA profile of Heather Wilson](https://news.va.gov/138730/honoring-veterans-air-force-heather-wilson/).
 - Fixed obvious transcription/place-name issues: `Tallinn`, `Riyadh`,
   `Liberia`, `Program Analyst`, `Commercial`, and `Chargé d'Affaires`.
 
