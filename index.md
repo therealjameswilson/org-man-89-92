@@ -14,13 +14,15 @@ Management of Foreign Policy*.
 Use these first, in order:
 
 1. [Compiler handoff](reports/compiler-handoff.html): shortest orientation to the strongest candidates, open gaps, and immediate archival tasks.
-2. [Selection worksheet](reports/selection-worksheet.html): document-slot triage by chapter, with promote/hold/support status and request-batch links.
-3. [Research request packet](reports/research-request-packet.html): copy/paste-ready Bush Library, MDR, State, CIA, and lot-file request language.
-4. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
-5. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
+2. [Declassified and public document index](reports/declassified-document-index.html): chronological public/control-copy launch page with source-note status and request links.
+3. [Selection worksheet](reports/selection-worksheet.html): document-slot triage by chapter, with promote/hold/support status and request-batch links.
+4. [Research request packet](reports/research-request-packet.html): copy/paste-ready Bush Library, MDR, State, CIA, and lot-file request language.
+5. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
+6. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
 
-Spreadsheet exports: [selection worksheet CSV](reports/selection-worksheet.csv)
-and [request tracking ledger CSV](reports/request-tracking-ledger.csv).
+Spreadsheet exports: [declassified document index CSV](reports/declassified-document-index.csv),
+[selection worksheet CSV](reports/selection-worksheet.csv), and
+[request tracking ledger CSV](reports/request-tracking-ledger.csv).
 
 ## Priority Declassified and Public Documents
 
@@ -53,6 +55,7 @@ support these documents, not bury them.
 
 - [Intelligence matters chapter](reports/intelligence-matters-chapter.html)
 - [Compiler handoff](reports/compiler-handoff.html)
+- [Declassified and public document index](reports/declassified-document-index.html)
 - [Research request packet](reports/research-request-packet.html)
 - [Request tracking ledger](reports/request-tracking-ledger.html)
 - [Selection worksheet](reports/selection-worksheet.html)
@@ -74,6 +77,7 @@ support these documents, not bury them.
 - [Bush Chief-of-Mission letter](reports/bush-chief-of-mission-letter.html)
 - [Intelligence matters chapter](reports/intelligence-matters-chapter.html)
 - [Compiler handoff](reports/compiler-handoff.html)
+- [Declassified and public document index](reports/declassified-document-index.html)
 - [Research request packet](reports/research-request-packet.html)
 - [Request tracking ledger](reports/request-tracking-ledger.html)
 - [Selection worksheet](reports/selection-worksheet.html)

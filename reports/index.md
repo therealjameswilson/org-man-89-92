@@ -12,6 +12,7 @@ title: Reports
 - [Compiler gap assessment](compiler-gap-assessment.html)
 - [Cross-source volume candidates](cross-source-volume-ii-candidates.html)
 - [Current policy sweep](current-policy-sweep.html)
+- [Declassified and public document index](declassified-document-index.html)
 - [Department of State Dispatch sweep](dispatch-1991-1992-sweep.html)
 - [Gap closure status](gap-closure-status.html)
 - [Intelligence matters chapter](intelligence-matters-chapter.html)
@@ -29,3 +30,4 @@ title: Reports
 
 - [Request tracking ledger CSV](request-tracking-ledger.csv)
 - [Selection worksheet CSV](selection-worksheet.csv)
+- [Declassified document index CSV](declassified-document-index.csv)

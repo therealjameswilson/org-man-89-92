@@ -90,6 +90,7 @@ request_id,priority,target,route,status,date_sent,ack_date,tracking_number,respo
 ## Related Project Reports
 
 - [Compiler handoff](compiler-handoff.html)
+- [Declassified and public document index](declassified-document-index.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Research request packet](research-request-packet.html)
 - [Source note style audit](source-note-style-audit.html)

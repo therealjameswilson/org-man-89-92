@@ -92,6 +92,7 @@ not available:
 ## Related Project Reports
 
 - [Compiler handoff](compiler-handoff.html)
+- [Declassified and public document index](declassified-document-index.html)
 - [Research request packet](research-request-packet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Candidate register](candidate-register.html)
