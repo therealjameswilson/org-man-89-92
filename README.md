@@ -84,6 +84,7 @@ the gap memo and immediate pull list.
 Follow-up gap-closure work is tracked in:
 
 - [reports/compiler-handoff.md](reports/compiler-handoff.md)
+- [reports/research-request-packet.md](reports/research-request-packet.md)
 - [reports/gap-closure-status.md](reports/gap-closure-status.md)
 - [reports/candidate-register.md](reports/candidate-register.md)
 - [reports/archival-pull-matrix.md](reports/archival-pull-matrix.md)

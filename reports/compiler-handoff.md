@@ -11,6 +11,9 @@ Purpose: a one-page working packet for a FRUS compiler. It starts with
 declassified or public-control documents that can be read or cited now, then
 lists the exact archival and MDR steps still needed before final selection.
 
+For copy/paste request language grouped by repository and priority, use the
+[research request packet](research-request-packet.html).
+
 ## Start Here
 
 | Rank | Candidate | Public/control source | Why it matters | Next compiler action |
@@ -82,5 +85,6 @@ record.
 - [Intelligence matters chapter](intelligence-matters-chapter.html)
 - [Candidate register](candidate-register.html)
 - [Archival pull matrix](archival-pull-matrix.html)
+- [Research request packet](research-request-packet.html)
 - [Compiler gap assessment](compiler-gap-assessment.html)
 - [Source note style audit](source-note-style-audit.html)

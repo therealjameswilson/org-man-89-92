@@ -40,6 +40,7 @@ support these documents, not bury them.
 
 - [Intelligence matters chapter](reports/intelligence-matters-chapter.html)
 - [Compiler handoff](reports/compiler-handoff.html)
+- [Research request packet](reports/research-request-packet.html)
 - [Provisional volume outline](reports/provisional-volume-outline.html)
 - [Candidate register](reports/candidate-register.html)
 - [Archival pull matrix](reports/archival-pull-matrix.html)
@@ -58,6 +59,7 @@ support these documents, not bury them.
 - [Bush Chief-of-Mission letter](reports/bush-chief-of-mission-letter.html)
 - [Intelligence matters chapter](reports/intelligence-matters-chapter.html)
 - [Compiler handoff](reports/compiler-handoff.html)
+- [Research request packet](reports/research-request-packet.html)
 - [Compiler gap assessment](reports/compiler-gap-assessment.html)
 - [Source note style audit](reports/source-note-style-audit.html)
 - [Persons list editorial QA](reports/persons-list-editorial-qa.html)

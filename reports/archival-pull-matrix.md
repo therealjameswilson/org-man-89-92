@@ -89,6 +89,7 @@ based on the current reports and the published FRUS Volume XXXI sources page.
 
 ## Source Reference
 
+- [Research request packet](research-request-packet.html)
 - [FRUS Volume XXXI sources page](https://history.state.gov/historicaldocuments/frus1989-92v31/sources)
 - [NARA Catalog, Presidential Daily Diary and Presidential Daily Backup Materials, NAID 186322](https://catalog.archives.gov/id/186322)
 - [Bush Library finding aid for White House Office of Appointments and Scheduling Files](https://www.bush41library.gov/digital-research-room/finding-aid/white-house-office-appointments-and-scheduling-files)
