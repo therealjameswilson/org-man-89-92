@@ -80,6 +80,5 @@ For now:
 
 ## Links
 
-- NARA Catalog, NAID 470760855: https://catalog.archives.gov/id/470760855
-- NARA Catalog, NAID 470760856: https://catalog.archives.gov/id/470760856
-
+- [NARA Catalog, NAID 470760855](https://catalog.archives.gov/id/470760855)
+- [NARA Catalog, NAID 470760856](https://catalog.archives.gov/id/470760856)
