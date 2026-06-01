@@ -5,15 +5,12 @@ Relations of the United States, 1989-1992, Volume II, Organization and
 Management of Foreign Policy*.
 
 The Office of the Historian lists this volume as **Being Researched**:
-
-<https://history.state.gov/historicaldocuments/frus1989-92v02>
+[FRUS 1989-1992, Volume II](https://history.state.gov/historicaldocuments/frus1989-92v02).
 
 ## Current Policy Sweep
 
-The first source sweep reviewed a Google Drive folder of Department of State
-*Current Policy* PDF compilations:
-
-<https://drive.google.com/drive/folders/1EzQwduz85YtC1mucT0IrYZRD1LRuJvEy>
+The first source sweep reviewed a [Google Drive folder of Department of State
+*Current Policy* PDF compilations](https://drive.google.com/drive/folders/1EzQwduz85YtC1mucT0IrYZRD1LRuJvEy).
 
 The folder is useful, but limited. It mostly covers 1989-1990 public State
 Department policy statements and does not appear to include 1991-1992 material.
