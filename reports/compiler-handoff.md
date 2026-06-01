@@ -15,6 +15,8 @@ For copy/paste request language grouped by repository and priority, use the
 [research request packet](research-request-packet.html).
 For document-slot triage, use the
 [selection worksheet](selection-worksheet.html).
+For request status and response processing, use the
+[request tracking ledger](request-tracking-ledger.html).
 
 ## Start Here
 
@@ -88,6 +90,7 @@ record.
 - [Candidate register](candidate-register.html)
 - [Archival pull matrix](archival-pull-matrix.html)
 - [Research request packet](research-request-packet.html)
+- [Request tracking ledger](request-tracking-ledger.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Compiler gap assessment](compiler-gap-assessment.html)
 - [Source note style audit](source-note-style-audit.html)

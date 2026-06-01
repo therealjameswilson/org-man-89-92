@@ -12,6 +12,9 @@ compiler-facing triage board: what to promote, what to hold pending archival
 review, what should serve only as source-note support, and what should not
 consume a document slot unless the final architecture changes.
 
+After sending request batches, track responses in the
+[request tracking ledger](request-tracking-ledger.html).
+
 ## Status Key
 
 - Promote: strong enough to review as a selected document now, subject to
@@ -88,6 +91,7 @@ not available:
 
 - [Compiler handoff](compiler-handoff.html)
 - [Research request packet](research-request-packet.html)
+- [Request tracking ledger](request-tracking-ledger.html)
 - [Candidate register](candidate-register.html)
 - [Provisional volume outline](provisional-volume-outline.html)
 - [Source note style audit](source-note-style-audit.html)

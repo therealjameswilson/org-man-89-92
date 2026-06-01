@@ -180,6 +180,7 @@ caption source.
 
 - [Selection worksheet](selection-worksheet.html)
 - [Research request packet](research-request-packet.html)
+- [Request tracking ledger](request-tracking-ledger.html)
 - [FRUS Volume XXXI, Document 1](https://history.state.gov/historicaldocuments/frus1989-92v31/d1)
 - [FRUS Volume XXXI, Document 10](https://history.state.gov/historicaldocuments/frus1989-92v31/d10)
 - [FRUS Volume XXXI, Document 36](https://history.state.gov/historicaldocuments/frus1989-92v31/d36)

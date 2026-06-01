@@ -16,7 +16,8 @@ Use these first, in order:
 1. [Compiler handoff](reports/compiler-handoff.html): shortest orientation to the strongest candidates, open gaps, and immediate archival tasks.
 2. [Selection worksheet](reports/selection-worksheet.html): document-slot triage by chapter, with promote/hold/support status and request-batch links.
 3. [Research request packet](reports/research-request-packet.html): copy/paste-ready Bush Library, MDR, State, CIA, and lot-file request language.
-4. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
+4. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
+5. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
 
 ## Priority Declassified and Public Documents
 
@@ -50,6 +51,7 @@ support these documents, not bury them.
 - [Intelligence matters chapter](reports/intelligence-matters-chapter.html)
 - [Compiler handoff](reports/compiler-handoff.html)
 - [Research request packet](reports/research-request-packet.html)
+- [Request tracking ledger](reports/request-tracking-ledger.html)
 - [Selection worksheet](reports/selection-worksheet.html)
 - [Provisional volume outline](reports/provisional-volume-outline.html)
 - [Candidate register](reports/candidate-register.html)
@@ -70,6 +72,7 @@ support these documents, not bury them.
 - [Intelligence matters chapter](reports/intelligence-matters-chapter.html)
 - [Compiler handoff](reports/compiler-handoff.html)
 - [Research request packet](reports/research-request-packet.html)
+- [Request tracking ledger](reports/request-tracking-ledger.html)
 - [Selection worksheet](reports/selection-worksheet.html)
 - [Compiler gap assessment](reports/compiler-gap-assessment.html)
 - [Source note style audit](reports/source-note-style-audit.html)

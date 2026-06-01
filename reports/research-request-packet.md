@@ -13,6 +13,9 @@ Foreign Policy*. This page is intentionally operational: copy the relevant
 request, keep the identifiers, and attach the public PDF or file-unit link when
 submitting.
 
+After sending a request, record status and responses in the
+[request tracking ledger](request-tracking-ledger.html).
+
 ## Where To Send
 
 Use the current official pages before submitting.
@@ -348,6 +351,7 @@ re-reading the whole exchange.
 
 - [Compiler handoff](compiler-handoff.html)
 - [Selection worksheet](selection-worksheet.html)
+- [Request tracking ledger](request-tracking-ledger.html)
 - [Archival pull matrix](archival-pull-matrix.html)
 - [Source note style audit](source-note-style-audit.html)
 - [Intelligence matters chapter](intelligence-matters-chapter.html)
