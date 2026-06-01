@@ -160,20 +160,10 @@ caption source.
 
 ## Source Anchors Used For This Audit
 
-- FRUS Volume XXXI, Document 1:
-  https://history.state.gov/historicaldocuments/frus1989-92v31/d1
-- FRUS Volume XXXI, Document 10:
-  https://history.state.gov/historicaldocuments/frus1989-92v31/d10
-- FRUS Volume XXXI, Document 36:
-  https://history.state.gov/historicaldocuments/frus1989-92v31/d36
-- FRUS Volume XXXI, Document 68:
-  https://history.state.gov/historicaldocuments/frus1989-92v31/d68
-- FRUS Volume XXXI, Sources:
-  https://history.state.gov/historicaldocuments/frus1989-92v31/sources
-- Bush Library finding aid for White House Office of Appointments and
-  Scheduling Files / Presidential Daily Diary and Presidential Daily Backup
-  Materials, NAID 186322:
-  https://www.bush41library.gov/digital-research-room/finding-aid/white-house-office-appointments-and-scheduling-files
-- NARA Catalog, Presidential Daily Diary and Presidential Daily Backup
-  Materials, NAID 186322:
-  https://catalog.archives.gov/id/186322
+- [FRUS Volume XXXI, Document 1](https://history.state.gov/historicaldocuments/frus1989-92v31/d1)
+- [FRUS Volume XXXI, Document 10](https://history.state.gov/historicaldocuments/frus1989-92v31/d10)
+- [FRUS Volume XXXI, Document 36](https://history.state.gov/historicaldocuments/frus1989-92v31/d36)
+- [FRUS Volume XXXI, Document 68](https://history.state.gov/historicaldocuments/frus1989-92v31/d68)
+- [FRUS Volume XXXI, Sources](https://history.state.gov/historicaldocuments/frus1989-92v31/sources)
+- [Bush Library finding aid for White House Office of Appointments and Scheduling Files / Presidential Daily Diary and Presidential Daily Backup Materials, NAID 186322](https://www.bush41library.gov/digital-research-room/finding-aid/white-house-office-appointments-and-scheduling-files)
+- [NARA Catalog, Presidential Daily Diary and Presidential Daily Backup Materials, NAID 186322](https://catalog.archives.gov/id/186322)
