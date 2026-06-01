@@ -13,6 +13,7 @@ declassified, or public-control documents. Use this page before working the
 or [source-note audit](source-note-style-audit.html).
 
 Spreadsheet export: [declassified document index CSV](declassified-document-index.csv).
+Link check: [link health audit](link-health-audit.html).
 
 ## Status Key
 

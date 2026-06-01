@@ -16,6 +16,7 @@ title: Reports
 - [Department of State Dispatch sweep](dispatch-1991-1992-sweep.html)
 - [Gap closure status](gap-closure-status.html)
 - [Intelligence matters chapter](intelligence-matters-chapter.html)
+- [Link health audit](link-health-audit.html)
 - [NSC administrative transition review](nsc-admin-transition-review.html)
 - [NSR-16 budget review](nsr-16-budget-review.html)
 - [Persons list editorial QA](persons-list-editorial-qa.html)
@@ -33,3 +34,4 @@ title: Reports
 - [Selection worksheet CSV](selection-worksheet.csv)
 - [Declassified document index CSV](declassified-document-index.csv)
 - [Source note worklist CSV](source-note-worklist.csv)
+- [Link health audit CSV](link-health-audit.csv)
