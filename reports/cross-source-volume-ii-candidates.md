@@ -10,7 +10,7 @@ Checked: 2026-05-22
 Official volume: *Foreign Relations of the United States, 1989-1992, Volume II,
 Organization and Management of Foreign Policy*
 
-Official page: https://history.state.gov/historicaldocuments/frus1989-92v02
+Official page: [FRUS 1989-1992, Volume II](https://history.state.gov/historicaldocuments/frus1989-92v02)
 
 ## Method
 
@@ -100,9 +100,8 @@ Source trail:
 - The State Department's *Digest of United States Practice in International Law
   1989-1990* is cataloged publicly by data.gov. Search-index snippets identify
   an "Ambassadorial Functions: Authority" entry for this letter. The data.gov
-  record points to `http://www.state.gov/documents/organization/139393.pdf`; as
-  of this check, that State PDF URL returns an HTML error page, not a usable
-  PDF.
+  record points to a [historical State Department PDF URL](http://www.state.gov/documents/organization/139393.pdf); as
+  of this check, that URL returns an HTML error page, not a usable PDF.
 - NARA NAID 470760858 contains a September 14, 1989 Bush memorandum and a
   country-specific letter to Ambassador Michael Armacost in Tokyo. That version
   is useful for drafting history and source context, but it is not the final
