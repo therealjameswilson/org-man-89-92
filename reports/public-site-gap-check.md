@@ -17,6 +17,9 @@ Checked against the live GitHub Pages site on May 23, 2026.
 - Converted source date shorthand in the Persons list to prose language.
 - Normalized recurring title/style terms in the Persons list.
 - Added a dedicated [reports index](index.html).
+- Converted public source-reference lists from bare URLs to embedded links
+  across the report pages, then verified the Markdown corpus has no leftover
+  raw URLs outside normal link syntax.
 
 ## Accepted Constraints
 
