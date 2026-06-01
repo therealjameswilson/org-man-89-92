@@ -60,14 +60,13 @@ late-1992 Department reorganization item.
 
 ## Links
 
-- Dispatch Vol. 2, No. 6: https://web.archive.org/web/20030510040842id_/http://dosfan.lib.uic.edu/ERC/briefing/dispatch/1991/html/Dispatchv2no06.html
-- Dispatch Vol. 2, No. 7: https://web.archive.org/web/20030510041108id_/http://dosfan.lib.uic.edu/ERC/briefing/dispatch/1991/html/Dispatchv2no07.html
-- Dispatch Vol. 2, No. 16: https://web.archive.org/web/20030909100804id_/http://dosfan.lib.uic.edu/ERC/briefing/dispatch/1991/html/Dispatchv2no16.html
-- Dispatch Vol. 2, No. 21: https://web.archive.org/web/20030704140800id_/http://dosfan.lib.uic.edu/ERC/briefing/dispatch/1991/html/Dispatchv2no21.html
-- Dispatch Vol. 2, No. 52: https://web.archive.org/web/20030710195930id_/http://dosfan.lib.uic.edu/erc/briefing/dispatch/1991/html/Dispatchv2no52.html
-- Dispatch Vol. 3, No. 4: https://web.archive.org/web/20030710201431id_/http://dosfan.lib.uic.edu/erc/briefing/dispatch/1992/html/Dispatchv3no04.html
-- Dispatch Vol. 3, No. 6: https://web.archive.org/web/20030511112933id_/http://dosfan.lib.uic.edu/ERC/briefing/dispatch/1992/html/Dispatchv3no06.html
-- Dispatch Vol. 3, No. 43: https://web.archive.org/web/20030511111536id_/http://dosfan.lib.uic.edu:80/ERC/briefing/dispatch/1992/html/Dispatchv3no43.html
-- Dispatch Vol. 3, No. 44: https://web.archive.org/web/20030916174303id_/http://dosfan.lib.uic.edu:80/erc/briefing/dispatch/1992/html/Dispatchv3no44.html
-- Dispatch Vol. 3, No. 52: https://web.archive.org/web/20030511113408id_/http://dosfan.lib.uic.edu:80/ERC/briefing/dispatch/1992/html/Dispatchv3no52.html
-
+- [Dispatch Vol. 2, No. 6](https://web.archive.org/web/20030510040842id_/http://dosfan.lib.uic.edu/ERC/briefing/dispatch/1991/html/Dispatchv2no06.html)
+- [Dispatch Vol. 2, No. 7](https://web.archive.org/web/20030510041108id_/http://dosfan.lib.uic.edu/ERC/briefing/dispatch/1991/html/Dispatchv2no07.html)
+- [Dispatch Vol. 2, No. 16](https://web.archive.org/web/20030909100804id_/http://dosfan.lib.uic.edu/ERC/briefing/dispatch/1991/html/Dispatchv2no16.html)
+- [Dispatch Vol. 2, No. 21](https://web.archive.org/web/20030704140800id_/http://dosfan.lib.uic.edu/ERC/briefing/dispatch/1991/html/Dispatchv2no21.html)
+- [Dispatch Vol. 2, No. 52](https://web.archive.org/web/20030710195930id_/http://dosfan.lib.uic.edu/erc/briefing/dispatch/1991/html/Dispatchv2no52.html)
+- [Dispatch Vol. 3, No. 4](https://web.archive.org/web/20030710201431id_/http://dosfan.lib.uic.edu/erc/briefing/dispatch/1992/html/Dispatchv3no04.html)
+- [Dispatch Vol. 3, No. 6](https://web.archive.org/web/20030511112933id_/http://dosfan.lib.uic.edu/ERC/briefing/dispatch/1992/html/Dispatchv3no06.html)
+- [Dispatch Vol. 3, No. 43](https://web.archive.org/web/20030511111536id_/http://dosfan.lib.uic.edu:80/ERC/briefing/dispatch/1992/html/Dispatchv3no43.html)
+- [Dispatch Vol. 3, No. 44](https://web.archive.org/web/20030916174303id_/http://dosfan.lib.uic.edu:80/erc/briefing/dispatch/1992/html/Dispatchv3no44.html)
+- [Dispatch Vol. 3, No. 52](https://web.archive.org/web/20030511113408id_/http://dosfan.lib.uic.edu:80/ERC/briefing/dispatch/1992/html/Dispatchv3no52.html)
