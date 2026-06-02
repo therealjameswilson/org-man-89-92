@@ -13,7 +13,8 @@ and decision log by hand. Use this page immediately after a response arrives.
 Then capture exact response facts in the [response intake
 sheet](response-intake-sheet.html) and use the [candidate closeout
 board](candidate-closeout-board.html) to identify the affected candidate's
-blocker and next status move.
+blocker and next status move. If the response creates a second request, use
+the [follow-up request sheet](follow-up-request-sheet.html).
 
 Spreadsheet export: [response triage sheet CSV](response-triage-sheet.csv).
 
@@ -56,7 +57,9 @@ Spreadsheet export: [response triage sheet CSV](response-triage-sheet.csv).
    Use the [decision resolution sheet](decision-resolution-sheet.html) to
    decide whether the response triggers a now-ready or evidence-dependent
    decision.
-7. Before marking anything selected or source-note-ready, run the [promotion
+7. If the response is incomplete but actionable, draft the next request from
+   the [follow-up request sheet](follow-up-request-sheet.html).
+8. Before marking anything selected or source-note-ready, run the [promotion
    gate checklist](promotion-gate-checklist.html).
 
 ## Related Project Reports
@@ -66,6 +69,7 @@ Spreadsheet export: [response triage sheet CSV](response-triage-sheet.csv).
 - [Candidate closeout board](candidate-closeout-board.html)
 - [Request send sheet](request-send-sheet.html)
 - [Response intake sheet](response-intake-sheet.html)
+- [Follow-up request sheet](follow-up-request-sheet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Research request packet](research-request-packet.html)
 - [Source note worklist](source-note-worklist.html)

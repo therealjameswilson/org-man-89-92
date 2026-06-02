@@ -100,6 +100,7 @@ request_id,priority,target,route,status,date_sent,ack_date,tracking_number,respo
 
 Full classifier: [response triage sheet](response-triage-sheet.html).
 Field-by-field intake form: [response intake sheet](response-intake-sheet.html).
+Follow-up wording: [follow-up request sheet](follow-up-request-sheet.html).
 
 ## Related Project Reports
 
@@ -109,6 +110,7 @@ Field-by-field intake form: [response intake sheet](response-intake-sheet.html).
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
 - [Response intake sheet](response-intake-sheet.html)
+- [Follow-up request sheet](follow-up-request-sheet.html)
 - [Declassified and public document index](declassified-document-index.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Research request packet](research-request-packet.html)

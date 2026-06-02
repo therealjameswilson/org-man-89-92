@@ -23,7 +23,9 @@ Spreadsheet export: [response intake sheet CSV](response-intake-sheet.csv).
 Classify the response in the [response triage sheet](response-triage-sheet.html),
 then fill the proved fields below. Do not infer source-note facts from a
 catalog record, cover email, or withdrawal sheet. If the response does not
-prove a field, leave the field open and name the follow-up route.
+prove a field, leave the field open and name the follow-up route. If that
+route requires new wording, use the [follow-up request
+sheet](follow-up-request-sheet.html).
 
 ## Core Capture Fields
 
@@ -75,9 +77,12 @@ prove a field, leave the field open and name the follow-up route.
    blocker and next move.
 6. Resolve any triggered decision in the [decision resolution
    sheet](decision-resolution-sheet.html).
-7. Run the [promotion gate checklist](promotion-gate-checklist.html) before
+7. Use the [follow-up request sheet](follow-up-request-sheet.html) if the next
+   move is re-review, referral follow-up, broadened search, metadata
+   clarification, or fallback confirmation.
+8. Run the [promotion gate checklist](promotion-gate-checklist.html) before
    changing a candidate to selected or source-note-ready.
-8. Update the [selection worksheet](selection-worksheet.html) last.
+9. Update the [selection worksheet](selection-worksheet.html) last.
 
 ## Related Project Reports
 
@@ -85,6 +90,7 @@ prove a field, leave the field open and name the follow-up route.
 - [Compiler action board](compiler-action-board.html)
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
+- [Follow-up request sheet](follow-up-request-sheet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Candidate closeout board](candidate-closeout-board.html)
 - [Source note field matrix](source-note-field-matrix.html)

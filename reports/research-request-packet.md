@@ -18,7 +18,8 @@ After sending a request, record status and responses in the
 For send order and the pages to update after each response, use the
 [compiler action board](compiler-action-board.html). For a compact
 subject-line and route sheet, use the [request send
-sheet](request-send-sheet.html).
+sheet](request-send-sheet.html). For incomplete-response wording, use the
+[follow-up request sheet](follow-up-request-sheet.html).
 
 ## Where To Send
 
@@ -360,6 +361,7 @@ sheet](response-intake-sheet.html) for the full field-by-field capture.
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
 - [Response intake sheet](response-intake-sheet.html)
+- [Follow-up request sheet](follow-up-request-sheet.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Archival pull matrix](archival-pull-matrix.html)

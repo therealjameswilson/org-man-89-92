@@ -22,6 +22,7 @@ Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 | Candidate closeout | 18 candidate closeout rows tied to blocker, request dependency, decision dependency, and next move. | Use this after a response is triaged and before changing selection status. | [Candidate closeout board](candidate-closeout-board.html) |
 | Requests | 17 active request rows; all 17 are still Not recorded. | The fastest real progress is sending or logging request batches, then entering responses. | [Compiler action board](compiler-action-board.html), [request send sheet](request-send-sheet.html), [research request packet](research-request-packet.html), [request tracking ledger](request-tracking-ledger.html), [response triage sheet](response-triage-sheet.html) |
 | Response intake | 18 response-intake fields define what to capture from each repository reply, release, referral, no-find, or fallback response. | Use this before updating source notes, closeout status, selection posture, or decisions. | [Response intake sheet](response-intake-sheet.html) |
+| Follow-up requests | 10 follow-up triggers with routes and copy/paste wording for re-review, referrals, broadened searches, metadata clarification, and fallback confirmation. | Use when a response is incomplete but creates a concrete next request. | [Follow-up request sheet](follow-up-request-sheet.html) |
 | Source notes | 16 source-note rows and 9 source-pool field patterns; 0 final-ready. | Source-note form exists, but final notes require archival control facts and source-pool-specific fields. | [Source note worklist](source-note-worklist.html), [source note field matrix](source-note-field-matrix.html), and [source note style audit](source-note-style-audit.html) |
 | Decisions | 14 decisions: 8 default ready, 6 evidence dependent, 0 decided. | Compiler choices still need to be recorded before final architecture is frozen. | [Compiler decision log](compiler-decision-log.html) and [decision resolution sheet](decision-resolution-sheet.html) |
 | Promotion gates | 8 gates define when a candidate can move from promising to selected. | Do not promote a document until response, control copy, release status, FRUS value, source note, and decision alignment are all resolved. | [Promotion gate checklist](promotion-gate-checklist.html) |
@@ -55,6 +56,7 @@ Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
 - [Response intake sheet](response-intake-sheet.html)
+- [Follow-up request sheet](follow-up-request-sheet.html)
 - [Promotion gate checklist](promotion-gate-checklist.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Request tracking ledger](request-tracking-ledger.html)

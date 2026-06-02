@@ -32,6 +32,8 @@ For request status and response processing, use the
 sheet](response-triage-sheet.html).
 For exact response evidence fields to capture before status changes, use the
 [response intake sheet](response-intake-sheet.html).
+For incomplete-response wording, use the [follow-up request
+sheet](follow-up-request-sheet.html).
 For source-pool-specific FRUS fields, use the [source note field
 matrix](source-note-field-matrix.html).
 For candidate-by-candidate provisional source notes, use the
@@ -116,6 +118,7 @@ record.
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
 - [Response intake sheet](response-intake-sheet.html)
+- [Follow-up request sheet](follow-up-request-sheet.html)
 - [Declassified and public document index](declassified-document-index.html)
 - [Candidate register](candidate-register.html)
 - [Archival pull matrix](archival-pull-matrix.html)

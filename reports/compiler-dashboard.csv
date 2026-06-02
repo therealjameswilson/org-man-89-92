@@ -4,6 +4,7 @@ Selection posture,"18 candidate slots: 6 promote/review; 6 hold/MDR; 3 support/f
 Candidate closeout,"18 closeout rows tied to blocker, request dependency, decision dependency, and next move","Use after a response is triaged and before changing selection status.",candidate-closeout-board.html
 Requests,"17 active request rows; 17 Not recorded","Fastest real progress is sending or logging request batches and entering responses.","request-send-sheet.html; request-tracking-ledger.html; response-triage-sheet.html"
 Response intake,"18 response-intake fields","Capture exact facts from repository replies, releases, referrals, no-finds, and fallback responses before updating status.",response-intake-sheet.html
+Follow-up requests,"10 follow-up triggers","Use when a response is incomplete but creates a concrete re-review, referral, broadened search, metadata, or fallback-confirmation request.",follow-up-request-sheet.html
 Source notes,"16 rows plus 9 source-pool field patterns; 0 final-ready","FRUS-shaped notes exist, but final notes require archival control facts and source-pool-specific fields.","source-note-worklist.html; source-note-field-matrix.html"
 Decisions,"14 decisions: 8 default ready; 6 evidence dependent; 0 decided","Compiler choices still need to be recorded before final architecture is frozen.","compiler-decision-log.html; decision-resolution-sheet.html"
 Promotion gates,"8 gates","Do not promote until response, control copy, release status, FRUS value, source note, and decision alignment are resolved.",promotion-gate-checklist.html

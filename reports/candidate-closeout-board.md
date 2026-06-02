@@ -59,6 +59,7 @@ For each response or newly reviewed file:
 | --- | --- |
 | Missing response evidence | Use the [request send sheet](request-send-sheet.html), then record the response in the [request tracking ledger](request-tracking-ledger.html). |
 | Missing response facts | Fill the [response intake sheet](response-intake-sheet.html) before changing source-note, selection, or decision status. |
+| Incomplete but actionable response | Use the [follow-up request sheet](follow-up-request-sheet.html) and preserve the parent request ID. |
 | Missing source-note fields | Update only the verified facts in the [source note worklist](source-note-worklist.html); leave unresolved facts open. |
 | Public fallback only | Apply [D10](decision-resolution-sheet.html) or the candidate-specific fallback decision before promotion. |
 | Terminal-date or chapter-scope issue | Record the decision in the [compiler decision log](compiler-decision-log.html) before changing selection status. |
@@ -71,6 +72,7 @@ For each response or newly reviewed file:
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
 - [Response intake sheet](response-intake-sheet.html)
+- [Follow-up request sheet](follow-up-request-sheet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Source note worklist](source-note-worklist.html)

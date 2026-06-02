@@ -58,7 +58,9 @@ batch:
    worklist](source-note-worklist.html) and [selection worksheet](selection-worksheet.html).
 4. If the response affects terminal date, fallback use, chapter architecture,
    or document-slot priority, update the [compiler decision log](compiler-decision-log.html).
-5. Before any candidate becomes selected or source-note-ready, run the
+5. If the response is incomplete but actionable, draft the next request from
+   the [follow-up request sheet](follow-up-request-sheet.html).
+6. Before any candidate becomes selected or source-note-ready, run the
    [promotion gate checklist](promotion-gate-checklist.html).
 
 ## Related Project Reports
@@ -69,6 +71,7 @@ batch:
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Response triage sheet](response-triage-sheet.html)
 - [Response intake sheet](response-intake-sheet.html)
+- [Follow-up request sheet](follow-up-request-sheet.html)
 - [Source note worklist](source-note-worklist.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Promotion gate checklist](promotion-gate-checklist.html)

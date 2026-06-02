@@ -63,7 +63,10 @@ Do these in the same pass for every response:
 9. If the response changes volume architecture or selection rules, update the
    [compiler decision log](compiler-decision-log.html) and [decision
    resolution sheet](decision-resolution-sheet.html).
-10. If a new public/control link is added, rerun the
+10. If the response is incomplete but actionable, use the [follow-up request
+    sheet](follow-up-request-sheet.html) to draft the next request and preserve
+    the parent request ID.
+11. If a new public/control link is added, rerun the
    [link health audit](link-health-audit.html).
 
 ## Related Project Reports
@@ -74,6 +77,7 @@ Do these in the same pass for every response:
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
 - [Response intake sheet](response-intake-sheet.html)
+- [Follow-up request sheet](follow-up-request-sheet.html)
 - [Research request packet](research-request-packet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Source note field matrix](source-note-field-matrix.html)
