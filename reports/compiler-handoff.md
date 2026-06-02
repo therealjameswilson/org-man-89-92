@@ -5,7 +5,7 @@ title: Compiler Handoff
 
 # Compiler Handoff
 
-Checked: 2026-06-01
+Checked: 2026-06-02
 
 Purpose: a one-page working packet for a FRUS compiler. It starts with
 declassified or public-control documents that can be read or cited now, then

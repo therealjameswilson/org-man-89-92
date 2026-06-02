@@ -5,12 +5,16 @@ title: Source Note Worklist
 
 # Source Note Worklist
 
-Checked: 2026-06-01
+Checked: 2026-06-02
 
 Purpose: turn the [source-note style audit](source-note-style-audit.html) into
 candidate-by-candidate work. These are not finished source notes. They are
 FRUS-shaped drafts plus the missing facts that must be verified before a
 document is promoted from discovery to selection.
+For the current project status, start with the [compiler
+dashboard](compiler-dashboard.html). For response-driven closeout order, use
+the [compiler action board](compiler-action-board.html) and [request tracking
+ledger](request-tracking-ledger.html).
 Use the [promotion gate checklist](promotion-gate-checklist.html) before
 marking any row source-note-ready or selected.
 
@@ -55,4 +59,7 @@ documented search. Once a row is closed, update the [selection worksheet](select
 [request tracking ledger](request-tracking-ledger.html), and this worklist in
 the same pass so the public site does not carry contradictory status.
 
-Related gate: [Promotion gate checklist](promotion-gate-checklist.html).
+Related project reports: [Compiler dashboard](compiler-dashboard.html),
+[compiler action board](compiler-action-board.html), [request tracking
+ledger](request-tracking-ledger.html), [selection worksheet](selection-worksheet.html),
+and [promotion gate checklist](promotion-gate-checklist.html).

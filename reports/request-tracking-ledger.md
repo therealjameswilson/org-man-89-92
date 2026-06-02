@@ -5,7 +5,7 @@ title: Request Tracking Ledger
 
 # Request Tracking Ledger
 
-Checked: 2026-06-01
+Checked: 2026-06-02
 
 Purpose: track what happens after the compiler sends archival, reference, or
 MDR requests. The request packet supplies the wording; this ledger records
@@ -14,8 +14,12 @@ by each response.
 
 Spreadsheet export: [request tracking ledger CSV](request-tracking-ledger.csv).
 
-For the recommended send order and closeout pages for each request, use the
-[compiler action board](compiler-action-board.html).
+For the current project status, use the
+[compiler dashboard](compiler-dashboard.html). For the recommended send order
+and closeout pages for each request, use the [compiler action
+board](compiler-action-board.html). Before any response changes a candidate to
+selected or source-note-ready, run the [promotion gate
+checklist](promotion-gate-checklist.html).
 
 ## Status Key
 
@@ -92,11 +96,13 @@ request_id,priority,target,route,status,date_sent,ack_date,tracking_number,respo
 
 ## Related Project Reports
 
+- [Compiler dashboard](compiler-dashboard.html)
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler action board](compiler-action-board.html)
 - [Declassified and public document index](declassified-document-index.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Research request packet](research-request-packet.html)
+- [Promotion gate checklist](promotion-gate-checklist.html)
 - [Source note style audit](source-note-style-audit.html)
 - [Source note worklist](source-note-worklist.html)
 - [Compiler decision log](compiler-decision-log.html)
