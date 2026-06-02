@@ -9,13 +9,14 @@ Checked: 2026-06-02
 
 Purpose: turn the open source gaps into the next concrete compiler actions.
 Use this page as the send-order board. The full request language remains in
-the [research request packet](research-request-packet.html), send-ready subject
-lines and route/control links are in the [request send
-sheet](request-send-sheet.html), and responses are tracked in the [request
-tracking ledger](request-tracking-ledger.html). When a response arrives,
-classify it first with the [response triage sheet](response-triage-sheet.html).
-Capture the exact reply, release, referral, or no-find facts in the [response
-intake sheet](response-intake-sheet.html).
+the [research request packet](research-request-packet.html), official route
+choices and evidence packets are in the [submission route
+sheet](submission-route-sheet.html), send-ready subject lines and control links
+are in the [request send sheet](request-send-sheet.html), and responses are
+tracked in the [request tracking ledger](request-tracking-ledger.html). When a
+response arrives, classify it first with the [response triage
+sheet](response-triage-sheet.html). Capture the exact reply, release, referral,
+or no-find facts in the [response intake sheet](response-intake-sheet.html).
 Then use the [candidate closeout board](candidate-closeout-board.html) to
 identify the candidate-specific blocker and next status move.
 For the whole-project status readout, start with the
@@ -74,6 +75,7 @@ Do these in the same pass for every response:
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler dashboard](compiler-dashboard.html)
 - [Candidate closeout board](candidate-closeout-board.html)
+- [Submission route sheet](submission-route-sheet.html)
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
 - [Response intake sheet](response-intake-sheet.html)

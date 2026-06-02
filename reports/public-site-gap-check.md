@@ -23,6 +23,9 @@ Updated site-link QA: 2026-06-02.
   raw URLs outside normal link syntax.
 - Embedded inline source links in the Intelligence Matters chapter prose and
   gap table so named records do not require a jump to the source-link appendix.
+- Added a [submission route sheet](submission-route-sheet.html) and CSV export
+  tying request lanes to official Bush Library, NARA MDR, State MDR, CIA,
+  Daily Diary/Backup, State lot-file, and follow-up routes.
 
 ## June 2 Site-Link QA
 
@@ -32,12 +35,12 @@ public-source links.
 
 | Check | Result | Compiler meaning |
 | --- | --- | --- |
-| Markdown/HTML files scanned | 38 | Site-link check covered the published page corpus and layout. |
-| Link instances extracted | 1510 | Includes repeated navigation, source, report, CSV, and external links. |
-| Internal link instances checked | 1092 | Relative `.html`, `.md`, `.csv`, and report-index links resolve to repository files. |
+| Markdown/HTML files scanned | 39 | Site-link check covered the published page corpus and layout. |
+| Link instances extracted | 1606 | Includes repeated navigation, source, report, CSV, and external links. |
+| Internal link instances checked | 1179 | Relative `.html`, `.md`, `.csv`, and report-index links resolve to repository files. |
 | Missing internal targets | 0 | No broken internal report, CSV, Persons, or homepage target found. |
-| Unique external URLs checked | 69 | All public-source, repository, volume, Google Drive, NARA, CIA, Congress, and support-site URLs were checked with `curl -L`. |
-| External URLs returning `200` | 69 | No external source-trail link failed reachability. |
+| Unique external URLs checked | 70 | All public-source, repository, volume, Google Drive, NARA, CIA, Congress, State MDR, and support-site URLs were checked with `curl -L`. |
+| External URLs returning `200` | 70 | No external source-trail link failed reachability. |
 | Visible bare URLs in Markdown reports | 0 | Source references are embedded links rather than exposed raw URLs. |
 
 Content-type warning: the historical State Department PDF URL for the

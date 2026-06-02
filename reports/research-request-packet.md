@@ -16,20 +16,27 @@ submitting.
 After sending a request, record status and responses in the
 [request tracking ledger](request-tracking-ledger.html).
 For send order and the pages to update after each response, use the
-[compiler action board](compiler-action-board.html). For a compact
-subject-line and route sheet, use the [request send
-sheet](request-send-sheet.html). For incomplete-response wording, use the
-[follow-up request sheet](follow-up-request-sheet.html).
+[compiler action board](compiler-action-board.html). For official route choice
+before submission, use the [submission route
+sheet](submission-route-sheet.html). For compact subject lines and control
+links, use the [request send sheet](request-send-sheet.html). For
+incomplete-response wording, use the [follow-up request
+sheet](follow-up-request-sheet.html).
 
 ## Where To Send
 
-Use the current official pages before submitting.
+Use the [submission route sheet](submission-route-sheet.html) and current
+official pages before submitting.
 
 | Route | Use for | Public route |
 | --- | --- | --- |
 | George H.W. Bush Library Textual Archives | Reference questions, scan requests, folder pulls, and guidance on Presidential-record files | [Bush Library contact page](https://www.bush41library.gov/about-us/contact), Textual Archives: [library.bush@nara.gov](mailto:library.bush@nara.gov), phone (979) 691-4041 |
 | Presidential Libraries MDR | Mandatory Declassification Review or re-review of withheld/partially withheld Presidential Library records | [NARA MDR contacts page](https://www.archives.gov/isoo/contact/mdr-contact.html), which lists the George Bush Presidential Library and Museum and links the Presidential Libraries Mandatory Review Request form |
 | Department of State MDR / IPS | State Department classified records, lot-file referrals, and Central Foreign Policy File records that require State review | [NARA MDR contacts page](https://www.archives.gov/isoo/contact/mdr-contact.html), Department of State entry |
+| CIA MDR / PDB process records | CIA PDB Staff, CPAS, control/distribution, briefer-note, and follow-up tasking records | [NARA MDR contacts page](https://www.archives.gov/isoo/contact/mdr-contact.html), Central Intelligence Agency entry |
+
+For route exclusions, evidence packets, and after-send workflow, use the
+[submission route sheet](submission-route-sheet.html).
 
 ## Request Order
 

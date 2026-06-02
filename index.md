@@ -16,22 +16,23 @@ Use these first, in order:
 1. [Compiler dashboard](reports/compiler-dashboard.html): one-page status readout with counts, first moves, and current blockers.
 2. [Compiler handoff](reports/compiler-handoff.html): shortest orientation to the strongest candidates, open gaps, and immediate archival tasks.
 3. [Compiler action board](reports/compiler-action-board.html): send-order board tying request IDs to source-note rows, decisions, and closeout actions.
-4. [Request send sheet](reports/request-send-sheet.html): compact subject-line, route, control-link, and after-send update sheet for each request row.
-5. [Declassified and public document index](reports/declassified-document-index.html): chronological public/control-copy launch page with source-note status and request links.
-6. [Selection worksheet](reports/selection-worksheet.html): document-slot triage by chapter, with promote/hold/support status and request-batch links.
-7. [Candidate closeout board](reports/candidate-closeout-board.html): one-row-per-candidate blocker and next-move sheet for status changes.
-8. [Promotion gate checklist](reports/promotion-gate-checklist.html): evidence gate for moving a candidate from promising to selected.
-9. [Research request packet](reports/research-request-packet.html): copy/paste-ready Bush Library, MDR, State, CIA, and lot-file request language.
-10. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
-11. [Response triage sheet](reports/response-triage-sheet.html): classify acknowledgements, releases, referrals, not-located responses, and fallback decisions.
-12. [Response intake sheet](reports/response-intake-sheet.html): exact fields to capture from each reply before updating source notes or selection.
-13. [Follow-up request sheet](reports/follow-up-request-sheet.html): copy/paste-ready wording for partial releases, referrals, no-finds, re-review, and fallback confirmation.
-14. [Source note field matrix](reports/source-note-field-matrix.html): source-pool-specific fields needed before a FRUS-style note can close.
-15. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
-16. [Source note worklist](reports/source-note-worklist.html): candidate-by-candidate provisional notes, missing fields, and closure actions.
-17. [Compiler decision log](reports/compiler-decision-log.html): pending architecture, selection, terminal-date, and fallback decisions to record.
-18. [Decision resolution sheet](reports/decision-resolution-sheet.html): compact decision timing, trigger evidence, and update targets.
-19. [Link health audit](reports/link-health-audit.html): current reachability check for public/control-copy source links.
+4. [Submission route sheet](reports/submission-route-sheet.html): official route matrix for Bush Library, Presidential Libraries MDR, State MDR, CIA, Daily Diary/Backup, lot files, and follow-ups.
+5. [Request send sheet](reports/request-send-sheet.html): compact subject-line, route, control-link, and after-send update sheet for each request row.
+6. [Declassified and public document index](reports/declassified-document-index.html): chronological public/control-copy launch page with source-note status and request links.
+7. [Selection worksheet](reports/selection-worksheet.html): document-slot triage by chapter, with promote/hold/support status and request-batch links.
+8. [Candidate closeout board](reports/candidate-closeout-board.html): one-row-per-candidate blocker and next-move sheet for status changes.
+9. [Promotion gate checklist](reports/promotion-gate-checklist.html): evidence gate for moving a candidate from promising to selected.
+10. [Research request packet](reports/research-request-packet.html): copy/paste-ready Bush Library, MDR, State, CIA, and lot-file request language.
+11. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
+12. [Response triage sheet](reports/response-triage-sheet.html): classify acknowledgements, releases, referrals, not-located responses, and fallback decisions.
+13. [Response intake sheet](reports/response-intake-sheet.html): exact fields to capture from each reply before updating source notes or selection.
+14. [Follow-up request sheet](reports/follow-up-request-sheet.html): copy/paste-ready wording for partial releases, referrals, no-finds, re-review, and fallback confirmation.
+15. [Source note field matrix](reports/source-note-field-matrix.html): source-pool-specific fields needed before a FRUS-style note can close.
+16. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
+17. [Source note worklist](reports/source-note-worklist.html): candidate-by-candidate provisional notes, missing fields, and closure actions.
+18. [Compiler decision log](reports/compiler-decision-log.html): pending architecture, selection, terminal-date, and fallback decisions to record.
+19. [Decision resolution sheet](reports/decision-resolution-sheet.html): compact decision timing, trigger evidence, and update targets.
+20. [Link health audit](reports/link-health-audit.html): current reachability check for public/control-copy source links.
 
 Spreadsheet exports: [declassified document index CSV](reports/declassified-document-index.csv),
 [selection worksheet CSV](reports/selection-worksheet.csv),
@@ -40,6 +41,7 @@ Spreadsheet exports: [declassified document index CSV](reports/declassified-docu
 [compiler dashboard CSV](reports/compiler-dashboard.csv),
 [compiler action board CSV](reports/compiler-action-board.csv),
 [candidate closeout board CSV](reports/candidate-closeout-board.csv),
+[submission route sheet CSV](reports/submission-route-sheet.csv),
 [request send sheet CSV](reports/request-send-sheet.csv),
 [response triage sheet CSV](reports/response-triage-sheet.csv),
 [response intake sheet CSV](reports/response-intake-sheet.csv),
@@ -84,6 +86,7 @@ support these documents, not bury them.
 - [Compiler handoff](reports/compiler-handoff.html)
 - [Compiler action board](reports/compiler-action-board.html)
 - [Candidate closeout board](reports/candidate-closeout-board.html)
+- [Submission route sheet](reports/submission-route-sheet.html)
 - [Request send sheet](reports/request-send-sheet.html)
 - [Declassified and public document index](reports/declassified-document-index.html)
 - [Research request packet](reports/research-request-packet.html)
@@ -119,6 +122,7 @@ support these documents, not bury them.
 - [Compiler handoff](reports/compiler-handoff.html)
 - [Compiler action board](reports/compiler-action-board.html)
 - [Candidate closeout board](reports/candidate-closeout-board.html)
+- [Submission route sheet](reports/submission-route-sheet.html)
 - [Request send sheet](reports/request-send-sheet.html)
 - [Declassified and public document index](reports/declassified-document-index.html)
 - [Research request packet](reports/research-request-packet.html)

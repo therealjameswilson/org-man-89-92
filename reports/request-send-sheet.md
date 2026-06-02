@@ -15,11 +15,9 @@ consistent.
 
 Spreadsheet export: [request send sheet CSV](request-send-sheet.csv).
 
-Route anchors were checked on June 2, 2026. Use the [Bush Library contact
-page](https://www.bush41library.gov/about-us/contact) for Textual Archives and
-reference questions. Use the [NARA MDR contacts page](https://www.archives.gov/isoo/contact/mdr-contact.html)
-for Presidential Libraries MDR, CIA, State, and other agency declassification
-routes. The route page is the authority if an address, form, or intake method
+Route anchors were checked on June 2, 2026. Use the [submission route
+sheet](submission-route-sheet.html) before this page when the route lane is not
+obvious. The route page is the authority if an address, form, or intake method
 changes.
 
 ## First-Send Queue
@@ -67,6 +65,7 @@ batch:
 
 - [Compiler dashboard](compiler-dashboard.html)
 - [Compiler action board](compiler-action-board.html)
+- [Submission route sheet](submission-route-sheet.html)
 - [Research request packet](research-request-packet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Response triage sheet](response-triage-sheet.html)
