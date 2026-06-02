@@ -39,9 +39,11 @@ Do these in the same pass for every response:
 3. Update document status in the
    [selection worksheet](selection-worksheet.html): promote, hold, support,
    fallback, or drop.
-4. If the response changes volume architecture or selection rules, update the
+4. Before marking a candidate selected, run the
+   [promotion gate checklist](promotion-gate-checklist.html).
+5. If the response changes volume architecture or selection rules, update the
    [compiler decision log](compiler-decision-log.html).
-5. If a new public/control link is added, rerun the
+6. If a new public/control link is added, rerun the
    [link health audit](link-health-audit.html).
 
 ## Related Project Reports
@@ -51,4 +53,5 @@ Do these in the same pass for every response:
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Source note worklist](source-note-worklist.html)
 - [Selection worksheet](selection-worksheet.html)
+- [Promotion gate checklist](promotion-gate-checklist.html)
 - [Compiler decision log](compiler-decision-log.html)

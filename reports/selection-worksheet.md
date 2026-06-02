@@ -14,6 +14,8 @@ consume a document slot unless the final architecture changes.
 
 After sending request batches, track responses in the
 [request tracking ledger](request-tracking-ledger.html).
+Before changing a candidate to selected status, run the
+[promotion gate checklist](promotion-gate-checklist.html).
 
 Spreadsheet export: [selection worksheet CSV](selection-worksheet.csv).
 
@@ -98,6 +100,7 @@ not available:
 - [Research request packet](research-request-packet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Candidate register](candidate-register.html)
+- [Promotion gate checklist](promotion-gate-checklist.html)
 - [Provisional volume outline](provisional-volume-outline.html)
 - [Source note style audit](source-note-style-audit.html)
 - [Source note worklist](source-note-worklist.html)

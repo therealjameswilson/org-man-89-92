@@ -17,18 +17,20 @@ Use these first, in order:
 2. [Compiler action board](reports/compiler-action-board.html): send-order board tying request IDs to source-note rows, decisions, and closeout actions.
 3. [Declassified and public document index](reports/declassified-document-index.html): chronological public/control-copy launch page with source-note status and request links.
 4. [Selection worksheet](reports/selection-worksheet.html): document-slot triage by chapter, with promote/hold/support status and request-batch links.
-5. [Research request packet](reports/research-request-packet.html): copy/paste-ready Bush Library, MDR, State, CIA, and lot-file request language.
-6. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
-7. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
-8. [Source note worklist](reports/source-note-worklist.html): candidate-by-candidate provisional notes, missing fields, and closure actions.
-9. [Compiler decision log](reports/compiler-decision-log.html): pending architecture, selection, terminal-date, and fallback decisions to record.
-10. [Link health audit](reports/link-health-audit.html): current reachability check for public/control-copy source links.
+5. [Promotion gate checklist](reports/promotion-gate-checklist.html): evidence gate for moving a candidate from promising to selected.
+6. [Research request packet](reports/research-request-packet.html): copy/paste-ready Bush Library, MDR, State, CIA, and lot-file request language.
+7. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
+8. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
+9. [Source note worklist](reports/source-note-worklist.html): candidate-by-candidate provisional notes, missing fields, and closure actions.
+10. [Compiler decision log](reports/compiler-decision-log.html): pending architecture, selection, terminal-date, and fallback decisions to record.
+11. [Link health audit](reports/link-health-audit.html): current reachability check for public/control-copy source links.
 
 Spreadsheet exports: [declassified document index CSV](reports/declassified-document-index.csv),
 [selection worksheet CSV](reports/selection-worksheet.csv),
 [request tracking ledger CSV](reports/request-tracking-ledger.csv), and
 [source note worklist CSV](reports/source-note-worklist.csv), plus
 [compiler action board CSV](reports/compiler-action-board.csv),
+[promotion gate checklist CSV](reports/promotion-gate-checklist.csv),
 [compiler decision log CSV](reports/compiler-decision-log.csv) and
 [link health audit CSV](reports/link-health-audit.csv).
 
@@ -68,6 +70,7 @@ support these documents, not bury them.
 - [Research request packet](reports/research-request-packet.html)
 - [Request tracking ledger](reports/request-tracking-ledger.html)
 - [Selection worksheet](reports/selection-worksheet.html)
+- [Promotion gate checklist](reports/promotion-gate-checklist.html)
 - [Provisional volume outline](reports/provisional-volume-outline.html)
 - [Candidate register](reports/candidate-register.html)
 - [Archival pull matrix](reports/archival-pull-matrix.html)
@@ -94,6 +97,7 @@ support these documents, not bury them.
 - [Research request packet](reports/research-request-packet.html)
 - [Request tracking ledger](reports/request-tracking-ledger.html)
 - [Selection worksheet](reports/selection-worksheet.html)
+- [Promotion gate checklist](reports/promotion-gate-checklist.html)
 - [Compiler gap assessment](reports/compiler-gap-assessment.html)
 - [Source note style audit](reports/source-note-style-audit.html)
 - [Source note worklist](reports/source-note-worklist.html)

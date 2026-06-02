@@ -22,6 +22,7 @@ title: Reports
 - [NSC administrative transition review](nsc-admin-transition-review.html)
 - [NSR-16 budget review](nsr-16-budget-review.html)
 - [Persons list editorial QA](persons-list-editorial-qa.html)
+- [Promotion gate checklist](promotion-gate-checklist.html)
 - [Provisional volume outline](provisional-volume-outline.html)
 - [Public site gap check](public-site-gap-check.html)
 - [Research request packet](research-request-packet.html)
@@ -34,6 +35,7 @@ title: Reports
 
 - [Request tracking ledger CSV](request-tracking-ledger.csv)
 - [Compiler action board CSV](compiler-action-board.csv)
+- [Promotion gate checklist CSV](promotion-gate-checklist.csv)
 - [Selection worksheet CSV](selection-worksheet.csv)
 - [Declassified document index CSV](declassified-document-index.csv)
 - [Source note worklist CSV](source-note-worklist.csv)

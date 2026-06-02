@@ -11,6 +11,8 @@ Purpose: turn the [source-note style audit](source-note-style-audit.html) into
 candidate-by-candidate work. These are not finished source notes. They are
 FRUS-shaped drafts plus the missing facts that must be verified before a
 document is promoted from discovery to selection.
+Use the [promotion gate checklist](promotion-gate-checklist.html) before
+marking any row source-note-ready or selected.
 
 Spreadsheet export: [source note worklist CSV](source-note-worklist.csv).
 
@@ -52,3 +54,5 @@ verified in the control record or explicitly recorded as unavailable after a
 documented search. Once a row is closed, update the [selection worksheet](selection-worksheet.html),
 [request tracking ledger](request-tracking-ledger.html), and this worklist in
 the same pass so the public site does not carry contradictory status.
+
+Related gate: [Promotion gate checklist](promotion-gate-checklist.html).
