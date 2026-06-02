@@ -44,6 +44,9 @@ Spreadsheet export: [response triage sheet CSV](response-triage-sheet.csv).
 4. Update the [compiler decision log](compiler-decision-log.html) if the
    response changes terminal-date handling, public fallback use, chapter
    architecture, appeal/re-review priority, or control-copy choice.
+   Use the [decision resolution sheet](decision-resolution-sheet.html) to
+   decide whether the response triggers a now-ready or evidence-dependent
+   decision.
 5. Before marking anything selected or source-note-ready, run the [promotion
    gate checklist](promotion-gate-checklist.html).
 
@@ -58,3 +61,4 @@ Spreadsheet export: [response triage sheet CSV](response-triage-sheet.csv).
 - [Selection worksheet](selection-worksheet.html)
 - [Promotion gate checklist](promotion-gate-checklist.html)
 - [Compiler decision log](compiler-decision-log.html)
+- [Decision resolution sheet](decision-resolution-sheet.html)

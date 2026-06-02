@@ -72,7 +72,9 @@ Spreadsheet export: [selection worksheet CSV](selection-worksheet.csv).
 
 ## Immediate Decisions To Log
 
-Track final choices in the [compiler decision log](compiler-decision-log.html).
+Track final choices in the [compiler decision log](compiler-decision-log.html);
+use the [decision resolution sheet](decision-resolution-sheet.html) for timing,
+trigger evidence, and same-pass update targets.
 
 | Decision | Why it matters | Recommended default |
 | --- | --- | --- |
@@ -110,3 +112,4 @@ not available:
 - [Source note style audit](source-note-style-audit.html)
 - [Source note worklist](source-note-worklist.html)
 - [Compiler decision log](compiler-decision-log.html)
+- [Decision resolution sheet](decision-resolution-sheet.html)

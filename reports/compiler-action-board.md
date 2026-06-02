@@ -49,7 +49,8 @@ Do these in the same pass for every response:
 5. Before marking a candidate selected, run the
    [promotion gate checklist](promotion-gate-checklist.html).
 6. If the response changes volume architecture or selection rules, update the
-   [compiler decision log](compiler-decision-log.html).
+   [compiler decision log](compiler-decision-log.html) and [decision
+   resolution sheet](decision-resolution-sheet.html).
 7. If a new public/control link is added, rerun the
    [link health audit](link-health-audit.html).
 
@@ -65,3 +66,4 @@ Do these in the same pass for every response:
 - [Selection worksheet](selection-worksheet.html)
 - [Promotion gate checklist](promotion-gate-checklist.html)
 - [Compiler decision log](compiler-decision-log.html)
+- [Decision resolution sheet](decision-resolution-sheet.html)

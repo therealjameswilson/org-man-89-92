@@ -21,7 +21,7 @@ Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 | Selection posture | 18 candidate slots: 6 promote/review, 6 hold/MDR, 3 support/fallback, 3 selective. | Work should start with the promote/review rows but no row is final-selected yet. | [Selection worksheet](selection-worksheet.html) and [promotion gate checklist](promotion-gate-checklist.html) |
 | Requests | 17 active request rows; all 17 are still Not recorded. | The fastest real progress is sending or logging request batches, then entering responses. | [Compiler action board](compiler-action-board.html), [request send sheet](request-send-sheet.html), [research request packet](research-request-packet.html), [request tracking ledger](request-tracking-ledger.html), [response triage sheet](response-triage-sheet.html) |
 | Source notes | 16 source-note rows: 6 partial/locator, 7 not ready, 3 support/fallback, 0 final-ready. | Source-note form exists, but final notes require archival control facts. | [Source note worklist](source-note-worklist.html) and [source note style audit](source-note-style-audit.html) |
-| Decisions | 14 decisions: 8 default ready, 6 evidence dependent, 0 decided. | Compiler choices still need to be recorded before final architecture is frozen. | [Compiler decision log](compiler-decision-log.html) |
+| Decisions | 14 decisions: 8 default ready, 6 evidence dependent, 0 decided. | Compiler choices still need to be recorded before final architecture is frozen. | [Compiler decision log](compiler-decision-log.html) and [decision resolution sheet](decision-resolution-sheet.html) |
 | Promotion gates | 8 gates define when a candidate can move from promising to selected. | Do not promote a document until response, control copy, release status, FRUS value, source note, and decision alignment are all resolved. | [Promotion gate checklist](promotion-gate-checklist.html) |
 | Public link health | 31 source links in the link-health table are reachable; whole-site QA found 0 missing internal targets and 69 unique external URLs returning 200. | The public/source-link surface is usable; link reachability is not source-note validation. | [Link health audit](link-health-audit.html) and [public site gap check](public-site-gap-check.html) |
 
@@ -56,3 +56,4 @@ Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Source note worklist](source-note-worklist.html)
 - [Compiler decision log](compiler-decision-log.html)
+- [Decision resolution sheet](decision-resolution-sheet.html)

@@ -5,7 +5,7 @@ title: Compiler Decision Log
 
 # Compiler Decision Log
 
-Checked: 2026-06-01
+Checked: 2026-06-02
 
 Purpose: separate compiler judgment calls from evidence gaps. A gap closes when
 the record is found or ruled out; a decision closes when the compiler chooses a
@@ -13,6 +13,8 @@ volume architecture, selection rule, or fallback rule and records that choice
 across the working pages.
 
 Spreadsheet export: [compiler decision log CSV](compiler-decision-log.csv).
+Compact decision timing and closeout sheet: [decision resolution
+sheet](decision-resolution-sheet.html), with [CSV export](decision-resolution-sheet.csv).
 
 ## Status Key
 
@@ -47,3 +49,15 @@ When a decision is made, record the date, the decision, and the consequence in
 the linked working pages. Do not leave a selected document in a state where the
 selection worksheet, source-note worklist, request ledger, and provisional
 outline imply different rules.
+
+Use the [decision resolution sheet](decision-resolution-sheet.html) to decide
+whether the item is ready now or must wait for a specific request response.
+
+## Related Project Reports
+
+- [Decision resolution sheet](decision-resolution-sheet.html)
+- [Compiler dashboard](compiler-dashboard.html)
+- [Selection worksheet](selection-worksheet.html)
+- [Promotion gate checklist](promotion-gate-checklist.html)
+- [Response triage sheet](response-triage-sheet.html)
+- [Source note worklist](source-note-worklist.html)
