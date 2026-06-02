@@ -12,7 +12,8 @@ Use this page as the send-order board. The full request language remains in
 the [research request packet](research-request-packet.html), send-ready subject
 lines and route/control links are in the [request send
 sheet](request-send-sheet.html), and responses are tracked in the [request
-tracking ledger](request-tracking-ledger.html).
+tracking ledger](request-tracking-ledger.html). When a response arrives,
+classify it first with the [response triage sheet](response-triage-sheet.html).
 For the whole-project status readout, start with the
 [compiler dashboard](compiler-dashboard.html).
 
@@ -34,20 +35,22 @@ Spreadsheet export: [compiler action board CSV](compiler-action-board.csv).
 
 Do these in the same pass for every response:
 
-1. Enter sent date, acknowledgement, tracking number, and result in the
+1. Classify the response in the
+   [response triage sheet](response-triage-sheet.html).
+2. Enter sent date, acknowledgement, tracking number, and result in the
    [request tracking ledger](request-tracking-ledger.html).
-2. Capture source-note facts in the
+3. Capture source-note facts in the
    [source note worklist](source-note-worklist.html): repository, series,
    folder, OA/ID or NAID, classification, document type, attachments,
    withholdings, and version status.
-3. Update document status in the
+4. Update document status in the
    [selection worksheet](selection-worksheet.html): promote, hold, support,
    fallback, or drop.
-4. Before marking a candidate selected, run the
+5. Before marking a candidate selected, run the
    [promotion gate checklist](promotion-gate-checklist.html).
-5. If the response changes volume architecture or selection rules, update the
+6. If the response changes volume architecture or selection rules, update the
    [compiler decision log](compiler-decision-log.html).
-6. If a new public/control link is added, rerun the
+7. If a new public/control link is added, rerun the
    [link health audit](link-health-audit.html).
 
 ## Related Project Reports
@@ -55,6 +58,7 @@ Do these in the same pass for every response:
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler dashboard](compiler-dashboard.html)
 - [Request send sheet](request-send-sheet.html)
+- [Response triage sheet](response-triage-sheet.html)
 - [Research request packet](research-request-packet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Source note worklist](source-note-worklist.html)

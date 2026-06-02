@@ -22,10 +22,11 @@ Use these first, in order:
 7. [Promotion gate checklist](reports/promotion-gate-checklist.html): evidence gate for moving a candidate from promising to selected.
 8. [Research request packet](reports/research-request-packet.html): copy/paste-ready Bush Library, MDR, State, CIA, and lot-file request language.
 9. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
-10. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
-11. [Source note worklist](reports/source-note-worklist.html): candidate-by-candidate provisional notes, missing fields, and closure actions.
-12. [Compiler decision log](reports/compiler-decision-log.html): pending architecture, selection, terminal-date, and fallback decisions to record.
-13. [Link health audit](reports/link-health-audit.html): current reachability check for public/control-copy source links.
+10. [Response triage sheet](reports/response-triage-sheet.html): classify acknowledgements, releases, referrals, not-located responses, and fallback decisions.
+11. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
+12. [Source note worklist](reports/source-note-worklist.html): candidate-by-candidate provisional notes, missing fields, and closure actions.
+13. [Compiler decision log](reports/compiler-decision-log.html): pending architecture, selection, terminal-date, and fallback decisions to record.
+14. [Link health audit](reports/link-health-audit.html): current reachability check for public/control-copy source links.
 
 Spreadsheet exports: [declassified document index CSV](reports/declassified-document-index.csv),
 [selection worksheet CSV](reports/selection-worksheet.csv),
@@ -34,6 +35,7 @@ Spreadsheet exports: [declassified document index CSV](reports/declassified-docu
 [compiler dashboard CSV](reports/compiler-dashboard.csv),
 [compiler action board CSV](reports/compiler-action-board.csv),
 [request send sheet CSV](reports/request-send-sheet.csv),
+[response triage sheet CSV](reports/response-triage-sheet.csv),
 [promotion gate checklist CSV](reports/promotion-gate-checklist.csv),
 [compiler decision log CSV](reports/compiler-decision-log.csv) and
 [link health audit CSV](reports/link-health-audit.csv).
@@ -75,6 +77,7 @@ support these documents, not bury them.
 - [Declassified and public document index](reports/declassified-document-index.html)
 - [Research request packet](reports/research-request-packet.html)
 - [Request tracking ledger](reports/request-tracking-ledger.html)
+- [Response triage sheet](reports/response-triage-sheet.html)
 - [Selection worksheet](reports/selection-worksheet.html)
 - [Promotion gate checklist](reports/promotion-gate-checklist.html)
 - [Provisional volume outline](reports/provisional-volume-outline.html)
@@ -104,6 +107,7 @@ support these documents, not bury them.
 - [Declassified and public document index](reports/declassified-document-index.html)
 - [Research request packet](reports/research-request-packet.html)
 - [Request tracking ledger](reports/request-tracking-ledger.html)
+- [Response triage sheet](reports/response-triage-sheet.html)
 - [Selection worksheet](reports/selection-worksheet.html)
 - [Promotion gate checklist](reports/promotion-gate-checklist.html)
 - [Compiler gap assessment](reports/compiler-gap-assessment.html)

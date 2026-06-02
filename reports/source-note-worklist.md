@@ -14,7 +14,8 @@ document is promoted from discovery to selection.
 For the current project status, start with the [compiler
 dashboard](compiler-dashboard.html). For response-driven closeout order, use
 the [compiler action board](compiler-action-board.html) and [request tracking
-ledger](request-tracking-ledger.html).
+ledger](request-tracking-ledger.html), then classify response type in the
+[response triage sheet](response-triage-sheet.html).
 Use the [promotion gate checklist](promotion-gate-checklist.html) before
 marking any row source-note-ready or selected.
 
@@ -61,5 +62,6 @@ the same pass so the public site does not carry contradictory status.
 
 Related project reports: [Compiler dashboard](compiler-dashboard.html),
 [compiler action board](compiler-action-board.html), [request tracking
-ledger](request-tracking-ledger.html), [selection worksheet](selection-worksheet.html),
+ledger](request-tracking-ledger.html), [response triage sheet](response-triage-sheet.html),
+[selection worksheet](selection-worksheet.html),
 and [promotion gate checklist](promotion-gate-checklist.html).

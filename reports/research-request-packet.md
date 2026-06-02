@@ -337,7 +337,8 @@ Source pool anchor: [FRUS Volume XXXI sources page](https://history.state.gov/hi
 ## Tracking Fields
 
 Use this table for every request response so source notes can be closed without
-re-reading the whole exchange.
+re-reading the whole exchange. Classify the response first with the [response
+triage sheet](response-triage-sheet.html).
 
 | Field | Capture |
 | --- | --- |
@@ -356,6 +357,7 @@ re-reading the whole exchange.
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler action board](compiler-action-board.html)
 - [Request send sheet](request-send-sheet.html)
+- [Response triage sheet](response-triage-sheet.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Archival pull matrix](archival-pull-matrix.html)

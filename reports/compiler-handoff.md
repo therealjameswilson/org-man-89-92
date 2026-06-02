@@ -26,7 +26,8 @@ For document-slot triage, use the
 Before promoting a candidate to selected status, use the
 [promotion gate checklist](promotion-gate-checklist.html).
 For request status and response processing, use the
-[request tracking ledger](request-tracking-ledger.html).
+[request tracking ledger](request-tracking-ledger.html) and [response triage
+sheet](response-triage-sheet.html).
 For candidate-by-candidate provisional source notes, use the
 [source note worklist](source-note-worklist.html).
 For architecture, fallback, and terminal-date choices, use the
@@ -106,6 +107,7 @@ record.
 - [Compiler dashboard](compiler-dashboard.html)
 - [Compiler action board](compiler-action-board.html)
 - [Request send sheet](request-send-sheet.html)
+- [Response triage sheet](response-triage-sheet.html)
 - [Declassified and public document index](declassified-document-index.html)
 - [Candidate register](candidate-register.html)
 - [Archival pull matrix](archival-pull-matrix.html)
