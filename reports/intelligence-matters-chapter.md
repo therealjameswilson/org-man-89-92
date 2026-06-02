@@ -5,13 +5,15 @@ title: Intelligence Matters Chapter
 
 # Intelligence Matters Chapter
 
-Checked: 2026-06-01
+Checked: 2026-06-02
 
 Volume: *Foreign Relations of the United States, 1989-1992, Volume II,
 Organization and Management of Foreign Policy*
 
-Immediate pull wording and source-note checks are consolidated in the
-[compiler handoff](compiler-handoff.html).
+Immediate pull wording, source-note checks, and promotion decisions are
+consolidated in the [compiler dashboard](compiler-dashboard.html), [promotion
+gate checklist](promotion-gate-checklist.html), and [compiler
+handoff](compiler-handoff.html).
 
 ## Declassified Document Chronology
 
@@ -144,22 +146,22 @@ NFIP agencies to support multi-year funding and congressional oversight.
 
 | Priority | Source pool | Pull for |
 | --- | --- | --- |
-| 1 | Bush Library/NARA, NSD Files, NSD 79, "Approval and Review of Covert Action" | Signed final text, Scowcroft transmittals, Rostow legal memo, distribution receipts, withheld draft/version-control records. |
-| 1 | Bush Library/NARA, NSR Files, NSR 29, "Intelligence Capabilities - 1992-2005" | Original review request, tasking, due dates, recipients, and any attached terms of reference. |
+| 1 | Bush Library/NARA, [NSD Files, NSD 79, "Approval and Review of Covert Action"](https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-national-security-directive-nsd-79-approval-and) | Signed final text, Scowcroft transmittals, Rostow legal memo, distribution receipts, withheld draft/version-control records. |
+| 1 | Bush Library/NARA, NSR Files, [NSR 29, "Intelligence Capabilities - 1992-2005" locator](https://irp.fas.org/offdocs/nsr/index.html) | Original review request, tasking, due dates, recipients, and any attached terms of reference. |
 | 1 | [Bush Library/NARA, NSC/DC 151, "Definition of Covert Action," NAID 352356448](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=352356448) | Public PDF review plus MDR for withheld summary of conclusions, minutes, draft statutory/report language, David C. Miller memorandum, Working-to-Gates memorandum, and SSCI/HPSCI consultation context. |
 | 1 | [Bush Library/NARA, NSC0062, "Intelligence Capabilities/1992-2005," NAID 470760970](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470760970) | Public PDF review plus MDR for Gates presentation, NSR-29 requirements report, intelligence-priorities report, proposed IC reorganization papers, and draft memo for the Vice President and Secretary of State. |
 | 1 | [Bush Library/NARA, NSC Meeting NSR-29 Intelligence Priorities, NAID 470761501](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470761501) | Parallel NSR-29 meeting packet; compare against NSC0062 for duplicate pages, missing tabs, and release differences. |
 | 1 | [Bush Library/NARA, NSC Meeting Covert Action, December 20, 1991, NAID 470761489](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470761489) | MDR target for withheld substantive meeting records; current public packet is mostly control material. |
-| 1 | Bush Library/NARA, NSD Files, NSD 67, "Intelligence Capabilities - 1992-2005" | Presidential decision text, fact sheet, Scowcroft memoranda, Gates briefing material, OMB clearance, implementation guidance. |
-| 1 | CIA PDB Staff / Office of Current Production and Analytic Support files | Bush daily briefing procedures, briefer notes, follow-up tasking, "Signs of the Times," presidential reactions, and control/distribution practice. |
-| 1 | Bush Library, Presidential Daily Diary and Presidential Daily Backup Materials, White House Office of Appointments and Scheduling Files, GB-WHASF-001, NAID 186322 | Routine timing, location, attendee lists, telephone-call status, Daily Backup materials, Desert Storm intelligence/national security briefings, coalition leader calls, and non-substantive corroboration for PDB/NSC sessions. |
+| 1 | Bush Library/NARA, NSD Files, [NSD 67, "Intelligence Capabilities - 1992-2005" locator](https://irp.fas.org/offdocs/nsd/index.html) | Presidential decision text, fact sheet, Scowcroft memoranda, Gates briefing material, OMB clearance, implementation guidance. |
+| 1 | CIA PDB Staff / Office of Current Production and Analytic Support files, using [*First Callers*](https://www.cia.gov/resources/csi/static/First-Callers-President-Brief.pdf) as the public source anchor | Bush daily briefing procedures, briefer notes, follow-up tasking, "Signs of the Times," presidential reactions, and control/distribution practice. |
+| 1 | Bush Library, [Presidential Daily Diary and Presidential Daily Backup Materials, White House Office of Appointments and Scheduling Files, GB-WHASF-001, NAID 186322](https://catalog.archives.gov/id/186322) | Routine timing, location, attendee lists, telephone-call status, Daily Backup materials, Desert Storm intelligence/national security briefings, coalition leader calls, and non-substantive corroboration for PDB/NSC sessions. |
 | 1 | NSC Scowcroft/Gates/Sununu morning-meeting files | How PDB items flowed into policy follow-up, calls to foreign leaders, NSC tasking, and daily foreign-policy agenda setting. |
 | 1 | NSC Intelligence Programs / Senior Director files | Covert-action process, intelligence capabilities review, congressional notification procedures, special-access controls. |
-| 1 | DCI Robert Gates and Community Management Staff files | NFIP budget mechanism, presentation to Congress, implementation of FY 1992-FY 1993 authorization acts. |
-| 1 | OMB intelligence and national security budget files | NFIP reallocations, FY 1993-FY 1997 budget mechanism, covert-action resource consistency, congressional budget request. |
+| 1 | DCI Robert Gates and Community Management Staff files, anchored by the [Public Papers statement on intelligence-community organizational changes](https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg528-2.pdf) | NFIP budget mechanism, presentation to Congress, implementation of FY 1992-FY 1993 authorization acts. |
+| 1 | OMB intelligence and national security budget files, paired with [Public Law 102-183](https://www.congress.gov/102/statute/STATUTE-105/STATUTE-105-Pg1260.pdf) and [Public Law 102-496](https://www.congress.gov/102/statute/STATUTE-106/STATUTE-106-Pg3180.pdf) | NFIP reallocations, FY 1993-FY 1997 budget mechanism, covert-action resource consistency, congressional budget request. |
 | 2 | State Legal Adviser and Under Secretary for Political Affairs files | State role in Deputies Committee covert-action review, legal working group input, congressional-notification clearance. |
-| 2 | White House Legislative Affairs and NSC congressional liaison files | Consultations with SSCI/HPSCI, restricted/delayed notification procedures, intelligence budget presentation to Congress. |
-| 2 | HPSCI/SSCI public reports and hearing records | Legislative context for FY 1991-FY 1993 authorization, aggregate budget disclosure, and oversight architecture. |
+| 2 | White House Legislative Affairs and NSC congressional liaison files, starting with the [NSC/DC 151 covert-action definition packet](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=352356448) | Consultations with SSCI/HPSCI, restricted/delayed notification procedures, intelligence budget presentation to Congress. |
+| 2 | HPSCI/SSCI public reports and hearing records, paired with [Public Law 102-88](https://www.congress.gov/102/statute/STATUTE-105/STATUTE-105-Pg429.pdf), [Public Law 102-183](https://www.congress.gov/102/statute/STATUTE-105/STATUTE-105-Pg1260.pdf), and [Public Law 102-496](https://www.congress.gov/102/statute/STATUTE-106/STATUTE-106-Pg3180.pdf) | Legislative context for FY 1991-FY 1993 authorization, aggregate budget disclosure, and oversight architecture. |
 
 ## Gaps Still Open
 
