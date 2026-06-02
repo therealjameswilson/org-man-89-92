@@ -21,6 +21,8 @@ Updated site-link QA: 2026-06-02.
 - Converted public source-reference lists from bare URLs to embedded links
   across the report pages, then verified the Markdown corpus has no leftover
   raw URLs outside normal link syntax.
+- Embedded inline source links in the Intelligence Matters chapter prose and
+  gap table so named records do not require a jump to the source-link appendix.
 
 ## June 2 Site-Link QA
 
@@ -31,7 +33,7 @@ public-source links.
 | Check | Result | Compiler meaning |
 | --- | --- | --- |
 | Markdown/HTML files scanned | 38 | Site-link check covered the published page corpus and layout. |
-| Link instances extracted | 1478 | Includes repeated navigation, source, report, CSV, and external links. |
+| Link instances extracted | 1510 | Includes repeated navigation, source, report, CSV, and external links. |
 | Internal link instances checked | 1092 | Relative `.html`, `.md`, `.csv`, and report-index links resolve to repository files. |
 | Missing internal targets | 0 | No broken internal report, CSV, Persons, or homepage target found. |
 | Unique external URLs checked | 69 | All public-source, repository, volume, Google Drive, NARA, CIA, Congress, and support-site URLs were checked with `curl -L`. |

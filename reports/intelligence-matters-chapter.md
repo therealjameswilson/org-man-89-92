@@ -97,19 +97,25 @@ sheets, distribution instructions, Daily Diary entries, Scowcroft/Gates/Sununu
 morning-meeting records, and any releasable PDB cover pages or issue-specific
 supplements.
 
-The Presidential Daily Diary and Daily Backup series, NAID 186322, should be
-used as the chronology spine for this strand, as reflected in the first table on
-this page. It can confirm the timing, location, participants, telephone-call
-status, and surrounding meetings for intelligence and national security
-briefings. It should not be treated as a substantive account of call content or
-meeting minutes; pair diary references with released memcons, telcons, PDB
-process records, NSC meeting files, or WHPO caption records.
+[The Presidential Daily Diary and Presidential Daily Backup series, NAID
+186322](https://catalog.archives.gov/id/186322), also described in the [Bush
+Library Appointments and Scheduling finding
+aid](https://www.bush41library.gov/digital-research-room/finding-aid/white-house-office-appointments-and-scheduling-files),
+should be used as the chronology spine for this strand, as reflected in the
+first table on this page. It can confirm the timing, location, participants,
+telephone-call status, and surrounding meetings for intelligence and national
+security briefings. It should not be treated as a substantive account of call
+content or meeting minutes; pair diary references with released [memcons and
+telcons](https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons),
+PDB process records, NSC meeting files, or WHPO caption records.
 
 ## Covert Action and Congress
 
-NSD 79 is the strongest recovered source. It rescinds NSDD 286 and conforms
-covert-action procedures to the FY 1991 Intelligence Authorization Act. It
-requires a presidential Finding before covert action, permits oral
+[NSD 79](https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSDs_313189290/41-bpr-nsc-hfiles-nsd-79-90005-033.pdf)
+is the strongest recovered source. It rescinds NSDD 286 and conforms
+covert-action procedures to the [FY 1991 Intelligence Authorization
+Act](https://www.congress.gov/102/statute/STATUTE-105/STATUTE-105-Pg429.pdf).
+It requires a presidential Finding before covert action, permits oral
 authorization only in rare immediate cases with a written Finding within 48
 hours, bars retroactive authorization, and requires Memoranda of Notification
 for substantial changes in means, resources, operational conditions, country
@@ -132,15 +138,26 @@ NSD 79 itself assigns OMB responsibility for ensuring that the President's
 budget provides resources consistent with approved covert-action Findings for
 the congressional budget request.
 
-The broader intelligence-budget track runs through NSR 29, NSD 67, the March
-1992 NSC packets, the April 1992 Fitzwater statement, and the FY 1992-FY 1993
-intelligence authorization acts. The recovered March 25, 1992 NSC files show
-that the intelligence capabilities review went to the President and NSC before
-Gates's planned congressional presentation. The public Fitzwater statement says
-the President approved organizational changes for the intelligence community
-and that the changes included significant FY 1993-FY 1997 National Foreign
-Intelligence Program resource reallocations plus a new budgetary mechanism for
-NFIP agencies to support multi-year funding and congressional oversight.
+The broader intelligence-budget track runs through [NSR
+29](https://irp.fas.org/offdocs/nsr/index.html), [NSD
+67](https://irp.fas.org/offdocs/nsd/index.html), the [March 25, 1992 NSC0062
+packet](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470760970),
+the [NSR-29 Intelligence Priorities
+packet](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470761501),
+the [April 1992 Fitzwater
+statement](https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg528-2.pdf),
+and the [FY 1992](https://www.congress.gov/102/statute/STATUTE-105/STATUTE-105-Pg1260.pdf)
+and [FY 1993](https://www.congress.gov/102/statute/STATUTE-106/STATUTE-106-Pg3180.pdf)
+intelligence authorization acts. The recovered [March 25, 1992 NSC0062
+file](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470760970)
+shows that the intelligence capabilities review went to the President and NSC
+before Gates's planned congressional presentation. The public [Fitzwater
+statement](https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg528-2.pdf)
+says the President approved organizational changes for the intelligence
+community and that the changes included significant FY 1993-FY 1997 National
+Foreign Intelligence Program resource reallocations plus a new budgetary
+mechanism for NFIP agencies to support multi-year funding and congressional
+oversight.
 
 ## Archival Pull Targets
 
@@ -167,14 +184,14 @@ NFIP agencies to support multi-year funding and congressional oversight.
 
 | Gap | Risk | Closure path |
 | --- | --- | --- |
-| NSR-29 follow-on meeting files have official online Bush Library/NARA PDFs, but the NSR 29 directive and NSD 67 control copy are still unresolved. | Medium | Use the March 25, 1992 NSC0062 and NSR-29 Intelligence Priorities packets as public-control files; still pull the signed NSR/NSD control copies and backing memoranda. |
-| Actual Bush 41 PDB texts are not available as a public document set. | High | Treat public CIA histories as locators and request PDB process records, control sheets, briefer notes, Daily Diary entries, and releasable cover/supplement material. |
-| Daily Diary/Daily Backup materials can confirm meetings and calls but not substantive content. | Medium | Use NAID 186322 for time, location, participants, call status, and backup materials; pair with released memcons/telcons, NSC meeting files, PDB process files, and WHPO captions for substance. |
-| The Charles A. Peters 1995 *Studies in Intelligence* article has not been recovered directly. | Medium | Pull "Intelligence for the Highest Levels: Serving Our Senior Consumers" from CIA's FOIA Electronic Reading Room or request it through CIA. |
-| Gates briefing material and agency concurrence records have not been read. | High | Pull DCI, DOD, NSC Intelligence Programs, and OMB files before final document selection. |
-| Congressional interaction beyond statutory text is still thin. | High | Pull the promised Gates presentation/briefing materials, HPSCI/SSCI reports, and White House legislative-affairs files. |
-| Intelligence budget records are currently represented by public statements and statutes. | High | Pair NSD 67 with OMB and Community Management Staff records before selecting final budget documents. |
-| NSD 79 is a late January 1993 document. | Medium | Treat as a capstone Bush administration management directive; verify with compiler whether the volume's terminal date includes January 19, 1993. |
+| [NSR-29 follow-on meeting files](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470760970) have official online Bush Library/NARA PDFs, but the [NSR 29 directive](https://irp.fas.org/offdocs/nsr/index.html) and [NSD 67 control copy](https://irp.fas.org/offdocs/nsd/index.html) are still unresolved. | Medium | Use the [March 25, 1992 NSC0062](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470760970) and [NSR-29 Intelligence Priorities](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470761501) packets as public-control files; still pull the signed NSR/NSD control copies and backing memoranda. |
+| Actual Bush 41 [PDB](https://www.intelligence.gov/publics-daily-brief/presidents-daily-brief) texts are not available as a public document set. | High | Treat public CIA histories such as [*First Callers*](https://www.cia.gov/resources/csi/static/First-Callers-President-Brief.pdf) as locators and request PDB process records, control sheets, briefer notes, Daily Diary entries, and releasable cover/supplement material. |
+| [Daily Diary/Daily Backup materials](https://catalog.archives.gov/id/186322) can confirm meetings and calls but not substantive content. | Medium | Use [NAID 186322](https://catalog.archives.gov/id/186322) for time, location, participants, call status, and backup materials; pair with released [memcons/telcons](https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), NSC meeting files, PDB process files, and WHPO captions for substance. |
+| The Charles A. Peters 1995 *Studies in Intelligence* article cited in [Vaart's Bush PDB essay](https://www.cia.gov/resources/csi/static/Remembering-George-HW-Bush.pdf) has not been recovered directly. | Medium | Pull "Intelligence for the Highest Levels: Serving Our Senior Consumers" from CIA's FOIA Electronic Reading Room or request it through CIA. |
+| [Gates briefing material](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470760970) and agency concurrence records have not been read. | High | Pull DCI, DOD, NSC Intelligence Programs, and OMB files before final document selection. |
+| Congressional interaction beyond statutory text is still thin. | High | Pull the promised [Gates presentation/briefing materials](https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration?naid=470760970), [HPSCI/SSCI statutory trail](https://www.congress.gov/102/statute/STATUTE-105/STATUTE-105-Pg429.pdf), and White House legislative-affairs files. |
+| Intelligence budget records are currently represented by [public statements](https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg528-2.pdf) and [statutes](https://www.congress.gov/102/statute/STATUTE-106/STATUTE-106-Pg3180.pdf). | High | Pair [NSD 67](https://irp.fas.org/offdocs/nsd/index.html) with OMB and Community Management Staff records before selecting final budget documents. |
+| [NSD 79](https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSDs_313189290/41-bpr-nsc-hfiles-nsd-79-90005-033.pdf) is a late January 1993 document. | Medium | Treat it as a capstone Bush administration management directive; verify with compiler whether the volume's terminal date includes January 19, 1993. |
 
 ## Source Links
 
