@@ -1,0 +1,8 @@
+area,status_count,meaning,next_page
+Document queue,"22 leads; 5 public-control PDFs; 7 public locators; 10 readable public copies/statutes/Public Papers/fallback sources","Enough public source trail for prioritizing, but not enough for final selection.",declassified-document-index.html
+Selection posture,"18 candidate slots: 6 promote/review; 6 hold/MDR; 3 support/fallback; 3 selective","Start with promote/review rows, but no row is final-selected yet.",selection-worksheet.html
+Requests,"17 active request rows; 17 Not recorded","Fastest real progress is sending or logging request batches and entering responses.",request-tracking-ledger.html
+Source notes,"16 rows: 6 partial/locator; 7 not ready; 3 support/fallback; 0 final-ready","FRUS-shaped notes exist, but final notes require archival control facts.",source-note-worklist.html
+Decisions,"14 decisions: 8 default ready; 6 evidence dependent; 0 decided","Compiler choices still need to be recorded before final architecture is frozen.",compiler-decision-log.html
+Promotion gates,"8 gates","Do not promote until response, control copy, release status, FRUS value, source note, and decision alignment are resolved.",promotion-gate-checklist.html
+Public link health,"31 source links reachable; 0 missing internal targets; 69 unique external URLs returning 200","Public/source-link surface is usable; link reachability is not source-note validation.",link-health-audit.html

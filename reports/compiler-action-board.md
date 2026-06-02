@@ -11,6 +11,8 @@ Purpose: turn the open source gaps into the next concrete compiler actions.
 Use this page as the send-order board. The full request language remains in
 the [research request packet](research-request-packet.html), and responses are
 tracked in the [request tracking ledger](request-tracking-ledger.html).
+For the whole-project status readout, start with the
+[compiler dashboard](compiler-dashboard.html).
 
 Spreadsheet export: [compiler action board CSV](compiler-action-board.csv).
 
@@ -49,6 +51,7 @@ Do these in the same pass for every response:
 ## Related Project Reports
 
 - [Compiler handoff](compiler-handoff.html)
+- [Compiler dashboard](compiler-dashboard.html)
 - [Research request packet](research-request-packet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Source note worklist](source-note-worklist.html)

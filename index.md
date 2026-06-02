@@ -13,22 +13,24 @@ Management of Foreign Policy*.
 
 Use these first, in order:
 
-1. [Compiler handoff](reports/compiler-handoff.html): shortest orientation to the strongest candidates, open gaps, and immediate archival tasks.
-2. [Compiler action board](reports/compiler-action-board.html): send-order board tying request IDs to source-note rows, decisions, and closeout actions.
-3. [Declassified and public document index](reports/declassified-document-index.html): chronological public/control-copy launch page with source-note status and request links.
-4. [Selection worksheet](reports/selection-worksheet.html): document-slot triage by chapter, with promote/hold/support status and request-batch links.
-5. [Promotion gate checklist](reports/promotion-gate-checklist.html): evidence gate for moving a candidate from promising to selected.
-6. [Research request packet](reports/research-request-packet.html): copy/paste-ready Bush Library, MDR, State, CIA, and lot-file request language.
-7. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
-8. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
-9. [Source note worklist](reports/source-note-worklist.html): candidate-by-candidate provisional notes, missing fields, and closure actions.
-10. [Compiler decision log](reports/compiler-decision-log.html): pending architecture, selection, terminal-date, and fallback decisions to record.
-11. [Link health audit](reports/link-health-audit.html): current reachability check for public/control-copy source links.
+1. [Compiler dashboard](reports/compiler-dashboard.html): one-page status readout with counts, first moves, and current blockers.
+2. [Compiler handoff](reports/compiler-handoff.html): shortest orientation to the strongest candidates, open gaps, and immediate archival tasks.
+3. [Compiler action board](reports/compiler-action-board.html): send-order board tying request IDs to source-note rows, decisions, and closeout actions.
+4. [Declassified and public document index](reports/declassified-document-index.html): chronological public/control-copy launch page with source-note status and request links.
+5. [Selection worksheet](reports/selection-worksheet.html): document-slot triage by chapter, with promote/hold/support status and request-batch links.
+6. [Promotion gate checklist](reports/promotion-gate-checklist.html): evidence gate for moving a candidate from promising to selected.
+7. [Research request packet](reports/research-request-packet.html): copy/paste-ready Bush Library, MDR, State, CIA, and lot-file request language.
+8. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
+9. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
+10. [Source note worklist](reports/source-note-worklist.html): candidate-by-candidate provisional notes, missing fields, and closure actions.
+11. [Compiler decision log](reports/compiler-decision-log.html): pending architecture, selection, terminal-date, and fallback decisions to record.
+12. [Link health audit](reports/link-health-audit.html): current reachability check for public/control-copy source links.
 
 Spreadsheet exports: [declassified document index CSV](reports/declassified-document-index.csv),
 [selection worksheet CSV](reports/selection-worksheet.csv),
 [request tracking ledger CSV](reports/request-tracking-ledger.csv), and
 [source note worklist CSV](reports/source-note-worklist.csv), plus
+[compiler dashboard CSV](reports/compiler-dashboard.csv),
 [compiler action board CSV](reports/compiler-action-board.csv),
 [promotion gate checklist CSV](reports/promotion-gate-checklist.csv),
 [compiler decision log CSV](reports/compiler-decision-log.csv) and
@@ -64,6 +66,7 @@ support these documents, not bury them.
 ## Highest-Value Working Reports
 
 - [Intelligence matters chapter](reports/intelligence-matters-chapter.html)
+- [Compiler dashboard](reports/compiler-dashboard.html)
 - [Compiler handoff](reports/compiler-handoff.html)
 - [Compiler action board](reports/compiler-action-board.html)
 - [Declassified and public document index](reports/declassified-document-index.html)
@@ -91,6 +94,7 @@ support these documents, not bury them.
 - [Cross-source volume candidates](reports/cross-source-volume-ii-candidates.html)
 - [Bush Chief-of-Mission letter](reports/bush-chief-of-mission-letter.html)
 - [Intelligence matters chapter](reports/intelligence-matters-chapter.html)
+- [Compiler dashboard](reports/compiler-dashboard.html)
 - [Compiler handoff](reports/compiler-handoff.html)
 - [Compiler action board](reports/compiler-action-board.html)
 - [Declassified and public document index](reports/declassified-document-index.html)
