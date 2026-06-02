@@ -24,11 +24,12 @@ Use these first, in order:
 9. [Research request packet](reports/research-request-packet.html): copy/paste-ready Bush Library, MDR, State, CIA, and lot-file request language.
 10. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
 11. [Response triage sheet](reports/response-triage-sheet.html): classify acknowledgements, releases, referrals, not-located responses, and fallback decisions.
-12. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
-13. [Source note worklist](reports/source-note-worklist.html): candidate-by-candidate provisional notes, missing fields, and closure actions.
-14. [Compiler decision log](reports/compiler-decision-log.html): pending architecture, selection, terminal-date, and fallback decisions to record.
-15. [Decision resolution sheet](reports/decision-resolution-sheet.html): compact decision timing, trigger evidence, and update targets.
-16. [Link health audit](reports/link-health-audit.html): current reachability check for public/control-copy source links.
+12. [Response intake sheet](reports/response-intake-sheet.html): exact fields to capture from each reply before updating source notes or selection.
+13. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
+14. [Source note worklist](reports/source-note-worklist.html): candidate-by-candidate provisional notes, missing fields, and closure actions.
+15. [Compiler decision log](reports/compiler-decision-log.html): pending architecture, selection, terminal-date, and fallback decisions to record.
+16. [Decision resolution sheet](reports/decision-resolution-sheet.html): compact decision timing, trigger evidence, and update targets.
+17. [Link health audit](reports/link-health-audit.html): current reachability check for public/control-copy source links.
 
 Spreadsheet exports: [declassified document index CSV](reports/declassified-document-index.csv),
 [selection worksheet CSV](reports/selection-worksheet.csv),
@@ -39,6 +40,7 @@ Spreadsheet exports: [declassified document index CSV](reports/declassified-docu
 [candidate closeout board CSV](reports/candidate-closeout-board.csv),
 [request send sheet CSV](reports/request-send-sheet.csv),
 [response triage sheet CSV](reports/response-triage-sheet.csv),
+[response intake sheet CSV](reports/response-intake-sheet.csv),
 [promotion gate checklist CSV](reports/promotion-gate-checklist.csv),
 [compiler decision log CSV](reports/compiler-decision-log.csv),
 [decision resolution sheet CSV](reports/decision-resolution-sheet.csv), and
@@ -83,6 +85,7 @@ support these documents, not bury them.
 - [Research request packet](reports/research-request-packet.html)
 - [Request tracking ledger](reports/request-tracking-ledger.html)
 - [Response triage sheet](reports/response-triage-sheet.html)
+- [Response intake sheet](reports/response-intake-sheet.html)
 - [Selection worksheet](reports/selection-worksheet.html)
 - [Promotion gate checklist](reports/promotion-gate-checklist.html)
 - [Provisional volume outline](reports/provisional-volume-outline.html)
@@ -115,6 +118,7 @@ support these documents, not bury them.
 - [Research request packet](reports/research-request-packet.html)
 - [Request tracking ledger](reports/request-tracking-ledger.html)
 - [Response triage sheet](reports/response-triage-sheet.html)
+- [Response intake sheet](reports/response-intake-sheet.html)
 - [Selection worksheet](reports/selection-worksheet.html)
 - [Promotion gate checklist](reports/promotion-gate-checklist.html)
 - [Compiler gap assessment](reports/compiler-gap-assessment.html)

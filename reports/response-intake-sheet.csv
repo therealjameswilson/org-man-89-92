@@ -1,0 +1,19 @@
+field,capture_exactly,why_it_matters,update_target
+request_id,"A1, B1, D1, F4, or parent/follow-up ID","Preserves the chain from request to response",request-tracking-ledger.html
+candidate_slot,"Selection slot and candidate name affected","Keeps the response tied to the document architecture","candidate-closeout-board.html; selection-worksheet.html"
+response_type,"Acknowledgement, released, partially released, withdrawal sheets only, referred, denied, not located, public fallback, better file unit, duplicate/variant packet, or promotion-ready","Drives the same-pass update order",response-triage-sheet.html
+response_date,"Date on the email, letter, release notice, or scan delivery","Supports tracking and follow-up timing",request-tracking-ledger.html
+responding_office,"Repository, agency, office, unit, and named correspondent if useful","Proves who searched, reviewed, or released the material",request-tracking-ledger.html
+tracking_number,"Agency/repository tracking number, case number, MDR number, referral number, or none","Keeps later correspondence tied to the same request",request-tracking-ledger.html
+search_or_review_scope,"Offices, series, files, date range, terms, folders, tabs, or pages searched/reviewed","Distinguishes broad no-find evidence from a narrow search","response-triage-sheet.html; decision-resolution-sheet.html"
+files_received,"Exact filenames, PDFs, scans, folders, page counts, dates, and delivery method","Prevents source-note work from drifting away from the actual release",request-tracking-ledger.html
+control_identifiers,"Repository, collection, series, box/folder, OA/ID, local ID, NAID, lot number, document number, or file unit","Supplies the backbone of a FRUS source note",source-note-worklist.html
+document_identity,"Date, title, document type, drafter/originator, recipient, meeting time/place, participants, and attachments","Determines whether the item can be described and selected",source-note-worklist.html
+classification_and_handling,"Classification, handling channels, declassification markings, sanitization notes, and visible restrictions","Required before final FRUS source-note readiness",source-note-worklist.html
+release_status,"Fully open, partially open, withdrawn, referred, denied, pending, public fallback, not located, or closed","Prevents a reachable PDF from being mistaken for a complete record","request-tracking-ledger.html; promotion-gate-checklist.html"
+withholdings_or_referrals,"Withheld pages/tabs, exemptions, referral agencies, appeal/re-review path, and deadlines","Defines whether a follow-up, appeal, or MDR request is needed","request-tracking-ledger.html; research-request-packet.html"
+source_note_facts_proved,"Which FRUS source-note fields are now proved and which remain unresolved","Keeps the worklist factual and prevents premature source-note closeout",source-note-worklist.html
+frus_value,"Whether the response shows organization, management, authority, budget, staffing, oversight, implementation, or only policy substance","Determines selection, support, fallback, or drop posture",selection-worksheet.html
+decision_triggered,"Terminal-date, fallback, chapter-scope, case-study, control-copy, or source-value decision","Keeps architecture changes explicit",decision-resolution-sheet.html
+next_action,"Appeal, re-review, new file-unit request, scan request, source-note draft, selection update, fallback decision, or no action","Gives the compiler the next physical move",candidate-closeout-board.html
+same_pass_pages_updated,"Ledger, intake sheet/private log, source-note row, closeout row, selection row, decision row, and link-health check if new links were added","Prevents contradictory public status",promotion-gate-checklist.html

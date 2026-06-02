@@ -30,6 +30,8 @@ Before promoting a candidate to selected status, use the
 For request status and response processing, use the
 [request tracking ledger](request-tracking-ledger.html) and [response triage
 sheet](response-triage-sheet.html).
+For exact response evidence fields to capture before status changes, use the
+[response intake sheet](response-intake-sheet.html).
 For candidate-by-candidate provisional source notes, use the
 [source note worklist](source-note-worklist.html).
 For architecture, fallback, and terminal-date choices, use the
@@ -111,6 +113,7 @@ record.
 - [Candidate closeout board](candidate-closeout-board.html)
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
+- [Response intake sheet](response-intake-sheet.html)
 - [Declassified and public document index](declassified-document-index.html)
 - [Candidate register](candidate-register.html)
 - [Archival pull matrix](archival-pull-matrix.html)

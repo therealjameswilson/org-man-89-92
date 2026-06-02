@@ -22,7 +22,8 @@ sheet](request-send-sheet.html) for compact subject lines, routes, and control
 links. Before any response changes a candidate to selected or
 source-note-ready, run the [promotion gate
 checklist](promotion-gate-checklist.html). For response classification, use
-the [response triage sheet](response-triage-sheet.html).
+the [response triage sheet](response-triage-sheet.html), then capture exact
+reply and release fields in the [response intake sheet](response-intake-sheet.html).
 
 ## Status Key
 
@@ -98,6 +99,7 @@ request_id,priority,target,route,status,date_sent,ack_date,tracking_number,respo
 | Response releases a public fallback copy only | Use in editorial notes unless no archival control copy can be located. |
 
 Full classifier: [response triage sheet](response-triage-sheet.html).
+Field-by-field intake form: [response intake sheet](response-intake-sheet.html).
 
 ## Related Project Reports
 
@@ -106,6 +108,7 @@ Full classifier: [response triage sheet](response-triage-sheet.html).
 - [Compiler action board](compiler-action-board.html)
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
+- [Response intake sheet](response-intake-sheet.html)
 - [Declassified and public document index](declassified-document-index.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Research request packet](research-request-packet.html)

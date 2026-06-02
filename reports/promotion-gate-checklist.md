@@ -20,7 +20,7 @@ Spreadsheet export: [promotion gate checklist CSV](promotion-gate-checklist.csv)
 
 | Gate | Pass condition | If missing | Update pages |
 | --- | --- | --- | --- |
-| 1. Response logged | The repository, agency, or public source response is entered in the [request tracking ledger](request-tracking-ledger.html), including sent date, result, files received, and withholdings/referrals; response type is classified in the [response triage sheet](response-triage-sheet.html). | Keep candidate in current status; do not promote on memory, email summary, or catalog metadata alone. | [Request tracking ledger](request-tracking-ledger.html), [response triage sheet](response-triage-sheet.html), [compiler action board](compiler-action-board.html). |
+| 1. Response logged | The repository, agency, or public source response is entered in the [request tracking ledger](request-tracking-ledger.html), including sent date, result, files received, and withholdings/referrals; response type is classified in the [response triage sheet](response-triage-sheet.html); response facts are captured in the [response intake sheet](response-intake-sheet.html). | Keep candidate in current status; do not promote on memory, email summary, or catalog metadata alone. | [Request tracking ledger](request-tracking-ledger.html), [response triage sheet](response-triage-sheet.html), [response intake sheet](response-intake-sheet.html), [compiler action board](compiler-action-board.html). |
 | 2. Control copy identified | Repository, collection, series, folder/file title, OA/ID or NAID, and version status are known: signed final, circulated copy, draft, attachment, public fallback, or not located. | Hold or support only. Public URLs, FAS indexes, CIA histories, statutes, and magazine text do not by themselves satisfy this gate. | [Source note worklist](source-note-worklist.html), [source-note style audit](source-note-style-audit.html). |
 | 3. Document identity fixed | Date, title, document type, originator/drafter, recipient, meeting time/place if relevant, and attachments/enclosures are known or explicitly unavailable after search. | Keep as locator or MDR target until the document can be described in FRUS source-note form. | [Source note worklist](source-note-worklist.html), [declassified index](declassified-document-index.html). |
 | 4. Release status clear | Release status is recorded as open, partially open, withdrawn, referred, denied, pending MDR, public fallback, or not located. Withheld tabs and referral status are named. | Do not treat a reachable PDF as complete; classify the candidate as partial, support, or MDR target. | [Request tracking ledger](request-tracking-ledger.html), [link health audit](link-health-audit.html). |
@@ -61,6 +61,7 @@ candidate changes the top working packet.
 - [Selection worksheet](selection-worksheet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Response triage sheet](response-triage-sheet.html)
+- [Response intake sheet](response-intake-sheet.html)
 - [Source note worklist](source-note-worklist.html)
 - [Compiler decision log](compiler-decision-log.html)
 - [Decision resolution sheet](decision-resolution-sheet.html)

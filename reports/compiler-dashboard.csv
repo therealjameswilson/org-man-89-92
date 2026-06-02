@@ -3,6 +3,7 @@ Document queue,"22 leads; 5 public-control PDFs; 7 public locators; 10 readable 
 Selection posture,"18 candidate slots: 6 promote/review; 6 hold/MDR; 3 support/fallback; 3 selective","Start with promote/review rows, but no row is final-selected yet.",selection-worksheet.html
 Candidate closeout,"18 closeout rows tied to blocker, request dependency, decision dependency, and next move","Use after a response is triaged and before changing selection status.",candidate-closeout-board.html
 Requests,"17 active request rows; 17 Not recorded","Fastest real progress is sending or logging request batches and entering responses.","request-send-sheet.html; request-tracking-ledger.html; response-triage-sheet.html"
+Response intake,"18 response-intake fields","Capture exact facts from repository replies, releases, referrals, no-finds, and fallback responses before updating status.",response-intake-sheet.html
 Source notes,"16 rows: 6 partial/locator; 7 not ready; 3 support/fallback; 0 final-ready","FRUS-shaped notes exist, but final notes require archival control facts.",source-note-worklist.html
 Decisions,"14 decisions: 8 default ready; 6 evidence dependent; 0 decided","Compiler choices still need to be recorded before final architecture is frozen.","compiler-decision-log.html; decision-resolution-sheet.html"
 Promotion gates,"8 gates","Do not promote until response, control copy, release status, FRUS value, source note, and decision alignment are resolved.",promotion-gate-checklist.html

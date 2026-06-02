@@ -51,11 +51,14 @@ batch:
 
 1. Enter sent date, route, and any acknowledgement or tracking number in the
    [request tracking ledger](request-tracking-ledger.html).
-2. If the request changes evidence status, update the [source note
+2. When a response arrives, classify it in the [response triage
+   sheet](response-triage-sheet.html), then capture the exact facts in the
+   [response intake sheet](response-intake-sheet.html).
+3. If the request changes evidence status, update the [source note
    worklist](source-note-worklist.html) and [selection worksheet](selection-worksheet.html).
-3. If the response affects terminal date, fallback use, chapter architecture,
+4. If the response affects terminal date, fallback use, chapter architecture,
    or document-slot priority, update the [compiler decision log](compiler-decision-log.html).
-4. Before any candidate becomes selected or source-note-ready, run the
+5. Before any candidate becomes selected or source-note-ready, run the
    [promotion gate checklist](promotion-gate-checklist.html).
 
 ## Related Project Reports
@@ -64,6 +67,8 @@ batch:
 - [Compiler action board](compiler-action-board.html)
 - [Research request packet](research-request-packet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
+- [Response triage sheet](response-triage-sheet.html)
+- [Response intake sheet](response-intake-sheet.html)
 - [Source note worklist](source-note-worklist.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Promotion gate checklist](promotion-gate-checklist.html)

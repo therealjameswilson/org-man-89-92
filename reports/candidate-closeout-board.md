@@ -10,7 +10,8 @@ Checked: 2026-06-02
 Purpose: one-row-per-candidate closeout board for deciding what blocks a
 candidate from becoming selected, source-note-ready, support only, fallback,
 or dropped. Use this after classifying a response in the [response triage
-sheet](response-triage-sheet.html) and before changing status in the
+sheet](response-triage-sheet.html), capturing facts in the [response intake
+sheet](response-intake-sheet.html), and before changing status in the
 [selection worksheet](selection-worksheet.html).
 
 Spreadsheet export: [candidate closeout board CSV](candidate-closeout-board.csv).
@@ -20,12 +21,13 @@ Spreadsheet export: [candidate closeout board CSV](candidate-closeout-board.csv)
 For each response or newly reviewed file:
 
 1. Update the [request tracking ledger](request-tracking-ledger.html).
-2. Capture only proved source-note facts in the [source note
+2. Fill the [response intake sheet](response-intake-sheet.html).
+3. Capture only proved source-note facts in the [source note
    worklist](source-note-worklist.html).
-3. Use this board to identify the blocker and the next closeout move.
-4. Resolve any timing, terminal-date, fallback, or architecture issue in the
+4. Use this board to identify the blocker and the next closeout move.
+5. Resolve any timing, terminal-date, fallback, or architecture issue in the
    [decision resolution sheet](decision-resolution-sheet.html).
-5. Run the [promotion gate checklist](promotion-gate-checklist.html) before
+6. Run the [promotion gate checklist](promotion-gate-checklist.html) before
    marking any candidate selected.
 
 ## Closeout Board
@@ -56,6 +58,7 @@ For each response or newly reviewed file:
 | If the blocker is | Close it by |
 | --- | --- |
 | Missing response evidence | Use the [request send sheet](request-send-sheet.html), then record the response in the [request tracking ledger](request-tracking-ledger.html). |
+| Missing response facts | Fill the [response intake sheet](response-intake-sheet.html) before changing source-note, selection, or decision status. |
 | Missing source-note fields | Update only the verified facts in the [source note worklist](source-note-worklist.html); leave unresolved facts open. |
 | Public fallback only | Apply [D10](decision-resolution-sheet.html) or the candidate-specific fallback decision before promotion. |
 | Terminal-date or chapter-scope issue | Record the decision in the [compiler decision log](compiler-decision-log.html) before changing selection status. |
@@ -67,6 +70,7 @@ For each response or newly reviewed file:
 - [Compiler action board](compiler-action-board.html)
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
+- [Response intake sheet](response-intake-sheet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Source note worklist](source-note-worklist.html)

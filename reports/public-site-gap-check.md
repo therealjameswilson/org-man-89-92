@@ -30,9 +30,9 @@ public-source links.
 
 | Check | Result | Compiler meaning |
 | --- | --- | --- |
-| Markdown/HTML files scanned | 35 | Site-link check covered the published page corpus and layout. |
-| Link instances extracted | 1276 | Includes repeated navigation, source, report, CSV, and external links. |
-| Internal link instances checked | 890 | Relative `.html`, `.md`, `.csv`, and report-index links resolve to repository files. |
+| Markdown/HTML files scanned | 36 | Site-link check covered the published page corpus and layout. |
+| Link instances extracted | 1359 | Includes repeated navigation, source, report, CSV, and external links. |
+| Internal link instances checked | 973 | Relative `.html`, `.md`, `.csv`, and report-index links resolve to repository files. |
 | Missing internal targets | 0 | No broken internal report, CSV, Persons, or homepage target found. |
 | Unique external URLs checked | 69 | All public-source, repository, volume, Google Drive, NARA, CIA, Congress, and support-site URLs were checked with `curl -L`. |
 | External URLs returning `200` | 69 | No external source-trail link failed reachability. |
