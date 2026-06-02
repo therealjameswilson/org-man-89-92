@@ -8,6 +8,7 @@ title: Reports
 - [Archival pull matrix](archival-pull-matrix.html)
 - [Bush Chief-of-Mission letter](bush-chief-of-mission-letter.html)
 - [Candidate register](candidate-register.html)
+- [Compiler decision log](compiler-decision-log.html)
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler gap assessment](compiler-gap-assessment.html)
 - [Cross-source volume candidates](cross-source-volume-ii-candidates.html)
@@ -34,4 +35,5 @@ title: Reports
 - [Selection worksheet CSV](selection-worksheet.csv)
 - [Declassified document index CSV](declassified-document-index.csv)
 - [Source note worklist CSV](source-note-worklist.csv)
+- [Compiler decision log CSV](compiler-decision-log.csv)
 - [Link health audit CSV](link-health-audit.csv)

@@ -198,6 +198,8 @@ or implementation.
 
 Use the [selection worksheet](selection-worksheet.html) for document-slot
 triage, source-note readiness, and request-batch links.
+Use the [compiler decision log](compiler-decision-log.html) for open
+architecture and fallback decisions before freezing this outline.
 
 1. Bush Chief-of-Mission letter, final all-post version.
 2. NSR-16 plus response/options/follow-on records.

@@ -20,12 +20,14 @@ Use these first, in order:
 5. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
 6. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
 7. [Source note worklist](reports/source-note-worklist.html): candidate-by-candidate provisional notes, missing fields, and closure actions.
-8. [Link health audit](reports/link-health-audit.html): current reachability check for public/control-copy source links.
+8. [Compiler decision log](reports/compiler-decision-log.html): pending architecture, selection, terminal-date, and fallback decisions to record.
+9. [Link health audit](reports/link-health-audit.html): current reachability check for public/control-copy source links.
 
 Spreadsheet exports: [declassified document index CSV](reports/declassified-document-index.csv),
 [selection worksheet CSV](reports/selection-worksheet.csv),
 [request tracking ledger CSV](reports/request-tracking-ledger.csv), and
 [source note worklist CSV](reports/source-note-worklist.csv), plus
+[compiler decision log CSV](reports/compiler-decision-log.csv) and
 [link health audit CSV](reports/link-health-audit.csv).
 
 ## Priority Declassified and Public Documents
@@ -69,6 +71,7 @@ support these documents, not bury them.
 - [Compiler gap assessment](reports/compiler-gap-assessment.html)
 - [Source note style audit](reports/source-note-style-audit.html)
 - [Source note worklist](reports/source-note-worklist.html)
+- [Compiler decision log](reports/compiler-decision-log.html)
 - [Link health audit](reports/link-health-audit.html)
 
 ## Front Matter
@@ -90,6 +93,7 @@ support these documents, not bury them.
 - [Compiler gap assessment](reports/compiler-gap-assessment.html)
 - [Source note style audit](reports/source-note-style-audit.html)
 - [Source note worklist](reports/source-note-worklist.html)
+- [Compiler decision log](reports/compiler-decision-log.html)
 - [Link health audit](reports/link-health-audit.html)
 - [Persons list editorial QA](reports/persons-list-editorial-qa.html)
 - [Public site gap check](reports/public-site-gap-check.html)

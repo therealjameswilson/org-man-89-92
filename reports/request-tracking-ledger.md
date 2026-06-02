@@ -95,3 +95,4 @@ request_id,priority,target,route,status,date_sent,ack_date,tracking_number,respo
 - [Research request packet](research-request-packet.html)
 - [Source note style audit](source-note-style-audit.html)
 - [Source note worklist](source-note-worklist.html)
+- [Compiler decision log](compiler-decision-log.html)

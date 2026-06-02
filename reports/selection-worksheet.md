@@ -67,6 +67,8 @@ Spreadsheet export: [selection worksheet CSV](selection-worksheet.csv).
 
 ## Immediate Decisions To Log
 
+Track final choices in the [compiler decision log](compiler-decision-log.html).
+
 | Decision | Why it matters | Recommended default |
 | --- | --- | --- |
 | Can January 19, 1993 NSD 79 be selected in a 1989-1992 volume? | It is the best covert-action procedure anchor but falls after December 31, 1992. | Treat as Bush administration capstone unless the compiler enforces a hard terminal date. |
@@ -99,3 +101,4 @@ not available:
 - [Provisional volume outline](provisional-volume-outline.html)
 - [Source note style audit](source-note-style-audit.html)
 - [Source note worklist](source-note-worklist.html)
+- [Compiler decision log](compiler-decision-log.html)

@@ -21,6 +21,8 @@ For request status and response processing, use the
 [request tracking ledger](request-tracking-ledger.html).
 For candidate-by-candidate provisional source notes, use the
 [source note worklist](source-note-worklist.html).
+For architecture, fallback, and terminal-date choices, use the
+[compiler decision log](compiler-decision-log.html).
 For current public-link reachability, use the
 [link health audit](link-health-audit.html).
 
@@ -102,4 +104,5 @@ record.
 - [Compiler gap assessment](compiler-gap-assessment.html)
 - [Source note style audit](source-note-style-audit.html)
 - [Source note worklist](source-note-worklist.html)
+- [Compiler decision log](compiler-decision-log.html)
 - [Link health audit](link-health-audit.html)
