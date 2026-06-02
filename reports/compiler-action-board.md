@@ -51,17 +51,19 @@ Do these in the same pass for every response:
    [source note worklist](source-note-worklist.html): repository, series,
    folder, OA/ID or NAID, classification, document type, attachments,
    withholdings, and version status.
-5. Update document status in the
+5. Check the [source note field matrix](source-note-field-matrix.html) so the
+   captured facts match the correct source pool before closing any note.
+6. Update document status in the
    [selection worksheet](selection-worksheet.html): promote, hold, support,
    fallback, or drop.
-6. Use the [candidate closeout board](candidate-closeout-board.html) to verify
+7. Use the [candidate closeout board](candidate-closeout-board.html) to verify
    which blocker, decision dependency, and next move apply to the candidate.
-7. Before marking a candidate selected, run the
+8. Before marking a candidate selected, run the
    [promotion gate checklist](promotion-gate-checklist.html).
-8. If the response changes volume architecture or selection rules, update the
+9. If the response changes volume architecture or selection rules, update the
    [compiler decision log](compiler-decision-log.html) and [decision
    resolution sheet](decision-resolution-sheet.html).
-9. If a new public/control link is added, rerun the
+10. If a new public/control link is added, rerun the
    [link health audit](link-health-audit.html).
 
 ## Related Project Reports
@@ -74,6 +76,7 @@ Do these in the same pass for every response:
 - [Response intake sheet](response-intake-sheet.html)
 - [Research request packet](research-request-packet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
+- [Source note field matrix](source-note-field-matrix.html)
 - [Source note worklist](source-note-worklist.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Promotion gate checklist](promotion-gate-checklist.html)

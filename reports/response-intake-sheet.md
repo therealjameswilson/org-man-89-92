@@ -13,6 +13,8 @@ tracking ledger](request-tracking-ledger.html), [source note
 worklist](source-note-worklist.html), [candidate closeout
 board](candidate-closeout-board.html), or [selection
 worksheet](selection-worksheet.html).
+After capturing fields, use the [source note field
+matrix](source-note-field-matrix.html) to match the source pool.
 
 Spreadsheet export: [response intake sheet CSV](response-intake-sheet.csv).
 
@@ -66,7 +68,8 @@ prove a field, leave the field open and name the follow-up route.
 1. Classify response type in the [response triage sheet](response-triage-sheet.html).
 2. Capture the fields on this intake sheet.
 3. Update the [request tracking ledger](request-tracking-ledger.html).
-4. Update the [source note worklist](source-note-worklist.html) only with
+4. Check the [source note field matrix](source-note-field-matrix.html), then
+   update the [source note worklist](source-note-worklist.html) only with
    facts proved by the response.
 5. Use the [candidate closeout board](candidate-closeout-board.html) for the
    blocker and next move.
@@ -84,6 +87,7 @@ prove a field, leave the field open and name the follow-up route.
 - [Response triage sheet](response-triage-sheet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Candidate closeout board](candidate-closeout-board.html)
+- [Source note field matrix](source-note-field-matrix.html)
 - [Source note worklist](source-note-worklist.html)
 - [Decision resolution sheet](decision-resolution-sheet.html)
 - [Selection worksheet](selection-worksheet.html)

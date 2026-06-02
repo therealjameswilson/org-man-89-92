@@ -34,6 +34,7 @@ title: Reports
 - [Response intake sheet](response-intake-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
 - [Selection worksheet](selection-worksheet.html)
+- [Source note field matrix](source-note-field-matrix.html)
 - [Source note style audit](source-note-style-audit.html)
 - [Source note worklist](source-note-worklist.html)
 
@@ -46,6 +47,7 @@ title: Reports
 - [Request send sheet CSV](request-send-sheet.csv)
 - [Response triage sheet CSV](response-triage-sheet.csv)
 - [Response intake sheet CSV](response-intake-sheet.csv)
+- [Source note field matrix CSV](source-note-field-matrix.csv)
 - [Promotion gate checklist CSV](promotion-gate-checklist.csv)
 - [Decision resolution sheet CSV](decision-resolution-sheet.csv)
 - [Selection worksheet CSV](selection-worksheet.csv)

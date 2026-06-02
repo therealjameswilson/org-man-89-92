@@ -32,6 +32,8 @@ For request status and response processing, use the
 sheet](response-triage-sheet.html).
 For exact response evidence fields to capture before status changes, use the
 [response intake sheet](response-intake-sheet.html).
+For source-pool-specific FRUS fields, use the [source note field
+matrix](source-note-field-matrix.html).
 For candidate-by-candidate provisional source notes, use the
 [source note worklist](source-note-worklist.html).
 For architecture, fallback, and terminal-date choices, use the
@@ -122,6 +124,7 @@ record.
 - [Selection worksheet](selection-worksheet.html)
 - [Promotion gate checklist](promotion-gate-checklist.html)
 - [Compiler gap assessment](compiler-gap-assessment.html)
+- [Source note field matrix](source-note-field-matrix.html)
 - [Source note style audit](source-note-style-audit.html)
 - [Source note worklist](source-note-worklist.html)
 - [Compiler decision log](compiler-decision-log.html)

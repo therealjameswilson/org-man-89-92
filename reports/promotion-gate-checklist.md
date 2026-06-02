@@ -26,7 +26,7 @@ Spreadsheet export: [promotion gate checklist CSV](promotion-gate-checklist.csv)
 | 4. Release status clear | Release status is recorded as open, partially open, withdrawn, referred, denied, pending MDR, public fallback, or not located. Withheld tabs and referral status are named. | Do not treat a reachable PDF as complete; classify the candidate as partial, support, or MDR target. | [Request tracking ledger](request-tracking-ledger.html), [link health audit](link-health-audit.html). |
 | 5. FRUS value proven | The record shows organization, management, coordination, budget, staffing, authority, oversight, implementation, or source-control machinery. | Use as chronology, source-note support, or editorial context; do not spend a document slot on policy substance alone. | [Selection worksheet](selection-worksheet.html), [provisional outline](provisional-volume-outline.html). |
 | 6. Architecture decision resolved | Any affected architecture or fallback rule is recorded: terminal date, intelligence-chapter scope, public fallback use, case-study count, State lot priority, or control-copy rule. | Keep candidate in hold/include-review posture until the decision is recorded. | [Compiler decision log](compiler-decision-log.html), [decision resolution sheet](decision-resolution-sheet.html), [selection worksheet](selection-worksheet.html). |
-| 7. Source-note draft clean | The source note follows FRUS order and has no unresolved bracketed facts unless a documented search says the fact is unavailable. | Do not mark source-note-ready; leave the row partial/not ready. | [Source note worklist](source-note-worklist.html), [source-note style audit](source-note-style-audit.html). |
+| 7. Source-note draft clean | The source note follows FRUS order and the correct source-pool field pattern; it has no unresolved bracketed facts unless a documented search says the fact is unavailable. | Do not mark source-note-ready; leave the row partial/not ready. | [Source note worklist](source-note-worklist.html), [source note field matrix](source-note-field-matrix.html), [source-note style audit](source-note-style-audit.html). |
 | 8. Same-pass status update | Selection status, source-note readiness, request status, closeout blocker, and decision consequences all agree across the public site. | Do not publish a status change that leaves contradictory instructions on another workflow page. | [Selection worksheet](selection-worksheet.html), [candidate closeout board](candidate-closeout-board.html), [request tracking ledger](request-tracking-ledger.html), [source note worklist](source-note-worklist.html), [compiler handoff](compiler-handoff.html). |
 
 ## Candidate-Specific Triggers
@@ -62,6 +62,7 @@ candidate changes the top working packet.
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Response triage sheet](response-triage-sheet.html)
 - [Response intake sheet](response-intake-sheet.html)
+- [Source note field matrix](source-note-field-matrix.html)
 - [Source note worklist](source-note-worklist.html)
 - [Compiler decision log](compiler-decision-log.html)
 - [Decision resolution sheet](decision-resolution-sheet.html)

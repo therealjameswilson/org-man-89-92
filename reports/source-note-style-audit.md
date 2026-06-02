@@ -12,6 +12,8 @@ XXXI, START I, 1989-1991*.
 
 For a candidate-by-candidate checklist of provisional notes, missing fields,
 and closure actions, use the [source note worklist](source-note-worklist.html).
+For a source-pool-specific field bridge from response intake to final note
+closeout, use the [source note field matrix](source-note-field-matrix.html).
 
 ## Finding
 
@@ -184,6 +186,7 @@ caption source.
 - [Selection worksheet](selection-worksheet.html)
 - [Research request packet](research-request-packet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
+- [Source note field matrix](source-note-field-matrix.html)
 - [FRUS Volume XXXI, Document 1](https://history.state.gov/historicaldocuments/frus1989-92v31/d1)
 - [FRUS Volume XXXI, Document 10](https://history.state.gov/historicaldocuments/frus1989-92v31/d10)
 - [FRUS Volume XXXI, Document 36](https://history.state.gov/historicaldocuments/frus1989-92v31/d36)

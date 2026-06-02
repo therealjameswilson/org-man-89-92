@@ -11,6 +11,8 @@ Purpose: turn the [source-note style audit](source-note-style-audit.html) into
 candidate-by-candidate work. These are not finished source notes. They are
 FRUS-shaped drafts plus the missing facts that must be verified before a
 document is promoted from discovery to selection.
+Use the [source note field matrix](source-note-field-matrix.html) to match
+each candidate to the required fields for its source pool.
 For the current project status, start with the [compiler
 dashboard](compiler-dashboard.html). For response-driven closeout order, use
 the [compiler action board](compiler-action-board.html) and [request tracking
@@ -67,6 +69,7 @@ Related project reports: [Compiler dashboard](compiler-dashboard.html),
 [compiler action board](compiler-action-board.html), [request tracking
 ledger](request-tracking-ledger.html), [response triage sheet](response-triage-sheet.html),
 [response intake sheet](response-intake-sheet.html),
+[source note field matrix](source-note-field-matrix.html),
 [candidate closeout board](candidate-closeout-board.html),
 [selection worksheet](selection-worksheet.html),
 and [promotion gate checklist](promotion-gate-checklist.html).
