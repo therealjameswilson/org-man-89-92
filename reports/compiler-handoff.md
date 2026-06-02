@@ -17,6 +17,8 @@ For the full chronological public/control-copy queue, use the
 [declassified and public document index](declassified-document-index.html).
 For send order and response closeout, use the
 [compiler action board](compiler-action-board.html).
+For compact subject lines, route links, and same-pass update targets, use the
+[request send sheet](request-send-sheet.html).
 For copy/paste request language grouped by repository and priority, use the
 [research request packet](research-request-packet.html).
 For document-slot triage, use the
@@ -103,6 +105,7 @@ record.
 - [Intelligence matters chapter](intelligence-matters-chapter.html)
 - [Compiler dashboard](compiler-dashboard.html)
 - [Compiler action board](compiler-action-board.html)
+- [Request send sheet](request-send-sheet.html)
 - [Declassified and public document index](declassified-document-index.html)
 - [Candidate register](candidate-register.html)
 - [Archival pull matrix](archival-pull-matrix.html)

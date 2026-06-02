@@ -19,7 +19,7 @@ Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 | --- | --- | --- | --- |
 | Document queue | 22 declassified or public document leads; 5 public-control PDFs; 7 public locators; 10 readable public copies/statutes/Public Papers/fallback sources. | There is enough public source trail for prioritizing, but not enough for final selection. | [Declassified and public document index](declassified-document-index.html) |
 | Selection posture | 18 candidate slots: 6 promote/review, 6 hold/MDR, 3 support/fallback, 3 selective. | Work should start with the promote/review rows but no row is final-selected yet. | [Selection worksheet](selection-worksheet.html) and [promotion gate checklist](promotion-gate-checklist.html) |
-| Requests | 17 active request rows; all 17 are still Not recorded. | The fastest real progress is sending or logging request batches, then entering responses. | [Compiler action board](compiler-action-board.html), [research request packet](research-request-packet.html), [request tracking ledger](request-tracking-ledger.html) |
+| Requests | 17 active request rows; all 17 are still Not recorded. | The fastest real progress is sending or logging request batches, then entering responses. | [Compiler action board](compiler-action-board.html), [request send sheet](request-send-sheet.html), [research request packet](research-request-packet.html), [request tracking ledger](request-tracking-ledger.html) |
 | Source notes | 16 source-note rows: 6 partial/locator, 7 not ready, 3 support/fallback, 0 final-ready. | Source-note form exists, but final notes require archival control facts. | [Source note worklist](source-note-worklist.html) and [source note style audit](source-note-style-audit.html) |
 | Decisions | 14 decisions: 8 default ready, 6 evidence dependent, 0 decided. | Compiler choices still need to be recorded before final architecture is frozen. | [Compiler decision log](compiler-decision-log.html) |
 | Promotion gates | 8 gates define when a candidate can move from promising to selected. | Do not promote a document until response, control copy, release status, FRUS value, source note, and decision alignment are all resolved. | [Promotion gate checklist](promotion-gate-checklist.html) |
@@ -29,8 +29,8 @@ Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 
 | Order | Move | Why this is first | Working pages |
 | --- | --- | --- | --- |
-| 1 | Send or log Batch A1 and A4: NSC/DC 151 and NSD 79. | Covert-action procedure, congressional notification, and terminal-date decision are the strongest intelligence-chapter tests. | [Action board](compiler-action-board.html), [Request packet](research-request-packet.html#batch-a-covert-action), [Decision log](compiler-decision-log.html) |
-| 2 | Send or log Batch B1-B3: NSC0062, NSR-29 packet, NSR 29, and NSD 67. | This decides whether the intelligence budget/community-management lane has a selectable internal record. | [Action board](compiler-action-board.html), [Intelligence chapter](intelligence-matters-chapter.html), [Source-note worklist](source-note-worklist.html) |
+| 1 | Send or log Batch A1 and A4: NSC/DC 151 and NSD 79. | Covert-action procedure, congressional notification, and terminal-date decision are the strongest intelligence-chapter tests. | [Action board](compiler-action-board.html), [send sheet](request-send-sheet.html), [Request packet](research-request-packet.html#batch-a-covert-action), [Decision log](compiler-decision-log.html) |
+| 2 | Send or log Batch B1-B3: NSC0062, NSR-29 packet, NSR 29, and NSD 67. | This decides whether the intelligence budget/community-management lane has a selectable internal record. | [Action board](compiler-action-board.html), [send sheet](request-send-sheet.html), [Intelligence chapter](intelligence-matters-chapter.html), [Source-note worklist](source-note-worklist.html) |
 | 3 | Send or log Batch D and C: Chief-of-Mission letter final copy and NSR-16 follow-on papers. | These are the strongest non-intelligence anchors for field authority and Function 150 management. | [Bush COM report](bush-chief-of-mission-letter.html), [NSR-16 review](nsr-16-budget-review.html), [Selection worksheet](selection-worksheet.html) |
 | 4 | Send or log Batch E1 and E2: PDB process records and Daily Diary/Backup cross-checks. | This tests whether Bush's intelligence consumption can be represented by primary process/control records rather than public CIA histories. | [Intelligence chapter](intelligence-matters-chapter.html), [Request packet](research-request-packet.html#batch-e-pdb-process-and-daily-diary-corroboration) |
 | 5 | Start Batch F with Baker, Eagleburger, Kimmitt, and Zoellick lot files. | These files are the best path to replacing public speeches with internal State management records. | [Archival pull matrix](archival-pull-matrix.html), [Request packet](research-request-packet.html#batch-f-state-lot-files) |
@@ -49,6 +49,7 @@ Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler action board](compiler-action-board.html)
+- [Request send sheet](request-send-sheet.html)
 - [Promotion gate checklist](promotion-gate-checklist.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Request tracking ledger](request-tracking-ledger.html)

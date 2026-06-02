@@ -16,7 +16,9 @@ submitting.
 After sending a request, record status and responses in the
 [request tracking ledger](request-tracking-ledger.html).
 For send order and the pages to update after each response, use the
-[compiler action board](compiler-action-board.html).
+[compiler action board](compiler-action-board.html). For a compact
+subject-line and route sheet, use the [request send
+sheet](request-send-sheet.html).
 
 ## Where To Send
 
@@ -353,6 +355,7 @@ re-reading the whole exchange.
 
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler action board](compiler-action-board.html)
+- [Request send sheet](request-send-sheet.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Archival pull matrix](archival-pull-matrix.html)

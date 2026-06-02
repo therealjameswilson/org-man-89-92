@@ -17,8 +17,10 @@ Spreadsheet export: [request tracking ledger CSV](request-tracking-ledger.csv).
 For the current project status, use the
 [compiler dashboard](compiler-dashboard.html). For the recommended send order
 and closeout pages for each request, use the [compiler action
-board](compiler-action-board.html). Before any response changes a candidate to
-selected or source-note-ready, run the [promotion gate
+board](compiler-action-board.html), then use the [request send
+sheet](request-send-sheet.html) for compact subject lines, routes, and control
+links. Before any response changes a candidate to selected or
+source-note-ready, run the [promotion gate
 checklist](promotion-gate-checklist.html).
 
 ## Status Key
@@ -99,6 +101,7 @@ request_id,priority,target,route,status,date_sent,ack_date,tracking_number,respo
 - [Compiler dashboard](compiler-dashboard.html)
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler action board](compiler-action-board.html)
+- [Request send sheet](request-send-sheet.html)
 - [Declassified and public document index](declassified-document-index.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Research request packet](research-request-packet.html)

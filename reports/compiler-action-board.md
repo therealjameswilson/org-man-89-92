@@ -9,8 +9,10 @@ Checked: 2026-06-02
 
 Purpose: turn the open source gaps into the next concrete compiler actions.
 Use this page as the send-order board. The full request language remains in
-the [research request packet](research-request-packet.html), and responses are
-tracked in the [request tracking ledger](request-tracking-ledger.html).
+the [research request packet](research-request-packet.html), send-ready subject
+lines and route/control links are in the [request send
+sheet](request-send-sheet.html), and responses are tracked in the [request
+tracking ledger](request-tracking-ledger.html).
 For the whole-project status readout, start with the
 [compiler dashboard](compiler-dashboard.html).
 
@@ -52,6 +54,7 @@ Do these in the same pass for every response:
 
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler dashboard](compiler-dashboard.html)
+- [Request send sheet](request-send-sheet.html)
 - [Research request packet](research-request-packet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Source note worklist](source-note-worklist.html)
