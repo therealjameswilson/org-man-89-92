@@ -10,6 +10,8 @@ Checked: 2026-06-02
 Purpose: classify repository, MDR, and agency responses without forcing the
 compiler to reconcile the ledger, source-note worklist, selection worksheet,
 and decision log by hand. Use this page immediately after a response arrives.
+Then use the [candidate closeout board](candidate-closeout-board.html) to
+identify the affected candidate's blocker and next status move.
 
 Spreadsheet export: [response triage sheet CSV](response-triage-sheet.csv).
 
@@ -39,21 +41,24 @@ Spreadsheet export: [response triage sheet CSV](response-triage-sheet.csv).
 1. Update the [request tracking ledger](request-tracking-ledger.html) first.
 2. Update the [source-note worklist](source-note-worklist.html) only for facts
    actually proved by the response.
-3. Update the [selection worksheet](selection-worksheet.html) if document value
+3. Check the [candidate closeout board](candidate-closeout-board.html) for the
+   candidate-specific blocker, decision dependency, and next move.
+4. Update the [selection worksheet](selection-worksheet.html) if document value
    or release status changed.
-4. Update the [compiler decision log](compiler-decision-log.html) if the
+5. Update the [compiler decision log](compiler-decision-log.html) if the
    response changes terminal-date handling, public fallback use, chapter
    architecture, appeal/re-review priority, or control-copy choice.
    Use the [decision resolution sheet](decision-resolution-sheet.html) to
    decide whether the response triggers a now-ready or evidence-dependent
    decision.
-5. Before marking anything selected or source-note-ready, run the [promotion
+6. Before marking anything selected or source-note-ready, run the [promotion
    gate checklist](promotion-gate-checklist.html).
 
 ## Related Project Reports
 
 - [Compiler dashboard](compiler-dashboard.html)
 - [Compiler action board](compiler-action-board.html)
+- [Candidate closeout board](candidate-closeout-board.html)
 - [Request send sheet](request-send-sheet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Research request packet](research-request-packet.html)

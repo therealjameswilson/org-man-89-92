@@ -18,6 +18,7 @@ For the whole-project status readout and current first moves, start with the
 [compiler dashboard](compiler-dashboard.html) and [compiler action
 board](compiler-action-board.html).
 Before changing a candidate to selected status, run the
+[candidate closeout board](candidate-closeout-board.html) and then the
 [promotion gate checklist](promotion-gate-checklist.html).
 
 Spreadsheet export: [selection worksheet CSV](selection-worksheet.csv).
@@ -103,6 +104,7 @@ not available:
 - [Compiler dashboard](compiler-dashboard.html)
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler action board](compiler-action-board.html)
+- [Candidate closeout board](candidate-closeout-board.html)
 - [Declassified and public document index](declassified-document-index.html)
 - [Research request packet](research-request-packet.html)
 - [Request tracking ledger](request-tracking-ledger.html)

@@ -44,6 +44,7 @@ sheet](response-triage-sheet.html).
 
 - [Compiler dashboard](compiler-dashboard.html)
 - [Compiler decision log](compiler-decision-log.html)
+- [Candidate closeout board](candidate-closeout-board.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Promotion gate checklist](promotion-gate-checklist.html)
 - [Response triage sheet](response-triage-sheet.html)

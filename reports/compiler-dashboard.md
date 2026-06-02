@@ -19,6 +19,7 @@ Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 | --- | --- | --- | --- |
 | Document queue | 22 declassified or public document leads; 5 public-control PDFs; 7 public locators; 10 readable public copies/statutes/Public Papers/fallback sources. | There is enough public source trail for prioritizing, but not enough for final selection. | [Declassified and public document index](declassified-document-index.html) |
 | Selection posture | 18 candidate slots: 6 promote/review, 6 hold/MDR, 3 support/fallback, 3 selective. | Work should start with the promote/review rows but no row is final-selected yet. | [Selection worksheet](selection-worksheet.html) and [promotion gate checklist](promotion-gate-checklist.html) |
+| Candidate closeout | 18 candidate closeout rows tied to blocker, request dependency, decision dependency, and next move. | Use this after a response is triaged and before changing selection status. | [Candidate closeout board](candidate-closeout-board.html) |
 | Requests | 17 active request rows; all 17 are still Not recorded. | The fastest real progress is sending or logging request batches, then entering responses. | [Compiler action board](compiler-action-board.html), [request send sheet](request-send-sheet.html), [research request packet](research-request-packet.html), [request tracking ledger](request-tracking-ledger.html), [response triage sheet](response-triage-sheet.html) |
 | Source notes | 16 source-note rows: 6 partial/locator, 7 not ready, 3 support/fallback, 0 final-ready. | Source-note form exists, but final notes require archival control facts. | [Source note worklist](source-note-worklist.html) and [source note style audit](source-note-style-audit.html) |
 | Decisions | 14 decisions: 8 default ready, 6 evidence dependent, 0 decided. | Compiler choices still need to be recorded before final architecture is frozen. | [Compiler decision log](compiler-decision-log.html) and [decision resolution sheet](decision-resolution-sheet.html) |
@@ -49,6 +50,7 @@ Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler action board](compiler-action-board.html)
+- [Candidate closeout board](candidate-closeout-board.html)
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
 - [Promotion gate checklist](promotion-gate-checklist.html)

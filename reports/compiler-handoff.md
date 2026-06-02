@@ -23,6 +23,8 @@ For copy/paste request language grouped by repository and priority, use the
 [research request packet](research-request-packet.html).
 For document-slot triage, use the
 [selection worksheet](selection-worksheet.html).
+For candidate-specific blockers and next status moves, use the
+[candidate closeout board](candidate-closeout-board.html).
 Before promoting a candidate to selected status, use the
 [promotion gate checklist](promotion-gate-checklist.html).
 For request status and response processing, use the
@@ -106,6 +108,7 @@ record.
 - [Intelligence matters chapter](intelligence-matters-chapter.html)
 - [Compiler dashboard](compiler-dashboard.html)
 - [Compiler action board](compiler-action-board.html)
+- [Candidate closeout board](candidate-closeout-board.html)
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
 - [Declassified and public document index](declassified-document-index.html)

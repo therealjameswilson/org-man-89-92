@@ -14,6 +14,8 @@ lines and route/control links are in the [request send
 sheet](request-send-sheet.html), and responses are tracked in the [request
 tracking ledger](request-tracking-ledger.html). When a response arrives,
 classify it first with the [response triage sheet](response-triage-sheet.html).
+Then use the [candidate closeout board](candidate-closeout-board.html) to
+identify the candidate-specific blocker and next status move.
 For the whole-project status readout, start with the
 [compiler dashboard](compiler-dashboard.html).
 
@@ -46,18 +48,21 @@ Do these in the same pass for every response:
 4. Update document status in the
    [selection worksheet](selection-worksheet.html): promote, hold, support,
    fallback, or drop.
-5. Before marking a candidate selected, run the
+5. Use the [candidate closeout board](candidate-closeout-board.html) to verify
+   which blocker, decision dependency, and next move apply to the candidate.
+6. Before marking a candidate selected, run the
    [promotion gate checklist](promotion-gate-checklist.html).
-6. If the response changes volume architecture or selection rules, update the
+7. If the response changes volume architecture or selection rules, update the
    [compiler decision log](compiler-decision-log.html) and [decision
    resolution sheet](decision-resolution-sheet.html).
-7. If a new public/control link is added, rerun the
+8. If a new public/control link is added, rerun the
    [link health audit](link-health-audit.html).
 
 ## Related Project Reports
 
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler dashboard](compiler-dashboard.html)
+- [Candidate closeout board](candidate-closeout-board.html)
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)
 - [Research request packet](research-request-packet.html)

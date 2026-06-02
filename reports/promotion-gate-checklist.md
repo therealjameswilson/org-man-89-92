@@ -11,6 +11,8 @@ Purpose: define the evidence gate for moving a candidate from promising to
 selected. Use this page before changing a row in the
 [selection worksheet](selection-worksheet.html) from hold, support, fallback,
 or include-review posture to a selected-document recommendation.
+For candidate-specific blockers, use the [candidate closeout
+board](candidate-closeout-board.html) first.
 
 Spreadsheet export: [promotion gate checklist CSV](promotion-gate-checklist.csv).
 
@@ -25,7 +27,7 @@ Spreadsheet export: [promotion gate checklist CSV](promotion-gate-checklist.csv)
 | 5. FRUS value proven | The record shows organization, management, coordination, budget, staffing, authority, oversight, implementation, or source-control machinery. | Use as chronology, source-note support, or editorial context; do not spend a document slot on policy substance alone. | [Selection worksheet](selection-worksheet.html), [provisional outline](provisional-volume-outline.html). |
 | 6. Architecture decision resolved | Any affected architecture or fallback rule is recorded: terminal date, intelligence-chapter scope, public fallback use, case-study count, State lot priority, or control-copy rule. | Keep candidate in hold/include-review posture until the decision is recorded. | [Compiler decision log](compiler-decision-log.html), [decision resolution sheet](decision-resolution-sheet.html), [selection worksheet](selection-worksheet.html). |
 | 7. Source-note draft clean | The source note follows FRUS order and has no unresolved bracketed facts unless a documented search says the fact is unavailable. | Do not mark source-note-ready; leave the row partial/not ready. | [Source note worklist](source-note-worklist.html), [source-note style audit](source-note-style-audit.html). |
-| 8. Same-pass status update | Selection status, source-note readiness, request status, and decision consequences all agree across the public site. | Do not publish a status change that leaves contradictory instructions on another workflow page. | [Selection worksheet](selection-worksheet.html), [request tracking ledger](request-tracking-ledger.html), [source note worklist](source-note-worklist.html), [compiler handoff](compiler-handoff.html). |
+| 8. Same-pass status update | Selection status, source-note readiness, request status, closeout blocker, and decision consequences all agree across the public site. | Do not publish a status change that leaves contradictory instructions on another workflow page. | [Selection worksheet](selection-worksheet.html), [candidate closeout board](candidate-closeout-board.html), [request tracking ledger](request-tracking-ledger.html), [source note worklist](source-note-worklist.html), [compiler handoff](compiler-handoff.html). |
 
 ## Candidate-Specific Triggers
 
@@ -45,6 +47,7 @@ Spreadsheet export: [promotion gate checklist CSV](promotion-gate-checklist.csv)
 ## Closeout Rule
 
 When a candidate passes the gate, update the [selection worksheet](selection-worksheet.html),
+[candidate closeout board](candidate-closeout-board.html),
 [source note worklist](source-note-worklist.html), [request tracking ledger](request-tracking-ledger.html),
 and [compiler decision log](compiler-decision-log.html) in the same pass. Then
 update the [compiler handoff](compiler-handoff.html) only if the promoted
@@ -54,6 +57,7 @@ candidate changes the top working packet.
 
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler action board](compiler-action-board.html)
+- [Candidate closeout board](candidate-closeout-board.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Request tracking ledger](request-tracking-ledger.html)
 - [Response triage sheet](response-triage-sheet.html)

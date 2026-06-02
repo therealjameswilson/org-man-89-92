@@ -18,6 +18,8 @@ ledger](request-tracking-ledger.html), then classify response type in the
 [response triage sheet](response-triage-sheet.html).
 Use the [promotion gate checklist](promotion-gate-checklist.html) before
 marking any row source-note-ready or selected.
+Use the [candidate closeout board](candidate-closeout-board.html) to identify
+which source-note blocker controls each candidate before changing status.
 
 Spreadsheet export: [source note worklist CSV](source-note-worklist.csv).
 
@@ -63,5 +65,6 @@ the same pass so the public site does not carry contradictory status.
 Related project reports: [Compiler dashboard](compiler-dashboard.html),
 [compiler action board](compiler-action-board.html), [request tracking
 ledger](request-tracking-ledger.html), [response triage sheet](response-triage-sheet.html),
+[candidate closeout board](candidate-closeout-board.html),
 [selection worksheet](selection-worksheet.html),
 and [promotion gate checklist](promotion-gate-checklist.html).
