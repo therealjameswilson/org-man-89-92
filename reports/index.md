@@ -8,6 +8,7 @@ title: Reports
 - [Archival pull matrix](archival-pull-matrix.html)
 - [Bush Chief-of-Mission letter](bush-chief-of-mission-letter.html)
 - [Candidate register](candidate-register.html)
+- [Compiler action board](compiler-action-board.html)
 - [Compiler decision log](compiler-decision-log.html)
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler gap assessment](compiler-gap-assessment.html)
@@ -32,6 +33,7 @@ title: Reports
 ## Spreadsheet Exports
 
 - [Request tracking ledger CSV](request-tracking-ledger.csv)
+- [Compiler action board CSV](compiler-action-board.csv)
 - [Selection worksheet CSV](selection-worksheet.csv)
 - [Declassified document index CSV](declassified-document-index.csv)
 - [Source note worklist CSV](source-note-worklist.csv)

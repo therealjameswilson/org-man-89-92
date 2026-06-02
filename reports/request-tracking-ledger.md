@@ -14,6 +14,9 @@ by each response.
 
 Spreadsheet export: [request tracking ledger CSV](request-tracking-ledger.csv).
 
+For the recommended send order and closeout pages for each request, use the
+[compiler action board](compiler-action-board.html).
+
 ## Status Key
 
 | Status | Meaning | Next action |
@@ -90,6 +93,7 @@ request_id,priority,target,route,status,date_sent,ack_date,tracking_number,respo
 ## Related Project Reports
 
 - [Compiler handoff](compiler-handoff.html)
+- [Compiler action board](compiler-action-board.html)
 - [Declassified and public document index](declassified-document-index.html)
 - [Selection worksheet](selection-worksheet.html)
 - [Research request packet](research-request-packet.html)

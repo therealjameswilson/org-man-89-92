@@ -84,6 +84,7 @@ the gap memo and immediate pull list.
 Follow-up gap-closure work is tracked in:
 
 - [reports/compiler-handoff.md](reports/compiler-handoff.md)
+- [reports/compiler-action-board.md](reports/compiler-action-board.md)
 - [reports/declassified-document-index.md](reports/declassified-document-index.md)
 - [reports/research-request-packet.md](reports/research-request-packet.md)
 - [reports/request-tracking-ledger.md](reports/request-tracking-ledger.md)
@@ -95,6 +96,7 @@ Follow-up gap-closure work is tracked in:
 - [reports/selection-worksheet.csv](reports/selection-worksheet.csv)
 - [reports/declassified-document-index.csv](reports/declassified-document-index.csv)
 - [reports/source-note-worklist.csv](reports/source-note-worklist.csv)
+- [reports/compiler-action-board.csv](reports/compiler-action-board.csv)
 - [reports/compiler-decision-log.csv](reports/compiler-decision-log.csv)
 - [reports/link-health-audit.csv](reports/link-health-audit.csv)
 - [reports/gap-closure-status.md](reports/gap-closure-status.md)
