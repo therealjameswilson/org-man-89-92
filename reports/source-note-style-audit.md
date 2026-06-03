@@ -5,7 +5,7 @@ title: Source Note Style Audit
 
 # Source Note Style Audit
 
-Checked: 2026-06-01
+Checked: 2026-06-02
 
 Reference volume: *Foreign Relations of the United States, 1989-1992, Volume
 XXXI, START I, 1989-1991*.
@@ -32,8 +32,8 @@ Published FRUS source notes follow a compact order:
 
 1. `Source:`
 2. Repository or originating agency.
-3. Record group, office, collection, series, file unit, OA/ID, box, folder, or
-   document number.
+3. Record group, office, collection, series, file unit, source-control
+   identifier, OA/ID, box, folder, or document number.
 4. Classification and handling markings.
 5. Short provenance notes: initials, drafting/clearance, routing, stamped
    notations, presidential marginalia, meeting location, attachments, omitted
@@ -42,12 +42,44 @@ Published FRUS source notes follow a compact order:
 The source note should not lead with a URL, NAID, PDF filename, or explanatory
 assessment. Those belong in compiler notes, pull matrices, or source lists.
 
+## Published Provenance Standard
+
+Use this as the closeout standard for every candidate before it is marked
+source-note-ready.
+
+| Published pattern | What it means here |
+| --- | --- |
+| Repository-first citation | Start with George H.W. Bush Library, Department of State, CIA, OMB, or the originating agency/publication. Do not start with a catalog page, PDF URL, FAS index, magazine URL, or NAID. |
+| Collection and series precision | Give the office, collection, series, lot file, H-Files/NSR/NSD/NSC Meetings series, Central Foreign Policy File, S/S file, box/folder, OA/ID, document number, cable number, or other repository control identifier when available. |
+| Document-face markings | Classification, handling, priority, declassification, and release markings must come from the document face or official release, not from the public endpoint. |
+| Provenance sentence | Add concise factual sentences after the markings for copy status, routing, initials, drafting/clearance, stamped notations, presidential marginalia, attachment status, meeting location, omitted portions, or cross-references only when the record proves them. |
+| Locator separation | Keep NAIDs, public URLs, S3 PDF filenames, search terms, catalog status, and link-health results in the declassified index, request packet, ledger, or pull matrix. They are not final source-note provenance unless no better identifier exists and fallback use is recorded. |
+| Fallback discipline | Printed/public/statutory text can be the source only after the archival control copy has been searched or the compiler accepts a public fallback. The source note or adjacent editorial note must preserve that no-find/fallback basis. |
+
+## Provenance Closeout Test
+
+Before a row closes, ask:
+
+1. Does the note identify the actual source family in published FRUS order?
+2. Does it name the repository, collection, series, folder/file unit, and
+   document identity?
+3. Are OA/ID, lot, box/folder, telegram, document, or other source-control
+   identifiers taken from the record or response?
+4. Are classification, handling, release, and declassification markings taken
+   from the document face or official release?
+5. Are routing, copy-status, marginalia, attachment, meeting-location, and
+   omitted-material statements factual and visible or otherwise proved?
+6. Are public URLs and NAIDs kept out of the final note except for a documented
+   fallback or no-better-identifier explanation?
+7. If the source is a public fallback, is the search/no-find/fallback decision
+   recorded in the ledger or decision log?
+
 ## Matching Check
 
 | Item checked | Current form | FRUS match | Required fix before final selection |
 | --- | --- | --- | --- |
 | NSR-16 review note | Provisional `Source:` note now begins with George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSR Files. | Partial match | Verify OA/ID, folder title, classification, signature/routing, and any presidential annotation from the control copy. |
-| NSC/DC 151 draft note | Newly identified online file unit uses Bush Library, Bush Presidential Records, NSC, H-Files, NSC/DC Meetings, OA/ID 90015-009, NAID 352356448. | Partial match | Verify exact folder title, classification/handling markings, meeting minutes/summary status, and whether withheld tabs can be re-reviewed. |
+| NSC/DC 151 draft note | Newly identified online file unit supports a Bush Library, Bush Presidential Records, NSC, H-Files, NSC/DC Meetings, OA/ID 90015-009 source-note form; the NAID remains a request/link locator. | Partial match | Verify exact folder title, classification/handling markings, meeting minutes/summary status, and whether withheld tabs can be re-reviewed. |
 | NSC0062 / NSR-29 Intelligence Priorities draft notes | Newly identified online file units use H-Files, NSC Meetings Files, OA/ID 90002-032, and NSC/DC Meetings Follow-up, OA/ID 90043-037. | Partial match | Compare the two March 25, 1992 packets, identify duplicate or variant tabs, and verify classification/handling, meeting location, participant list, and attachment status. |
 | NSD 79 draft note | Provisional note uses Bush Library, Bush Presidential Records, NSC, H-Files, NSD Files, OA/ID 90005-033. | Partial match | Verify exact folder title, classification/handling markings, signed-final status, distribution list, and any legal or version-control attachments. |
 | Chief-of-Mission letter | Working notes point to *State*, October 1990, and NAID 470760858 as a related file. | Not final | Pull the signed/circulated July 12, 1990 all-post White House or S/S copy. Use the printed *State* version only as fallback. |
@@ -123,25 +155,25 @@ archival control copy.
 
 ### NSR-16
 
-`Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSR Files, OA/ID [verify], NSR-16--June 07, 1989--Comprehensive Review of International Affairs Budget and Programs [1]. [Classification marking to verify].`
+`Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSR Files, OA/ID [verify], NSR-16--June 07, 1989--Comprehensive Review of International Affairs Budget and Programs [1]. [Classification and handling markings to verify].`
 
 ### NSD 79
 
-`Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSD Files, OA/ID 90005-033, NSD-79--January 19, 1993--Approval and Review of Covert Action. [Classification marking to verify].`
+`Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSD Files, OA/ID 90005-033, NSD-79--January 19, 1993--Approval and Review of Covert Action. [Classification and handling markings to verify].`
 
 ### NSC/DC 151
 
-`Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings, OA/ID 90015-009, NSC/DC 151--July 05, 1990--NSC/DC Meeting on Definition of Covert Action. [Classification marking to verify]. [Meeting time/location, summary/minutes status, and tabs to verify.]`
+`Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings, OA/ID 90015-009, NSC/DC 151--July 05, 1990--NSC/DC Meeting on Definition of Covert Action. [Classification and handling markings to verify]. [Meeting time/location, summary/minutes status, and tabs to verify.]`
 
 ### NSC0062 / NSR-29 Intelligence Priorities
 
-`Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meetings Files, OA/ID 90002-032, NSC0062--March 25, 1992--Intelligence Capabilities/1992-2005. [Classification marking to verify]. [Meeting time/location, participant list, attachments, and withheld tabs to verify.]`
+`Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meetings Files, OA/ID 90002-032, NSC0062--March 25, 1992--Intelligence Capabilities/1992-2005. [Classification and handling markings to verify]. [Meeting time/location, participant list, attachments, and withheld tabs to verify.]`
 
-`Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Follow-up, OA/ID 90043-037, NSC Meeting NSR-29-Intelligence Priorities 3/25/92. [Classification marking to verify]. [Relationship to NSC0062 packet, attachments, and withheld tabs to verify.]`
+`Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Follow-up, OA/ID 90043-037, NSC Meeting NSR-29-Intelligence Priorities 3/25/92. [Classification and handling markings to verify]. [Relationship to NSC0062 packet, attachments, and withheld tabs to verify.]`
 
 ### Chief-of-Mission Letter
 
-`Source: George H.W. Bush Library, Bush Presidential Records, [White House office/series to verify], OA/ID [verify], [folder title]. [Classification marking to verify]. [Covering memorandum, distribution, or signed-copy note to verify.]`
+`Source: George H.W. Bush Library, Bush Presidential Records, [White House office/series to verify], OA/ID [verify], [folder title]. [Classification and handling markings to verify]. [Covering memorandum, distribution, or signed-copy note to verify.]`
 
 Fallback only:
 
@@ -153,7 +185,7 @@ Fallback only:
 
 ### Presidential Daily Diary Corroboration
 
-`Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, GB-WHASF-001, [date or folder title]. [Classification marking to verify]. [Entry time, location, participants, telephone-call status, or backup-material note to verify against the diary/backup page.]`
+`Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, GB-WHASF-001, [date or folder title]. [Classification and handling markings to verify]. [Entry time, location, participants, telephone-call status, or backup-material note to verify against the diary/backup page.]`
 
 Use this form for chronology and participation only. If the selected document
 prints or cites a substantive conversation, pair the Daily Diary/Backup note
@@ -162,8 +194,9 @@ caption source.
 
 ## Editorial Rules For This Project
 
-- Keep NAIDs and URLs in pull matrices, not in finished source notes, unless
-  the online catalog is the only available locator in a working note.
+- Keep NAIDs and URLs in pull matrices, request packets, declassified indexes,
+  and ledgers, not in finished source notes, unless no better repository
+  control identifier exists and the fallback/no-find basis is recorded.
 - Use "No classification marking" only when the document itself has no marking.
   Do not infer it from a public reprint.
 - Include handling markings after classification: `Secret; Nodis`, `Secret;

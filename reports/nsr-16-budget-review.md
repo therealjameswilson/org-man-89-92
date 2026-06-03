@@ -13,7 +13,7 @@ repository order rather than leading with a NAID:
 `Source: George H.W. Bush Library, Bush Presidential Records, National Security
 Council, H-Files, NSR Files, OA/ID [verify], NSR-16--June 07,
 1989--Comprehensive Review of International Affairs Budget and Programs [1].
-[Classification marking to verify].`
+[Classification and handling markings to verify].`
 
 Catalog locator: NAID 446394955.
 

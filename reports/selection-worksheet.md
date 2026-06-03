@@ -92,7 +92,7 @@ not available:
 
 | Field | Required evidence |
 | --- | --- |
-| Control copy | Repository, series, folder/file title, OA/ID or NAID, and whether the file is the signed/circulated/final copy. |
+| Control copy | Repository, series, folder/file title, OA/ID, lot, box/folder, document/cable number, or other repository control identifier, and whether the file is the signed/circulated/final copy. NAIDs and public URLs stay in locator/tracking notes unless fallback use is recorded. |
 | Document identity | Date, title, document type, originator/drafter, recipient, meeting time/place if relevant, and attachments. |
 | Classification | Classification and handling markings as printed on the document; do not infer from a public reprint. |
 | Release status | Fully open, partially open, withheld, referred, public fallback, or not located. |

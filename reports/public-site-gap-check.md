@@ -30,6 +30,10 @@ Updated site-link QA: 2026-06-02.
   CSV export for a one-sitting send/log/update workflow.
 - Added heading-anchor validation to the QA pass and fixed the broken Batch B
   decision-log anchor.
+- Tightened the source-note provenance standard against published FRUS
+  examples: repository/record-system provenance now stays separate from
+  NAID/public-URL locator trails across the audit, worklist, field matrix,
+  promotion gates, intake/triage sheets, and compiler handoffs.
 
 ## June 2 Site-Link QA
 

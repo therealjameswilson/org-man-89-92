@@ -90,7 +90,7 @@ Use meeting number, date, title, NAID, and local ID in every request.
 
 Before selection, each document needs a FRUS-style source note with:
 
-- Repository, record group/collection, series, folder/file title, OA/ID or NAID, and document number where available.
+- Repository, record group/collection, series, folder/file title, OA/ID, lot, box/folder, document/cable number, or other repository control identifier where available. Keep NAIDs and public URLs in locator/tracking notes unless no better identifier exists and fallback use is recorded.
 - Classification and handling markings from the document face, plus declassification/withholding information if visible.
 - Document type, date, drafter/originator, recipients, meeting location/time, and attachments/enclosures.
 - Version status: signed final, circulated copy, draft, attachment, press text, or public fallback.

@@ -51,8 +51,10 @@ Do these in the same pass for every response:
    [request tracking ledger](request-tracking-ledger.html).
 4. Capture source-note facts in the
    [source note worklist](source-note-worklist.html): repository, series,
-   folder, OA/ID or NAID, classification, document type, attachments,
-   withholdings, and version status.
+   folder, OA/ID, lot, box/folder, document/cable number, or other repository
+   control identifier, classification, document type, attachments,
+   withholdings, and version status. Keep NAIDs and public URLs as
+   locator/tracking facts unless fallback use is recorded.
 5. Check the [source note field matrix](source-note-field-matrix.html) so the
    captured facts match the correct source pool before closing any note.
 6. Update document status in the
