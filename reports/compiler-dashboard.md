@@ -20,6 +20,7 @@ Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 | Document queue | 22 declassified or public document leads; 5 public-control PDFs; 7 public locators; 10 readable public copies/statutes/Public Papers/fallback sources. | There is enough public source trail for prioritizing, but not enough for final selection. | [Declassified and public document index](declassified-document-index.html) |
 | Selection posture | 18 candidate slots: 6 promote/review, 6 hold/MDR, 3 support/fallback, 3 selective. | Work should start with the promote/review rows but no row is final-selected yet. | [Selection worksheet](selection-worksheet.html) and [promotion gate checklist](promotion-gate-checklist.html) |
 | Candidate closeout | 18 candidate closeout rows tied to blocker, request dependency, decision dependency, and next move. | Use this after a response is triaged and before changing selection status. | [Candidate closeout board](candidate-closeout-board.html) |
+| First-session queue | 7 same-session work units turn first moves into a send/log/update sequence. | Use this when the compiler has a working block and wants to avoid jumping between pages in the wrong order. | [Compiler first-session queue](compiler-first-session-queue.html) |
 | Submission routes | 8 route lanes checked against official Bush Library, NARA MDR, State MDR, Daily Diary/Backup, and FRUS source-list pages. | Use this before sending so requests go to the right official route with the right evidence packet. | [Submission route sheet](submission-route-sheet.html) |
 | Requests | 17 active request rows; all 17 are still Not recorded. | The fastest real progress is sending or logging request batches, then entering responses. | [Compiler action board](compiler-action-board.html), [submission route sheet](submission-route-sheet.html), [request send sheet](request-send-sheet.html), [research request packet](research-request-packet.html), [request tracking ledger](request-tracking-ledger.html), [response triage sheet](response-triage-sheet.html) |
 | Response intake | 18 response-intake fields define what to capture from each repository reply, release, referral, no-find, or fallback response. | Use this before updating source notes, closeout status, selection posture, or decisions. | [Response intake sheet](response-intake-sheet.html) |
@@ -52,6 +53,7 @@ Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 ## Related Project Reports
 
 - [Compiler handoff](compiler-handoff.html)
+- [Compiler first-session queue](compiler-first-session-queue.html)
 - [Compiler action board](compiler-action-board.html)
 - [Candidate closeout board](candidate-closeout-board.html)
 - [Submission route sheet](submission-route-sheet.html)

@@ -85,6 +85,7 @@ Follow-up gap-closure work is tracked in:
 
 - [reports/compiler-handoff.md](reports/compiler-handoff.md)
 - [reports/compiler-dashboard.md](reports/compiler-dashboard.md)
+- [reports/compiler-first-session-queue.md](reports/compiler-first-session-queue.md)
 - [reports/compiler-action-board.md](reports/compiler-action-board.md)
 - [reports/candidate-closeout-board.md](reports/candidate-closeout-board.md)
 - [reports/submission-route-sheet.md](reports/submission-route-sheet.md)
@@ -108,6 +109,7 @@ Follow-up gap-closure work is tracked in:
 - [reports/declassified-document-index.csv](reports/declassified-document-index.csv)
 - [reports/source-note-worklist.csv](reports/source-note-worklist.csv)
 - [reports/compiler-dashboard.csv](reports/compiler-dashboard.csv)
+- [reports/compiler-first-session-queue.csv](reports/compiler-first-session-queue.csv)
 - [reports/compiler-action-board.csv](reports/compiler-action-board.csv)
 - [reports/submission-route-sheet.csv](reports/submission-route-sheet.csv)
 - [reports/request-send-sheet.csv](reports/request-send-sheet.csv)

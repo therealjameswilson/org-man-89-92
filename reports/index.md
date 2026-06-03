@@ -12,6 +12,7 @@ title: Reports
 - [Compiler dashboard](compiler-dashboard.html)
 - [Compiler action board](compiler-action-board.html)
 - [Compiler decision log](compiler-decision-log.html)
+- [Compiler first-session queue](compiler-first-session-queue.html)
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler gap assessment](compiler-gap-assessment.html)
 - [Cross-source volume candidates](cross-source-volume-ii-candidates.html)
@@ -44,6 +45,7 @@ title: Reports
 
 - [Request tracking ledger CSV](request-tracking-ledger.csv)
 - [Compiler dashboard CSV](compiler-dashboard.csv)
+- [Compiler first-session queue CSV](compiler-first-session-queue.csv)
 - [Compiler action board CSV](compiler-action-board.csv)
 - [Candidate closeout board CSV](candidate-closeout-board.csv)
 - [Submission route sheet CSV](submission-route-sheet.csv)

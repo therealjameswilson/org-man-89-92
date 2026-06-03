@@ -15,6 +15,8 @@ For the current status readout, use the
 [compiler dashboard](compiler-dashboard.html).
 For the full chronological public/control-copy queue, use the
 [declassified and public document index](declassified-document-index.html).
+For a one-sitting send/log/update workflow, use the [compiler first-session
+queue](compiler-first-session-queue.html).
 For send order and response closeout, use the
 [compiler action board](compiler-action-board.html).
 For official route choice and evidence packets, use the
@@ -115,6 +117,7 @@ record.
 
 - [Intelligence matters chapter](intelligence-matters-chapter.html)
 - [Compiler dashboard](compiler-dashboard.html)
+- [Compiler first-session queue](compiler-first-session-queue.html)
 - [Compiler action board](compiler-action-board.html)
 - [Candidate closeout board](candidate-closeout-board.html)
 - [Submission route sheet](submission-route-sheet.html)

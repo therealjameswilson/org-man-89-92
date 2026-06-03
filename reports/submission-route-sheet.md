@@ -13,6 +13,10 @@ board](compiler-action-board.html), the [research request
 packet](research-request-packet.html), and the [request send
 sheet](request-send-sheet.html).
 
+For a one-sitting order of operations, start with the [compiler first-session
+queue](compiler-first-session-queue.html), then use this page to confirm each
+route lane before submitting.
+
 Spreadsheet export: [submission route sheet CSV](submission-route-sheet.csv).
 
 Use the official route page before submitting; forms, addresses, emails, and
@@ -60,6 +64,7 @@ sheet](follow-up-request-sheet.html) for the next request.
 ## Related Project Reports
 
 - [Compiler dashboard](compiler-dashboard.html)
+- [Compiler first-session queue](compiler-first-session-queue.html)
 - [Compiler action board](compiler-action-board.html)
 - [Request send sheet](request-send-sheet.html)
 - [Research request packet](research-request-packet.html)

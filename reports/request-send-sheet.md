@@ -20,6 +20,9 @@ sheet](submission-route-sheet.html) before this page when the route lane is not
 obvious. The route page is the authority if an address, form, or intake method
 changes.
 
+For a one-sitting send/log/update order, use the [compiler first-session
+queue](compiler-first-session-queue.html) before moving through this sheet.
+
 ## First-Send Queue
 
 | Order | ID | Route | Subject | Send with | After sending |
@@ -64,6 +67,7 @@ batch:
 ## Related Project Reports
 
 - [Compiler dashboard](compiler-dashboard.html)
+- [Compiler first-session queue](compiler-first-session-queue.html)
 - [Compiler action board](compiler-action-board.html)
 - [Submission route sheet](submission-route-sheet.html)
 - [Research request packet](research-request-packet.html)

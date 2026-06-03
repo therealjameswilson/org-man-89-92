@@ -17,9 +17,10 @@ Spreadsheet export: [request tracking ledger CSV](request-tracking-ledger.csv).
 For the current project status, use the
 [compiler dashboard](compiler-dashboard.html). For the recommended send order
 and closeout pages for each request, use the [compiler action
-board](compiler-action-board.html), then use the [request send
-sheet](request-send-sheet.html) for compact subject lines, routes, and control
-links. Before any response changes a candidate to selected or
+board](compiler-action-board.html). For a one-sitting sending workflow, use the
+[compiler first-session queue](compiler-first-session-queue.html), then use the
+[request send sheet](request-send-sheet.html) for compact subject lines, routes,
+and control links. Before any response changes a candidate to selected or
 source-note-ready, run the [promotion gate
 checklist](promotion-gate-checklist.html). For response classification, use
 the [response triage sheet](response-triage-sheet.html), then capture exact
@@ -106,6 +107,7 @@ Follow-up wording: [follow-up request sheet](follow-up-request-sheet.html).
 
 - [Compiler dashboard](compiler-dashboard.html)
 - [Compiler handoff](compiler-handoff.html)
+- [Compiler first-session queue](compiler-first-session-queue.html)
 - [Compiler action board](compiler-action-board.html)
 - [Request send sheet](request-send-sheet.html)
 - [Response triage sheet](response-triage-sheet.html)

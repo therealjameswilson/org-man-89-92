@@ -20,7 +20,8 @@ or no-find facts in the [response intake sheet](response-intake-sheet.html).
 Then use the [candidate closeout board](candidate-closeout-board.html) to
 identify the candidate-specific blocker and next status move.
 For the whole-project status readout, start with the
-[compiler dashboard](compiler-dashboard.html).
+[compiler dashboard](compiler-dashboard.html). For a one-sitting send/log/update
+sequence, use the [compiler first-session queue](compiler-first-session-queue.html).
 
 Spreadsheet export: [compiler action board CSV](compiler-action-board.csv).
 
@@ -74,6 +75,7 @@ Do these in the same pass for every response:
 
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler dashboard](compiler-dashboard.html)
+- [Compiler first-session queue](compiler-first-session-queue.html)
 - [Candidate closeout board](candidate-closeout-board.html)
 - [Submission route sheet](submission-route-sheet.html)
 - [Request send sheet](request-send-sheet.html)

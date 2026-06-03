@@ -26,6 +26,10 @@ Updated site-link QA: 2026-06-02.
 - Added a [submission route sheet](submission-route-sheet.html) and CSV export
   tying request lanes to official Bush Library, NARA MDR, State MDR, CIA,
   Daily Diary/Backup, State lot-file, and follow-up routes.
+- Added a [compiler first-session queue](compiler-first-session-queue.html) and
+  CSV export for a one-sitting send/log/update workflow.
+- Added heading-anchor validation to the QA pass and fixed the broken Batch B
+  decision-log anchor.
 
 ## June 2 Site-Link QA
 
@@ -35,12 +39,14 @@ public-source links.
 
 | Check | Result | Compiler meaning |
 | --- | --- | --- |
-| Markdown/HTML files scanned | 39 | Site-link check covered the published page corpus and layout. |
-| Link instances extracted | 1606 | Includes repeated navigation, source, report, CSV, and external links. |
-| Internal link instances checked | 1179 | Relative `.html`, `.md`, `.csv`, and report-index links resolve to repository files. |
+| Markdown/HTML files scanned | 40 | Site-link check covered the published page corpus and layout. |
+| Link instances extracted | 1714 | Includes repeated navigation, source, report, CSV, and external links. |
+| Internal link instances checked | 1287 | Relative `.html`, `.md`, `.csv`, and report-index links resolve to repository files. |
 | Missing internal targets | 0 | No broken internal report, CSV, Persons, or homepage target found. |
-| Unique external URLs checked | 70 | All public-source, repository, volume, Google Drive, NARA, CIA, Congress, State MDR, and support-site URLs were checked with `curl -L`. |
+| Unique external URLs checked | 70 | All public-source, repository, volume, Google Drive, NARA, CIA, Congress, State MDR, and support-site URLs were checked with `curl` using HEAD and range-fetch fallback for large archive pages. |
 | External URLs returning `200` | 70 | No external source-trail link failed reachability. |
+| Internal heading anchors checked | 185 | Fragment links such as request-batch and source-note anchors point to generated page sections. |
+| Missing internal heading anchors | 0 | No broken same-site section targets found after fixing the Batch B decision-log link. |
 | Visible bare URLs in Markdown reports | 0 | Source references are embedded links rather than exposed raw URLs. |
 
 Content-type warning: the historical State Department PDF URL for the
