@@ -5,7 +5,7 @@ title: Selection Worksheet
 
 # Selection Worksheet
 
-Checked: 2026-06-02
+Checked: 2026-07-17
 
 Purpose: turn the project notes into document-slot decisions. This is the
 compiler-facing triage board: what to promote, what to hold pending archival
@@ -14,9 +14,9 @@ consume a document slot unless the final architecture changes.
 
 After sending request batches, track responses in the
 [request tracking ledger](request-tracking-ledger.html).
-For the whole-project status readout and current first moves, start with the
-[compiler dashboard](compiler-dashboard.html) and [compiler action
-board](compiler-action-board.html).
+For the canonical joined status and current first moves, start with the
+[compiler control center](compiler-control-center.html), then use the [compiler
+action board](compiler-action-board.html) for send order.
 Before changing a candidate to selected status, run the
 [candidate closeout board](candidate-closeout-board.html) and then the
 [promotion gate checklist](promotion-gate-checklist.html).

@@ -5,11 +5,11 @@ title: Compiler Dashboard
 
 # Compiler Dashboard
 
-Checked: 2026-06-02
+Checked: 2026-07-17
 
-Purpose: one-page status readout for the compiler. Use this first to see what
-is ready to act on, what remains unresolved, and which workflow page controls
-each next move.
+Purpose: compact status metrics for the compiler. Use the [compiler control
+center](compiler-control-center.html) for the joined candidate-level working
+view, then return here when a response changes the aggregate counts.
 
 Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 
@@ -17,6 +17,7 @@ Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 
 | Area | Current status | Compiler meaning | Go next |
 | --- | --- | --- | --- |
+| Joined control view | 18 candidate rows combine direct sources, posture, source-note readiness, requests, decisions, blockers, and next actions. | Use one page for routine status work; open the component sheets only for detail or evidence. | [Compiler control center](compiler-control-center.html) |
 | Document queue | 22 declassified or public document leads; 5 public-control PDFs; 7 public locators; 10 readable public copies/statutes/Public Papers/fallback sources. | There is enough public source trail for prioritizing, but not enough for final selection. | [Declassified and public document index](declassified-document-index.html) |
 | Selection posture | 18 candidate slots: 6 promote/review, 6 hold/MDR, 3 support/fallback, 3 selective. | Work should start with the promote/review rows but no row is final-selected yet. | [Selection worksheet](selection-worksheet.html) and [promotion gate checklist](promotion-gate-checklist.html) |
 | Candidate closeout | 18 candidate closeout rows tied to blocker, request dependency, decision dependency, and next move. | Use this after a response is triaged and before changing selection status. | [Candidate closeout board](candidate-closeout-board.html) |
@@ -28,7 +29,7 @@ Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 | Source notes | 16 source-note rows and 9 source-pool field patterns; 0 final-ready. | Source-note form exists, but final notes require archival control facts and source-pool-specific fields. | [Source note worklist](source-note-worklist.html), [source note field matrix](source-note-field-matrix.html), and [source note style audit](source-note-style-audit.html) |
 | Decisions | 14 decisions: 8 default ready, 6 evidence dependent, 0 decided. | Compiler choices still need to be recorded before final architecture is frozen. | [Compiler decision log](compiler-decision-log.html) and [decision resolution sheet](decision-resolution-sheet.html) |
 | Promotion gates | 8 gates define when a candidate can move from promising to selected. | Do not promote a document until response, control copy, release status, FRUS value, source note, and decision alignment are all resolved. | [Promotion gate checklist](promotion-gate-checklist.html) |
-| Public link health | 31 source links in the link-health table are reachable; whole-site QA found 0 missing internal targets and 69 unique external URLs returning 200. | The public/source-link surface is usable; link reachability is not source-note validation. | [Link health audit](link-health-audit.html) and [public site gap check](public-site-gap-check.html) |
+| Public link health | 31 source links in the link-health table are reachable; whole-site QA found 0 missing internal targets and 71 unique external URLs returning 200 after deployment. | The public/source-link surface is usable; link reachability is not source-note validation. | [Link health audit](link-health-audit.html) and [public site gap check](public-site-gap-check.html) |
 
 ## Do First
 
@@ -52,6 +53,7 @@ Spreadsheet export: [compiler dashboard CSV](compiler-dashboard.csv).
 
 ## Related Project Reports
 
+- [Compiler control center](compiler-control-center.html)
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler first-session queue](compiler-first-session-queue.html)
 - [Compiler action board](compiler-action-board.html)

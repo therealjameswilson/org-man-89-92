@@ -7,6 +7,11 @@ Management of Foreign Policy*.
 The Office of the Historian lists this volume as **Being Researched**:
 [FRUS 1989-1992, Volume II](https://history.state.gov/historicaldocuments/frus1989-92v02).
 
+Operational entry point: [Compiler Control
+Center](https://therealjameswilson.github.io/org-man-89-92/reports/compiler-control-center.html),
+with an 18-row joined view of direct sources, selection posture, source-note
+readiness, requests, decisions, blockers, and next actions.
+
 ## Current Policy Sweep
 
 The first source sweep reviewed a [Google Drive folder of Department of State
@@ -83,6 +88,7 @@ the gap memo and immediate pull list.
 
 Follow-up gap-closure work is tracked in:
 
+- [reports/compiler-control-center.md](reports/compiler-control-center.md)
 - [reports/compiler-handoff.md](reports/compiler-handoff.md)
 - [reports/compiler-dashboard.md](reports/compiler-dashboard.md)
 - [reports/compiler-first-session-queue.md](reports/compiler-first-session-queue.md)

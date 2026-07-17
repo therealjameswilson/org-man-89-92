@@ -5,7 +5,7 @@ title: Candidate Closeout Board
 
 # Candidate Closeout Board
 
-Checked: 2026-06-02
+Checked: 2026-07-17
 
 Purpose: one-row-per-candidate closeout board for deciding what blocks a
 candidate from becoming selected, source-note-ready, support only, fallback,
@@ -13,6 +13,8 @@ or dropped. Use this after classifying a response in the [response triage
 sheet](response-triage-sheet.html), capturing facts in the [response intake
 sheet](response-intake-sheet.html), and before changing status in the
 [selection worksheet](selection-worksheet.html).
+The [compiler control center](compiler-control-center.html) is the canonical
+joined status view; use this board for full blocker and gate detail.
 
 Spreadsheet export: [candidate closeout board CSV](candidate-closeout-board.csv).
 

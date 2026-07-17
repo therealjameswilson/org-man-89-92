@@ -5,7 +5,7 @@ title: Compiler Action Board
 
 # Compiler Action Board
 
-Checked: 2026-06-02
+Checked: 2026-07-17
 
 Purpose: turn the open source gaps into the next concrete compiler actions.
 Use this page as the send-order board. The full request language remains in
@@ -19,8 +19,8 @@ sheet](response-triage-sheet.html). Capture the exact reply, release, referral,
 or no-find facts in the [response intake sheet](response-intake-sheet.html).
 Then use the [candidate closeout board](candidate-closeout-board.html) to
 identify the candidate-specific blocker and next status move.
-For the whole-project status readout, start with the
-[compiler dashboard](compiler-dashboard.html). For a one-sitting send/log/update
+For joined candidate status, start with the [compiler control
+center](compiler-control-center.html). For a one-sitting send/log/update
 sequence, use the [compiler first-session queue](compiler-first-session-queue.html).
 
 Spreadsheet export: [compiler action board CSV](compiler-action-board.csv).

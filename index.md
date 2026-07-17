@@ -14,50 +14,12 @@ trust a summary or a hidden score: every recommendation should lead back to a
 public/control source, official route, request row, source-note gap, or decision
 gate. Treat it as an auditable workbench, not a substitute for FRUS judgment.
 
-## Compiler Start Here
-
-Use these first, in order:
-
-1. [Compiler dashboard](reports/compiler-dashboard.html): one-page status readout with counts, first moves, and current blockers.
-2. [Compiler handoff](reports/compiler-handoff.html): shortest orientation to the strongest candidates, open gaps, and immediate archival tasks.
-3. [Compiler first-session queue](reports/compiler-first-session-queue.html): one-sitting order of operations for sending/logging the first requests and keeping status pages aligned.
-4. [Compiler action board](reports/compiler-action-board.html): send-order board tying request IDs to source-note rows, decisions, and closeout actions.
-5. [Submission route sheet](reports/submission-route-sheet.html): official route matrix for Bush Library, Presidential Libraries MDR, State MDR, CIA, Daily Diary/Backup, lot files, and follow-ups.
-6. [Request send sheet](reports/request-send-sheet.html): compact subject-line, route, control-link, and after-send update sheet for each request row.
-7. [Declassified and public document index](reports/declassified-document-index.html): chronological public/control-copy launch page with source-note status and request links.
-8. [Selection worksheet](reports/selection-worksheet.html): document-slot triage by chapter, with promote/hold/support status and request-batch links.
-9. [Candidate closeout board](reports/candidate-closeout-board.html): one-row-per-candidate blocker and next-move sheet for status changes.
-10. [Promotion gate checklist](reports/promotion-gate-checklist.html): evidence gate for moving a candidate from promising to selected.
-11. [Research request packet](reports/research-request-packet.html): copy/paste-ready Bush Library, MDR, State, CIA, and lot-file request language.
-12. [Request tracking ledger](reports/request-tracking-ledger.html): status board for sent requests, responses, referrals, and source-note actions.
-13. [Response triage sheet](reports/response-triage-sheet.html): classify acknowledgements, releases, referrals, not-located responses, and fallback decisions.
-14. [Response intake sheet](reports/response-intake-sheet.html): exact fields to capture from each reply before updating source notes or selection.
-15. [Follow-up request sheet](reports/follow-up-request-sheet.html): copy/paste-ready wording for partial releases, referrals, no-finds, re-review, and fallback confirmation.
-16. [Source note field matrix](reports/source-note-field-matrix.html): source-pool-specific fields needed before a FRUS-style note can close.
-17. [Source note style audit](reports/source-note-style-audit.html): FRUS-style source-note templates and fields that still need verification.
-18. [Source note worklist](reports/source-note-worklist.html): candidate-by-candidate provisional notes, missing fields, and closure actions.
-19. [Compiler decision log](reports/compiler-decision-log.html): pending architecture, selection, terminal-date, and fallback decisions to record.
-20. [Decision resolution sheet](reports/decision-resolution-sheet.html): compact decision timing, trigger evidence, and update targets.
-21. [Link health audit](reports/link-health-audit.html): current reachability check for public/control-copy source links.
-
-Spreadsheet exports: [declassified document index CSV](reports/declassified-document-index.csv),
-[selection worksheet CSV](reports/selection-worksheet.csv),
-[request tracking ledger CSV](reports/request-tracking-ledger.csv), and
-[source note worklist CSV](reports/source-note-worklist.csv), plus
-[compiler dashboard CSV](reports/compiler-dashboard.csv),
-[compiler first-session queue CSV](reports/compiler-first-session-queue.csv),
-[compiler action board CSV](reports/compiler-action-board.csv),
-[candidate closeout board CSV](reports/candidate-closeout-board.csv),
-[submission route sheet CSV](reports/submission-route-sheet.csv),
-[request send sheet CSV](reports/request-send-sheet.csv),
-[response triage sheet CSV](reports/response-triage-sheet.csv),
-[response intake sheet CSV](reports/response-intake-sheet.csv),
-[follow-up request sheet CSV](reports/follow-up-request-sheet.csv),
-[source note field matrix CSV](reports/source-note-field-matrix.csv),
-[promotion gate checklist CSV](reports/promotion-gate-checklist.csv),
-[compiler decision log CSV](reports/compiler-decision-log.csv),
-[decision resolution sheet CSV](reports/decision-resolution-sheet.csv), and
-[link health audit CSV](reports/link-health-audit.csv).
+For the joined operational view, open the [Compiler Control
+Center](reports/compiler-control-center.html). It puts all 18 candidate slots,
+direct source links, requests, source-note readiness, decision dependencies,
+blockers, and next actions on one page; a [CSV
+export](reports/compiler-control-center.csv) is available for sorting or
+handoff.
 
 ## Priority Declassified and Public Documents
 
@@ -86,70 +48,23 @@ support these documents, not bury them.
 | October 24, 1992 | [Intelligence Authorization Act, Fiscal Year 1993](https://www.congress.gov/102/statute/STATUTE-106/STATUTE-106-Pg3180.pdf) | DCI budget responsibilities, Community Management Staff, aggregate budget disclosure, and congressional oversight. | [Intelligence matters chapter](reports/intelligence-matters-chapter.html) |
 | January 19, 1993 | [NSD 79, Approval and Review of Covert Action](https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSDs_313189290/41-bpr-nsc-hfiles-nsd-79-90005-033.pdf) | Capstone directive for Findings, Memoranda of Notification, NSC/Deputies review, legal review, congressional notification, restricted/delayed notice, and OMB budget consistency. | [Intelligence matters chapter](reports/intelligence-matters-chapter.html) |
 
-## Highest-Value Working Reports
+## Compiler Workflow
 
-- [Intelligence matters chapter](reports/intelligence-matters-chapter.html)
-- [Compiler dashboard](reports/compiler-dashboard.html)
-- [Compiler handoff](reports/compiler-handoff.html)
-- [Compiler first-session queue](reports/compiler-first-session-queue.html)
-- [Compiler action board](reports/compiler-action-board.html)
-- [Candidate closeout board](reports/candidate-closeout-board.html)
-- [Submission route sheet](reports/submission-route-sheet.html)
-- [Request send sheet](reports/request-send-sheet.html)
-- [Declassified and public document index](reports/declassified-document-index.html)
-- [Research request packet](reports/research-request-packet.html)
-- [Request tracking ledger](reports/request-tracking-ledger.html)
-- [Response triage sheet](reports/response-triage-sheet.html)
-- [Response intake sheet](reports/response-intake-sheet.html)
-- [Follow-up request sheet](reports/follow-up-request-sheet.html)
-- [Selection worksheet](reports/selection-worksheet.html)
-- [Promotion gate checklist](reports/promotion-gate-checklist.html)
-- [Provisional volume outline](reports/provisional-volume-outline.html)
-- [Candidate register](reports/candidate-register.html)
-- [Archival pull matrix](reports/archival-pull-matrix.html)
-- [Compiler gap assessment](reports/compiler-gap-assessment.html)
-- [Source note field matrix](reports/source-note-field-matrix.html)
-- [Source note style audit](reports/source-note-style-audit.html)
-- [Source note worklist](reports/source-note-worklist.html)
-- [Compiler decision log](reports/compiler-decision-log.html)
-- [Decision resolution sheet](reports/decision-resolution-sheet.html)
-- [Link health audit](reports/link-health-audit.html)
+1. Use the [Compiler Control Center](reports/compiler-control-center.html) for
+   candidate status, direct evidence, blockers, and next actions.
+2. Use the [first-session queue](reports/compiler-first-session-queue.html),
+   [submission routes](reports/submission-route-sheet.html), and [request
+   packet](reports/research-request-packet.html) to send or log requests.
+3. Record work in the [request ledger](reports/request-tracking-ledger.html).
+   When a reply arrives, use [response triage](reports/response-triage-sheet.html)
+   and [response intake](reports/response-intake-sheet.html) before changing
+   selection status.
+4. Close provenance in the [source-note worklist](reports/source-note-worklist.html)
+   and apply the [promotion gate](reports/promotion-gate-checklist.html) before
+   selecting a document.
 
-## Front Matter
-
-- [Persons](persons.html)
-
-## All Project Notes
-
-- [All reports](reports/)
-- [Current policy sweep](reports/current-policy-sweep.html)
-- [Cross-source volume candidates](reports/cross-source-volume-ii-candidates.html)
-- [Bush Chief-of-Mission letter](reports/bush-chief-of-mission-letter.html)
-- [Intelligence matters chapter](reports/intelligence-matters-chapter.html)
-- [Compiler dashboard](reports/compiler-dashboard.html)
-- [Compiler handoff](reports/compiler-handoff.html)
-- [Compiler first-session queue](reports/compiler-first-session-queue.html)
-- [Compiler action board](reports/compiler-action-board.html)
-- [Candidate closeout board](reports/candidate-closeout-board.html)
-- [Submission route sheet](reports/submission-route-sheet.html)
-- [Request send sheet](reports/request-send-sheet.html)
-- [Declassified and public document index](reports/declassified-document-index.html)
-- [Research request packet](reports/research-request-packet.html)
-- [Request tracking ledger](reports/request-tracking-ledger.html)
-- [Response triage sheet](reports/response-triage-sheet.html)
-- [Response intake sheet](reports/response-intake-sheet.html)
-- [Follow-up request sheet](reports/follow-up-request-sheet.html)
-- [Selection worksheet](reports/selection-worksheet.html)
-- [Promotion gate checklist](reports/promotion-gate-checklist.html)
-- [Compiler gap assessment](reports/compiler-gap-assessment.html)
-- [Source note field matrix](reports/source-note-field-matrix.html)
-- [Source note style audit](reports/source-note-style-audit.html)
-- [Source note worklist](reports/source-note-worklist.html)
-- [Compiler decision log](reports/compiler-decision-log.html)
-- [Decision resolution sheet](reports/decision-resolution-sheet.html)
-- [Link health audit](reports/link-health-audit.html)
-- [Persons list editorial QA](reports/persons-list-editorial-qa.html)
-- [Public site gap check](reports/public-site-gap-check.html)
+Front matter: [Persons](persons.html). Detailed reports and all spreadsheet
+exports are collected in the [reports index](reports/).
 
 ## Official Volume
 

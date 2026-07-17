@@ -5,14 +5,16 @@ title: Compiler Handoff
 
 # Compiler Handoff
 
-Checked: 2026-06-02
+Checked: 2026-07-17
 
 Purpose: a one-page working packet for a FRUS compiler. It starts with
 declassified or public-control documents that can be read or cited now, then
 lists the exact archival and MDR steps still needed before final selection.
 
-For the current status readout, use the
-[compiler dashboard](compiler-dashboard.html).
+For the canonical joined candidate status, use the [compiler control
+center](compiler-control-center.html). This handoff remains the narrative
+orientation; the [compiler dashboard](compiler-dashboard.html) remains the
+aggregate count view.
 For the full chronological public/control-copy queue, use the
 [declassified and public document index](declassified-document-index.html).
 For a one-sitting send/log/update workflow, use the [compiler first-session

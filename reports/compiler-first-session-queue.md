@@ -22,7 +22,7 @@ using the [promotion gate checklist](promotion-gate-checklist.html).
 
 Open these tabs before starting the queue:
 
-1. [Compiler dashboard](compiler-dashboard.html)
+1. [Compiler control center](compiler-control-center.html)
 2. [Submission route sheet](submission-route-sheet.html)
 3. [Request send sheet](request-send-sheet.html)
 4. [Research request packet](research-request-packet.html)
@@ -78,6 +78,7 @@ Next route uncertainty:
 
 ## Related Project Reports
 
+- [Compiler control center](compiler-control-center.html)
 - [Compiler dashboard](compiler-dashboard.html)
 - [Compiler handoff](compiler-handoff.html)
 - [Compiler action board](compiler-action-board.html)

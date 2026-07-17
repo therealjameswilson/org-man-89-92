@@ -1,4 +1,5 @@
 area,status_count,meaning,next_page
+Joined control view,"18 candidate rows combining direct sources, posture, source-note readiness, requests, decisions, blockers, and next actions","Use one page for routine status work; open component sheets only for detail or evidence.",compiler-control-center.html
 Document queue,"22 leads; 5 public-control PDFs; 7 public locators; 10 readable public copies/statutes/Public Papers/fallback sources","Enough public source trail for prioritizing, but not enough for final selection.",declassified-document-index.html
 Selection posture,"18 candidate slots: 6 promote/review; 6 hold/MDR; 3 support/fallback; 3 selective","Start with promote/review rows, but no row is final-selected yet.",selection-worksheet.html
 Candidate closeout,"18 closeout rows tied to blocker, request dependency, decision dependency, and next move","Use after a response is triaged and before changing selection status.",candidate-closeout-board.html
@@ -10,4 +11,4 @@ Follow-up requests,"10 follow-up triggers","Use when a response is incomplete bu
 Source notes,"16 rows plus 9 source-pool field patterns; 0 final-ready","FRUS-shaped notes exist, but final notes require archival control facts and source-pool-specific fields.","source-note-worklist.html; source-note-field-matrix.html"
 Decisions,"14 decisions: 8 default ready; 6 evidence dependent; 0 decided","Compiler choices still need to be recorded before final architecture is frozen.","compiler-decision-log.html; decision-resolution-sheet.html"
 Promotion gates,"8 gates","Do not promote until response, control copy, release status, FRUS value, source note, and decision alignment are resolved.",promotion-gate-checklist.html
-Public link health,"31 source links reachable; 0 missing internal targets; 69 unique external URLs returning 200","Public/source-link surface is usable; link reachability is not source-note validation.",link-health-audit.html
+Public link health,"31 source links reachable; 0 missing internal targets; 71 unique external URLs returning 200 after deployment","Public/source-link surface is usable; link reachability is not source-note validation.",link-health-audit.html

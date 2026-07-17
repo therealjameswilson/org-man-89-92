@@ -6,7 +6,7 @@ title: Public Site Gap Check
 # Public Site Gap Check
 
 Checked against the live GitHub Pages site on May 23, 2026.
-Updated site-link QA: 2026-06-02.
+Updated site-link QA: 2026-07-17.
 
 ## Closed
 
@@ -34,8 +34,13 @@ Updated site-link QA: 2026-06-02.
   examples: repository/record-system provenance now stays separate from
   NAID/public-URL locator trails across the audit, worklist, field matrix,
   promotion gates, intake/triage sheets, and compiler handoffs.
+- Added a canonical Compiler Control Center and CSV export joining all 18
+  candidate slots to direct sources, posture, source-note readiness, request
+  IDs, decision dependencies, blockers, and next actions. Simplified the
+  homepage and primary navigation around that joined view while keeping the
+  declassified-document chronology as the homepage's first section.
 
-## June 2 Site-Link QA
+## July 17 Site-Link QA
 
 Scope: all Markdown and HTML files in the repository, including report pages,
 the Persons list, the default layout, homepage links, CSV links, and external
@@ -43,14 +48,14 @@ public-source links.
 
 | Check | Result | Compiler meaning |
 | --- | --- | --- |
-| Markdown/HTML files scanned | 40 | Site-link check covered the published page corpus and layout. |
-| Link instances extracted | 1714 | Includes repeated navigation, source, report, CSV, and external links. |
-| Internal link instances checked | 1287 | Relative `.html`, `.md`, `.csv`, and report-index links resolve to repository files. |
+| Markdown/HTML files scanned | 41 | Site-link check covered the published page corpus and layout. |
+| Link instances extracted | 1725 | Includes repeated navigation, source, report, CSV, and external links. |
+| Internal link instances checked | 1271 | Relative `.html`, `.md`, `.csv`, and report-index links resolve to repository files. |
 | Missing internal targets | 0 | No broken internal report, CSV, Persons, or homepage target found. |
-| Unique external URLs checked | 70 | All public-source, repository, volume, Google Drive, NARA, CIA, Congress, State MDR, and support-site URLs were checked with `curl` using HEAD and range-fetch fallback for large archive pages. |
-| External URLs returning `200` | 70 | No external source-trail link failed reachability. |
-| Internal heading anchors checked | 185 | Fragment links such as request-batch and source-note anchors point to generated page sections. |
-| Missing internal heading anchors | 0 | No broken same-site section targets found after fixing the Batch B decision-log link. |
+| Unique external URLs checked | 71 | All public-source, repository, volume, Google Drive, NARA, CIA, Congress, State MDR, support-site, and deployed control-center URLs were checked with `curl` using HEAD and range-fetch fallback for large archive pages. |
+| External URLs returning `200` | 71 | No external source-trail or public-site link failed reachability after deployment. |
+| Internal heading anchors checked | 211 | Fragment links such as request-batch and source-note anchors point to generated page sections. |
+| Missing internal heading anchors | 0 | No broken same-site section targets found. |
 | Visible bare URLs in Markdown reports | 0 | Source references are embedded links rather than exposed raw URLs. |
 
 Content-type warning: the historical State Department PDF URL for the

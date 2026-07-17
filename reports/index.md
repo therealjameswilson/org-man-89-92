@@ -5,6 +5,7 @@ title: Reports
 
 # Reports
 
+- [Compiler control center](compiler-control-center.html)
 - [Archival pull matrix](archival-pull-matrix.html)
 - [Bush Chief-of-Mission letter](bush-chief-of-mission-letter.html)
 - [Candidate register](candidate-register.html)
@@ -43,6 +44,7 @@ title: Reports
 
 ## Spreadsheet Exports
 
+- [Compiler control center CSV](compiler-control-center.csv)
 - [Request tracking ledger CSV](request-tracking-ledger.csv)
 - [Compiler dashboard CSV](compiler-dashboard.csv)
 - [Compiler first-session queue CSV](compiler-first-session-queue.csv)
