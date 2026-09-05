@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Department of State Dispatch Sweep: 1991-1992 Leads
+title: "Department of State Dispatch Sweep: 1991-1992 Leads"
 ---
 
 # Department of State Dispatch Sweep: 1991-1992 Leads

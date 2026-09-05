@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NSR-16 Review: International Affairs Budget and Programs
+title: "NSR-16 Review: International Affairs Budget and Programs"
 ---
 
 # NSR-16 Review: International Affairs Budget and Programs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Current Policy Sweep: FRUS 1989-1992, Volume II
+title: "Current Policy Sweep: FRUS 1989-1992, Volume II"
 ---
 
 # Current Policy Sweep: FRUS 1989-1992, Volume II

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cross-Source Sweep: FRUS 1989-1992, Volume II
+title: "Cross-Source Sweep: FRUS 1989-1992, Volume II"
 ---
 
 # Cross-Source Sweep: FRUS 1989-1992, Volume II

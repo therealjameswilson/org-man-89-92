@@ -7,10 +7,35 @@ Management of Foreign Policy*.
 The Office of the Historian lists this volume as **Being Researched**:
 [FRUS 1989-1992, Volume II](https://history.state.gov/historicaldocuments/frus1989-92v02).
 
-Operational entry point: [Compiler Control
-Center](https://therealjameswilson.github.io/org-man-89-92/reports/compiler-control-center.html),
-with an 18-row joined view of direct sources, selection posture, source-note
-readiness, requests, decisions, blockers, and next actions.
+Operational entry point: the [document chronology](https://therealjameswilson.github.io/org-man-89-92/),
+with 22 chronological records and a searchable 18-candidate queue. Filters,
+direct source links, provisional notes, request status, and decision dependencies
+are joined from the existing CSVs. The [static control center](https://therealjameswilson.github.io/org-man-89-92/reports/compiler-control-center.html)
+remains available.
+
+## Maintaining the Document Desk
+
+- Edit the original CSVs in `reports/`, not `assets/data/desk.json`.
+- `data/desk-mapping.json` assigns stable record IDs, related candidate slots,
+  note/request relationships, and explicit date cautions. New or changed source
+  rows must have a matching entry; the build fails on missing or ambiguous joins.
+- Run `npm ci`, `npm run build`, `npm test`, and `npm run check`. Commit the
+  generated JSON, static chronology include, and licensed icon assets with the
+  source changes. GitHub Pages continues to build the Jekyll site from `main`.
+- `npm run preview:build` makes a lightweight local UI preview in `_site`;
+  `npm run test:browser` runs Chrome desktop/mobile tests against it. This preview
+  uses Liquid/Marked, not Jekyll; verify the actual Pages build after publishing.
+- `SITE_URL=https://therealjameswilson.github.io/org-man-89-92/ npm run test:browser`
+  runs the same checks against the public deployment.
+
+Shortlists stay in browser local storage. Shared shortlist URLs contain record
+IDs, not private notes. Saving a record never changes the request ledger or
+selection status. Copy/download handoffs preserve unresolved provenance and
+the actual source links. No archival request is sent by this interface.
+
+The interface update is dated separately from the catalogue review. Access
+categories distinguish archival PDFs, public publications, diary chronology,
+locators, and control/withdrawal packets; none certifies complete declassification.
 
 ## Current Policy Sweep
 

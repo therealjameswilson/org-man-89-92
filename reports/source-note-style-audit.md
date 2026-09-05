@@ -7,6 +7,10 @@ title: Source Note Style Audit
 
 Checked: 2026-06-02
 
+Template correction: 2026-09-04. Public availability does not establish original
+classification. The publication templates below no longer supply an unverified
+"No classification marking" statement or attribute every publication to State.
+
 Reference volume: *Foreign Relations of the United States, 1989-1992, Volume
 XXXI, START I, 1989-1991*.
 
@@ -54,7 +58,7 @@ source-note-ready.
 | Document-face markings | Classification, handling, priority, declassification, and release markings must come from the document face or official release, not from the public endpoint. |
 | Provenance sentence | Add concise factual sentences after the markings for copy status, routing, initials, drafting/clearance, stamped notations, presidential marginalia, attachment status, meeting location, omitted portions, or cross-references only when the record proves them. |
 | Locator separation | Keep NAIDs, public URLs, S3 PDF filenames, search terms, catalog status, and link-health results in the declassified index, request packet, ledger, or pull matrix. They are not final source-note provenance unless no better identifier exists and fallback use is recorded. |
-| Fallback discipline | Printed/public/statutory text can be the source only after the archival control copy has been searched or the compiler accepts a public fallback. The source note or adjacent editorial note must preserve that no-find/fallback basis. |
+| Publication or reprint | Identify the publication actually used. A statute or public statement is not automatically a fallback for an internal memorandum. For a reprinted archival document, record the choice of copy and any search for a fuller or authoritative version separately; do not invent a no-find statement. |
 
 ## Provenance Closeout Test
 
@@ -126,13 +130,29 @@ say so in the document title and keep the note factual. For example: "Attached
 but not printed" and "not found" statements should appear only when the file
 actually supports them.
 
-### Public or Printed Fallback Sources
+### Public or Printed Sources
 
-`Source: Department of State, [publication title], [issue/date], pp. [pages]. No classification marking. [Editorial note explaining why no archival copy was located, if needed.]`
+<span id="public-or-printed-fallback-sources"></span>
 
-Use this only as a fallback. The preferred FRUS source note should cite the
-archival control copy, not a public reprint, whenever the control copy can be
-located.
+`Source: [Publication title and responsible issuing body, as applicable], [volume/issue/date], pp. [pages]. [Copy or reprint provenance, only if verified.]`
+
+Distinguish the source used from the source sought. State publications need
+their issue and pages; *Public Papers of the Presidents* needs the President,
+year/book, and pages; statutes need the act and public-law identity and the
+*Statutes at Large* volume and pages. Do not attribute statutes or *Public
+Papers* to the Department of State. Verify these fields against the publication.
+
+Do not infer the original's markings from an unmarked printed reprint. Add
+classification or handling only when the actual document or official release
+supports it. A public statement may be the selected record in its own right;
+a reprint of a letter requires a separate decision about the preferred copy.
+This project's preference for internal decision records is a selection policy,
+not a universal prohibition in published FRUS.
+
+For an archival example, [Volume XXXI, Document 1, source note 1](https://history.state.gov/historicaldocuments/frus1989-92v31/d1)
+identifies the Bush Library collection and file before giving markings and
+documented annotations. Those annotations belong to that source; they are not
+boilerplate for other records.
 
 ## Candidate Source-Note Status
 
@@ -177,7 +197,11 @@ archival control copy.
 
 Fallback only:
 
-`Source: Department of State, State, October 1990, pp. 2-3. No classification marking. The letter was printed under the title "President Bush expands the authority of ambassadors overseas."`
+`Source: Department of State, State, October 1990, pp. 2-3. The letter was printed under the title "President Bush expands the authority of ambassadors overseas."`
+
+This identifies the published reprint only. Original markings, signed-final
+status, circulation, and distribution remain unverified; do not transfer the
+provisional archival citation above to the magazine copy.
 
 ### PDB Process Record
 

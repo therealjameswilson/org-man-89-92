@@ -47,13 +47,13 @@
         color: var(--muted);
         font-size: 0.82rem;
         font-weight: 650;
-        letter-spacing: 0.04em;
+        letter-spacing: 0;
         text-transform: uppercase;
       }
 
       .site-title {
         margin: 0;
-        font-size: clamp(1.55rem, 2.6vw, 2.2rem);
+        font-size: 1.65rem;
         line-height: 1.18;
       }
 
@@ -88,7 +88,7 @@
 
       h1 {
         margin: 0 0 20px;
-        font-size: clamp(1.8rem, 3vw, 2.55rem);
+        font-size: 2rem;
       }
 
       h2 {
@@ -108,7 +108,7 @@
       }
 
       table {
-        display: block;
+        display: table;
         width: 100%;
         max-width: 100%;
         overflow-x: auto;
@@ -118,11 +118,18 @@
         font-size: 0.92rem;
       }
 
-      thead,
-      tbody {
-        display: table;
-        min-width: 100%;
-        border-collapse: collapse;
+      .table-scroll { max-width: 100%; overflow-x: auto; margin: 1.25rem 0 1.8rem; }
+      .table-scroll table { margin: 0; }
+      :focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+      .skip-link { position: absolute; top: -100px; left: 16px; padding: 10px; background: white; z-index: 10; }
+      .skip-link:focus { top: 10px; }
+      nav a[aria-current="page"] { color: var(--ink); text-decoration: underline; text-underline-offset: 5px; }
+      @media (max-width: 640px) {
+        body { font-size: 16px; }
+        h1 { font-size: 1.7rem; }
+        .site-title { font-size: 1.4rem; }
+        .site-head { padding: 16px 0; }
+        main { padding-top: 24px; }
       }
 
       th,
@@ -189,7 +196,7 @@
         color: #52606d;
         font-size: 0.76rem;
         font-weight: 900;
-        letter-spacing: 0.08em;
+        letter-spacing: 0;
         text-transform: uppercase;
         white-space: nowrap;
       }
@@ -253,8 +260,12 @@
         }
       }
     </style>
+    {% if page.document_desk %}
+    <link rel="stylesheet" href="{{ '/assets/desk.css' | relative_url }}?v=20260904">
+    {% endif %}
   </head>
   <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
     <div class="compiler-network" role="navigation" aria-label="Compiler network">
       <div class="compiler-network__inner">
         <span class="compiler-network__label">Compiler Network</span>
@@ -275,7 +286,7 @@
       <nav class="wrap" aria-label="Primary navigation">
         <a href="{{ '/' | relative_url }}">Home</a>
         <a href="{{ '/reports/compiler-control-center.html' | relative_url }}">Control Center</a>
-        <a href="{{ '/reports/declassified-document-index.html' | relative_url }}">Documents</a>
+        <a href="{{ '/#document-chronology' | relative_url }}">Documents</a>
         <a href="{{ '/reports/compiler-first-session-queue.html' | relative_url }}">Queue</a>
         <a href="{{ '/reports/research-request-packet.html' | relative_url }}">Requests</a>
         <a href="{{ '/reports/request-tracking-ledger.html' | relative_url }}">Ledger</a>
@@ -287,12 +298,30 @@
         <a href="https://history.state.gov/historicaldocuments/frus1989-92v02">Official Volume</a>
       </nav>
     </header>
-    <main class="wrap">
+    <main class="wrap" id="main-content">
       {{ content }}
     </main>
     <footer>
       <div class="wrap">Source-led, compiler-controlled working site for FRUS 1989-1992, Volume II.</div>
     </footer>
+    {% if page.document_desk %}
+    <script type="module" src="{{ '/assets/desk.js' | relative_url }}?v=20260904"></script>
+    {% endif %}
+    <script>
+      document.querySelectorAll('main table').forEach(table => {
+        if (table.parentElement.classList.contains('table-scroll')) return;
+        const wrapper = document.createElement('div');
+        wrapper.className = 'table-scroll';
+        wrapper.tabIndex = 0;
+        wrapper.setAttribute('role', 'region');
+        wrapper.setAttribute('aria-label', 'Scrollable research table');
+        table.before(wrapper);
+        wrapper.append(table);
+      });
+      document.querySelectorAll('nav[aria-label="Primary navigation"] a').forEach(link => {
+        if (new URL(link.href).pathname === location.pathname && !new URL(link.href).hash) link.setAttribute('aria-current', 'page');
+      });
+    </script>
     <script id="compiler-network-script">
       (() => {
         const button = document.querySelector("[data-compiler-handoff]");
@@ -306,7 +335,7 @@
           area.style.left = "-9999px";
           document.body.append(area);
           area.select();
-          try { document.execCommand("copy"); } finally { area.remove(); }
+          try { return document.execCommand("copy"); } finally { area.remove(); }
         }
 
         function handoffText() {
@@ -328,7 +357,7 @@
           const text = handoffText();
           try {
             if (navigator.clipboard?.writeText) await navigator.clipboard.writeText(text);
-            else fallbackCopy(text);
+            else if (!fallbackCopy(text)) throw new Error("Clipboard unavailable");
             button.textContent = "Copied";
             button.dataset.copied = "true";
             window.setTimeout(() => {
@@ -336,9 +365,13 @@
               delete button.dataset.copied;
             }, 1800);
           } catch (error) {
-            fallbackCopy(text);
-            button.textContent = "Copied";
-            button.dataset.copied = "true";
+            const copied = fallbackCopy(text);
+            button.textContent = copied ? "Copied" : "Copy unavailable";
+            button.dataset.copied = String(copied);
+            window.setTimeout(() => {
+              button.textContent = "Copy Handoff";
+              delete button.dataset.copied;
+            }, 1800);
           }
         });
       })();
