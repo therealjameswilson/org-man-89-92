@@ -72,7 +72,7 @@ test('mobile layout has no page overflow or failed icon loads',async({page},info
     await page.goto('./?record=nsd-79');
     await expect(page.locator('#nsd-79 details')).toHaveAttribute('open','');
     expect(await page.evaluate(()=>document.documentElement.scrollWidth <= innerWidth)).toBe(true);
-    expect(await page.locator('#document-desk img').evaluateAll(images=>images.every(i=>i.complete && i.naturalWidth>0))).toBe(true);
+    await expect.poll(()=>page.locator('#document-desk img').evaluateAll(images=>images.every(i=>i.complete && i.naturalWidth>0))).toBe(true);
     await page.screenshot({path:info.outputPath(`mobile-${width}.png`)});
   }
 });
@@ -90,4 +90,19 @@ test('failed data request leaves the readable chronology available',async({page}
   await page.goto('./');
   await expect(page.locator('#chronology-fallback')).toBeVisible();
   await expect(page.locator('#chronology-fallback tbody tr')).toHaveCount(22);
+});
+
+test('existing reports retain their layout and aligned table columns',async({page})=>{
+  await page.goto('reports/current-policy-sweep.html');
+  await expect(page.locator('h1')).toContainText('Current Policy');
+  const table=page.locator('.table-scroll table').first();
+  await expect(table).toBeVisible();
+  const aligned=await table.evaluate(table=>{
+    const headers=[...table.querySelectorAll('thead th')].map(c=>c.getBoundingClientRect());
+    const cells=[...table.querySelector('tbody tr').cells].map(c=>c.getBoundingClientRect());
+    return headers.length===cells.length && headers.every((h,i)=>Math.abs(h.x-cells[i].x)<1 && Math.abs(h.width-cells[i].width)<1);
+  });
+  expect(aligned).toBe(true);
+  await page.setViewportSize({width:390,height:844});
+  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
 });
